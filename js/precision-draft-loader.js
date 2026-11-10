@@ -20,6 +20,31 @@
       ready: loadState.ready
     })
   });
+
+  // Cohort promoted to the same CURATED renderer as run. Review status remains explicit.
+  const PROMOTION_META = {"accept":{"guide":"acceptは提案・申し出を受け入れる、事実を認める、支払い方法に対応するなど、目的語の種類で意味が変わる。","note":"accept an offer（申し出を受ける）とaccept responsibility（責任を引き受ける）を区別。","ipa":"/əkˈsept/"},"achieve":{"guide":"achieveは目標・成果を努力して達成する語。単に仕事を終えるfinishとは焦点が違う。","note":"achieve a goal / success。achieveは成果に到達することを表す。","ipa":"/əˈtʃiːv/"},"act":{"guide":"actは行動する、役を演じる、作用する。act asとact onでは前置詞で役割が変わる。","note":"act as a guide（案内役を務める）とact on advice（助言に従って行動する）。","ipa":"/ækt/"},"add":{"guide":"addは何を何に加えるかを確認する。add A to Bとadd that節を区別する。","note":"add A to B。add up toは合計・結果を表す。","ipa":"/æd/"},"agree":{"guide":"agreeは人・提案・意見・条件のどれに同意するかでwith/to/onが変わる。","note":"agree with a person / agree to a proposal / agree on a plan。","ipa":"/əˈɡriː/"},"allow":{"guide":"allowは人に行動を許すallow O to doと、物事を可能にするallow forを区別する。","note":"allow O to do。allow forは考慮に入れる。","ipa":"/əˈlaʊ/"},"answer":{"guide":"answerは質問・電話に答える動詞と、答え・解決策を表す名詞を分ける。","note":"answer a questionは前置詞不要。the answer to a question。","ipa":"/ˈænsər/"},"appear":{"guide":"appearは姿を現す、そう見える、出演する。appear to doとappear inを区別する。","note":"appear to beとit appears thatは推量。appear in a filmは出演。","ipa":"/əˈpɪr/"},"apply":{"guide":"applyは応募・申請するapply for、当てはまるapply to、塗る他動詞を区別する。","note":"apply for a job、apply to a university、apply a cream to skin。","ipa":"/əˈplaɪ/"},"ask":{"guide":"askは質問する、依頼する、求める。ask O to doとask for Nを区別する。","note":"ask a question、ask O to do、ask for help。","ipa":"/æsk/"},"avoid":{"guide":"avoidは危険・問題を避ける他動詞。後ろに動名詞を取る点に注意する。","note":"avoid doing（〜するのを避ける）。avoid to doは通常不可。","ipa":"/əˈvɔɪd/"},"bear":{"guide":"bearは耐える、負担する、産む、支える動詞と動物の熊を表す名詞を区別する。","note":"bear responsibility、bear in mind。名詞bear（熊）とは別の語義。","ipa":"/ber/"},"become":{"guide":"becomeは状態が変わる連結動詞と、似合うという他動詞用法を区別する。","note":"become + 形容詞/名詞。become someoneは「似合う」の他動詞にもなる。","ipa":"/bɪˈkʌm/"},"believe":{"guide":"believeは内容を信じるbelieve thatと、人を信用するbelieve inを区別する。","note":"believe someoneとbelieve in someoneの意味差に注意。","ipa":"/bɪˈliːv/"},"build":{"guide":"buildは建てる、築く、増やす。build upとbuild onの意味を文脈で確認する。","note":"build a house、build confidence、build up strength。","ipa":"/bɪld/"},"call":{"guide":"callは呼ぶ、電話する、名付ける、要求する。call O Cとcall forを区別する。","note":"call O C（OをCと呼ぶ）、call for help（助けを求める）。","ipa":"/kɔːl/"},"carry":{"guide":"carryは運ぶ、身につける、伝える、継続する。carry outとcarry onを区別する。","note":"carry a bag、carry out a plan、carry on working。","ipa":"/ˈkæri/"},"change":{"guide":"changeは変わる自動詞、変える他動詞、変化・釣り銭の名詞を区別する。","note":"change into（〜に変わる）、change A into B（AをBに変える）。","ipa":"/tʃeɪndʒ/"},"check":{"guide":"checkは確認する、抑制する、預けるなど。check inとcheck outも文脈で判断する。","note":"check the facts、check in at a hotel、check out。","ipa":"/tʃek/"},"choose":{"guide":"chooseは選ぶ・選択する。choose A over Bとchoose to doを区別する。","note":"choose to do、choose between A and B。","ipa":"/tʃuːz/"},"claim":{"guide":"claimは事実だと主張する、権利を請求する。claim thatとclaim damagesを区別する。","note":"claim that S Vは真偽未確定の主張にも使う。","ipa":"/kleɪm/"},"compare":{"guide":"compareは比較するcompare A with Bと、たとえるcompare A to Bの違いを押さえる。","note":"compare A with Bとcompare A to Bは重なる場合もある。","ipa":"/kəmˈper/"},"continue":{"guide":"continueは続く自動詞と続ける他動詞。continue to do/doingを確認する。","note":"continue doing/to doは多くの文脈で両方可能。","ipa":"/kənˈtɪnjuː/"},"create":{"guide":"createは新しい物・状況・機会を生み出す語。makeとの意味の重点の違いを見る。","note":"create opportunitiesとmake a decisionの自然な結び付きを意識。","ipa":"/kriˈeɪt/"},"cut":{"guide":"cutは切る、削減する、遮る。cut down onとcut offを区別する。","note":"cut costs、cut down on sugar、cut off the supply。","ipa":"/kʌt/"},"decide":{"guide":"decideは決定する。decide to do、decide on N、decide that節を区別する。","note":"decide to do、decide on a date、decide against doing。","ipa":"/dɪˈsaɪd/"},"depend":{"guide":"dependは頼るdepend on、状況次第であるdepend onを文脈で判断する。","note":"depend on circumstancesとdepend on someone for support。","ipa":"/dɪˈpend/"},"describe":{"guide":"describeは特徴・状況を言葉で描写する。describe A as Bの構文を確認する。","note":"describe a scene、describe A as B。describe aboutは通常不可。","ipa":"/dɪˈskraɪb/"},"develop":{"guide":"developは発達する・発達させる、開発する、病気を発症するなどを区別する。","note":"develop a product、develop skills、develop a disease。","ipa":"/dɪˈveləp/"},"discover":{"guide":"discoverは未知だった事実や物を発見する。discover that節とdiscover Oを区別する。","note":"discover a fact、discover that S V。invent（発明する）とは異なる。","ipa":"/dɪˈskʌvər/"},"discuss":{"guide":"discussは議論する他動詞。discuss the issueとdiscuss with someoneの構造を区別する。","note":"discuss a problemはabout不要。have a discussion about a problem。","ipa":"/dɪˈskʌs/"},"draw":{"guide":"drawは線を引く、引き寄せる、引き出す、引き分ける。目的語で意味を判断する。","note":"draw a picture、draw attention、draw a conclusion。","ipa":"/drɔː/"},"drive":{"guide":"driveは運転する、駆り立てる、追いやる。drive O to doとdrive O Cを区別する。","note":"drive a car、drive someone crazy、drive someone to act。","ipa":"/draɪv/"},"enable":{"guide":"enableは人・物に能力や機会を与える。enable O to doを中心に見る。","note":"enable O to do。enable doingのみでは意味が変わる。","ipa":"/ɪˈneɪbəl/"},"encourage":{"guide":"encourageは励ます、促進する。encourage O to doとencourage Nを区別する。","note":"encourage O to do、encourage participation。","ipa":"/ɪnˈkɜːrɪdʒ/"},"enjoy":{"guide":"enjoyは楽しむ、享受する。他動詞でenjoy doingを取り、enjoy to doとはしない。","note":"enjoy doing、enjoy oneself。enjoy to doは避ける。","ipa":"/ɪnˈdʒɔɪ/"},"establish":{"guide":"establishは組織を設立する、事実を確立する、関係を築く用法を区別する。","note":"establish a company、establish evidence、establish relations。","ipa":"/ɪˈstæblɪʃ/"},"explain":{"guide":"explainは理由・仕組みを説明する。explain A to Bとexplain why/howを区別する。","note":"explain the rule to me。explain me the ruleは標準的には不可。","ipa":"/ɪkˈspleɪn/"},"express":{"guide":"expressは気持ちを表す動詞、急行の名詞、速達・急行の形容詞を区別する。","note":"express an opinion、express train、express delivery。","ipa":"/ɪkˈspres/"},"face":{"guide":"faceは顔・表情・体面の名詞と、直面する・向く・対戦する他動詞を区別する。face Aは前置詞不要、be faced with Aは受動形に由来する表現。","note":"名詞faceの「表情」と「体面」は別義。face up toは困難に正面から向き合う。in the face ofは〜に直面して。face to faceは対面で。","ipa":"/feɪs/"}};
+  const PROMOTED_WORDS = new Set(Object.keys(PROMOTION_META));
+  window.LEXIA_PROMOTED_API = Object.freeze({
+    words: () => [...PROMOTED_WORDS],
+    status: () => ({ promoted: [...PROMOTED_WORDS].filter(w => Object.hasOwn(CURATED,w)).length, target: PROMOTED_WORDS.size })
+  });
+  function promoteCompleteCohort() {
+    for (const word of PROMOTED_WORDS) {
+      const draft = DRAFT[word];
+      if (!draft || Object.hasOwn(CURATED,word)) continue;
+      const m = PROMOTION_META[word];
+      const entry = {word, ipa:m.ipa, guide:m.guide, note:m.note,
+        review_status:'AI編集・独立辞書校閲待ち', groups:draft.groups.map(g=>({
+          pos:g.pos, senses:g.senses.map(v=>({...v,
+            label:v.label||'', contrast:v.contrast||'', register:v.register||''
+          }))
+        }))};
+      if (!precisionValidate(word,entry)) {console.error('Promotion rejected',word);continue;}
+      CURATED[word] = entry;
+    }
+    precisionRecount();
+  }
+
   let draftWords = 0;
   let draftSenses = 0;
   let draftExamples = 0;
@@ -244,20 +269,20 @@
     }
     for (const pack of goodPacks)
       for (const entry of pack.entries) DRAFT[entry.word] = Object.freeze(entry);
-    draftWords = words; draftSenses = senses; draftExamples = examples;
+    promoteCompleteCohort();
+    draftWords = words - [...PROMOTED_WORDS].filter(w=>Object.hasOwn(CURATED,w)).length; draftSenses = senses; draftExamples = examples;
     loadState.loadedPacks = goodPacks.length;
     loadState.failedPacks = badPacks;
     loadState.loadedWords = words;
     loadState.ready = true;
-    const complete = badPacks.length === 0 &&
-      words === 1545 && senses === 2257 && examples === 2257;
+    const complete = badPacks.length === 0 && words === loadState.expectedWords;
     if (!complete) {
       if (!badPacks.length) badPacks.push({
         path: 'aggregate', error: 'Unexpected counts: ' + words + '/' + senses + '/' + examples
       });
       console.error('Lexia precision drafts only partially loaded:', {
         loadedPacks: goodPacks.length, failedPacks: badPacks,
-        words, senses, examples, expected: [1545, 2257, 2257]
+        words, senses, examples, expectedWords: loadState.expectedWords
       });
     }
     renderResults(); renderDetail();
