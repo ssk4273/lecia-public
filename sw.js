@@ -1,4 +1,4 @@
-const CACHE = 'lexia-v37-precision-four-drafts';
+const CACHE = 'lexia-v38-full-second-cohort40';
 // Cache the shell first. Editorial JSON packs are cached as they are requested;
 // one optional pack returning 404 must not block a Service Worker update.
 self.addEventListener('install', event => {

@@ -98,6 +98,95 @@
     precisionRecount();
   }
 
+
+  // Second cohort: the four previously expanded drafts plus 36 new editorial
+  // entries. A validated all-or-nothing promotion prevents partial run-style UI.
+  const SECOND_DRAFT_FOUR = {"feel":{"ipa":"/fiːl/","note":"feel + 形容詞は状態を表す連結動詞。feel like doingは「～したい気がする」、feel for 人は「同情する」。知覚としてのfeelと考えを述べるfeel that節を区別する。"},"find":{"ipa":"/faɪnd/","note":"findは発見の結果。look forは探す過程。find O Cとfind it + 形容詞 + to doを区別し、find out that節は情報を突き止めること。"},"follow":{"ipa":"/ˈfɑːloʊ/","note":"follow instructionsは指示に従う。follow a discussionは内容を理解する。it follows thatは論理的帰結で、時間的に後に続くこととは違う。"},"lie":{"ipa":"/laɪ/","note":"横たわる lie–lay–lain、うそをつく lie–lied–lied、横たえる他動詞 lay–laid–laid を厳密に区別する。lie inは原因・価値などの所在も表す。"}};
+  const SECOND_SOURCE_PACKS = [
+    './editorial/run-style/2026-11-11-0200-setA-16.json',
+    './editorial/run-style/2026-11-11-0200-setB-20.json'
+  ];
+  const SECOND_WORDS = new Set([
+    'feel','find','follow','lie',
+    'finish','fit','force','form','gain','grow','happen','hear','help',
+    'improve','include','increase','indicate','introduce','involve','join',
+    'lead','learn','listen','lose','maintain','manage','mark','match','meet','move',
+    'need','offer','operate','order','perform','play','provide','raise','reach','remain'
+  ]);
+  const SECOND_STATUS = {target:40,promoted:0,senses:0,examples:0,ready:false,error:null};
+  window.LEXIA_SECOND_COHORT_API = Object.freeze({
+    words: () => [...SECOND_WORDS],
+    status: () => ({...SECOND_STATUS})
+  });
+  async function promoteSecondCohort() {
+    const incoming = new Map();
+    for (const [word,info] of Object.entries(SECOND_DRAFT_FOUR)) {
+      const draft = DRAFT[word];
+      if (!draft) throw Error('Required detailed draft missing: ' + word);
+      incoming.set(word, {word,ipa:info.ipa,guide:draft.guide,note:info.note,
+        review_status:'AI編集・独立辞書校閲待ち',
+        groups:draft.groups.map(g=>({pos:g.pos,
+          senses:g.senses.map(s=>({...s,label:s.label||'',contrast:s.contrast||'',register:s.register||''}))}))
+      });
+    }
+    const seen = new Set(incoming.keys());
+    let senses=0,examples=0;
+    for (const path of SECOND_SOURCE_PACKS) {
+      const response = await fetch(path,{cache:'no-cache'});
+      if (!response.ok) throw Error('Run-style pack HTTP ' + response.status + ': ' + path);
+      const pack = await response.json();
+      if (!pack || pack.schema_version!==2 || pack.kind!=='lexia_run_style_editorial' ||
+          pack.review_status!=='AI編集・独立辞書校閲待ち' ||
+          !Array.isArray(pack.entries) || pack.entries.length!==pack.entries_count)
+        throw Error('Invalid run-style pack metadata: ' + path);
+      let packSenses=0, packExamples=0;
+      for (const entry of pack.entries) {
+        if (!entry || !SECOND_WORDS.has(entry.word) || seen.has(entry.word) ||
+            !entry.ipa || !entry.guide || !entry.note ||
+            entry.review_status!=='AI編集・独立辞書校閲待ち' ||
+            !precisionValidate(entry.word,entry))
+          throw Error('Invalid or duplicate run-style entry in ' + path);
+        const all = entry.groups.flatMap(g=>g.senses);
+        if (all.some(s=>!s.pattern || !s.tip || !Array.isArray(s.examples) ||
+            s.examples.length < 2 || s.examples.some(ex=>!ex.en||!ex.ja)))
+          throw Error('Incomplete run-style bilingual entry: ' + entry.word);
+        packSenses+=all.length;
+        packExamples+=all.reduce((n,s)=>n+s.examples.length,0);
+        incoming.set(entry.word,{...entry,groups:entry.groups.map(g=>({
+          pos:g.pos,senses:g.senses.map(s=>({...s,label:s.label||'',contrast:s.contrast||'',register:s.register||''}))
+        }))});
+        seen.add(entry.word);
+      }
+      if (pack.senses_count!==packSenses || pack.examples_count!==packExamples)
+        throw Error('Run-style pack count mismatch: ' + path);
+      senses+=packSenses;
+      examples+=packExamples;
+    }
+    if (incoming.size!==40 || seen.size!==40 ||
+        [...SECOND_WORDS].some(word=>!incoming.has(word)))
+      throw Error('Expected 40 distinct second-cohort entries, got ' + incoming.size);
+    for (const entry of incoming.values()) {
+      if (!precisionValidate(entry.word,entry)) throw Error('Run-style validation failed: '+entry.word);
+      const all=entry.groups.flatMap(g=>g.senses);
+      if(all.some(s=>!s.pattern || !s.tip || s.examples.length<2))throw Error('Run-style content incomplete: '+entry.word);
+    }
+    // Do not mutate CURATED until all 40 entries and both packs have passed checks.
+    for (const [word,entry] of incoming) {
+      if (Object.hasOwn(CURATED,word)) {
+        // Keep the user's local precision import when it already owns this word.
+        continue;
+      }
+      CURATED[word]=entry;
+    }
+    precisionRecount();
+    const promoted=[...SECOND_WORDS].filter(w=>Object.hasOwn(CURATED,w)).length;
+    SECOND_STATUS.promoted=promoted;
+    SECOND_STATUS.senses=[...incoming.values()].reduce((n,e)=>n+e.groups.reduce((m,g)=>m+g.senses.length,0),0);
+    SECOND_STATUS.examples=[...incoming.values()].reduce((n,e)=>n+e.groups.reduce((m,g)=>m+g.senses.reduce((k,s)=>k+s.examples.length,0),0),0);
+    SECOND_STATUS.ready=promoted===40;
+    if(!SECOND_STATUS.ready)throw Error('Second cohort promotions incomplete: '+promoted+'/40');
+  }
+
   let draftWords = 0;
   let draftSenses = 0;
   let draftExamples = 0;
@@ -323,7 +412,16 @@
     for (const pack of goodPacks)
       for (const entry of pack.entries) DRAFT[entry.word] = Object.freeze(entry);
     promoteCompleteCohort();
-    draftWords = words - [...PROMOTED_WORDS].filter(w=>Object.hasOwn(CURATED,w)).length; draftSenses = senses; draftExamples = examples;
+    try {
+      await promoteSecondCohort();
+    } catch (error) {
+      SECOND_STATUS.error=String(error?.message||error);
+      console.error('Lexia second cohort failed to load; 40 entries are NOT validated:',error);
+    }
+    const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
+    draftWords = stillDraft.length;
+    draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
+    draftExamples = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.reduce((k,s)=>k+s.examples.length,0),0),0);
     loadState.loadedPacks = goodPacks.length;
     loadState.failedPacks = badPacks;
     loadState.loadedWords = words;
