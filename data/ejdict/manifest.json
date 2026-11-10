@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "source": "kujirahand/EJDict",
+  "license": "CC0-1.0",
+  "disclaimer": "Lexia base entries are unreviewed imported dictionary source data; not verified editorial translations.",
+  "letters": [
+    {
+      "letter": "a",
+      "lines": 2736
+    },
+    {
+      "letter": "b",
+      "lines": 2731
+    },
+    {
+      "letter": "c",
+      "lines": 4514
+    },
+    {
+      "letter": "d",
+      "lines": 2527
+    },
+    {
+      "letter": "e",
+      "lines": 1690
+    },
+    {
+      "letter": "f",
+      "lines": 2149
+    },
+    {
+      "letter": "g",
+      "lines": 1474
+    },
+    {
+      "letter": "h",
+      "lines": 1823
+    },
+    {
+      "letter": "i",
+      "lines": 1818
+    },
+    {
+      "letter": "j",
+      "lines": 443
+    },
+    {
+      "letter": "k",
+      "lines": 382
+    },
+    {
+      "letter": "l",
+      "lines": 1580
+    },
+    {
+      "letter": "m",
+      "lines": 2479
+    },
+    {
+      "letter": "n",
+      "lines": 1019
+    },
+    {
+      "letter": "o",
+      "lines": 1105
+    },
+    {
+      "letter": "p",
+      "lines": 3715
+    },
+    {
+      "letter": "q",
+      "lines": 214
+    },
+    {
+      "letter": "r",
+      "lines": 2148
+    },
+    {
+      "letter": "s",
+      "lines": 5171
+    },
+    {
+      "letter": "t",
+      "lines": 2268
+    },
+    {
+      "letter": "u",
+      "lines": 970
+    },
+    {
+      "letter": "v",
+      "lines": 723
+    },
+    {
+      "letter": "w",
+      "lines": 1427
+    },
+    {
+      "letter": "x",
+      "lines": 24
+    },
+    {
+      "letter": "y",
+      "lines": 151
+    },
+    {
+      "letter": "z",
+      "lines": 85
+    }
+  ]
+}
