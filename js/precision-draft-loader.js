@@ -51,7 +51,7 @@
             combined.pattern='save face / lose face';
             combined.tip='周囲からの評価に関わる社会的な体面。顔の表情とは別の意味。';
             noun.senses.splice(noun.senses.indexOf(combined),0,{
-              jp:'表情・顔つき',pattern='a serious / worried face',
+              jp:'表情・顔つき',pattern:'a serious / worried face',
               tip:'顔に現れる感情や態度。社会的な体面を表すsave faceとは区別する。',
               examples:[
                 {en:'She had a worried face when she heard the news.',ja:'その知らせを聞いたとき、彼女は心配そうな顔をしていた。'},
