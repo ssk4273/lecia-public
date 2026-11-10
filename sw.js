@@ -1,4 +1,4 @@
-const CACHE = 'lexia-v39-blank-start-screen';
+const CACHE = 'lexia-v40-partial-4';
 // Cache the shell first. Editorial JSON packs are cached as they are requested;
 // one optional pack returning 404 must not block a Service Worker update.
 self.addEventListener('install', event => {
