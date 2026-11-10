@@ -513,6 +513,33 @@
       console.error('Lexia 05:00 run-style promotion failed',error);
       window.LEXIA_FIFTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
     }
+    // 06:00: manually edited partial set; validate atomically before promotion.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-0600-setA-partial-2.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('HTTP '+response.status);
+      const pack=await response.json(),expected=['recognize','recommend'];
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.entries_count!==2||pack.entries?.length!==2||
+         new Set(pack.entries.map(e=>e.word)).size!==2)throw Error('06:00 metadata invalid');
+      let senses=0,examples=0;
+      for(const entry of pack.entries){
+        if(!expected.includes(entry.word)||Object.hasOwn(CURATED,entry.word)||
+           !entry.ipa||!entry.guide||!entry.note||!precisionValidate(entry.word,entry))
+          throw Error('06:00 invalid entry '+entry.word);
+        for(const group of entry.groups)for(const sense of group.senses){
+          if(!sense.pattern||!sense.tip||sense.examples?.length!==2||
+             sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('06:00 incomplete sense');
+          senses++;examples+=2;
+        }
+      }
+      if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('06:00 count mismatch');
+      for(const entry of pack.entries)CURATED[entry.word]=entry;
+      precisionRecount();
+      window.LEXIA_SIXTH_COHORT_STATUS=Object.freeze({promoted:2,senses,examples,complete:false});
+    }catch(error){
+      console.error('Lexia 06:00 promotion failed',error);
+      window.LEXIA_SIXTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
