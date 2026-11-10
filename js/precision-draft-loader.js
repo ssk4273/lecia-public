@@ -540,6 +540,31 @@
       console.error('Lexia 06:00 promotion failed',error);
       window.LEXIA_SIXTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
     }
+    // 07:00 partial cohort: atomic run-style promotion.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-0700-setA-partial-2.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('HTTP '+response.status);
+      const pack=await response.json(),expected=['receive','recover'];
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||pack.entries_count!==2||
+         pack.entries?.length!==2||new Set(pack.entries.map(e=>e.word)).size!==2)throw Error('07:00 invalid metadata');
+      let senses=0,examples=0;
+      for(const e of pack.entries){
+        if(!expected.includes(e.word)||Object.hasOwn(CURATED,e.word)||!e.ipa||!e.guide||!e.note||
+           !precisionValidate(e.word,e))throw Error('07:00 invalid entry '+e.word);
+        for(const g of e.groups)for(const s of g.senses){
+          if(!s.pattern||!s.tip||s.examples?.length!==2||s.examples.some(x=>!x.en||!x.ja))
+            throw Error('07:00 incomplete sense');
+          senses++;examples+=2;
+        }
+      }
+      if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('07:00 count mismatch');
+      for(const e of pack.entries)CURATED[e.word]=e;
+      precisionRecount();
+      window.LEXIA_SEVENTH_COHORT_STATUS=Object.freeze({promoted:2,senses,examples,complete:false});
+    }catch(error){
+      console.error('Lexia 07:00 promotion failed',error);
+      window.LEXIA_SEVENTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
