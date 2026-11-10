@@ -39,6 +39,59 @@
             label:v.label||'', contrast:v.contrast||'', register:v.register||''
           }))
         }))};
+
+      // Face: split the misleading combined noun sense and add high-utility constructions.
+      if (word === 'face') {
+        const noun = entry.groups.find(g=>g.pos==='名詞');
+        const verb = entry.groups.find(g=>g.pos==='他動詞');
+        if (noun) {
+          const combined=noun.senses.find(x=>x.jp==='表情・面目');
+          if (combined) {
+            combined.jp='面目・体面';
+            combined.pattern='save face / lose face';
+            combined.tip='周囲からの評価に関わる社会的な体面。顔の表情とは別の意味。';
+            noun.senses.splice(noun.senses.indexOf(combined),0,{
+              jp:'表情・顔つき',pattern='a serious / worried face',
+              tip:'顔に現れる感情や態度。社会的な体面を表すsave faceとは区別する。',
+              examples:[
+                {en:'She had a worried face when she heard the news.',ja:'その知らせを聞いたとき、彼女は心配そうな顔をしていた。'},
+                {en:'His face showed no sign of fear.',ja:'彼の表情には恐怖の色がまったく見えなかった。'}
+              ],label:'',contrast:'',register:''
+            });
+          }
+          noun.senses.push({
+            jp:'〜に直面して・〜にもかかわらず',pattern:'in the face of + 名詞',
+            tip:'困難や反対などが存在する状況で、それに向き合うことを表す前置詞句。',
+            examples:[
+              {en:'She remained calm in the face of danger.',ja:'彼女は危険に直面しても冷静さを保った。'},
+              {en:'They continued working in the face of strong opposition.',ja:'彼らは強い反対にもかかわらず作業を続けた。'}
+            ],label:'熟語',contrast:'',register:''
+          },{
+            jp:'対面で・向かい合って',pattern:'face to face (with + 人)',
+            tip:'人と直接向かい合って話したり会ったりする状況。',
+            examples:[
+              {en:'We finally met face to face.',ja:'私たちはようやく直接顔を合わせた。'},
+              {en:'She spoke face to face with the manager.',ja:'彼女は支配人と直接向き合って話した。'}
+            ],label:'熟語',contrast:'',register:''
+          });
+        }
+        if (verb) verb.senses.push({
+          jp:'困難に正面から向き合う',pattern:'face up to + 問題・事実',
+          tip:'避けていた困難や不快な事実を認め、対処しようとする句動詞。',
+          examples:[
+            {en:'We need to face up to the problem.',ja:'私たちはその問題に正面から向き合う必要がある。'},
+            {en:'He finally faced up to his mistakes.',ja:'彼はついに自分の過ちを正面から認めた。'}
+          ],label:'句動詞',contrast:'face a problemも「問題に直面する」だが、face up toは回避せず受け止める意志を強調。',register:''
+        },{
+          jp:'〜に直面している',pattern:'be faced with + 問題・選択',
+          tip:'困難・課題・選択を突き付けられた状態。受動形に由来する表現。',
+          examples:[
+            {en:'The city is faced with a serious housing shortage.',ja:'その都市は深刻な住宅不足に直面している。'},
+            {en:'We were faced with a difficult choice.',ja:'私たちは難しい選択を迫られた。'}
+          ],label:'構文',contrast:'face a problemと近いが、be faced withは状況に置かれていることに焦点を当てる。',register:''
+        });
+      }
+
       if (!precisionValidate(word,entry)) {console.error('Promotion rejected',word);continue;}
       CURATED[word] = entry;
     }
