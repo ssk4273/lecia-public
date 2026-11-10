@@ -483,6 +483,36 @@
       console.error('Lexia partial 04:00 run-style promotion failed',error);
       window.LEXIA_FOURTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
     }
+    // 05:00 JST: individually authored entries; atomic validation, not a full cohort.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-0500-setA-partial-4.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('HTTP '+response.status);
+      const pack=await response.json();
+      const expected=["release","rely","remove","replace"];
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.review_status!=='AI編集・独立辞書校閲待ち'||
+         pack.entries_count!==4||pack.entries?.length!==4||
+         new Set(pack.entries.map(e=>e.word)).size!==4)throw Error('Invalid 05:00 metadata');
+      let senses=0,examples=0;
+      for(const entry of pack.entries){
+        if(!expected.includes(entry.word)||Object.hasOwn(CURATED,entry.word)||
+           !entry.ipa||!entry.guide||!entry.note||
+           !precisionValidate(entry.word,entry))throw Error('Invalid 05:00 entry '+entry.word);
+        for(const group of entry.groups)for(const sense of group.senses){
+          if(!sense.pattern||!sense.tip||sense.examples?.length!==2||
+             sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('Incomplete 05:00 sense');
+          senses++;examples+=2;
+        }
+      }
+      if(senses!==pack.senses_count||examples!==pack.examples_count)
+        throw Error('05:00 count mismatch');
+      for(const entry of pack.entries)CURATED[entry.word]=entry;
+      precisionRecount();
+      window.LEXIA_FIFTH_COHORT_STATUS=Object.freeze({promoted:4,senses,examples,complete:false});
+    }catch(error){
+      console.error('Lexia 05:00 run-style promotion failed',error);
+      window.LEXIA_FIFTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);

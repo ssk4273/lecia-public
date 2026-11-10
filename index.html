@@ -784,7 +784,7 @@ async function init(){
     syncDictionary();
   }
   else hideBanner();
-  if('serviceWorker'in navigator&&location.protocol==='https:')navigator.serviceWorker.register('./sw.js?v=lexia-v41').catch(()=>{});
+  if('serviceWorker'in navigator&&location.protocol==='https:')navigator.serviceWorker.register('./sw.js?v=lexia-v42').catch(()=>{});
 }
 window.addEventListener('DOMContentLoaded',init);
 
@@ -7850,8 +7850,8 @@ copyCurrent=async function(){
  try{await navigator.clipboard.writeText(text);showToast('基本語義と用法をコピーしました');}catch{showToast('コピーできませんでした');}
 };
 </script>
-<script src="./js/source-gloss-loader.js?v=lexia-v41" defer></script>
-<script src="./js/precision-draft-loader.js?v=lexia-v41" defer></script>
+<script src="./js/source-gloss-loader.js?v=lexia-v42" defer></script>
+<script src="./js/precision-draft-loader.js?v=lexia-v42" defer></script>
 </body>
 </html>
 
