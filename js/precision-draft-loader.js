@@ -451,6 +451,38 @@
       console.error('Lexia partial 03:00 run-style promotion failed',error);
       window.LEXIA_THIRD_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
     }
+    // 04:00 JST: individually edited follow-on entries; not a complete 40-word cohort.
+    try {
+      const path='./editorial/run-style/2026-11-11-0400-setA-partial-8.json';
+      const response=await fetch(path,{cache:'no-cache'});
+      if(!response.ok)throw Error('HTTP '+response.status);
+      const pack=await response.json();
+      const expected=["result","return","reveal","review","reduce","refer","reflect","refuse"];
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.review_status!=='AI編集・独立辞書校閲待ち'||
+         pack.entries_count!==8||pack.entries?.length!==8||
+         new Set(pack.entries.map(e=>e.word)).size!==8)
+        throw Error('Invalid 04:00 run-style pack metadata');
+      let senses=0,examples=0;
+      for(const entry of pack.entries){
+        if(!expected.includes(entry.word)||Object.hasOwn(CURATED,entry.word)||
+           !entry.ipa||!entry.guide||!entry.note||
+           !precisionValidate(entry.word,entry))throw Error('Invalid 04:00 entry: '+entry.word);
+        for(const group of entry.groups)for(const sense of group.senses){
+          if(!sense.pattern||!sense.tip||sense.examples.length!==2||
+             sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('Incomplete 04:00 bilingual sense');
+          senses++;examples+=2;
+        }
+      }
+      if(senses!==pack.senses_count||examples!==pack.examples_count)
+        throw Error('04:00 pack count mismatch');
+      for(const entry of pack.entries)CURATED[entry.word]=entry;
+      precisionRecount();
+      window.LEXIA_FOURTH_COHORT_STATUS=Object.freeze({promoted:8,senses,examples,complete:false});
+    }catch(error){
+      console.error('Lexia partial 04:00 run-style promotion failed',error);
+      window.LEXIA_FOURTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
