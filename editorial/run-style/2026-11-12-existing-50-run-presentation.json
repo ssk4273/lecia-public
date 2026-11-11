@@ -1,0 +1,1909 @@
+{
+  "schema_version": 2,
+  "kind": "lexia_run_style_editorial",
+  "batch": "2026-11-12-existing-50-run-presentation",
+  "review_status": "AI編集・独立辞書校閲待ち",
+  "entries_count": 50,
+  "new_entries_count": 41,
+  "updated_entries_count": 9,
+  "senses_count": 66,
+  "examples_count": 132,
+  "editorial_note": "Existing source manuscripts: five detailed articles and forty-five first-pass articles. Run-style presentation available. Every included sense has 2 bilingual examples; full sense coverage and independent QA are NOT certified.",
+  "entries": [
+    {
+      "word": "aberration",
+      "ipa": "/ˌæbəˈreɪʃən/",
+      "guide": "aberrationの主要な語義を用法・構文別に整理。",
+      "note": "語義・構文・用例を照合した編集原稿。専門辞書との独立照合は未実施。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "通常からの逸脱・例外",
+              "pattern": "an aberration from the norm",
+              "tip": "通常の傾向から外れた例。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The unusually low score was an aberration, not a lasting decline.",
+                  "ja": "その異常に低い点数は一時的な例外であり、継続的な低下ではなかった。"
+                },
+                {
+                  "en": "Researchers treated the sudden spike as an aberration in the data.",
+                  "ja": "研究者たちはその急激な上昇をデータ上の例外として扱った。"
+                }
+              ]
+            },
+            {
+              "jp": "（行動・判断の）異常・常軌を逸した行為",
+              "pattern": "a moral / behavioral aberration",
+              "tip": "規範から外れた行動を、批判的・形式的に指す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The committee described the incident as a serious aberration in professional conduct.",
+                  "ja": "委員会はその事件を職業上の行動規範からの重大な逸脱と評した。"
+                },
+                {
+                  "en": "One aberration in judgment should not define her entire career.",
+                  "ja": "判断上の一度の逸脱だけで彼女の経歴全体を評価すべきではない。"
+                }
+              ]
+            },
+            {
+              "jp": "（光学・天文学の）収差",
+              "pattern": "chromatic / spherical aberration",
+              "tip": "光線の結像位置がずれる専門用語。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The lens design reduces chromatic aberration near the edges.",
+                  "ja": "そのレンズ設計は周辺部の色収差を軽減する。"
+                },
+                {
+                  "en": "Spherical aberration can make a point of light appear blurred.",
+                  "ja": "球面収差によって点光源がぼやけて見えることがある。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abhor",
+      "ipa": "/əbˈhɔːr/",
+      "guide": "abhorの主要な語義を用法・構文別に整理。",
+      "note": "語義・構文・用例を照合した編集原稿。専門辞書との独立照合は未実施。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～をひどく嫌悪する",
+              "pattern": "abhor + 名詞 / 動名詞",
+              "tip": "強い道徳的・感情的嫌悪。目的語を直接取る。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "She abhors cruelty to animals.",
+                  "ja": "彼女は動物への残虐行為をひどく嫌っている。"
+                },
+                {
+                  "en": "He abhors being treated as if he cannot make his own decisions.",
+                  "ja": "彼は自分で判断できないかのように扱われることを強く嫌う。"
+                }
+              ]
+            },
+            {
+              "jp": "～を断固として認めない・忌み嫌う",
+              "pattern": "abhor violence / corruption / injustice",
+              "tip": "不正・暴力などへの原則的な拒絶を表す硬い表現。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The organization publicly abhors discrimination in any form.",
+                  "ja": "その団体はいかなる形の差別も公然と断固拒否している。"
+                },
+                {
+                  "en": "Many voters abhor the misuse of public funds.",
+                  "ja": "多くの有権者は公金の不正使用を強く忌み嫌う。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ability",
+      "ipa": "/əˈbɪləti/",
+      "guide": "abilityの主要な語義を用法・構文別に整理。",
+      "note": "語義・構文・用例を照合した編集原稿。専門辞書との独立照合は未実施。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "～する能力",
+              "pattern": "the ability to + 動詞原形",
+              "tip": "特定の行為を遂行する力。canとの書き換えに注意。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The ability to explain an idea clearly is valuable in any job.",
+                  "ja": "考えを明確に説明する能力はどんな仕事でも役立つ。"
+                },
+                {
+                  "en": "The test measures students' ability to interpret unfamiliar texts.",
+                  "ja": "その試験は生徒が未知の文章を解釈する能力を測る。"
+                }
+              ]
+            },
+            {
+              "jp": "才能・力量",
+              "pattern": "natural / exceptional ability",
+              "tip": "生まれつきの才能や一般的な力量。複数形abilitiesも使う。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Her musical ability became apparent at an early age.",
+                  "ja": "彼女の音楽的才能は幼い頃から明らかだった。"
+                },
+                {
+                  "en": "The team includes people with a wide range of abilities.",
+                  "ja": "そのチームには多様な能力を持つ人々がいる。"
+                }
+              ]
+            },
+            {
+              "jp": "（職務等を果たす）実力・力量",
+              "pattern": "within / beyond someone's ability",
+              "tip": "仕事や課題に対応できる力量。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The assignment was well within his ability.",
+                  "ja": "その課題は十分に彼の力量の範囲内だった。"
+                },
+                {
+                  "en": "The manager questioned the contractor's ability to meet the deadline.",
+                  "ja": "管理者は請負業者が期限を守れるだけの実力を持つか疑問視した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abolish",
+      "ipa": "/əˈbɑːlɪʃ/",
+      "guide": "abolishの主要な語義を用法・構文別に整理。",
+      "note": "語義・構文・用例を照合した編集原稿。専門辞書との独立照合は未実施。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "（制度・法律など）を廃止する",
+              "pattern": "abolish a law / tax / system",
+              "tip": "公的制度を正式に終わらせる。単に一時停止する意味ではない。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The government voted to abolish the outdated tax.",
+                  "ja": "政府は時代遅れの税を廃止することを議決した。"
+                },
+                {
+                  "en": "The school abolished its compulsory uniform policy.",
+                  "ja": "その学校は制服着用義務の規定を廃止した。"
+                }
+              ]
+            },
+            {
+              "jp": "（慣行・組織的仕組み）を撤廃する",
+              "pattern": "abolish slavery / a discriminatory practice",
+              "tip": "社会的に定着した制度や慣行を取り除く。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The movement campaigned to abolish forced labor.",
+                  "ja": "その運動は強制労働の撤廃を求めて活動した。"
+                },
+                {
+                  "en": "The company pledged to abolish the discriminatory hiring rule.",
+                  "ja": "その会社は差別的な採用規則を撤廃すると約束した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abrupt",
+      "ipa": "/əˈbrʌpt/",
+      "guide": "abruptの主要な語義を用法・構文別に整理。",
+      "note": "語義・構文・用例を照合した編集原稿。専門辞書との独立照合は未実施。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "突然の・急な",
+              "pattern": "an abrupt change / end / departure",
+              "tip": "前触れがなく急激に起こること。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The meeting came to an abrupt end when the alarm sounded.",
+                  "ja": "警報が鳴ったため会議は突然終わった。"
+                },
+                {
+                  "en": "An abrupt drop in temperature damaged the crops.",
+                  "ja": "気温の急激な低下が作物に被害を与えた。"
+                }
+              ]
+            },
+            {
+              "jp": "ぶっきらぼうな・唐突な",
+              "pattern": "an abrupt reply / manner",
+              "tip": "人の言い方が素っ気なく、失礼に響くこと。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "His abrupt reply made the customer feel unwelcome.",
+                  "ja": "彼のぶっきらぼうな返答で客は歓迎されていないと感じた。"
+                },
+                {
+                  "en": "She apologized for sounding abrupt on the phone.",
+                  "ja": "彼女は電話で唐突な物言いになったことを謝った。"
+                }
+              ]
+            },
+            {
+              "jp": "（坂・崖などが）険しい・切り立った",
+              "pattern": "an abrupt slope / cliff",
+              "tip": "地形の傾斜が急なこと。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The trail ended at an abrupt cliff above the sea.",
+                  "ja": "その小道は海の上にそびえる切り立った崖で終わっていた。"
+                },
+                {
+                  "en": "The road climbs an abrupt slope just beyond the village.",
+                  "ja": "道は村を過ぎたところで急な坂を上る。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "absent",
+      "ipa": "/ˈæbsənt/",
+      "guide": "absent の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "不在の・欠席している",
+              "pattern": "be absent from + 場所・行事",
+              "tip": "人がその場にいない状態。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Mika was absent from class yesterday.",
+                  "ja": "美香は昨日授業を欠席した。"
+                },
+                {
+                  "en": "Two members were absent from the meeting.",
+                  "ja": "会議には二人のメンバーが欠席していた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "absolute",
+      "ipa": "/ˈæbsəluːt/",
+      "guide": "absolute の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "完全な・絶対的な",
+              "pattern": "absolute certainty / power",
+              "tip": "程度や制限がないことを強調する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "There is no absolute guarantee of success.",
+                  "ja": "成功の絶対的な保証はない。"
+                },
+                {
+                  "en": "The ruler exercised absolute power.",
+                  "ja": "その統治者は絶対的な権力を行使した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "absorb",
+      "ipa": "/əbˈzɔːrb/",
+      "guide": "absorb の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "吸収する",
+              "pattern": "absorb water / heat",
+              "tip": "液体や熱などを内部に取り込む。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "This towel absorbs water quickly.",
+                  "ja": "このタオルは水をすばやく吸収する。"
+                },
+                {
+                  "en": "Dark surfaces absorb more heat.",
+                  "ja": "暗い表面はより多くの熱を吸収する。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abstract",
+      "ipa": "/ˈæbstrækt/",
+      "guide": "abstract の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "抽象的な",
+              "pattern": "abstract ideas / concepts",
+              "tip": "具体物から離れた概念を表す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Children often struggle with abstract ideas.",
+                  "ja": "子どもは抽象的な考えを理解するのに苦労することが多い。"
+                },
+                {
+                  "en": "The lecture explored abstract concepts.",
+                  "ja": "講義では抽象的な概念を扱った。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abundant",
+      "ipa": "/əˈbʌndənt/",
+      "guide": "abundant の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "豊富な",
+              "pattern": "abundant resources / evidence",
+              "tip": "必要量を超えて多く存在する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The region has abundant natural resources.",
+                  "ja": "その地域には豊富な天然資源がある。"
+                },
+                {
+                  "en": "There is abundant evidence to support the claim.",
+                  "ja": "その主張を裏付ける証拠は豊富にある。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abuse",
+      "ipa": "/əˈbjuːs/",
+      "guide": "abuse の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "虐待・乱用",
+              "pattern": "child abuse / abuse of power",
+              "tip": "人への有害な扱いや権限の不適切な使用。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The law aims to prevent child abuse.",
+                  "ja": "その法律は児童虐待の防止を目的としている。"
+                },
+                {
+                  "en": "The report exposed an abuse of power.",
+                  "ja": "報告書は権力の乱用を明らかにした。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "academic",
+      "ipa": "/ˌækəˈdemɪk/",
+      "guide": "academic の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "学問の・学術的な",
+              "pattern": "academic research / standards",
+              "tip": "大学や学問上の活動に関わる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "She hopes to pursue an academic career.",
+                  "ja": "彼女は学術研究の道に進みたいと考えている。"
+                },
+                {
+                  "en": "The article appeared in an academic journal.",
+                  "ja": "その論文は学術誌に掲載された。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accelerate",
+      "ipa": "/əkˈseləreɪt/",
+      "guide": "accelerate の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "加速する",
+              "pattern": "accelerate rapidly",
+              "tip": "速度が上がる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The car accelerated as the road cleared.",
+                  "ja": "道路が空くと車は加速した。"
+                },
+                {
+                  "en": "Economic growth accelerated in spring.",
+                  "ja": "春には経済成長が加速した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accent",
+      "ipa": "/ˈæksent/",
+      "guide": "accent の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "なまり・アクセント",
+              "pattern": "a regional accent",
+              "tip": "地域などに特徴的な発音の仕方。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "He speaks English with a Scottish accent.",
+                  "ja": "彼はスコットランドなまりの英語を話す。"
+                },
+                {
+                  "en": "Her accent became less noticeable over time.",
+                  "ja": "時がたつにつれて彼女のなまりは目立たなくなった。"
+                }
+              ]
+            },
+            {
+              "jp": "なまり",
+              "pattern": "a strong accent",
+              "tip": "「a strong accent」での用法。",
+              "examples": [
+                {
+                  "en": "He speaks English with a strong accent.",
+                  "ja": "彼は強いなまりのある英語を話す。"
+                },
+                {
+                  "en": "The bright trim accents the entrance to the building.",
+                  "ja": "鮮やかな縁取りが建物の入り口を引き立てている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "強調する",
+              "pattern": "accent the positive",
+              "tip": "「accent the positive」での用法。",
+              "examples": [
+                {
+                  "en": "The speaker accented the positive results.",
+                  "ja": "話し手は肯定的な結果を強調した。"
+                },
+                {
+                  "en": "The bright trim accents the entrance to the building.",
+                  "ja": "鮮やかな縁取りが建物の入り口を引き立てている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "access",
+      "ipa": "/ˈækses/",
+      "guide": "access の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "利用する権利・手段",
+              "pattern": "access to + 名詞",
+              "tip": "場所や情報を利用できること。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Students have free access to the library.",
+                  "ja": "学生は図書館を無料で利用できる。"
+                },
+                {
+                  "en": "The village has limited access to medical care.",
+                  "ja": "その村では医療を受ける手段が限られている。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accident",
+      "ipa": "/ˈæksɪdənt/",
+      "guide": "accident の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "事故",
+              "pattern": "a traffic accident",
+              "tip": "意図せず起きた有害な出来事。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Three people were injured in the accident.",
+                  "ja": "その事故で三人が負傷した。"
+                },
+                {
+                  "en": "The police investigated the traffic accident.",
+                  "ja": "警察はその交通事故を調査した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accommodate",
+      "ipa": "/əˈkɑːmədeɪt/",
+      "guide": "accommodate の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "収容する・宿泊させる",
+              "pattern": "accommodate + 人数",
+              "tip": "人が泊まったり入ったりできる場所を提供する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The hotel can accommodate 200 guests.",
+                  "ja": "そのホテルには200人の宿泊客を収容できる。"
+                },
+                {
+                  "en": "The hall accommodates up to 500 people.",
+                  "ja": "そのホールには最大500人入れる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accompany",
+      "ipa": "/əˈkʌmpəni/",
+      "guide": "accompany の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "同行する",
+              "pattern": "accompany + 人",
+              "tip": "人と一緒にある場所へ行く。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Her father accompanied her to the station.",
+                  "ja": "父親は彼女に付き添って駅まで行った。"
+                },
+                {
+                  "en": "A guide accompanied us on the hike.",
+                  "ja": "ハイキングには案内人が同行した。"
+                }
+              ]
+            },
+            {
+              "jp": "伴う",
+              "pattern": "be accompanied by A",
+              "tip": "「be accompanied by A」での用法。",
+              "examples": [
+                {
+                  "en": "The storm was accompanied by heavy rain.",
+                  "ja": "嵐には激しい雨が伴った。"
+                },
+                {
+                  "en": "The announcement was accompanied by a detailed explanation.",
+                  "ja": "その発表には詳しい説明が添えられていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accomplish",
+      "ipa": "/əˈkɑːmplɪʃ/",
+      "guide": "accomplish の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "成し遂げる",
+              "pattern": "accomplish a task / goal",
+              "tip": "努力して課題や目標を完了する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We accomplished more than we expected.",
+                  "ja": "私たちは予想以上のことを成し遂げた。"
+                },
+                {
+                  "en": "She accomplished her goal before June.",
+                  "ja": "彼女は6月前に目標を達成した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accord",
+      "ipa": "/əˈkɔːrd/",
+      "guide": "accord の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "合意・協定",
+              "pattern": "reach an accord",
+              "tip": "当事者間で意見が一致すること。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The two countries reached an accord.",
+                  "ja": "両国は協定に達した。"
+                },
+                {
+                  "en": "The accord ended years of disagreement.",
+                  "ja": "その合意は長年の対立に終止符を打った。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "account",
+      "ipa": "/əˈkaʊnt/",
+      "guide": "account の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "口座",
+              "pattern": "open a bank account",
+              "tip": "銀行などに設ける資金管理の単位。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "I opened a savings account last week.",
+                  "ja": "私は先週普通預金口座を開設した。"
+                },
+                {
+                  "en": "She checked the balance in her account.",
+                  "ja": "彼女は口座残高を確認した。"
+                }
+              ]
+            },
+            {
+              "jp": "説明",
+              "pattern": "give an account of A",
+              "tip": "「give an account of A」での用法。",
+              "examples": [
+                {
+                  "en": "He gave an account of the accident.",
+                  "ja": "彼は事故の経緯を説明した。"
+                },
+                {
+                  "en": "The witness gave a detailed account of what happened.",
+                  "ja": "目撃者は起きたことを詳しく説明した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accurate",
+      "ipa": "/ˈækjərət/",
+      "guide": "accurate の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "正確な",
+              "pattern": "accurate information / measurements",
+              "tip": "事実や実測値と一致している。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We need accurate information before deciding.",
+                  "ja": "決定する前に正確な情報が必要だ。"
+                },
+                {
+                  "en": "The device provides accurate measurements.",
+                  "ja": "その装置は正確な測定値を示す。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accuse",
+      "ipa": "/əˈkjuːz/",
+      "guide": "accuse の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "非難する・告発する",
+              "pattern": "accuse A of B",
+              "tip": "人が不正をしたと主張する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "They accused him of stealing the documents.",
+                  "ja": "彼らは彼が書類を盗んだと非難した。"
+                },
+                {
+                  "en": "The official was accused of corruption.",
+                  "ja": "その役人は汚職で告発された。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accustomed",
+      "ipa": "/əˈkʌstəmd/",
+      "guide": "accustomed の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "慣れている",
+              "pattern": "be accustomed to + 名詞・動名詞",
+              "tip": "経験を重ねて違和感がなくなっている。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "She is accustomed to working at night.",
+                  "ja": "彼女は夜働くことに慣れている。"
+                },
+                {
+                  "en": "I am not accustomed to this climate.",
+                  "ja": "私はこの気候に慣れていない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ache",
+      "ipa": "/eɪk/",
+      "guide": "ache の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "痛む",
+              "pattern": "ache badly",
+              "tip": "鈍い痛みが続く。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "My shoulders ache after a long day.",
+                  "ja": "長い一日の後は肩が痛む。"
+                },
+                {
+                  "en": "His legs ached from walking.",
+                  "ja": "歩き続けて彼の脚は痛んだ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acknowledge",
+      "ipa": "/əkˈnɑːlɪdʒ/",
+      "guide": "acknowledge の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "認める",
+              "pattern": "acknowledge a mistake / that節",
+              "tip": "事実や問題の存在を受け入れる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The company acknowledged its mistake.",
+                  "ja": "会社は自らの過ちを認めた。"
+                },
+                {
+                  "en": "She acknowledged that the plan had failed.",
+                  "ja": "彼女はその計画が失敗したことを認めた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acquire",
+      "ipa": "/əˈkwaɪər/",
+      "guide": "acquire の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "習得する・獲得する",
+              "pattern": "acquire skills / knowledge",
+              "tip": "努力や経験を通じて身につける。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "He acquired useful skills during training.",
+                  "ja": "彼は研修中に役立つ技能を身につけた。"
+                },
+                {
+                  "en": "Children acquire language through interaction.",
+                  "ja": "子どもはやり取りを通じて言語を習得する。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acre",
+      "ipa": "/ˈeɪkər/",
+      "guide": "acre の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "エーカー（面積の単位）",
+              "pattern": "an acre of land",
+              "tip": "約4047平方メートルに相当する土地面積。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The farm covers fifty acres.",
+                  "ja": "その農場は50エーカーの広さがある。"
+                },
+                {
+                  "en": "They bought an acre of land near the river.",
+                  "ja": "彼らは川の近くに1エーカーの土地を買った。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adapt",
+      "ipa": "/əˈdæpt/",
+      "guide": "adapt の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "適応する",
+              "pattern": "adapt to + 環境",
+              "tip": "新しい条件に合わせて変わる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Animals adapt to changes in climate.",
+                  "ja": "動物は気候の変化に適応する。"
+                },
+                {
+                  "en": "It took her time to adapt to the new school.",
+                  "ja": "彼女が新しい学校に慣れるには時間がかかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adequate",
+      "ipa": "/ˈædɪkwət/",
+      "guide": "adequate の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "十分な",
+              "pattern": "adequate time / resources",
+              "tip": "目的に対して必要な水準を満たす。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We do not have adequate time to prepare.",
+                  "ja": "準備する十分な時間がない。"
+                },
+                {
+                  "en": "The shelter provides adequate food and water.",
+                  "ja": "その避難所は十分な食料と水を提供している。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adjust",
+      "ipa": "/əˈdʒʌst/",
+      "guide": "adjust の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "調整する",
+              "pattern": "adjust the settings / position",
+              "tip": "適切な状態になるよう少し変える。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Please adjust the volume before the meeting.",
+                  "ja": "会議の前に音量を調整してください。"
+                },
+                {
+                  "en": "He adjusted the chair to a comfortable height.",
+                  "ja": "彼は椅子を快適な高さに調整した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "administration",
+      "ipa": "/ədˌmɪnɪˈstreɪʃən/",
+      "guide": "administration の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "運営・管理",
+              "pattern": "school administration",
+              "tip": "組織や制度を管理すること。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "She works in school administration.",
+                  "ja": "彼女は学校運営に携わっている。"
+                },
+                {
+                  "en": "Good administration requires clear records.",
+                  "ja": "適切な運営には明確な記録が必要だ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admire",
+      "ipa": "/ədˈmaɪər/",
+      "guide": "admire の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "尊敬する・感心する",
+              "pattern": "admire + 人・性質",
+              "tip": "能力や行動に高い評価を抱く。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "I admire her patience with children.",
+                  "ja": "私は彼女の子どもへの忍耐強さに感心する。"
+                },
+                {
+                  "en": "Many students admire their teacher.",
+                  "ja": "多くの生徒がその先生を尊敬している。"
+                }
+              ]
+            },
+            {
+              "jp": "感心する",
+              "pattern": "admire a person",
+              "tip": "「admire a person」での用法。",
+              "examples": [
+                {
+                  "en": "I admire her honesty.",
+                  "ja": "私は彼女の誠実さに感心している。"
+                },
+                {
+                  "en": "Visitors stopped to admire the view of the valley.",
+                  "ja": "訪問者たちは谷の景色を眺めるために立ち止まった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "鑑賞する",
+              "pattern": "admire the view",
+              "tip": "「admire the view」での用法。",
+              "examples": [
+                {
+                  "en": "We admired the view from the hill.",
+                  "ja": "私たちは丘からの眺めを楽しんだ。"
+                },
+                {
+                  "en": "Visitors stopped to admire the view of the valley.",
+                  "ja": "訪問者たちは谷の景色を眺めるために立ち止まった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admit",
+      "ipa": "/ədˈmɪt/",
+      "guide": "admit の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "認める",
+              "pattern": "admit doing / that節",
+              "tip": "好ましくない事実などを事実だと認める。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "He admitted making a serious error.",
+                  "ja": "彼は重大な誤りを犯したことを認めた。"
+                },
+                {
+                  "en": "She admitted that she had been wrong.",
+                  "ja": "彼女は自分が間違っていたと認めた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adopt",
+      "ipa": "/əˈdɑːpt/",
+      "guide": "adopt の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "採用する",
+              "pattern": "adopt a policy / approach",
+              "tip": "方針や方法を選んで使い始める。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The school adopted a new teaching method.",
+                  "ja": "学校は新しい指導法を採用した。"
+                },
+                {
+                  "en": "They adopted a cautious approach.",
+                  "ja": "彼らは慎重な方法を採用した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advance",
+      "ipa": "/ədˈvæns/",
+      "guide": "advance の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "前進する・進歩する",
+              "pattern": "advance rapidly",
+              "tip": "位置や発展段階が前に進む。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The soldiers advanced toward the bridge.",
+                  "ja": "兵士たちは橋に向かって前進した。"
+                },
+                {
+                  "en": "Technology continues to advance rapidly.",
+                  "ja": "技術は急速に進歩し続けている。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advantage",
+      "ipa": "/ədˈvæntɪdʒ/",
+      "guide": "advantage の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "有利な点・利点",
+              "pattern": "have an advantage over",
+              "tip": "比較して好ましい条件を持つこと。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Experience gives her an advantage.",
+                  "ja": "経験が彼女に有利に働く。"
+                },
+                {
+                  "en": "This design has several advantages.",
+                  "ja": "この設計にはいくつかの利点がある。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adventure",
+      "ipa": "/ədˈventʃər/",
+      "guide": "adventure の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "冒険",
+              "pattern": "go on an adventure",
+              "tip": "未知の体験を伴う刺激的な活動。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Their trip became an unexpected adventure.",
+                  "ja": "彼らの旅は思いがけない冒険になった。"
+                },
+                {
+                  "en": "The children dreamed of a great adventure.",
+                  "ja": "子どもたちは大冒険を夢見ていた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advertise",
+      "ipa": "/ˈædvərtaɪz/",
+      "guide": "advertise の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "宣伝する",
+              "pattern": "advertise a product",
+              "tip": "商品やサービスを広く知らせる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The company advertised its new service online.",
+                  "ja": "会社は新サービスをオンラインで宣伝した。"
+                },
+                {
+                  "en": "They advertised the event in local newspapers.",
+                  "ja": "彼らは地元紙で催しを宣伝した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "ipa": "/ədˈvaɪs/",
+      "guide": "advice の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "助言",
+              "pattern": "give / seek advice",
+              "tip": "判断や行動に役立つ提案。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "My teacher gave me useful advice.",
+                  "ja": "先生は私に役立つ助言をくれた。"
+                },
+                {
+                  "en": "She sought advice from a lawyer.",
+                  "ja": "彼女は弁護士に助言を求めた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "affair",
+      "ipa": "/əˈfer/",
+      "guide": "affair の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "事柄・問題",
+              "pattern": "public affairs",
+              "tip": "関係者にとって重要な事柄。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The minister discussed foreign affairs.",
+                  "ja": "大臣は外交問題について話した。"
+                },
+                {
+                  "en": "This is a private affair.",
+                  "ja": "これは私的な問題だ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "affect",
+      "ipa": "/əˈfekt/",
+      "guide": "affect の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "影響を与える",
+              "pattern": "affect health / performance",
+              "tip": "状態や結果を変化させる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Lack of sleep affects concentration.",
+                  "ja": "睡眠不足は集中力に影響する。"
+                },
+                {
+                  "en": "The storm affected train services.",
+                  "ja": "嵐は鉄道の運行に影響を与えた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "afford",
+      "ipa": "/əˈfɔːrd/",
+      "guide": "afford の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "経済的余裕がある",
+              "pattern": "can afford + 名詞 / to do",
+              "tip": "費用を支払う余裕がある。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We cannot afford a larger apartment.",
+                  "ja": "私たちにはもっと広いアパートを借りる余裕がない。"
+                },
+                {
+                  "en": "She can afford to study abroad.",
+                  "ja": "彼女には留学する経済的余裕がある。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "agency",
+      "ipa": "/ˈeɪdʒənsi/",
+      "guide": "agency の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "機関・代理店",
+              "pattern": "a government agency",
+              "tip": "特定の業務を行う組織。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The agency published a safety report.",
+                  "ja": "その機関は安全報告書を公表した。"
+                },
+                {
+                  "en": "She works for a travel agency.",
+                  "ja": "彼女は旅行代理店に勤めている。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "guide": "agenda の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "議題・予定事項",
+              "pattern": "on the agenda",
+              "tip": "会議などで扱う項目の一覧。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The budget is first on the agenda.",
+                  "ja": "予算が議題の最初にある。"
+                },
+                {
+                  "en": "We added one item to the agenda.",
+                  "ja": "私たちは議題に一項目を追加した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aggressive",
+      "ipa": "/əˈɡresɪv/",
+      "guide": "aggressive の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "攻撃的な",
+              "pattern": "aggressive behavior",
+              "tip": "相手に強く敵対する態度を示す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The dog became aggressive when frightened.",
+                  "ja": "その犬は怖がると攻撃的になった。"
+                },
+                {
+                  "en": "The coach warned against aggressive behavior.",
+                  "ja": "監督は攻撃的な行動を戒めた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "agriculture",
+      "ipa": "/ˈæɡrɪkʌltʃər/",
+      "guide": "agriculture の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "農業",
+              "pattern": "modern agriculture",
+              "tip": "作物の栽培や家畜の飼育を行う産業。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Agriculture remains important to the region.",
+                  "ja": "農業は今もその地域にとって重要だ。"
+                },
+                {
+                  "en": "New technology is changing agriculture.",
+                  "ja": "新技術が農業を変えつつある。"
+                }
+              ]
+            },
+            {
+              "pos": "名詞",
+              "jp": "農業・耕作",
+              "pattern": "work in agriculture",
+              "tip": "作物の栽培と家畜の飼育を含む産業。",
+              "examples": [
+                {
+                  "en": "Agriculture is an important part of the local economy.",
+                  "ja": "農業は地域経済の重要な一部だ。"
+                },
+                {
+                  "en": "Many families in the area depend on agriculture.",
+                  "ja": "その地域の多くの家庭が農業に頼っている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "pos": "名詞",
+              "jp": "農業技術・農学的手法",
+              "pattern": "sustainable agriculture / modern agriculture",
+              "tip": "農産物を生み出す技術や方法。",
+              "examples": [
+                {
+                  "en": "Sustainable agriculture aims to protect soil quality.",
+                  "ja": "持続可能な農業は土壌の質を守ることを目指す。"
+                },
+                {
+                  "en": "Modern agriculture increasingly uses digital technology.",
+                  "ja": "現代農業ではデジタル技術の利用が増えている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aid",
+      "ipa": "/eɪd/",
+      "guide": "aid の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "援助・支援",
+              "pattern": "provide aid to",
+              "tip": "困っている人への助け。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The organization provided aid after the flood.",
+                  "ja": "その団体は洪水後に援助を提供した。"
+                },
+                {
+                  "en": "International aid reached the village.",
+                  "ja": "国際援助がその村に届いた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aim",
+      "ipa": "/eɪm/",
+      "guide": "aim の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "目指す",
+              "pattern": "aim to do / aim at",
+              "tip": "達成したい目標に向けて行動する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We aim to finish the project by Friday.",
+                  "ja": "私たちは金曜までに計画を終えることを目指す。"
+                },
+                {
+                  "en": "The campaign aims at reducing waste.",
+                  "ja": "その運動は廃棄物の削減を目指している。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alarm",
+      "ipa": "/əˈlɑːrm/",
+      "guide": "alarm の代表的な用法を記録した一次原稿。追加語義の調査・拡充が必要。",
+      "note": "語義網羅・外部辞書照合・独立校閲は未完了。 公開表示はrun型。各収録語義の英日例文2組を収録。全語義の網羅・独立辞書校閲は別途必要。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "警報・警報装置",
+              "pattern": "set off an alarm",
+              "tip": "危険や異常を知らせる音や装置。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The fire alarm rang at midnight.",
+                  "ja": "火災警報が真夜中に鳴った。"
+                },
+                {
+                  "en": "Smoke set off the alarm.",
+                  "ja": "煙で警報が作動した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
