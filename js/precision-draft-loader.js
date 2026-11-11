@@ -824,7 +824,7 @@
         }
         incoming.set(e.word,e);
       }
-      if(senses!==607||examples!==1214||
+      if(senses!==590||examples!==1180||
          senses!==pack.senses_count||examples!==pack.examples_count)
         throw Error('additional-200-pack sense or example count mismatch');
       for(const [word,e] of incoming)CURATED[word]=e;
