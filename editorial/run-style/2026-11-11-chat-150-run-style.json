@@ -4,15 +4,15 @@
   "batch": "2026-11-11-chat-150-run-style",
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 150,
-  "senses_count": 606,
+  "senses_count": 600,
   "examples_count": 1212,
-  "editorial_note": "既存の仮登録から用法2件ずつを抽出し、新規英日対訳300組・発音情報・語義選択案内を加えてrun型表示へ昇格した構造化原稿。主要語義の完全網羅と独立語義校閲は未完了。",
+  "editorial_note": "登録済み150語の300語義には対訳欠落なし。未収録だった主要語義・品詞・構文を増補し、全収録語義に最低2組の英日対訳を付したrun型画面用原稿。独立辞書校閲と語義の完全網羅、実機の表示確認は別工程。",
   "entries": [
     {
       "word": "notice",
       "ipa": "/ˈnoʊtəs/",
-      "guide": "「気づく」（他動詞）は感覚で変化を察知する。一方、「〜だと気づく」（他動詞）は節で気づいた内容を表す。",
-      "note": "主な構文：他動詞「気づく」は notice a difference／他動詞「〜だと気づく」は notice that S V。品詞と後続する語句によって語義を判断する。",
+      "guide": "「気づく」（他動詞）は感覚で変化を察知する。一方、「〜だと気づく」（他動詞）は節で気づいた内容を表す。 ほかの重要用法：名詞「通知・告知」、名詞「事前の予告・通告」、名詞「注目・注意」。",
+      "note": "主な構文：他動詞「気づく」は notice a difference／他動詞「〜だと気づく」は notice that S V。品詞と後続する語句によって語義を判断する。 追加の構文：give notice of / a public notice／at short notice / two weeks' notice／take notice of / attract notice。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -120,8 +120,8 @@
     {
       "word": "obtain",
       "ipa": "/əbˈteɪn/",
-      "guide": "「得る」（他動詞）は情報や物を入手する。一方、「獲得する」（他動詞）は正式な許可などを獲得する。",
-      "note": "主な構文：他動詞「得る」は obtain information／他動詞「獲得する」は obtain permission。品詞と後続する語句によって語義を判断する。",
+      "guide": "「得る」（他動詞）は情報や物を入手する。一方、「獲得する」（他動詞）は正式な許可などを獲得する。 ほかの重要用法：他動詞「人のために入手してやる」、自動詞「通用する・行われている」。",
+      "note": "主な構文：他動詞「得る」は obtain information／他動詞「獲得する」は obtain permission。品詞と後続する語句によって語義を判断する。 追加の構文：obtain A for B／obtain in / among。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -211,8 +211,8 @@
     {
       "word": "occur",
       "ipa": "/əˈkɝ/",
-      "guide": "「起こる」（自動詞）は出来事が発生する。一方、「思い浮かぶ」（自動詞）は考えなどが人に浮かぶ。",
-      "note": "主な構文：自動詞「起こる」は occur suddenly／自動詞「思い浮かぶ」は occur to a person。品詞と後続する語句によって語義を判断する。",
+      "guide": "「起こる」（自動詞）は出来事が発生する。一方、「思い浮かぶ」（自動詞）は考えなどが人に浮かぶ。 ほかの重要用法：自動詞「生息する・存在する」、自動詞「ふと気づく・思いつく」。",
+      "note": "主な構文：自動詞「起こる」は occur suddenly／自動詞「思い浮かぶ」は occur to a person。品詞と後続する語句によって語義を判断する。 追加の構文：occur in / throughout／it occurs to A that ...。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -297,8 +297,8 @@
     {
       "word": "organize",
       "ipa": "/ˈɔrɡəˌnaɪz/",
-      "guide": "「企画する」（他動詞）は活動を計画し手配する。一方、「整理する」（他動詞）は物や情報を分類する。",
-      "note": "主な構文：他動詞「企画する」は organize an event／他動詞「整理する」は organize files。品詞と後続する語句によって語義を判断する。",
+      "guide": "「企画する」（他動詞）は活動を計画し手配する。一方、「整理する」（他動詞）は物や情報を分類する。 ほかの重要用法：他動詞「団体・組織を結成する」、他動詞「人々を組織化する」、自動詞「組織的に活動を始める」。",
+      "note": "主な構文：他動詞「企画する」は organize an event／他動詞「整理する」は organize files。品詞と後続する語句によって語義を判断する。 追加の構文：organize a committee / group／organize workers / volunteers／organize to do。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -406,8 +406,8 @@
     {
       "word": "pick",
       "ipa": "/ˈpɪk/",
-      "guide": "「選ぶ」（他動詞）は複数の候補から選ぶ。一方、「摘む」（他動詞）は手で摘み取る。",
-      "note": "主な構文：他動詞「選ぶ」は pick a color／他動詞「摘む」は pick flowers。品詞と後続する語句によって語義を判断する。",
+      "guide": "「選ぶ」（他動詞）は複数の候補から選ぶ。一方、「摘む」（他動詞）は手で摘み取る。 ほかの重要用法：他動詞「取り除く・つまみ取る」、他動詞「けんかをしかける」、自動詞「少しずつつつく・食べる」、名詞「選択権・選りすぐり」。",
+      "note": "主な構文：他動詞「選ぶ」は pick a color／他動詞「摘む」は pick flowers。品詞と後続する語句によって語義を判断する。 追加の構文：pick A off / out of B／pick a fight / quarrel with A／pick at food／have one's pick of / the pick of。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -538,8 +538,8 @@
     {
       "word": "place",
       "ipa": "/ˈpleɪs/",
-      "guide": "「置く」（他動詞）は置く場所を明示する。一方、「位置づける」（他動詞）は価値・重要性を置く。",
-      "note": "主な構文：他動詞「置く」は place A on B／他動詞「位置づける」は place importance on A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「置く」（他動詞）は置く場所を明示する。一方、「位置づける」（他動詞）は価値・重要性を置く。 ほかの重要用法：他動詞「注文を出す」、名詞「場所・地点」、名詞「席・居場所」、名詞「地位・立場・順位」、名詞「順番・役割」。",
+      "note": "主な構文：他動詞「置く」は place A on B／他動詞「位置づける」は place importance on A。品詞と後続する語句によって語義を判断する。 追加の構文：place an order／a quiet place / in this place／take one's place / save a place／first place / one's place in society／in place of / take the place of。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -683,8 +683,8 @@
     {
       "word": "prepare",
       "ipa": "/priˈpɛr/",
-      "guide": "「準備する」（他動詞）は物・計画を用意する。一方、「備える」（自動詞）は将来の出来事に備える。",
-      "note": "主な構文：他動詞「準備する」は prepare a meal／自動詞「備える」は prepare for a test。品詞と後続する語句によって語義を判断する。",
+      "guide": "「準備する」（他動詞）は物・計画を用意する。一方、「備える」（自動詞）は将来の出来事に備える。 ほかの重要用法：他動詞「人を備えさせる」、自動詞「〜する準備をする」。",
+      "note": "主な構文：他動詞「準備する」は prepare a meal／自動詞「備える」は prepare for a test。品詞と後続する語句によって語義を判断する。 追加の構文：prepare A for B / to do／prepare to do。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -774,8 +774,8 @@
     {
       "word": "prevent",
       "ipa": "/prɪˈvɛnt/",
-      "guide": "「防ぐ」（他動詞）は出来事の発生を阻止する。一方、「〜できないようにする」（他動詞）は人の行動を妨げる。",
-      "note": "主な構文：他動詞「防ぐ」は prevent an accident／他動詞「〜できないようにする」は prevent O from doing。品詞と後続する語句によって語義を判断する。",
+      "guide": "「防ぐ」（他動詞）は出来事の発生を阻止する。一方、「〜できないようにする」（他動詞）は人の行動を妨げる。 ほかの重要用法：他動詞「被害を未然に防止する」。",
+      "note": "主な構文：他動詞「防ぐ」は prevent an accident／他動詞「〜できないようにする」は prevent O from doing。品詞と後続する語句によって語義を判断する。 追加の構文：prevent A by doing。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -842,8 +842,8 @@
     {
       "word": "produce",
       "ipa": "/prəˈdus/",
-      "guide": "「生産する」（他動詞）は製品を作る。一方、「引き起こす」（他動詞）は結果を生む。",
-      "note": "主な構文：他動詞「生産する」は produce cars／他動詞「引き起こす」は produce a result。品詞と後続する語句によって語義を判断する。",
+      "guide": "「生産する」（他動詞）は製品を作る。一方、「引き起こす」（他動詞）は結果を生む。 ほかの重要用法：他動詞「証拠・書類を提示する」、他動詞「作品・番組を制作する」、名詞「農産物・青果物」。",
+      "note": "主な構文：他動詞「生産する」は produce cars／他動詞「引き起こす」は produce a result。品詞と後続する語句によって語義を判断する。 発音：動詞 /prəˈduːs/、名詞（農産物）/ˈproʊduːs/。 追加の構文：produce evidence / identification／produce a film / play／fresh produce / local produce。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -951,8 +951,8 @@
     {
       "word": "promise",
       "ipa": "/ˈprɑməs/",
-      "guide": "「約束する」（他動詞）は未来の行動を約束する。一方、「見込みがある」（自動詞）は将来の可能性を示す文語的な用法。",
-      "note": "主な構文：他動詞「約束する」は promise to do／自動詞「見込みがある」は promise well。品詞と後続する語句によって語義を判断する。",
+      "guide": "「約束する」（他動詞）は未来の行動を約束する。一方、「見込みがある」（自動詞）は将来の可能性を示す文語的な用法。 ほかの重要用法：他動詞「人に〜を保証する」、名詞「約束・誓約」、名詞「将来性・見込み」。",
+      "note": "主な構文：他動詞「約束する」は promise to do／自動詞「見込みがある」は promise well。品詞と後続する語句によって語義を判断する。 追加の構文：promise A that S V／make / keep / break a promise／show promise / great promise。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1065,8 +1065,8 @@
     {
       "word": "pull",
       "ipa": "/ˈpʊl/",
-      "guide": "「引く」（他動詞）は手前に力を加える。一方、「引き寄せる」（他動詞）は方向や距離の変化を示す。",
-      "note": "主な構文：他動詞「引く」は pull a door／他動詞「引き寄せる」は pull A toward B。品詞と後続する語句によって語義を判断する。",
+      "guide": "「引く」（他動詞）は手前に力を加える。一方、「引き寄せる」（他動詞）は方向や距離の変化を示す。 ほかの重要用法：他動詞「引き抜く・取り外す」、自動詞「車を寄せる・停車させる」、自動詞「困難を乗り切る・回復する」、名詞「引く力・引っ張ること」。",
+      "note": "主な構文：他動詞「引く」は pull a door／他動詞「引き寄せる」は pull A toward B。品詞と後続する語句によって語義を判断する。 追加の構文：pull A out of B／pull over／pull through／a strong pull / the pull of gravity。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1197,8 +1197,8 @@
     {
       "word": "push",
       "ipa": "/ˈpʊʃ/",
-      "guide": "「押す」（他動詞）は力を加えて押す。一方、「促進する」（他動詞）は物事を進展させる。",
-      "note": "主な構文：他動詞「押す」は push a button／他動詞「促進する」は push a plan forward。品詞と後続する語句によって語義を判断する。",
+      "guide": "「押す」（他動詞）は力を加えて押す。一方、「促進する」（他動詞）は物事を進展させる。 ほかの重要用法：他動詞「人に行動を強く促す」、名詞「ひと押し・押す動作」、名詞「努力・後押し」。",
+      "note": "主な構文：他動詞「押す」は push a button／他動詞「促進する」は push a plan forward。品詞と後続する語句によって語義を判断する。 追加の構文：push A to do／give A a push／a final push / a push for reform。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1306,8 +1306,8 @@
     {
       "word": "realize",
       "ipa": "/ˈriəˌlaɪz/",
-      "guide": "「気づく」（他動詞）は事実を理解する。一方、「実現する」（他動詞）は希望や計画を現実にする。",
-      "note": "主な構文：他動詞「気づく」は realize that S V／他動詞「実現する」は realize a dream。品詞と後続する語句によって語義を判断する。",
+      "guide": "「気づく」（他動詞）は事実を理解する。一方、「実現する」（他動詞）は希望や計画を現実にする。 ほかの重要用法：他動詞「利益・収益を得る」、他動詞「十分に活用・発揮する」。",
+      "note": "主な構文：他動詞「気づく」は realize that S V／他動詞「実現する」は realize a dream。品詞と後続する語句によって語義を判断する。 追加の構文：realize a profit / gain／realize one's potential。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1392,8 +1392,8 @@
     {
       "word": "reject",
       "ipa": "/rɪˈdʒɛkt/",
-      "guide": "「拒絶する」（他動詞）は提案・要求を受け入れない。一方、「却下する」（他動詞）は公式な審査などで受け入れない。",
-      "note": "主な構文：他動詞「拒絶する」は reject an offer／他動詞「却下する」は reject an application。品詞と後続する語句によって語義を判断する。",
+      "guide": "「拒絶する」（他動詞）は提案・要求を受け入れない。一方、「却下する」（他動詞）は公式な審査などで受け入れない。 ほかの重要用法：他動詞「異物・移植臓器を拒絶する」、名詞「不良品・不合格品」。",
+      "note": "主な構文：他動詞「拒絶する」は reject an offer／他動詞「却下する」は reject an application。品詞と後続する語句によって語義を判断する。 追加の構文：reject a transplant／a factory reject / rejects。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1483,8 +1483,8 @@
     {
       "word": "remember",
       "ipa": "/rɪˈmɛmbɚ/",
-      "guide": "「覚えている」（他動詞）は過去の情報を記憶している。一方、「忘れずに〜する」（他動詞）はこれから行う行為を忘れない。",
-      "note": "主な構文：他動詞「覚えている」は remember a name／他動詞「忘れずに〜する」は remember to do。品詞と後続する語句によって語義を判断する。",
+      "guide": "「覚えている」（他動詞）は過去の情報を記憶している。一方、「忘れずに〜する」（他動詞）はこれから行う行為を忘れない。 ほかの重要用法：他動詞「以前〜したことを覚えている」、他動詞「人のことを覚えている」、他動詞「人によろしく伝える」。",
+      "note": "主な構文：他動詞「覚えている」は remember a name／他動詞「忘れずに〜する」は remember to do。品詞と後続する語句によって語義を判断する。 追加の構文：remember doing／remember A as B／remember me to A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1587,8 +1587,8 @@
     {
       "word": "research",
       "ipa": "/riˈsɝtʃ/",
-      "guide": "「研究する」（他動詞）は主題を掘り下げて調べる。一方、「研究」（名詞）は名詞では不可算扱いが一般的。",
-      "note": "主な構文：他動詞「研究する」は research a subject／名詞「研究」は conduct research。品詞と後続する語句によって語義を判断する。",
+      "guide": "「研究する」（他動詞）は主題を掘り下げて調べる。一方、「研究」（名詞）は名詞では不可算扱いが一般的。 ほかの重要用法：自動詞「詳しく調べる・研究する」。",
+      "note": "主な構文：他動詞「研究する」は research a subject／名詞「研究」は conduct research。品詞と後続する語句によって語義を判断する。 追加の構文：research in a field。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1629,17 +1629,7 @@
                 {
                   "en": "Recent research challenges that assumption.",
                   "ja": "最近の研究はその前提に疑問を投げかけている。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "調査・研究活動",
-              "pattern": "do / carry out research",
-              "tip": "一般に不可算名詞。a researchという言い方を避ける。",
-              "examples": [
+                },
                 {
                   "en": "The team carried out research into learning habits.",
                   "ja": "チームは学習習慣に関する調査を行った。"
@@ -1660,16 +1650,16 @@
           "senses": [
             {
               "jp": "詳しく調べる・研究する",
-              "pattern": "research into / on A",
-              "tip": "目的語を直接取らず、研究対象を前置詞で示す。",
+              "pattern": "research in a field",
+              "tip": "研究分野を示し、目的語なしで使う用法。通常は他動詞research A、名詞do research into Aがより一般的。",
               "examples": [
                 {
-                  "en": "The students researched into the history of the building.",
-                  "ja": "生徒たちはその建物の歴史を詳しく調べた。"
+                  "en": "She researches in the field of environmental economics.",
+                  "ja": "彼女は環境経済学の分野で研究している。"
                 },
                 {
-                  "en": "The scientist researches on renewable energy technologies.",
-                  "ja": "その科学者は再生可能エネルギー技術について研究している。"
+                  "en": "He has researched in this area for many years.",
+                  "ja": "彼はこの分野で長年研究してきた。"
                 }
               ],
               "label": "",
@@ -1683,8 +1673,8 @@
     {
       "word": "rise",
       "ipa": "/ˈraɪz/",
-      "guide": "「上がる」（自動詞）は自動詞で過去形rose。一方、「立ち上がる」（自動詞）は姿勢や位置が高くなる。",
-      "note": "主な構文：自動詞「上がる」は rise sharply／自動詞「立ち上がる」は rise from a chair。品詞と後続する語句によって語義を判断する。",
+      "guide": "「上がる」（自動詞）は自動詞で過去形rose。一方、「立ち上がる」（自動詞）は姿勢や位置が高くなる。 ほかの重要用法：自動詞「発生する・起源をもつ」、自動詞「課題に応える」、自動詞「地位・役職が上がる」、名詞「増加・上昇」。",
+      "note": "主な構文：自動詞「上がる」は rise sharply／自動詞「立ち上がる」は rise from a chair。品詞と後続する語句によって語義を判断する。 追加の構文：rise from / arise from／rise to the occasion / challenge／rise through the ranks／a rise in prices / temperature。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1810,8 +1800,8 @@
     {
       "word": "save",
       "ipa": "/ˈseɪv/",
-      "guide": "「救う」（他動詞）は危険や損失から守る。一方、「節約する」（他動詞）は時間・費用を減らす。",
-      "note": "主な構文：他動詞「救う」は save a person／他動詞「節約する」は save time。品詞と後続する語句によって語義を判断する。",
+      "guide": "「救う」（他動詞）は危険や損失から守る。一方、「節約する」（他動詞）は時間・費用を減らす。 ほかの重要用法：他動詞「データを保存する」、他動詞「お金をためる・貯金する」、他動詞「得点を防ぐ」。",
+      "note": "主な構文：他動詞「救う」は save a person／他動詞「節約する」は save time。品詞と後続する語句によって語義を判断する。 追加の構文：save a file / document／save up for A／save a shot / penalty。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1914,8 +1904,8 @@
     {
       "word": "search",
       "ipa": "/ˈsɝtʃ/",
-      "guide": "「捜索する」（他動詞）は場所そのものを目的語にする。一方、「探す」（自動詞）は探し求める対象にはforを用いる。",
-      "note": "主な構文：他動詞「捜索する」は search a room／自動詞「探す」は search for a key。品詞と後続する語句によって語義を判断する。",
+      "guide": "「捜索する」（他動詞）は場所そのものを目的語にする。一方、「探す」（自動詞）は探し求める対象にはforを用いる。 ほかの重要用法：他動詞「情報を詳しく調べる」、名詞「捜索・検索」。",
+      "note": "主な構文：他動詞「捜索する」は search a room／自動詞「探す」は search for a key。品詞と後続する語句によって語義を判断する。 追加の構文：search records / databases／a search for / in search of。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2010,8 +2000,8 @@
     {
       "word": "seem",
       "ipa": "/ˈsim/",
-      "guide": "「〜のように見える」（自動詞）は補語で印象を示す。一方、「〜するように思える」（自動詞）は不定詞で推測を述べる。",
-      "note": "主な構文：自動詞「〜のように見える」は seem C／自動詞「〜するように思える」は seem to do。品詞と後続する語句によって語義を判断する。",
+      "guide": "「〜のように見える」（自動詞）は補語で印象を示す。一方、「〜するように思える」（自動詞）は不定詞で推測を述べる。 ほかの重要用法：自動詞「〜のように思われる」、自動詞「〜のようだ」。",
+      "note": "主な構文：自動詞「〜のように見える」は seem C／自動詞「〜するように思える」は seem to do。品詞と後続する語句によって語義を判断する。 追加の構文：it seems that S V／seem like / seem as if。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2096,8 +2086,8 @@
     {
       "word": "select",
       "ipa": "/səˈlɛkt/",
-      "guide": "「選ぶ」（他動詞）は候補から慎重に選ぶ。一方、「選抜する」（他動詞）は選抜対象を役割に割り当てる。",
-      "note": "主な構文：他動詞「選ぶ」は select a candidate／他動詞「選抜する」は select O for A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「選ぶ」（他動詞）は候補から慎重に選ぶ。一方、「選抜する」（他動詞）は選抜対象を役割に割り当てる。 ほかの重要用法：他動詞「〜を選んで任命する」、形容詞「選び抜かれた・厳選された」。",
+      "note": "主な構文：他動詞「選ぶ」は select a candidate／他動詞「選抜する」は select O for A。品詞と後続する語句によって語義を判断する。 追加の構文：select A as B／a select group / few。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2187,8 +2177,8 @@
     {
       "word": "send",
       "ipa": "/ˈsɛnd/",
-      "guide": "「送る」（他動詞）は物や情報を届ける。一方、「派遣する」（他動詞）は人をある場所へ行かせる。",
-      "note": "主な構文：他動詞「送る」は send A to B／他動詞「派遣する」は send O to a place。品詞と後続する語句によって語義を判断する。",
+      "guide": "「送る」（他動詞）は物や情報を届ける。一方、「派遣する」（他動詞）は人をある場所へ行かせる。 ほかの重要用法：他動詞「ある状態に陥らせる」、他動詞「発信・送り出す」、自動詞「使いを出す・呼び寄せる」。",
+      "note": "主な構文：他動詞「送る」は send A to B／他動詞「派遣する」は send O to a place。品詞と後続する語句によって語義を判断する。 追加の構文：send A into B / send A C／send out notices / signals／send for a doctor。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2296,8 +2286,8 @@
     {
       "word": "serve",
       "ipa": "/ˈsɝv/",
-      "guide": "「提供する」（他動詞）は飲食物を出す。一方、「務める」（自動詞）は役職を担う。",
-      "note": "主な構文：他動詞「提供する」は serve food／自動詞「務める」は serve as C。品詞と後続する語句によって語義を判断する。",
+      "guide": "「提供する」（他動詞）は飲食物を出す。一方、「務める」（自動詞）は役職を担う。 ほかの重要用法：他動詞「社会や人に尽くす」、他動詞「任期・刑期を務める」、他動詞「目的・役割を果たす」、自動詞「サーブする」。",
+      "note": "主な構文：他動詞「提供する」は serve food／自動詞「務める」は serve as C。品詞と後続する語句によって語義を判断する。 追加の構文：serve one's community / country／serve a term / sentence／serve a purpose / meet a need／serve in tennis / volleyball。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2423,8 +2413,8 @@
     {
       "word": "share",
       "ipa": "/ˈʃɛr/",
-      "guide": "「共有する」（他動詞）は複数人で共通に持つ。一方、「分け合う」（他動詞）は物を分配する。",
-      "note": "主な構文：他動詞「共有する」は share information／他動詞「分け合う」は share A with B。品詞と後続する語句によって語義を判断する。",
+      "guide": "「共有する」（他動詞）は複数人で共通に持つ。一方、「分け合う」（他動詞）は物を分配する。 ほかの重要用法：名詞「持ち分・分担分」、名詞「株式・株」、自動詞「参加して分け前を得る」。",
+      "note": "主な構文：他動詞「共有する」は share information／他動詞「分け合う」は share A with B。品詞と後続する語句によって語義を判断する。 追加の構文：one's share of the work / cost／buy / sell shares in a company／share in A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2537,8 +2527,8 @@
     {
       "word": "shift",
       "ipa": "/ˈʃɪft/",
-      "guide": "「移る」（自動詞）は方向・傾向が変わる。一方、「移す」（他動詞）は対象・焦点を変える。",
-      "note": "主な構文：自動詞「移る」は shift toward A／他動詞「移す」は shift attention to A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「移る」（自動詞）は方向・傾向が変わる。一方、「移す」（他動詞）は対象・焦点を変える。 ほかの重要用法：他動詞「ギアを切り替える」、名詞「交代勤務・勤務時間帯」、名詞「変化・転換」。",
+      "note": "主な構文：自動詞「移る」は shift toward A／他動詞「移す」は shift attention to A。品詞と後続する語句によって語義を判断する。 追加の構文：shift gears／work the night shift / a shift worker／a shift in opinion / policy。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2651,8 +2641,8 @@
     {
       "word": "show",
       "ipa": "/ˈʃoʊ/",
-      "guide": "「見せる」（他動詞）は見えるようにする。一方、「示す」（他動詞）は証拠で説明する。",
-      "note": "主な構文：他動詞「見せる」は show A to B／他動詞「示す」は show that S V。品詞と後続する語句によって語義を判断する。",
+      "guide": "「見せる」（他動詞）は見えるようにする。一方、「示す」（他動詞）は証拠で説明する。 ほかの重要用法：他動詞「やり方を教える・案内する」、他動詞「見せびらかす」、名詞「番組・ショー」、自動詞「現れる・姿を見せる」。",
+      "note": "主な構文：他動詞「見せる」は show A to B／他動詞「示す」は show that S V。品詞と後続する語句によって語義を判断する。 追加の構文：show A how to do／show off / show A off／a television show / stage show／show up。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2783,8 +2773,8 @@
     {
       "word": "sign",
       "ipa": "/ˈsaɪn/",
-      "guide": "「署名する」（他動詞）は名前を記入する。一方、「兆候」（名詞）は目印ではなく予兆を表す。",
-      "note": "主な構文：他動詞「署名する」は sign a document／名詞「兆候」は a sign of change。品詞と後続する語句によって語義を判断する。",
+      "guide": "「署名する」（他動詞）は名前を記入する。一方、「兆候」（名詞）は目印ではなく予兆を表す。 ほかの重要用法：名詞「標識・看板」、名詞「合図・身ぶり」、自動詞「申し込む・登録する」。",
+      "note": "主な構文：他動詞「署名する」は sign a document／名詞「兆候」は a sign of change。品詞と後続する語句によって語義を判断する。 追加の構文：a road sign / warning sign／give A a sign / sign language／sign up for A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2897,8 +2887,8 @@
     {
       "word": "solve",
       "ipa": "/ˈsɑlv/",
-      "guide": "「解決する」（他動詞）は困難を片づける。一方、「解く」（他動詞）は数学などの答えを求める。",
-      "note": "主な構文：他動詞「解決する」は solve a problem／他動詞「解く」は solve an equation。品詞と後続する語句によって語義を判断する。",
+      "guide": "「解決する」（他動詞）は困難を片づける。一方、「解く」（他動詞）は数学などの答えを求める。 ほかの重要用法：他動詞「方程式を解いて未知数を求める」。",
+      "note": "主な構文：他動詞「解決する」は solve a problem／他動詞「解く」は solve an equation。品詞と後続する語句によって語義を判断する。 追加の構文：solve for x / an unknown。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2965,8 +2955,8 @@
     {
       "word": "speak",
       "ipa": "/ˈspik/",
-      "guide": "「話す」（自動詞）は声に出して話す。一方、「言語を話す」（他動詞）は言語名を目的語に取る。",
-      "note": "主な構文：自動詞「話す」は speak clearly／他動詞「言語を話す」は speak English。品詞と後続する語句によって語義を判断する。",
+      "guide": "「話す」（自動詞）は声に出して話す。一方、「言語を話す」（他動詞）は言語名を目的語に取る。 ほかの重要用法：自動詞「人に話しかける・話し合う」、自動詞「演説する・講演する」、自動詞「代表して意見を述べる」。",
+      "note": "主な構文：自動詞「話す」は speak clearly／他動詞「言語を話す」は speak English。品詞と後続する語句によって語義を判断する。 追加の構文：speak to / with A／speak at an event / in public／speak for A / on behalf of A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3074,8 +3064,8 @@
     {
       "word": "spend",
       "ipa": "/ˈspɛnd/",
-      "guide": "「費やす」（他動詞）は時間を使う。一方、「お金を使う」（他動詞）は金銭を支出する。",
-      "note": "主な構文：他動詞「費やす」は spend time on A／他動詞「お金を使う」は spend money on A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「費やす」（他動詞）は時間を使う。一方、「お金を使う」（他動詞）は金銭を支出する。 ほかの重要用法：他動詞「時間を〜して過ごす」、他動詞「一定の期間を過ごす」、自動詞「お金を使う・散財する」。",
+      "note": "主な構文：他動詞「費やす」は spend time on A／他動詞「お金を使う」は spend money on A。品詞と後続する語句によって語義を判断する。 追加の構文：spend time doing／spend a weekend / holiday in A／spend freely / carefully。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3183,8 +3173,8 @@
     {
       "word": "start",
       "ipa": "/ˈstɑrt/",
-      "guide": "「始まる」（自動詞）は主語の活動が開始する。一方、「始める」（他動詞）は目的語の行為を開始する。",
-      "note": "主な構文：自動詞「始まる」は start at a time／他動詞「始める」は start doing。品詞と後続する語句によって語義を判断する。",
+      "guide": "「始まる」（自動詞）は主語の活動が開始する。一方、「始める」（他動詞）は目的語の行為を開始する。 ほかの重要用法：自動詞「出発する」、自動詞「驚いてびくっと動く」、他動詞「機械を始動させる」、名詞「開始・出発点」。",
+      "note": "主な構文：自動詞「始まる」は start at a time／他動詞「始める」は start doing。品詞と後続する語句によって語義を判断する。 追加の構文：start from A / start for B／start at a noise／start the engine / computer／at the start / make a start。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3315,8 +3305,8 @@
     {
       "word": "state",
       "ipa": "/ˈsteɪt/",
-      "guide": "「述べる」（他動詞）は明確に言明する。一方、「状態」（名詞）は物事の状態・状況を表す。",
-      "note": "主な構文：他動詞「述べる」は state an opinion／名詞「状態」は in a poor state of repair。品詞と後続する語句によって語義を判断する。",
+      "guide": "「述べる」（他動詞）は明確に言明する。一方、「状態」（名詞）は物事の状態・状況を表す。 ほかの重要用法：名詞「国家・国」、名詞「州」、形容詞「国営の・州立の」。",
+      "note": "主な構文：他動詞「述べる」は state an opinion／名詞「状態」は in a poor state of repair。品詞と後続する語句によって語義を判断する。 追加の構文：the state / state power／the state of California / a state government／a state school / state-owned company。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3429,8 +3419,8 @@
     {
       "word": "stay",
       "ipa": "/ˈsteɪ/",
-      "guide": "「滞在する」（自動詞）は一時的にそこにとどまる。一方、「〜のままでいる」（自動詞）は状態を維持する。",
-      "note": "主な構文：自動詞「滞在する」は stay at a hotel／自動詞「〜のままでいる」は stay C。品詞と後続する語句によって語義を判断する。",
+      "guide": "「滞在する」（自動詞）は一時的にそこにとどまる。一方、「〜のままでいる」（自動詞）は状態を維持する。 ほかの重要用法：自動詞「離れずにいる・近寄らない」、名詞「滞在・宿泊」、他動詞「執行・手続きを一時停止する」。",
+      "note": "主な構文：自動詞「滞在する」は stay at a hotel／自動詞「〜のままでいる」は stay C。品詞と後続する語句によって語義を判断する。 追加の構文：stay away from / stay with／a short stay / during one's stay／stay a sentence / proceeding。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3543,8 +3533,8 @@
     {
       "word": "stop",
       "ipa": "/ˈstɑp/",
-      "guide": "「止まる」（自動詞）は動作が停止する。一方、「やめる」（他動詞）は進行していた行為をやめる。",
-      "note": "主な構文：自動詞「止まる」は stop suddenly／他動詞「やめる」は stop doing。品詞と後続する語句によって語義を判断する。",
+      "guide": "「止まる」（自動詞）は動作が停止する。一方、「やめる」（他動詞）は進行していた行為をやめる。 ほかの重要用法：自動詞「〜するため立ち止まる」、他動詞「人が〜するのを止める」、名詞「停留所・停車駅」、名詞「中止・停止」。",
+      "note": "主な構文：自動詞「止まる」は stop suddenly／他動詞「やめる」は stop doing。品詞と後続する語句によって語義を判断する。 追加の構文：stop to do／stop A from doing／a bus stop / the next stop／come to a stop / bring A to a stop。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3562,6 +3552,24 @@
                 {
                   "en": "The clock stopped during the power failure.",
                   "ja": "停電中に時計が止まった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜するため立ち止まる",
+              "pattern": "stop to do",
+              "tip": "直前の動作をやめ、別の目的の行為をする。stop doingと区別。",
+              "examples": [
+                {
+                  "en": "We stopped to buy some water.",
+                  "ja": "私たちは水を買うため立ち寄った。"
+                },
+                {
+                  "en": "She stopped to answer the phone.",
+                  "ja": "彼女は電話に出るため手を止めた。"
                 }
               ],
               "label": "",
@@ -3585,24 +3593,6 @@
                 {
                   "en": "She stopped checking her phone before bed.",
                   "ja": "彼女は就寝前に携帯電話を確認するのをやめた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜するため立ち止まる",
-              "pattern": "stop to do",
-              "tip": "直前の動作をやめ、別の目的の行為をする。stop doingと区別。",
-              "examples": [
-                {
-                  "en": "We stopped to buy some water.",
-                  "ja": "私たちは水を買うため立ち寄った。"
-                },
-                {
-                  "en": "She stopped to answer the phone.",
-                  "ja": "彼女は電話に出るため手を止めた。"
                 }
               ],
               "label": "",
@@ -3675,8 +3665,8 @@
     {
       "word": "store",
       "ipa": "/ˈstɔr/",
-      "guide": "「保管する」（他動詞）は物を保存する。一方、「店」（名詞）は商店・店舗を表す。",
-      "note": "主な構文：他動詞「保管する」は store food／名詞「店」は at a store。品詞と後続する語句によって語義を判断する。",
+      "guide": "「保管する」（他動詞）は物を保存する。一方、「店」（名詞）は商店・店舗を表す。 ほかの重要用法：名詞「蓄え・貯蔵」、名詞「倉庫・保管所」、名詞「将来待ち受けているもの」。",
+      "note": "主な構文：他動詞「保管する」は store food／名詞「店」は at a store。品詞と後続する語句によって語義を判断する。 追加の構文：a store of food / knowledge／a grain store / a secure store／in store for A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3743,7 +3733,7 @@
             },
             {
               "jp": "倉庫・保管所",
-              "pattern": "a storage store / store room",
+              "pattern": "a grain store / a secure store",
               "tip": "物品を蓄えておく施設を表す。",
               "examples": [
                 {
@@ -3784,8 +3774,8 @@
     {
       "word": "study",
       "ipa": "/ˈstʌdi/",
-      "guide": "「勉強する」（他動詞）は教科などを学ぶ。一方、「調査する」（他動詞）は対象を詳しく検討する。",
-      "note": "主な構文：他動詞「勉強する」は study history／他動詞「調査する」は study a problem。品詞と後続する語句によって語義を判断する。",
+      "guide": "「勉強する」（他動詞）は教科などを学ぶ。一方、「調査する」（他動詞）は対象を詳しく検討する。 ほかの重要用法：名詞「勉強・学習」、名詞「研究・調査」、名詞「書斎・勉強部屋」。",
+      "note": "主な構文：他動詞「勉強する」は study history／他動詞「調査する」は study a problem。品詞と後続する語句によって語義を判断する。 追加の構文：a course of study / after study／a study of / a scientific study／in the study / a private study。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3893,8 +3883,8 @@
     {
       "word": "suggest",
       "ipa": "/səˈdʒɛst/",
-      "guide": "「提案する」（他動詞）はsuggest to doを避ける。一方、「示唆する」（他動詞）は直接言い切らず推測を示す。",
-      "note": "主な構文：他動詞「提案する」は suggest doing／他動詞「示唆する」は suggest that S V。品詞と後続する語句によって語義を判断する。",
+      "guide": "「提案する」（他動詞）はsuggest to doを避ける。一方、「示唆する」（他動詞）は直接言い切らず推測を示す。 ほかの重要用法：他動詞「〜するよう提案する」、他動詞「連想させる・思い起こさせる」。",
+      "note": "主な構文：他動詞「提案する」は suggest doing／他動詞「示唆する」は suggest that S V。品詞と後続する語句によって語義を判断する。 追加の構文：suggest that S (should) V／suggest A to B。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3979,8 +3969,8 @@
     {
       "word": "support",
       "ipa": "/səˈpɔrt/",
-      "guide": "「支える」（他動詞）は人を援助する。一方、「裏づける」（他動詞）は証拠として支える。",
-      "note": "主な構文：他動詞「支える」は support a person／他動詞「裏づける」は support a claim。品詞と後続する語句によって語義を判断する。",
+      "guide": "「支える」（他動詞）は人を援助する。一方、「裏づける」（他動詞）は証拠として支える。 ほかの重要用法：他動詞「家族を養う」、名詞「支援・援助」、名詞「支柱・支え」。",
+      "note": "主な構文：他動詞「支える」は support a person／他動詞「裏づける」は support a claim。品詞と後続する語句によって語義を判断する。 追加の構文：support a family／financial / emotional support／a wooden support / support beam。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4088,8 +4078,8 @@
     {
       "word": "talk",
       "ipa": "/ˈtɔk/",
-      "guide": "「話す」（自動詞）は相手と会話する。一方、「話題にする」（自動詞）は主題をaboutで表す。",
-      "note": "主な構文：自動詞「話す」は talk with a friend／自動詞「話題にする」は talk about A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「話す」（自動詞）は相手と会話する。一方、「話題にする」（自動詞）は主題をaboutで表す。 ほかの重要用法：名詞「会話・話し合い」、名詞「講演・講話」、他動詞「説得して〜させる」。",
+      "note": "主な構文：自動詞「話す」は talk with a friend／自動詞「話題にする」は talk about A。品詞と後続する語句によって語義を判断する。 追加の構文：have a talk with A／give a talk on A／talk A into doing。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4202,8 +4192,8 @@
     {
       "word": "teach",
       "ipa": "/ˈtitʃ/",
-      "guide": "「教える」（他動詞）は科目を目的語に取る。一方、「〜する方法を教える」（他動詞）は人に技能を教える。",
-      "note": "主な構文：他動詞「教える」は teach a subject／他動詞「〜する方法を教える」は teach O how to do。品詞と後続する語句によって語義を判断する。",
+      "guide": "「教える」（他動詞）は科目を目的語に取る。一方、「〜する方法を教える」（他動詞）は人に技能を教える。 ほかの重要用法：他動詞「人に科目を教える」、他動詞「人に教訓を与える」。",
+      "note": "主な構文：他動詞「教える」は teach a subject／他動詞「〜する方法を教える」は teach O how to do。品詞と後続する語句によって語義を判断する。 追加の構文：teach A B / teach B to A／teach A a lesson。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4288,8 +4278,8 @@
     {
       "word": "tell",
       "ipa": "/ˈtɛl/",
-      "guide": "「伝える」（他動詞）は相手に情報を伝える。一方、「指示する」（他動詞）は人に行動を指示する。",
-      "note": "主な構文：他動詞「伝える」は tell O about A／他動詞「指示する」は tell O to do。品詞と後続する語句によって語義を判断する。",
+      "guide": "「伝える」（他動詞）は相手に情報を伝える。一方、「指示する」（他動詞）は人に行動を指示する。 ほかの重要用法：他動詞「事実・真実を話す」、他動詞「見分ける・区別する」、他動詞「〜だと伝える」。",
+      "note": "主な構文：他動詞「伝える」は tell O about A／他動詞「指示する」は tell O to do。品詞と後続する語句によって語義を判断する。 追加の構文：tell the truth / a story／tell A from B／tell A that S V。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4392,8 +4382,8 @@
     {
       "word": "test",
       "ipa": "/ˈtɛst/",
-      "guide": "「検査する」（他動詞）は性能を調べる。一方、「試験」（名詞）は学力検査を表す。",
-      "note": "主な構文：他動詞「検査する」は test a machine／名詞「試験」は take a test。品詞と後続する語句によって語義を判断する。",
+      "guide": "「検査する」（他動詞）は性能を調べる。一方、「試験」（名詞）は学力検査を表す。 ほかの重要用法：名詞「能力・性能を試すもの」、自動詞「検査で〜という結果が出る」。",
+      "note": "主な構文：他動詞「検査する」は test a machine／名詞「試験」は take a test。品詞と後続する語句によって語義を判断する。 追加の構文：put A to the test／test positive / negative for A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4488,8 +4478,8 @@
     {
       "word": "think",
       "ipa": "/ˈθɪŋk/",
-      "guide": "「考える」（自動詞）は考える対象をaboutで表す。一方、「〜と思う」（他動詞）は判断を述べる。",
-      "note": "主な構文：自動詞「考える」は think about A／他動詞「〜と思う」は think that S V。品詞と後続する語句によって語義を判断する。",
+      "guide": "「考える」（自動詞）は考える対象をaboutで表す。一方、「〜と思う」（他動詞）は判断を述べる。 ほかの重要用法：自動詞「〜を思いつく」、他動詞「〜という考えを持つ・評価する」、他動詞「熟考する」。",
+      "note": "主な構文：自動詞「考える」は think about A／他動詞「〜と思う」は think that S V。品詞と後続する語句によって語義を判断する。 追加の構文：think of an idea／think A C／think A over。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4597,8 +4587,8 @@
     {
       "word": "train",
       "ipa": "/ˈtreɪn/",
-      "guide": "「訓練する」（他動詞）は人に技能を身につけさせる。一方、「練習する」（自動詞）は目標に備えて鍛える。",
-      "note": "主な構文：他動詞「訓練する」は train a person／自動詞「練習する」は train for A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「訓練する」（他動詞）は人に技能を身につけさせる。一方、「練習する」（自動詞）は目標に備えて鍛える。 ほかの重要用法：他動詞「〜するよう訓練する」、名詞「列車・電車」、名詞「連なり・列」。",
+      "note": "主な構文：他動詞「訓練する」は train a person／自動詞「練習する」は train for A。品詞と後続する語句によって語義を判断する。 追加の構文：train A to do／take / catch a train／a train of thought / a long train。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4711,8 +4701,8 @@
     {
       "word": "translate",
       "ipa": "/trænzˈleɪt/",
-      "guide": "「翻訳する」（他動詞）は目的言語をintoで表す。一方、「結果として〜になる」（自動詞）は抽象的なものが具体化する。",
-      "note": "主な構文：他動詞「翻訳する」は translate A into B／自動詞「結果として〜になる」は translate into A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「翻訳する」（他動詞）は目的言語をintoで表す。一方、「結果として〜になる」（自動詞）は抽象的なものが具体化する。 ほかの重要用法：他動詞「意味を解釈して別の形にする」、自動詞「別の状況でも通用する」。",
+      "note": "主な構文：他動詞「翻訳する」は translate A into B／自動詞「結果として〜になる」は translate into A。品詞と後続する語句によって語義を判断する。 追加の構文：translate A as B／translate well / poorly。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4802,8 +4792,8 @@
     {
       "word": "travel",
       "ipa": "/ˈtrævəl/",
-      "guide": "「旅行する」（自動詞）は遠くへ移動する。一方、「伝わる」（自動詞）は音や光などが伝播する。",
-      "note": "主な構文：自動詞「旅行する」は travel abroad／自動詞「伝わる」は travel through A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「旅行する」（自動詞）は遠くへ移動する。一方、「伝わる」（自動詞）は音や光などが伝播する。 ほかの重要用法：自動詞「人から人へ広まる」、名詞「旅行・移動」。",
+      "note": "主な構文：自動詞「旅行する」は travel abroad／自動詞「伝わる」は travel through A。品詞と後続する語句によって語義を判断する。 追加の構文：news / ideas travel／air travel / travel expenses。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4893,8 +4883,8 @@
     {
       "word": "treat",
       "ipa": "/ˈtrit/",
-      "guide": "「扱う」（他動詞）は人をある立場で扱う。一方、「治療する」（他動詞）は医療処置をする。",
-      "note": "主な構文：他動詞「扱う」は treat O as C／他動詞「治療する」は treat a patient。品詞と後続する語句によって語義を判断する。",
+      "guide": "「扱う」（他動詞）は人をある立場で扱う。一方、「治療する」（他動詞）は医療処置をする。 ほかの重要用法：他動詞「人におごる・ごちそうする」、他動詞「加工・処理する」、名詞「ごちそう・楽しみ」。",
+      "note": "主な構文：他動詞「扱う」は treat O as C／他動詞「治療する」は treat a patient。品詞と後続する語句によって語義を判断する。 追加の構文：treat A to B／treat water / wood／a special treat / as a treat。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5002,8 +4992,8 @@
     {
       "word": "understand",
       "ipa": "/ˌʌndɚˈstænd/",
-      "guide": "「理解する」（他動詞）は意味や内容がわかる。一方、「事情を察する」（他動詞）は気持ち・理由を汲み取る。",
-      "note": "主な構文：他動詞「理解する」は understand a question／他動詞「事情を察する」は understand why S V。品詞と後続する語句によって語義を判断する。",
+      "guide": "「理解する」（他動詞）は意味や内容がわかる。一方、「事情を察する」（他動詞）は気持ち・理由を汲み取る。 ほかの重要用法：他動詞「〜だと理解している」、他動詞「人の気持ちを理解する」、他動詞「〜と聞いている・承知している」。",
+      "note": "主な構文：他動詞「理解する」は understand a question／他動詞「事情を察する」は understand why S V。品詞と後続する語句によって語義を判断する。 追加の構文：understand that S V／understand A's feelings／be understood to do。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5106,8 +5096,8 @@
     {
       "word": "use",
       "ipa": "/ˈjuz/",
-      "guide": "「使う」（他動詞）は道具を利用する。一方、「利用する」（他動詞）は用途をforで示す。",
-      "note": "主な構文：他動詞「使う」は use a tool／他動詞「利用する」は use A for B。品詞と後続する語句によって語義を判断する。",
+      "guide": "「使う」（他動詞）は道具を利用する。一方、「利用する」（他動詞）は用途をforで示す。 ほかの重要用法：名詞「使用・利用」、形容詞「〜することに慣れている」、助動詞「以前はよく〜した」。",
+      "note": "主な構文：他動詞「使う」は use a tool／他動詞「利用する」は use A for B。品詞と後続する語句によって語義を判断する。 追加の構文：the use of A / in use／be used to doing / noun／used to do。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5225,8 +5215,8 @@
     {
       "word": "vary",
       "ipa": "/ˈvɛri/",
-      "guide": "「異なる」（自動詞）は対象ごとに差がある。一方、「変化させる」（他動詞）は内容に変化を持たせる。",
-      "note": "主な構文：自動詞「異なる」は vary from A to B／他動詞「変化させる」は vary a routine。品詞と後続する語句によって語義を判断する。",
+      "guide": "「異なる」（自動詞）は対象ごとに差がある。一方、「変化させる」（他動詞）は内容に変化を持たせる。 ほかの重要用法：自動詞「条件に応じて変化する」、他動詞「多様性を持たせる」。",
+      "note": "主な構文：自動詞「異なる」は vary from A to B／他動詞「変化させる」は vary a routine。品詞と後続する語句によって語義を判断する。 追加の構文：vary with / according to A／vary between A and B。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5316,8 +5306,8 @@
     {
       "word": "wait",
       "ipa": "/ˈweɪt/",
-      "guide": "「待つ」（自動詞）は待つ対象にforを使う。一方、「延期する」（自動詞）は時期が来るまで保留する。",
-      "note": "主な構文：自動詞「待つ」は wait for A／自動詞「延期する」は wait until S V。品詞と後続する語句によって語義を判断する。",
+      "guide": "「待つ」（自動詞）は待つ対象にforを使う。一方、「延期する」（自動詞）は時期が来るまで保留する。 ほかの重要用法：自動詞「〜するのが待ちきれない」、名詞「待つこと・待ち時間」。",
+      "note": "主な構文：自動詞「待つ」は wait for A／自動詞「延期する」は wait until S V。品詞と後続する語句によって語義を判断する。 追加の構文：can't wait to do／a long wait / a wait for A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5407,8 +5397,8 @@
     {
       "word": "watch",
       "ipa": "/ˈwɑtʃ/",
-      "guide": "「見る」（他動詞）は動きのある対象を注視する。一方、「見守る」（他動詞）は安全や行動を注意して見る。",
-      "note": "主な構文：他動詞「見る」は watch a movie／他動詞「見守る」は watch a child。品詞と後続する語句によって語義を判断する。",
+      "guide": "「見る」（他動詞）は動きのある対象を注視する。一方、「見守る」（他動詞）は安全や行動を注意して見る。 ほかの重要用法：他動詞「〜がするのを見守る」、名詞「腕時計・時計」、名詞「見張り・監視」、自動詞「警戒する・注意する」。",
+      "note": "主な構文：他動詞「見る」は watch a movie／他動詞「見守る」は watch a child。品詞と後続する語句によって語義を判断する。 追加の構文：watch A do / doing／a wristwatch / check one's watch／keep watch / be on watch／watch out for A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5539,8 +5529,8 @@
     {
       "word": "win",
       "ipa": "/ˈwɪn/",
-      "guide": "「勝ち取る」（他動詞）は賞・試合を勝ち取る。一方、「勝つ」（自動詞）は目的語を取らずに勝つ。",
-      "note": "主な構文：他動詞「勝ち取る」は win a prize／自動詞「勝つ」は win（自動詞）。品詞と後続する語句によって語義を判断する。",
+      "guide": "「勝ち取る」（他動詞）は賞・試合を勝ち取る。一方、「勝つ」（自動詞）は目的語を取らずに勝つ。 ほかの重要用法：他動詞「訴訟・争いで勝つ」、他動詞「人の心・支持を勝ち取る」、他動詞「賞・報酬を獲得する」。",
+      "note": "主な構文：他動詞「勝ち取る」は win a prize／自動詞「勝つ」は win（自動詞）。品詞と後続する語句によって語義を判断する。 追加の構文：win a case / battle／win A over／win an award / prize。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5648,8 +5638,8 @@
     {
       "word": "write",
       "ipa": "/ˈraɪt/",
-      "guide": "「書く」（他動詞）は文章を作成する。一方、「手紙を書く」（自動詞）は相手をtoで表す。",
-      "note": "主な構文：他動詞「書く」は write a letter／自動詞「手紙を書く」は write to a person。品詞と後続する語句によって語義を判断する。",
+      "guide": "「書く」（他動詞）は文章を作成する。一方、「手紙を書く」（自動詞）は相手をtoで表す。 ほかの重要用法：他動詞「書き留める」、他動詞「文章を書き上げる」、自動詞「文筆活動をする」。",
+      "note": "主な構文：他動詞「書く」は write a letter／自動詞「手紙を書く」は write to a person。品詞と後続する語句によって語義を判断する。 追加の構文：write A down／write up a report / results／write for a newspaper / magazine。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5757,8 +5747,8 @@
     {
       "word": "incident",
       "ipa": "/ˈɪnsədənt/",
-      "guide": "「出来事・事件」（名詞）と「騒動・衝突」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「出来事・事件」は report an incident／名詞「騒動・衝突」は a border incident。品詞と後続する語句によって語義を判断する。",
+      "guide": "「出来事・事件」（名詞）と「騒動・衝突」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「挿話・小事件」、形容詞「〜に付随する・伴う」。",
+      "note": "主な構文：名詞「出来事・事件」は report an incident／名詞「騒動・衝突」は a border incident。品詞と後続する語句によって語義を判断する。 追加の構文：an incident in a novel／incident to ownership / duties。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5848,8 +5838,8 @@
     {
       "word": "income",
       "ipa": "/ˈɪnˌkʌm/",
-      "guide": "「収入」（名詞）と「所得」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「収入」は monthly income／名詞「所得」は taxable income。品詞と後続する語句によって語義を判断する。",
+      "guide": "「収入」（名詞）と「所得」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「定期的な収入源」、名詞「可処分所得」。",
+      "note": "主な構文：名詞「収入」は monthly income／名詞「所得」は taxable income。品詞と後続する語句によって語義を判断する。 追加の構文：a source of income / income stream／disposable income。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5934,8 +5924,8 @@
     {
       "word": "incur",
       "ipa": "/ˌɪnˈkɝ/",
-      "guide": "「負担する」（他動詞）と「招く」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「負担する」は incur costs／他動詞「招く」は incur criticism。品詞と後続する語句によって語義を判断する。",
+      "guide": "「負担する」（他動詞）と「招く」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「債務・損失を負う」。",
+      "note": "主な構文：他動詞「負担する」は incur costs／他動詞「招く」は incur criticism。品詞と後続する語句によって語義を判断する。 追加の構文：incur debt / a loss。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6002,8 +5992,8 @@
     {
       "word": "inch",
       "ipa": "/ˈɪntʃ/",
-      "guide": "「インチ」（名詞）と「少しずつ進む」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「インチ」は ten inches／自動詞「少しずつ進む」は inch forward。品詞と後続する語句によって語義を判断する。",
+      "guide": "「インチ」（名詞）と「少しずつ進む」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「ほんの少しの距離」、他動詞「少しずつ動かす」。",
+      "note": "主な構文：名詞「インチ」は ten inches／自動詞「少しずつ進む」は inch forward。品詞と後続する語句によって語義を判断する。 追加の構文：every inch / not an inch／inch A forward / closer。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6148,8 +6138,8 @@
     {
       "word": "jam",
       "ipa": "/ˈdʒæm/",
-      "guide": "「渋滞」（名詞）と「ジャム」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「渋滞」は a traffic jam／名詞「ジャム」は strawberry jam。品詞と後続する語句によって語義を判断する。",
+      "guide": "「渋滞」（名詞）と「ジャム」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「困った状況・窮地」、他動詞「ぎゅうぎゅうに押し込む」、自動詞「詰まって動かなくなる」、自動詞「即興演奏をする」。",
+      "note": "主な構文：名詞「渋滞」は a traffic jam／名詞「ジャム」は strawberry jam。品詞と後続する語句によって語義を判断する。 追加の構文：be in a jam / get out of a jam／jam A into B／a door / printer jams／jam with musicians。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6280,8 +6270,8 @@
     {
       "word": "jangle",
       "ipa": "/ˈdʒæŋɡəl/",
-      "guide": "「がちゃがちゃ鳴る」（自動詞）と「神経をいら立たせる」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「がちゃがちゃ鳴る」は keys jangle／他動詞「神経をいら立たせる」は jangle one's nerves。品詞と後続する語句によって語義を判断する。",
+      "guide": "「がちゃがちゃ鳴る」（自動詞）と「神経をいら立たせる」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「金属が鳴る音」。",
+      "note": "主な構文：自動詞「がちゃがちゃ鳴る」は keys jangle／他動詞「神経をいら立たせる」は jangle one's nerves。品詞と後続する語句によって語義を判断する。 追加の構文：a jangle of keys。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6358,8 +6348,8 @@
     {
       "word": "jealous",
       "ipa": "/ˈdʒɛləs/",
-      "guide": "「嫉妬して」（形容詞）と「大切に守ろうとする」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：形容詞「嫉妬して」は jealous of A／形容詞「大切に守ろうとする」は jealous of one's privacy。品詞と後続する語句によって語義を判断する。",
+      "guide": "「嫉妬して」（形容詞）と「大切に守ろうとする」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「独占欲が強い・嫉妬深い」。",
+      "note": "主な構文：形容詞「嫉妬して」は jealous of A／形容詞「大切に守ろうとする」は jealous of one's privacy。品詞と後続する語句によって語義を判断する。 追加の構文：jealous of A's attention。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6426,8 +6416,8 @@
     {
       "word": "jeer",
       "ipa": "/ˈdʒɪr/",
-      "guide": "「あざける」（自動詞）と「やじ」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「あざける」は jeer at A／名詞「やじ」は a loud jeer。品詞と後続する語句によって語義を判断する。",
+      "guide": "「あざける」（自動詞）と「やじ」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「人をやじる・あざける」。",
+      "note": "主な構文：自動詞「あざける」は jeer at A／名詞「やじ」は a loud jeer。品詞と後続する語句によって語義を判断する。 追加の構文：jeer A off the stage。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6504,8 +6494,8 @@
     {
       "word": "jelly",
       "ipa": "/ˈdʒɛli/",
-      "guide": "「ゼリー」（名詞）と「果実ジャム（米）」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「ゼリー」は fruit jelly／名詞「果実ジャム（米）」は grape jelly。品詞と後続する語句によって語義を判断する。",
+      "guide": "「ゼリー」（名詞）と「果実ジャム（米）」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「ゼリー状の物質」、自動詞「ゼリー状に固まる」。",
+      "note": "主な構文：名詞「ゼリー」は fruit jelly／名詞「果実ジャム（米）」は grape jelly。品詞と後続する語句によって語義を判断する。 追加の構文：a clear jelly / petroleum jelly／jelly / set like jelly。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6595,8 +6585,8 @@
     {
       "word": "jet",
       "ipa": "/ˈdʒɛt/",
-      "guide": "「ジェット機」（名詞）と「噴流」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「ジェット機」は a passenger jet／名詞「噴流」は a jet of water。品詞と後続する語句によって語義を判断する。",
+      "guide": "「ジェット機」（名詞）と「噴流」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「勢いよく噴き出す」、形容詞「漆黒の」。",
+      "note": "主な構文：名詞「ジェット機」は a passenger jet／名詞「噴流」は a jet of water。品詞と後続する語句によって語義を判断する。 追加の構文：water / steam jets out／jet black。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6691,8 +6681,8 @@
     {
       "word": "jinx",
       "ipa": "/ˈdʒɪŋks/",
-      "guide": "「不運を招くもの」（名詞）と「縁起を悪くする」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「不運を招くとされるもの」は a bad jinx／他動詞「縁起を悪くする」は jinx a plan。品詞と後続する語句によって語義を判断する。",
+      "guide": "「不運を招くもの」（名詞）と「縁起を悪くする」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「不吉な縁起・ジンクス」。",
+      "note": "主な構文：名詞「不運を招くとされるもの」は a bad jinx／他動詞「縁起を悪くする」は jinx a plan。品詞と後続する語句によって語義を判断する。 追加の構文：break a jinx。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6764,8 +6754,8 @@
     {
       "word": "jive",
       "ipa": "/ˈdʒaɪv/",
-      "guide": "「ジャイブダンス」（名詞）と「でたらめな話（米俗）」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「ジャイブダンス」は dance the jive／名詞「でたらめな話（米俗）」は talk jive。品詞と後続する語句によって語義を判断する。",
+      "guide": "「ジャイブダンス」（名詞）と「でたらめな話（米俗）」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「ジャイブを踊る」。",
+      "note": "主な構文：名詞「ジャイブダンス」は dance the jive／名詞「でたらめな話（米俗）」は talk jive。品詞と後続する語句によって語義を判断する。 追加の構文：jive to the music。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6837,8 +6827,8 @@
     {
       "word": "job",
       "ipa": "/ˈdʒɑb/",
-      "guide": "「仕事」（名詞）と「作業・任務」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「仕事」は find a job／名詞「作業・任務」は a difficult job。品詞と後続する語句によって語義を判断する。",
+      "guide": "「仕事」（名詞）と「作業・任務」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「職務・職業」、名詞「出来栄え・仕事の成果」。",
+      "note": "主な構文：名詞「仕事」は find a job／名詞「作業・任務」は a difficult job。品詞と後続する語句によって語義を判断する。 追加の構文：a full-time job / job security／do a good job。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6923,8 +6913,8 @@
     {
       "word": "judge",
       "ipa": "/ˈdʒʌdʒ/",
-      "guide": "「裁判官」（名詞）と「判断する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「裁判官」は a district judge／他動詞「判断する」は judge a case。品詞と後続する語句によって語義を判断する。",
+      "guide": "「裁判官」（名詞）と「判断する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「審査員・審判」、他動詞「審査する・評価する」、他動詞「〜から判断する」。",
+      "note": "主な構文：名詞「裁判官」は a district judge／他動詞「判断する」は judge a case。品詞と後続する語句によって語義を判断する。 追加の構文：a contest judge / judging panel／judge a competition／judge A by B。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7032,8 +7022,8 @@
     {
       "word": "justice",
       "ipa": "/ˈdʒʌstəs/",
-      "guide": "「正義・公正」（名詞）と「司法」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「正義・公正」は fight for justice／名詞「司法」は the justice system。品詞と後続する語句によって語義を判断する。",
+      "guide": "「正義・公正」（名詞）と「司法」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「裁判官（高等裁判所など）」、名詞「正当な扱い・正当な評価」。",
+      "note": "主な構文：名詞「正義・公正」は fight for justice／名詞「司法」は the justice system。品詞と後続する語句によって語義を判断する。 追加の構文：a Supreme Court justice／do justice to A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7118,8 +7108,8 @@
     {
       "word": "karma",
       "ipa": "/ˈkɑrmə/",
-      "guide": "「業・因果応報」（名詞）と「自業自得の結果」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「業・因果応報」は the law of karma／名詞「自業自得の結果」は bad karma。品詞と後続する語句によって語義を判断する。",
+      "guide": "「業・因果応報」（名詞）と「自業自得の結果」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「行為の結果という思想」。",
+      "note": "主な構文：名詞「業・因果応報」は the law of karma／名詞「自業自得の結果」は bad karma。品詞と後続する語句によって語義を判断する。 追加の構文：the idea of karma。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7186,8 +7176,8 @@
     {
       "word": "keenly",
       "ipa": "/ˈkinli/",
-      "guide": "「鋭く」（副詞）と「熱心に」（副詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：副詞「鋭く」は keenly aware／副詞「熱心に」は keenly interested。品詞と後続する語句によって語義を判断する。",
+      "guide": "「鋭く」（副詞）と「熱心に」（副詞）を、構文と文脈で使い分ける。 ほかの重要用法：副詞「強く・痛切に」。",
+      "note": "主な構文：副詞「鋭く」は keenly aware／副詞「熱心に」は keenly interested。品詞と後続する語句によって語義を判断する。 追加の構文：keenly felt / disappointed。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7304,8 +7294,8 @@
     {
       "word": "kindle",
       "ipa": "/ˈkɪndəl/",
-      "guide": "「火をつける」（他動詞）と「かき立てる」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「火をつける」は kindle a fire／他動詞「かき立てる」は kindle interest。品詞と後続する語句によって語義を判断する。",
+      "guide": "「火をつける」（他動詞）と「かき立てる」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「輝かせる・生き生きさせる」、自動詞「燃え始める・灯る」。",
+      "note": "主な構文：他動詞「火をつける」は kindle a fire／他動詞「かき立てる」は kindle interest。品詞と後続する語句によって語義を判断する。 追加の構文：kindle a smile / light／a flame / fire kindles。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7395,8 +7385,8 @@
     {
       "word": "kindred",
       "ipa": "/ˈkɪndrɪd/",
-      "guide": "「親族」（名詞）と「同類の」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「親族」は friends and kindred／形容詞「同類の」は kindred spirits。品詞と後続する語句によって語義を判断する。",
+      "guide": "「親族」（名詞）と「同類の」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「同じ起源・性質の」。",
+      "note": "主な構文：名詞「親族」は friends and kindred／形容詞「同類の」は kindred spirits。品詞と後続する語句によって語義を判断する。 追加の構文：kindred ideas / groups。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7468,8 +7458,8 @@
     {
       "word": "kingdom",
       "ipa": "/ˈkɪŋdəm/",
-      "guide": "「王国」（名詞）と「界（生物分類）」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「王国」は an ancient kingdom／名詞「界（生物分類）」は the animal kingdom。品詞と後続する語句によって語義を判断する。",
+      "guide": "「王国」（名詞）と「界（生物分類）」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「分野・領域・世界」、名詞「神の国・天国」。",
+      "note": "主な構文：名詞「王国」は an ancient kingdom／名詞「界（生物分類）」は the animal kingdom。品詞と後続する語句によって語義を判断する。 追加の構文：the kingdom of science / art／the kingdom of heaven。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7554,8 +7544,8 @@
     {
       "word": "knit",
       "ipa": "/ˈnɪt/",
-      "guide": "「編む」（他動詞）と「結びつける」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「編む」は knit a scarf／他動詞「結びつける」は knit a community together。品詞と後続する語句によって語義を判断する。",
+      "guide": "「編む」（他動詞）と「結びつける」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「眉をひそめる」、自動詞「編み物をする」。",
+      "note": "主な構文：他動詞「編む」は knit a scarf／他動詞「結びつける」は knit a community together。品詞と後続する語句によって語義を判断する。 追加の構文：knit one's brows／knit in one's free time。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7645,8 +7635,8 @@
     {
       "word": "knuckle",
       "ipa": "/ˈnʌkəl/",
-      "guide": "「指の関節」（名詞）と「本腰を入れる」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「指の関節」は a bruised knuckle／自動詞「本腰を入れる」は knuckle down to A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「指の関節」（名詞）と「本腰を入れる」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「屈服する・従う」。",
+      "note": "主な構文：名詞「指の関節」は a bruised knuckle／自動詞「本腰を入れる」は knuckle down to A。品詞と後続する語句によって語義を判断する。 追加の構文：knuckle under to A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7718,8 +7708,8 @@
     {
       "word": "lace",
       "ipa": "/ˈleɪs/",
-      "guide": "「レース生地」（名詞）と「ひもで締める」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「レース生地」は a lace dress／他動詞「ひもで締める」は lace one's shoes。品詞と後続する語句によって語義を判断する。",
+      "guide": "「レース生地」（名詞）と「ひもで締める」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「靴ひも・衣服のひも」、他動詞「〜を混ぜ込む」。",
+      "note": "主な構文：名詞「レース生地」は a lace dress／他動詞「ひもで締める」は lace one's shoes。品詞と後続する語句によって語義を判断する。 追加の構文：a shoelace / a lace／lace A with B。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7809,8 +7799,8 @@
     {
       "word": "lacquer",
       "ipa": "/ˈlækɚ/",
-      "guide": "「漆・ラッカー」（名詞）と「塗装する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「漆・ラッカー」は a lacquer finish／他動詞「塗装する」は lacquer wood。品詞と後続する語句によって語義を判断する。",
+      "guide": "「漆・ラッカー」（名詞）と「塗装する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「漆器・ラッカー製品」。",
+      "note": "主な構文：名詞「漆・ラッカー」は a lacquer finish／他動詞「塗装する」は lacquer wood。品詞と後続する語句によって語義を判断する。 追加の構文：traditional lacquerware。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7882,8 +7872,8 @@
     {
       "word": "ladle",
       "ipa": "/ˈleɪdəl/",
-      "guide": "「おたま」（名詞）と「すくってよそう」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「おたま」は a soup ladle／他動詞「すくってよそう」は ladle soup into bowls。品詞と後続する語句によって語義を判断する。",
+      "guide": "「おたま」（名詞）と「すくってよそう」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「すくい上げる・分ける」。",
+      "note": "主な構文：名詞「おたま」は a soup ladle／他動詞「すくってよそう」は ladle soup into bowls。品詞と後続する語句によって語義を判断する。 追加の構文：ladle A out / into B。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -7955,8 +7945,8 @@
     {
       "word": "lament",
       "ipa": "/ləˈmɛnt/",
-      "guide": "「嘆く」（他動詞）と「嘆きの歌」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「嘆く」は lament a loss／名詞「嘆きの歌」は a lament for the dead。品詞と後続する語句によって語義を判断する。",
+      "guide": "「嘆く」（他動詞）と「嘆きの歌」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「嘆き・悲嘆」、自動詞「〜を嘆き悲しむ」。",
+      "note": "主な構文：他動詞「嘆く」は lament a loss／名詞「嘆きの歌」は a lament for the dead。品詞と後続する語句によって語義を判断する。 追加の構文：a lament for A／lament for / over A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8051,8 +8041,8 @@
     {
       "word": "lampoon",
       "ipa": "/læmˈpun/",
-      "guide": "「風刺する」（他動詞）と「風刺文」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「風刺する」は lampoon a politician／名詞「風刺文」は a sharp lampoon。品詞と後続する語句によって語義を判断する。",
+      "guide": "「風刺する」（他動詞）と「風刺文」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「風刺的な作品」。",
+      "note": "主な構文：他動詞「風刺する」は lampoon a politician／名詞「風刺文」は a sharp lampoon。品詞と後続する語句によって語義を判断する。 追加の構文：a political lampoon。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8143,6 +8133,14 @@
                 {
                   "en": "The landlord agreed to repair the heating.",
                   "ja": "家主は暖房を修理することに同意した。"
+                },
+                {
+                  "en": "The landlord must maintain the building safely.",
+                  "ja": "貸主は建物を安全に維持する必要がある。"
+                },
+                {
+                  "en": "She contacted the landlord about the heating.",
+                  "ja": "彼女は暖房について大家に連絡した。"
                 }
               ],
               "label": "",
@@ -8166,24 +8164,6 @@
               "label": "",
               "contrast": "",
               "register": ""
-            },
-            {
-              "jp": "賃貸物件の貸主",
-              "pattern": "a residential landlord",
-              "tip": "家や土地を貸す側の人。",
-              "examples": [
-                {
-                  "en": "The landlord must maintain the building safely.",
-                  "ja": "貸主は建物を安全に維持する必要がある。"
-                },
-                {
-                  "en": "She contacted the landlord about the heating.",
-                  "ja": "彼女は暖房について大家に連絡した。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
             }
           ]
         }
@@ -8192,8 +8172,8 @@
     {
       "word": "lane",
       "ipa": "/ˈleɪn/",
-      "guide": "「車線」（名詞）と「小道」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「車線」は the left lane／名詞「小道」は a country lane。品詞と後続する語句によって語義を判断する。",
+      "guide": "「車線」（名詞）と「小道」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「水泳・ボウリングのレーン」、名詞「船舶・航空機の航路」。",
+      "note": "主な構文：名詞「車線」は the left lane／名詞「小道」は a country lane。品詞と後続する語句によって語義を判断する。 追加の構文：a swimming lane / bowling lane／a shipping lane / air lane。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8278,8 +8258,8 @@
     {
       "word": "languish",
       "ipa": "/ˈlæŋɡwɪʃ/",
-      "guide": "「衰弱する」（自動詞）と「長く苦しい状態にある」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「衰弱する」は languish without water／自動詞「長く苦しい状態にある」は languish in prison。品詞と後続する語句によって語義を判断する。",
+      "guide": "「衰弱する」（自動詞）と「長く苦しい状態にある」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「放置され停滞する」、自動詞「〜を恋しく思う・切望する」。",
+      "note": "主な構文：自動詞「衰弱する」は languish without water／自動詞「長く苦しい状態にある」は languish in prison。品詞と後続する語句によって語義を判断する。 追加の構文：languish in committee / obscurity／languish for A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8364,8 +8344,8 @@
     {
       "word": "laurel",
       "ipa": "/ˈlɔrəl/",
-      "guide": "「月桂樹」（名詞）と「栄誉」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「月桂樹」は a laurel tree／名詞「栄誉」は rest on one's laurels。品詞と後続する語句によって語義を判断する。",
+      "guide": "「月桂樹」（名詞）と「栄誉」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「月桂冠」、名詞「栄誉・功績」。",
+      "note": "主な構文：名詞「月桂樹」は a laurel tree／名詞「栄誉」は rest on one's laurels。品詞と後続する語句によって語義を判断する。 追加の構文：a laurel wreath / crown／win laurels / rest on one's laurels。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8450,8 +8430,8 @@
     {
       "word": "law",
       "ipa": "/ˈlɔ/",
-      "guide": "「法律」（名詞）と「自然法則」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「法律」は break the law／名詞「自然法則」は a law of physics。品詞と後続する語句によって語義を判断する。",
+      "guide": "「法律」（名詞）と「自然法則」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「法学・法律学」、名詞「警察・法執行機関」、名詞「規則・不文律」。",
+      "note": "主な構文：名詞「法律」は break the law／名詞「自然法則」は a law of physics。品詞と後続する語句によって語義を判断する。 追加の構文：study law / a law degree／the law / on the wrong side of the law／an unwritten law / the laws of the game。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8554,8 +8534,8 @@
     {
       "word": "lax",
       "ipa": "/ˈlæks/",
-      "guide": "「規律が緩い」（形容詞）と「不注意な」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：形容詞「規律が緩い」は lax security／形容詞「不注意な」は lax about rules。品詞と後続する語句によって語義を判断する。",
+      "guide": "「規律が緩い」（形容詞）と「不注意な」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「緩い・締まりのない」。",
+      "note": "主な構文：形容詞「規律が緩い」は lax security／形容詞「不注意な」は lax about rules。品詞と後続する語句によって語義を判断する。 追加の構文：lax muscles / a lax attitude。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8622,8 +8602,8 @@
     {
       "word": "lean",
       "ipa": "/ˈlin/",
-      "guide": "「寄りかかる」（自動詞）と「脂肪の少ない」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「寄りかかる」は lean against a wall／形容詞「脂肪の少ない」は lean meat。品詞と後続する語句によって語義を判断する。",
+      "guide": "「寄りかかる」（自動詞）と「脂肪の少ない」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「意見が傾く」、自動詞「人に頼る」、形容詞「やせた・無駄がない」。",
+      "note": "主な構文：自動詞「寄りかかる」は lean against a wall／形容詞「脂肪の少ない」は lean meat。品詞と後続する語句によって語義を判断する。 追加の構文：lean toward A／lean on A for support／a lean figure / lean organization。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8831,8 +8811,8 @@
     {
       "word": "legend",
       "ipa": "/ˈlɛdʒənd/",
-      "guide": "「伝説」（名詞）と「凡例」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「伝説」は an ancient legend／名詞「凡例」は a map legend。品詞と後続する語句によって語義を判断する。",
+      "guide": "「伝説」（名詞）と「凡例」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「伝説的な人物」。",
+      "note": "主な構文：名詞「伝説」は an ancient legend／名詞「凡例」は a map legend。品詞と後続する語句によって語義を判断する。 追加の構文：a sporting legend / a living legend。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8899,8 +8879,8 @@
     {
       "word": "lemon",
       "ipa": "/ˈlɛmən/",
-      "guide": "「レモン」（名詞）と「欠陥品（米俗）」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「レモン」は squeeze a lemon／名詞「欠陥品（米俗）」は a used-car lemon。品詞と後続する語句によって語義を判断する。",
+      "guide": "「レモン」（名詞）と「欠陥品（米俗）」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「淡い黄色・レモン色」。",
+      "note": "主な構文：名詞「レモン」は squeeze a lemon／名詞「欠陥品（米俗）」は a used-car lemon。品詞と後続する語句によって語義を判断する。 追加の構文：lemon yellow / lemon-colored。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -8967,8 +8947,8 @@
     {
       "word": "liability",
       "ipa": "/ˌlaɪəˈbɪlɪti/",
-      "guide": "「法的責任」（名詞）と「足手まとい」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「法的責任」は legal liability／名詞「足手まとい」は be a liability。品詞と後続する語句によって語義を判断する。",
+      "guide": "「法的責任」（名詞）と「足手まとい」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「負債・債務」、名詞「〜しがちな傾向」。",
+      "note": "主な構文：名詞「法的責任」は legal liability／名詞「足手まとい」は be a liability。品詞と後続する語句によって語義を判断する。 追加の構文：assets and liabilities／liability to do / to A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9053,8 +9033,8 @@
     {
       "word": "libel",
       "ipa": "/ˈlaɪbəl/",
-      "guide": "「文書による名誉毀損」（名詞）と「文書で中傷する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「文書による名誉毀損」は file a libel suit／他動詞「文書で中傷する」は libel a person。品詞と後続する語句によって語義を判断する。",
+      "guide": "「文書による名誉毀損」（名詞）と「文書で中傷する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「中傷記事・名誉毀損の記述」。",
+      "note": "主な構文：名詞「文書による名誉毀損」は file a libel suit／他動詞「文書で中傷する」は libel a person。品詞と後続する語句によって語義を判断する。 追加の構文：a libel against A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9126,8 +9106,8 @@
     {
       "word": "lick",
       "ipa": "/ˈlɪk/",
-      "guide": "「なめる」（他動詞）と「打ち負かす（口語）」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「なめる」は lick an ice cream／他動詞「打ち負かす（口語）」は lick an opponent。品詞と後続する語句によって語義を判断する。",
+      "guide": "「なめる」（他動詞）と「打ち負かす（口語）」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「炎・波がなめるように触れる」、名詞「一なめ・少量」。",
+      "note": "主な構文：他動詞「なめる」は lick an ice cream／他動詞「打ち負かす（口語）」は lick an opponent。品詞と後続する語句によって語義を判断する。 追加の構文：flames lick A／give A a lick / a lick of paint。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9267,8 +9247,8 @@
     {
       "word": "list",
       "ipa": "/ˈlɪst/",
-      "guide": "「一覧」（名詞）と「傾く」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「一覧」は a shopping list／自動詞「傾く」は a ship lists。品詞と後続する語句によって語義を判断する。",
+      "guide": "「一覧」（名詞）と「傾く」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「傾斜・傾き」、他動詞「項目を列挙する」、他動詞「名簿・目録に載せる」。",
+      "note": "主な構文：名詞「一覧」は a shopping list／自動詞「傾く」は a ship lists。品詞と後続する語句によって語義を判断する。 追加の構文：a ship with a list／list A / list A as B／be listed as / listed for sale。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9431,8 +9411,8 @@
     {
       "word": "mail",
       "ipa": "/ˈmeɪl/",
-      "guide": "「郵便物」（名詞）と「郵送する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「郵便物」は receive mail／他動詞「郵送する」は mail a package。品詞と後続する語句によって語義を判断する。",
+      "guide": "「郵便物」（名詞）と「郵送する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「鎖かたびら・金属の鎧」、他動詞「人に郵送する」。",
+      "note": "主な構文：名詞「郵便物」は receive mail／他動詞「郵送する」は mail a package。品詞と後続する語句によって語義を判断する。 追加の構文：chain mail / a mail shirt／mail A B / mail B to A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9522,8 +9502,8 @@
     {
       "word": "majesty",
       "ipa": "/ˈmædʒəsti/",
-      "guide": "「威厳」（名詞）と「陛下」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「威厳」は the majesty of nature／名詞「陛下」は Your Majesty。品詞と後続する語句によって語義を判断する。",
+      "guide": "「威厳」（名詞）と「陛下」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「威光・至高の権威」。",
+      "note": "主な構文：名詞「威厳」は the majesty of nature／名詞「陛下」は Your Majesty。品詞と後続する語句によって語義を判断する。 追加の構文：the majesty of the law / throne。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9627,17 +9607,7 @@
                 {
                   "en": "A malignant campaign of rumors damaged the organization.",
                   "ja": "悪意あるうわさの拡散活動がその団体に損害を与えた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "有害なほど敵意に満ちた",
-              "pattern": "malignant hatred / influence",
-              "tip": "他人に害を与えようとする強い悪意を表す。",
-              "examples": [
+                },
                 {
                   "en": "Malignant rumors damaged the candidate's reputation.",
                   "ja": "悪意に満ちたうわさが候補者の評判を傷つけた。"
@@ -9700,17 +9670,7 @@
                 {
                   "en": "Building the bridge was a mammoth undertaking.",
                   "ja": "その橋を建設するのは非常に大規模な事業だった。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "とてつもなく大規模な",
-              "pattern": "a mammoth undertaking / amount",
-              "tip": "物理的な大きさ以外の仕事・費用にも使う。",
-              "examples": [
+                },
                 {
                   "en": "Renovating the station was a mammoth undertaking.",
                   "ja": "駅の改修は途方もなく大規模な事業だった。"
@@ -9731,8 +9691,8 @@
     {
       "word": "mandate",
       "ipa": "/ˈmænˌdeɪt/",
-      "guide": "「権限・委任」（名詞）と「義務づける」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「権限・委任」は an electoral mandate／他動詞「義務づける」は mandate safety checks。品詞と後続する語句によって語義を判断する。",
+      "guide": "「権限・委任」（名詞）と「義務づける」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「正式な命令・指令」、名詞「選挙で与えられた信任」。",
+      "note": "主な構文：名詞「権限・委任」は an electoral mandate／他動詞「義務づける」は mandate safety checks。品詞と後続する語句によって語義を判断する。 追加の構文：issue a mandate / under a mandate／a mandate from voters / for reform。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9872,8 +9832,8 @@
     {
       "word": "march",
       "ipa": "/ˈmɑrtʃ/",
-      "guide": "「行進する」（自動詞）と「行進・デモ」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「行進する」は march through a city／名詞「行進・デモ」は a protest march。品詞と後続する語句によって語義を判断する。",
+      "guide": "「行進する」（自動詞）と「行進・デモ」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「時が着実に進む」、名詞「3月」、名詞「行進曲」。",
+      "note": "主な構文：自動詞「行進する」は march through a city／名詞「行進・デモ」は a protest march。品詞と後続する語句によって語義を判断する。 追加の構文：time marches on／in March / March 15／a military march / play a march。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -9981,8 +9941,8 @@
     {
       "word": "marine",
       "ipa": "/mɚˈin/",
-      "guide": "「海の」（形容詞）と「海兵隊員」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：形容詞「海の」は marine life／名詞「海兵隊員」は a former marine。品詞と後続する語句によって語義を判断する。",
+      "guide": "「海の」（形容詞）と「海兵隊員」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「船舶・海運に関する」、名詞「海運船舶の総体」。",
+      "note": "主な構文：形容詞「海の」は marine life／名詞「海兵隊員」は a former marine。品詞と後続する語句によって語義を判断する。 追加の構文：marine insurance / engineering／the merchant marine。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10072,8 +10032,8 @@
     {
       "word": "market",
       "ipa": "/ˈmɑrkət/",
-      "guide": "「市場」（名詞）と「販売促進する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「市場」は a local market／他動詞「販売促進する」は market a product。品詞と後続する語句によって語義を判断する。",
+      "guide": "「市場」（名詞）と「販売促進する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「金融市場・株式市場」、名詞「需要・販路」、名詞「売りに出されていること」。",
+      "note": "主な構文：名詞「市場」は a local market／他動詞「販売促進する」は market a product。品詞と後続する語句によって語義を判断する。 追加の構文：the stock market / financial markets／a market for A / find a market／on the market / put A on the market。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10181,8 +10141,8 @@
     {
       "word": "markup",
       "ipa": "/ˈmɑrˌkʌp/",
-      "guide": "「価格への上乗せ額」（名詞）と「注記・マークアップ」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「価格への上乗せ額」は a retail markup／名詞「注記・マークアップ」は HTML markup。品詞と後続する語句によって語義を判断する。",
+      "guide": "「価格への上乗せ額」（名詞）と「注記・マークアップ」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「原価に対する上乗せ率」。",
+      "note": "主な構文：名詞「価格への上乗せ額」は a retail markup／名詞「注記・マークアップ」は HTML markup。品詞と後続する語句によって語義を判断する。 追加の構文：a markup of 20 percent。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10249,8 +10209,8 @@
     {
       "word": "marquee",
       "ipa": "/mɑrˈki/",
-      "guide": "「大型テント」（名詞）と「劇場の看板」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「大型テント」は a festival marquee／名詞「劇場の看板」は a theater marquee。品詞と後続する語句によって語義を判断する。",
+      "guide": "「大型テント」（名詞）と「劇場の看板」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「入口の張り出し屋根・ひさし」、形容詞「看板となる・目玉の」。",
+      "note": "主な構文：名詞「大型テント」は a festival marquee／名詞「劇場の看板」は a theater marquee。品詞と後続する語句によって語義を判断する。 追加の構文：under the marquee of a theater／a marquee player / event。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10340,8 +10300,8 @@
     {
       "word": "marriage",
       "ipa": "/ˈmɛrɪdʒ/",
-      "guide": "「結婚」（名詞）と「結合」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「結婚」は a happy marriage／名詞「結合」は a marriage of art and technology。品詞と後続する語句によって語義を判断する。",
+      "guide": "「結婚」（名詞）と「結合」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「結婚式・婚礼」、名詞「結婚生活・夫婦関係」。",
+      "note": "主な構文：名詞「結婚」は a happy marriage／名詞「結合」は a marriage of art and technology。品詞と後続する語句によって語義を判断する。 追加の構文：a wedding marriage ceremony／a happy marriage / marriage counseling。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10426,8 +10386,8 @@
     {
       "word": "mechanism",
       "ipa": "/ˈmɛkəˌnɪzəm/",
-      "guide": "「機械的な仕組み」（名詞）と「作用の仕組み」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「機械的な仕組み」は a locking mechanism／名詞「作用の仕組み」は the mechanism of a disease。品詞と後続する語句によって語義を判断する。",
+      "guide": "「機械的な仕組み」（名詞）と「作用の仕組み」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「機械装置・機構」、名詞「手続き・解決の仕組み」。",
+      "note": "主な構文：名詞「機械的な仕組み」は a locking mechanism／名詞「作用の仕組み」は the mechanism of a disease。品詞と後続する語句によって語義を判断する。 追加の構文：a locking / winding mechanism／a dispute-resolution mechanism。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10512,8 +10472,8 @@
     {
       "word": "media",
       "ipa": "/ˈmidiə/",
-      "guide": "「報道機関・メディア」（名詞）と「媒体」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「報道機関・メディア」は the news media／名詞「媒体」は digital media。品詞と後続する語句によって語義を判断する。",
+      "guide": "「報道機関・メディア」（名詞）と「媒体」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「表現・伝達に用いる媒体の複数形」、名詞「培地の複数形」。",
+      "note": "主な構文：名詞「報道機関・メディア」は the news media／名詞「媒体」は digital media。品詞と後続する語句によって語義を判断する。 追加の構文：various media / print media／culture media。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10598,8 +10558,8 @@
     {
       "word": "mediate",
       "ipa": "/ˈmidiˌeɪt/",
-      "guide": "「仲裁する」（自動詞）と「仲介する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「仲裁する」は mediate between A and B／他動詞「仲介する」は mediate a settlement。品詞と後続する語句によって語義を判断する。",
+      "guide": "「仲裁する」（自動詞）と「仲介する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「作用を仲介・媒介する」。",
+      "note": "主な構文：自動詞「仲裁する」は mediate between A and B／他動詞「仲介する」は mediate a settlement。品詞と後続する語句によって語義を判断する。 追加の構文：mediate an effect / response。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10671,8 +10631,8 @@
     {
       "word": "medium",
       "ipa": "/ˈmidiəm/",
-      "guide": "「媒体」（名詞）と「中くらいの」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「媒体」は a medium of communication／形容詞「中くらいの」は a medium size。品詞と後続する語句によって語義を判断する。",
+      "guide": "「媒体」（名詞）と「中くらいの」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「芸術表現の手法・素材」、名詞「培地・媒質」、名詞「霊媒師」、名詞「中くらいのサイズ」。",
+      "note": "主な構文：名詞「媒体」は a medium of communication／形容詞「中くらいの」は a medium size。品詞と後続する語句によって語義を判断する。 追加の構文：an artistic medium / medium of expression／a growth medium / culture medium／a spiritual medium／a medium / small or medium。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10798,8 +10758,8 @@
     {
       "word": "memory",
       "ipa": "/ˈmɛmɚi/",
-      "guide": "「記憶力」（名詞）と「思い出」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「記憶力」は a good memory／名詞「思い出」は a childhood memory。品詞と後続する語句によって語義を判断する。",
+      "guide": "「記憶力」（名詞）と「思い出」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「コンピューターの記憶領域」、名詞「追悼・記念」、名詞「記憶に残っている状態」。",
+      "note": "主な構文：名詞「記憶力」は a good memory／名詞「思い出」は a childhood memory。品詞と後続する語句によって語義を判断する。 追加の構文：computer memory / available memory／in memory of A／within living memory。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10902,8 +10862,8 @@
     {
       "word": "menace",
       "ipa": "/ˈmɛnəs/",
-      "guide": "「脅威」（名詞）と「脅かす」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「脅威」は a serious menace／他動詞「脅かす」は menace a community。品詞と後続する語句によって語義を判断する。",
+      "guide": "「脅威」（名詞）と「脅かす」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「厄介者・迷惑な存在」。",
+      "note": "主な構文：名詞「脅威」は a serious menace／他動詞「脅かす」は menace a community。品詞と後続する語句によって語義を判断する。 追加の構文：a public menace / little menace。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -10975,8 +10935,8 @@
     {
       "word": "narrate",
       "ipa": "/ˈnɛˌreɪt/",
-      "guide": "「物語を語る」（他動詞）と「ナレーションをする」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「物語を語る」は narrate a story／他動詞「ナレーションをする」は narrate a documentary。品詞と後続する語句によって語義を判断する。",
+      "guide": "「物語を語る」（他動詞）と「ナレーションをする」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「出来事を順に説明する」。",
+      "note": "主な構文：他動詞「物語を語る」は narrate a story／他動詞「ナレーションをする」は narrate a documentary。品詞と後続する語句によって語義を判断する。 追加の構文：narrate events / experiences。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11043,8 +11003,8 @@
     {
       "word": "nation",
       "ipa": "/ˈneɪʃən/",
-      "guide": "「国家」（名詞）と「国民」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「国家」は a small nation／名詞「国民」は address the nation。品詞と後続する語句によって語義を判断する。",
+      "guide": "「国家」（名詞）と「国民」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「民族・共同体」。",
+      "note": "主な構文：名詞「国家」は a small nation／名詞「国民」は address the nation。品詞と後続する語句によって語義を判断する。 追加の構文：an Indigenous nation / a nation with shared traditions。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11111,8 +11071,8 @@
     {
       "word": "navigate",
       "ipa": "/ˈnævəˌɡeɪt/",
-      "guide": "「航行する」（他動詞）と「難局を切り抜ける」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「航行する」は navigate a river／他動詞「難局を切り抜ける」は navigate a crisis。品詞と後続する語句によって語義を判断する。",
+      "guide": "「航行する」（他動詞）と「難局を切り抜ける」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「ウェブサイトを操作して移動する」、自動詞「方角を判断して進む」。",
+      "note": "主な構文：他動詞「航行する」は navigate a river／他動詞「難局を切り抜ける」は navigate a crisis。品詞と後続する語句によって語義を判断する。 追加の構文：navigate a website / menu／navigate by the stars / without GPS。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11202,8 +11162,8 @@
     {
       "word": "near",
       "ipa": "/ˈnɪr/",
-      "guide": "「〜の近くに」（前置詞）と「近い」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：前置詞「〜の近くに」は near the station／形容詞「近い」は the nearest store。品詞と後続する語句によって語義を判断する。",
+      "guide": "「〜の近くに」（前置詞）と「近い」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「身近な・親しい」、副詞「ほぼ・ほとんど」、他動詞「〜に近づく」。",
+      "note": "主な構文：前置詞「〜の近くに」は near the station／形容詞「近い」は the nearest store。品詞と後続する語句によって語義を判断する。 追加の構文：a near relative / near relations／near impossible / near complete／near a destination / completion。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11252,7 +11212,7 @@
             },
             {
               "jp": "身近な・親しい",
-              "pattern": "a near relative / near friend",
+              "pattern": "a near relative / near relations",
               "tip": "関係が密接なことを表す。",
               "examples": [
                 {
@@ -11260,8 +11220,8 @@
                   "ja": "彼女はごく近しい親族だけを招いた。"
                 },
                 {
-                  "en": "The two families developed a near bond through years of friendship.",
-                  "ja": "二つの家族は長年の友情を通して親密な絆を築いた。"
+                  "en": "A near relative agreed to look after the child.",
+                  "ja": "近親者がその子の世話をすることに同意した。"
                 }
               ],
               "label": "",
@@ -11275,16 +11235,16 @@
           "senses": [
             {
               "jp": "ほぼ・ほとんど",
-              "pattern": "near enough / near impossible",
-              "tip": "主に特定の表現でnearlyに近い意味。",
+              "pattern": "near impossible / near complete",
+              "tip": "一部の表現でnearlyと同じく「ほとんど」を示す。通常の「近い」と区別する。",
               "examples": [
                 {
                   "en": "The task is near impossible without proper tools.",
                   "ja": "適切な道具がなければその作業はほぼ不可能だ。"
                 },
                 {
-                  "en": "We were near enough to hear the announcement.",
-                  "ja": "私たちは放送が聞こえるほど近くにいた。"
+                  "en": "The repairs were near complete by Friday.",
+                  "ja": "金曜日までに修理はほぼ完了していた。"
                 }
               ],
               "label": "",
@@ -11321,8 +11281,8 @@
     {
       "word": "news",
       "ipa": "/ˈnuz/",
-      "guide": "「ニュース・報道」（名詞）と「知らせ」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「ニュース・報道」は watch the news／名詞「知らせ」は good news。品詞と後続する語句によって語義を判断する。",
+      "guide": "「ニュース・報道」（名詞）と「知らせ」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「ニュースになるほどの話題」、名詞「不可算名詞としての知らせ」。",
+      "note": "主な構文：名詞「ニュース・報道」は watch the news／名詞「知らせ」は good news。品詞と後続する語句によって語義を判断する。 追加の構文：make the news / be in the news／a piece of news / some news。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11426,6 +11386,14 @@
                 {
                   "en": "The report explores the nexus between health and housing.",
                   "ja": "その報告書は健康と住環境の関連を探っている。"
+                },
+                {
+                  "en": "The research found a nexus of social and economic factors.",
+                  "ja": "研究は社会的要因と経済的要因の結びつきを明らかにした。"
+                },
+                {
+                  "en": "The case revealed a nexus between policy and practice.",
+                  "ja": "その事例は政策と実務の関連を浮かび上がらせた。"
                 }
               ],
               "label": "",
@@ -11449,24 +11417,6 @@
               "label": "",
               "contrast": "",
               "register": ""
-            },
-            {
-              "jp": "問題同士の結びつき",
-              "pattern": "a nexus of causes / interests",
-              "tip": "複数の要因が関係し合う構造を指す。",
-              "examples": [
-                {
-                  "en": "The research found a nexus of social and economic factors.",
-                  "ja": "研究は社会的要因と経済的要因の結びつきを明らかにした。"
-                },
-                {
-                  "en": "The case revealed a nexus between policy and practice.",
-                  "ja": "その事例は政策と実務の関連を浮かび上がらせた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
             }
           ]
         }
@@ -11475,8 +11425,8 @@
     {
       "word": "noble",
       "ipa": "/ˈnoʊbəl/",
-      "guide": "「高潔な」（形容詞）と「貴族の」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：形容詞「高潔な」は a noble act／形容詞「貴族の」は a noble family。品詞と後続する語句によって語義を判断する。",
+      "guide": "「高潔な」（形容詞）と「貴族の」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「壮大な・気高い印象の」、形容詞「腐食しにくい（貴金属の）」、名詞「貴族・高貴な身分の人」。",
+      "note": "主な構文：形容詞「高潔な」は a noble act／形容詞「貴族の」は a noble family。品詞と後続する語句によって語義を判断する。 追加の構文：a noble building / landscape／a noble metal／a noble / nobles。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11584,8 +11534,8 @@
     {
       "word": "nonsense",
       "ipa": "/ˈnɑnsɛns/",
-      "guide": "「意味不明な言葉」（名詞）と「ばかげたこと」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「意味不明な言葉」は talk nonsense／名詞「ばかげたこと」は complete nonsense。品詞と後続する語句によって語義を判断する。",
+      "guide": "「意味不明な言葉」（名詞）と「ばかげたこと」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「意味のない・でたらめの」。",
+      "note": "主な構文：名詞「意味不明な言葉」は talk nonsense／名詞「ばかげたこと」は complete nonsense。品詞と後続する語句によって語義を判断する。 追加の構文：a nonsense word / syllable。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11657,8 +11607,8 @@
     {
       "word": "note",
       "ipa": "/ˈnoʊt/",
-      "guide": "「メモ」（名詞）と「音符・音」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「メモ」は take notes／名詞「音符・音」は a high note。品詞と後続する語句によって語義を判断する。",
+      "guide": "「メモ」（名詞）と「音符・音」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「注釈・脚注」、名詞「声・感情の調子」、名詞「紙幣・手形」、他動詞「書き留める・記録する」、他動詞「注目する・気づく」。",
+      "note": "主な構文：名詞「メモ」は take notes／名詞「音符・音」は a high note。品詞と後続する語句によって語義を判断する。 追加の構文：a footnote / a note to a chapter／a note of concern / sadness／a banknote / promissory note／note down / note A／note that S V / note A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11802,8 +11752,8 @@
     {
       "word": "nourish",
       "ipa": "/ˈnɝɪʃ/",
-      "guide": "「栄養を与える」（他動詞）と「育む」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「栄養を与える」は nourish a child／他動詞「育む」は nourish an idea。品詞と後続する語句によって語義を判断する。",
+      "guide": "「栄養を与える」（他動詞）と「育む」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「感情・考えを心に抱き続ける」。",
+      "note": "主な構文：他動詞「栄養を与える」は nourish a child／他動詞「育む」は nourish an idea。品詞と後続する語句によって語義を判断する。 追加の構文：nourish hope / resentment。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11870,8 +11820,8 @@
     {
       "word": "nuisance",
       "ipa": "/ˈnusəns/",
-      "guide": "「迷惑なもの」（名詞）と「厄介な人」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「迷惑なもの」は a public nuisance／名詞「厄介な人」は be a nuisance。品詞と後続する語句によって語義を判断する。",
+      "guide": "「迷惑なもの」（名詞）と「厄介な人」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「法的な生活妨害」。",
+      "note": "主な構文：名詞「迷惑なもの」は a public nuisance／名詞「厄介な人」は be a nuisance。品詞と後続する語句によって語義を判断する。 追加の構文：a public / private nuisance。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -11938,8 +11888,8 @@
     {
       "word": "nutty",
       "ipa": "/ˈnʌti/",
-      "guide": "「ナッツの風味がある」（形容詞）と「ばかげた（口語）」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：形容詞「ナッツの風味がある」は a nutty flavor／形容詞「ばかげた（口語）」は a nutty idea。品詞と後続する語句によって語義を判断する。",
+      "guide": "「ナッツの風味がある」（形容詞）と「ばかげた（口語）」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「ナッツを多く含む」。",
+      "note": "主な構文：形容詞「ナッツの風味がある」は a nutty flavor／形容詞「ばかげた（口語）」は a nutty idea。品詞と後続する語句によって語義を判断する。 追加の構文：a nutty cake / mixture。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12006,8 +11956,8 @@
     {
       "word": "oath",
       "ipa": "/ˈoʊθ/",
-      "guide": "「宣誓」（名詞）と「ののしり言葉」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「宣誓」は take an oath／名詞「ののしり言葉」は utter an oath。品詞と後続する語句によって語義を判断する。",
+      "guide": "「宣誓」（名詞）と「ののしり言葉」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「法廷での宣誓」。",
+      "note": "主な構文：名詞「宣誓」は take an oath／名詞「ののしり言葉」は utter an oath。品詞と後続する語句によって語義を判断する。 追加の構文：give evidence under oath。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12074,8 +12024,8 @@
     {
       "word": "objective",
       "ipa": "/əbˈdʒɛktɪv/",
-      "guide": "「目的」（名詞）と「客観的な」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「目的」は achieve an objective／形容詞「客観的な」は an objective assessment。品詞と後続する語句によって語義を判断する。",
+      "guide": "「目的」（名詞）と「客観的な」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「対物レンズ」、形容詞「人の意識から独立して存在する」。",
+      "note": "主な構文：名詞「目的」は achieve an objective／形容詞「客観的な」は an objective assessment。品詞と後続する語句によって語義を判断する。 追加の構文：a microscope objective／objective reality / fact。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12215,8 +12165,8 @@
     {
       "word": "odds",
       "ipa": "/ˈɑdz/",
-      "guide": "「可能性・勝算」（名詞）と「対立・不和」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「可能性・勝算」は the odds of success／名詞「対立・不和」は be at odds with A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「可能性・勝算」（名詞）と「対立・不和」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「賭け率・オッズ」、名詞「不利な状況・逆境」。",
+      "note": "主な構文：名詞「可能性・勝算」は the odds of success／名詞「対立・不和」は be at odds with A。品詞と後続する語句によって語義を判断する。 追加の構文：betting odds / odds of 3 to 1／against the odds。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12301,8 +12251,8 @@
     {
       "word": "offend",
       "ipa": "/əˈfɛnd/",
-      "guide": "「不快にする」（他動詞）と「違反する」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「不快にする」は offend a person／自動詞「違反する」は offend against A。品詞と後続する語句によって語義を判断する。",
+      "guide": "「不快にする」（他動詞）と「違反する」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「罪を犯す・再犯する」。",
+      "note": "主な構文：他動詞「不快にする」は offend a person／自動詞「違反する」は offend against A。品詞と後続する語句によって語義を判断する。 追加の構文：offend / reoffend。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12374,8 +12324,8 @@
     {
       "word": "offshoot",
       "ipa": "/ˈɔfˌʃut/",
-      "guide": "「枝分かれしたもの」（名詞）と「派生した集団」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「枝分かれしたもの」は an offshoot of a company／名詞「派生した集団」は an offshoot of a movement。品詞と後続する語句によって語義を判断する。",
+      "guide": "「枝分かれしたもの」（名詞）と「派生した集団」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「枝・新芽」。",
+      "note": "主な構文：名詞「枝分かれしたもの」は an offshoot of a company／名詞「派生した集団」は an offshoot of a movement。品詞と後続する語句によって語義を判断する。 追加の構文：an offshoot of a tree。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12492,8 +12442,8 @@
     {
       "word": "omit",
       "ipa": "/oʊˈmɪt/",
-      "guide": "「省く」（他動詞）と「〜し忘れる」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「省く」は omit a detail／他動詞「〜し忘れる」は omit to do。品詞と後続する語句によって語義を判断する。",
+      "guide": "「省く」（他動詞）と「〜し忘れる」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「〜から省く・除外する」。",
+      "note": "主な構文：他動詞「省く」は omit a detail／他動詞「〜し忘れる」は omit to do。品詞と後続する語句によって語義を判断する。 追加の構文：omit A from B。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12560,8 +12510,8 @@
     {
       "word": "opaque",
       "ipa": "/oʊˈpeɪk/",
-      "guide": "「不透明な」（形容詞）と「理解しにくい」（形容詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：形容詞「不透明な」は opaque glass／形容詞「理解しにくい」は opaque language。品詞と後続する語句によって語義を判断する。",
+      "guide": "「不透明な」（形容詞）と「理解しにくい」（形容詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「（説明などが）不明確な」。",
+      "note": "主な構文：形容詞「不透明な」は opaque glass／形容詞「理解しにくい」は opaque language。品詞と後続する語句によって語義を判断する。 追加の構文：opaque to A / an opaque explanation。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12665,17 +12615,7 @@
                 {
                   "en": "She became a vocal opponent of the policy.",
                   "ja": "彼女はその政策への声高な反対者になった。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "議論・競争における対立者",
-              "pattern": "an outspoken opponent of A",
-              "tip": "政策・人物に反対する人。",
-              "examples": [
+                },
                 {
                   "en": "She was an outspoken opponent of the new rules.",
                   "ja": "彼女は新規則に公然と反対する人だった。"
@@ -12696,8 +12636,8 @@
     {
       "word": "oppose",
       "ipa": "/əˈpoʊz/",
-      "guide": "「反対する」（他動詞）と「対抗する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「反対する」は oppose a proposal／他動詞「対抗する」は oppose an army。品詞と後続する語句によって語義を判断する。",
+      "guide": "「反対する」（他動詞）と「対抗する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「対照・対比させる」、形容詞「〜に反対している」。",
+      "note": "主な構文：他動詞「反対する」は oppose a proposal／他動詞「対抗する」は oppose an army。品詞と後続する語句によって語義を判断する。 追加の構文：oppose A to B／be opposed to A / doing。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12787,8 +12727,8 @@
     {
       "word": "originate",
       "ipa": "/ɚˈɪdʒəˌneɪt/",
-      "guide": "「始まる」（自動詞）と「考案する」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「始まる」は originate in A／他動詞「考案する」は originate an idea。品詞と後続する語句によって語義を判断する。",
+      "guide": "「始まる」（自動詞）と「考案する」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「発端が人にある」。",
+      "note": "主な構文：自動詞「始まる」は originate in A／他動詞「考案する」は originate an idea。品詞と後続する語句によって語義を判断する。 追加の構文：originate with A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12860,8 +12800,8 @@
     {
       "word": "outlook",
       "ipa": "/ˈaʊtˌlʊk/",
-      "guide": "「見方・考え方」（名詞）と「見通し」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「見方・考え方」は a positive outlook／名詞「見通し」は the economic outlook。品詞と後続する語句によって語義を判断する。",
+      "guide": "「見方・考え方」（名詞）と「見通し」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「眺め・展望」。",
+      "note": "主な構文：名詞「見方・考え方」は a positive outlook／名詞「見通し」は the economic outlook。品詞と後続する語句によって語義を判断する。 追加の構文：a beautiful outlook over A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -12928,8 +12868,8 @@
     {
       "word": "overhaul",
       "ipa": "/ˈoʊvɚˌhɔl/",
-      "guide": "「徹底的に点検・修理する」（他動詞）と「全面的に見直す」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「徹底的に点検・修理する」は overhaul an engine／他動詞「全面的に見直す」は overhaul a system。品詞と後続する語句によって語義を判断する。",
+      "guide": "「徹底的に点検・修理する」（他動詞）と「全面的に見直す」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「分解点検・大改修」。",
+      "note": "主な構文：他動詞「徹底的に点検・修理する」は overhaul an engine／他動詞「全面的に見直す」は overhaul a system。品詞と後続する語句によって語義を判断する。 追加の構文：a complete overhaul。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -13001,8 +12941,8 @@
     {
       "word": "overnight",
       "ipa": "/ˈoʊvɚˈnaɪt/",
-      "guide": "「一晩で」（副詞）と「急に」（副詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：副詞「一晩で」は stay overnight／副詞「急に」は change overnight。品詞と後続する語句によって語義を判断する。",
+      "guide": "「一晩で」（副詞）と「急に」（副詞）を、構文と文脈で使い分ける。 ほかの重要用法：形容詞「一晩の・翌朝までの」、名詞「一泊の宿泊」。",
+      "note": "主な構文：副詞「一晩で」は stay overnight／副詞「急に」は change overnight。品詞と後続する語句によって語義を判断する。 追加の構文：overnight delivery / stay／an overnight / overnight stay。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -13097,8 +13037,8 @@
     {
       "word": "owe",
       "ipa": "/ˈoʊ/",
-      "guide": "「借りがある」（他動詞）と「〜のおかげである」（他動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「借りがある」は owe money／他動詞「〜のおかげである」は owe A to B。品詞と後続する語句によって語義を判断する。",
+      "guide": "「借りがある」（他動詞）と「〜のおかげである」（他動詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「恩義・謝罪をする義務がある」、他動詞「（人に）金銭を返す必要がある」。",
+      "note": "主な構文：他動詞「借りがある」は owe money／他動詞「〜のおかげである」は owe A to B。品詞と後続する語句によって語義を判断する。 追加の構文：owe A B / owe A an apology／owe A money / owe money to A。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -13183,8 +13123,8 @@
     {
       "word": "overflow",
       "ipa": "/ˈoʊvɚˌfloʊ/",
-      "guide": "「あふれる」（自動詞）と「感情でいっぱいになる」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：自動詞「あふれる」は overflow with water／自動詞「感情でいっぱいになる」は overflow with joy。品詞と後続する語句によって語義を判断する。",
+      "guide": "「あふれる」（自動詞）と「感情でいっぱいになる」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：自動詞「隣の場所へあふれ出す」、名詞「氾濫・あふれ出ること」、他動詞「〜を水浸しにする」。",
+      "note": "主な構文：自動詞「あふれる」は overflow with water／自動詞「感情でいっぱいになる」は overflow with joy。品詞と後続する語句によって語義を判断する。 追加の構文：overflow into A／an overflow of water / people／a river overflows its banks。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -13297,8 +13237,8 @@
     {
       "word": "pace",
       "ipa": "/ˈpeɪs/",
-      "guide": "「速度・歩調」（名詞）と「行ったり来たり歩く」（自動詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「速度・歩調」は at a slow pace／自動詞「行ったり来たり歩く」は pace up and down。品詞と後続する語句によって語義を判断する。",
+      "guide": "「速度・歩調」（名詞）と「行ったり来たり歩く」（自動詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「歩幅・一歩」、他動詞「歩測する・歩いて測る」、他動詞「進行速度を調整する」。",
+      "note": "主な構文：名詞「速度・歩調」は at a slow pace／自動詞「行ったり来たり歩く」は pace up and down。品詞と後続する語句によって語義を判断する。 追加の構文：one pace / a few paces／pace out / pace off a distance／pace oneself / pace a task。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -13411,8 +13351,8 @@
     {
       "word": "pack",
       "ipa": "/ˈpæk/",
-      "guide": "「荷造りする」（他動詞）と「群れ」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：他動詞「荷造りする」は pack a suitcase／名詞「群れ」は a pack of wolves。品詞と後続する語句によって語義を判断する。",
+      "guide": "「荷造りする」（他動詞）と「群れ」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：他動詞「ぎっしり詰める・満員にする」、名詞「一組・一箱・ひと包み」、名詞「大勢・大量」。",
+      "note": "主な構文：他動詞「荷造りする」は pack a suitcase／名詞「群れ」は a pack of wolves。品詞と後続する語句によって語義を判断する。 追加の構文：pack A with B / be packed with／a pack of cards / a pack of tissues／a pack of lies / a pack of people。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -13520,8 +13460,8 @@
     {
       "word": "pad",
       "ipa": "/ˈpæd/",
-      "guide": "「メモ帳」（名詞）と「保護用の当て物」（名詞）を、構文と文脈で使い分ける。",
-      "note": "主な構文：名詞「メモ帳」は a writing pad／名詞「保護用の当て物」は a knee pad。品詞と後続する語句によって語義を判断する。",
+      "guide": "「メモ帳」（名詞）と「保護用の当て物」（名詞）を、構文と文脈で使い分ける。 ほかの重要用法：名詞「発射台・着陸場所」、他動詞「当て物を詰める・保護する」、他動詞「文章・費用を水増しする」。",
+      "note": "主な構文：名詞「メモ帳」は a writing pad／名詞「保護用の当て物」は a knee pad。品詞と後続する語句によって語義を判断する。 追加の構文：a launch pad / landing pad／pad A with B／pad out a report / pad an expense claim。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
