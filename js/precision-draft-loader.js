@@ -840,6 +840,55 @@
         error:String(error?.message||error)
       });
     }
+
+    // 2026-11-12: present fifty EXISTING manuscript articles through run-style UI.
+    // 41 new dictionary headwords, 9 upgraded articles. Editorial QA is pending.
+    // This format-only release is NOT a claim that all dictionary senses are covered.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-12-existing-50-run-presentation.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('existing-50 HTTP '+response.status);
+      const pack=await response.json();
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.entries_count!==50||pack.entries?.length!==50||
+         pack.new_entries_count!==41||pack.updated_entries_count!==9||
+         pack.senses_count!==66||pack.examples_count!==132||
+         new Set(pack.entries.map(e=>e.word)).size!==50)
+        throw Error('existing-50 metadata invalid');
+      const revised=new Set(['aberration','abhor','ability','abundant','accent','accompany','account','admire','agriculture']);
+      const incoming=new Map();let senses=0,examples=0,newWords=0,updatedWords=0;
+      for(const e of pack.entries){
+        const isPrior=Object.hasOwn(CURATED,e.word);
+        if(isPrior!==revised.has(e.word)||
+           !e.ipa||!e.guide||!e.note||!e.review_status||
+           !precisionValidate(e.word,e))throw Error('existing-50 duplicate or invalid '+e.word);
+        if(isPrior){
+          const existingSenseCount=CURATED[e.word].groups.reduce((n,g)=>n+g.senses.length,0);
+          const incomingSenseCount=e.groups.reduce((n,g)=>n+g.senses.length,0);
+          if(incomingSenseCount<existingSenseCount)throw Error('existing-50 sense regression '+e.word);
+          updatedWords++;
+        }else newWords++;
+        for(const g of e.groups)for(const s of g.senses){
+          if(!g.pos||!s.jp||!s.pattern||!s.tip||!Array.isArray(s.examples)||
+             s.examples.length<2||s.examples.some(x=>!x.en||!x.ja))
+            throw Error('existing-50 incomplete bilingual sense: '+e.word);
+          senses++;examples+=s.examples.length;
+        }
+        incoming.set(e.word,e);
+      }
+      if(newWords!==41||updatedWords!==9||senses!==66||examples!==132)
+        throw Error('existing-50 count mismatch');
+      for(const [word,e] of incoming)CURATED[word]=e;
+      precisionRecount();
+      window.LEXIA_EXISTING_50_STATUS=Object.freeze({
+        target:50,promoted:50,newWords,updatedWords,senses,examples,
+        presentation:'run型',review_status:'語義補完・独立辞書校閲待ち'
+      });
+    }catch(error){
+      console.error('Lexia existing 50 run-style presentation failed',error);
+      window.LEXIA_EXISTING_50_STATUS=Object.freeze({
+        target:50,promoted:0,error:String(error?.message||error)
+      });
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
