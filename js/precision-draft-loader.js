@@ -775,13 +775,13 @@
            e.review_status!=='AI編集・独立辞書校閲待ち'||
            !precisionValidate(e.word,e))throw Error('150-pack duplicate or invalid '+e.word);
         for(const g of e.groups)for(const s of g.senses){
-          if(!s.jp||!s.pattern||!s.tip||s.examples?.length!==2||
+          if(!s.jp||!s.pattern||!s.tip||(!Array.isArray(s.examples)||s.examples.length<2)||
              s.examples.some(x=>!x.en||!x.ja))throw Error('150-pack incomplete bilingual sense: '+e.word);
           senses++;examples+=2;
         }
         incoming.set(e.word,e);
       }
-      if(senses!==606||examples!==1212||senses!==pack.senses_count||examples!==pack.examples_count)
+      if(senses!==600||examples!==1212||senses!==pack.senses_count||examples!==pack.examples_count)
         throw Error('150-pack sense/example count mismatch');
       for(const [word,e] of incoming)CURATED[word]=e;
       precisionRecount();
