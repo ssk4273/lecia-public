@@ -4,567 +4,10 @@
   "batch": "2026-11-11-chat-additional-200-run-style",
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 200,
-  "senses_count": 607,
-  "examples_count": 1214,
+  "senses_count": 590,
+  "examples_count": 1180,
   "editorial_note": "200語のrun型表示用英和原稿。全収録語義に英日対訳例文2組以上、構文、語法注記、品詞区分を収録。未収録の語義や発音の独立辞書校閲は未実施。",
   "entries": [
-    {
-      "word": "feel",
-      "ipa": "/fiːl/",
-      "guide": "feelは「感覚・感情を経験する」「触って確かめる」「〜のように感じられる」を区別する。feel + 形容詞は状態、feel like + 名詞/動名詞は気分・希望、feel that節は考えを述べる。 収録している品詞：他動詞（3語義）、自動詞（4語義）。",
-      "note": "主要構文：feel pain / fear / relief／feel (that) S V／feel the surface / feel for a switch／feel + 形容詞／feel + 形容詞 / feel like + 名詞／feel like + doing / 名詞／feel for + 人。発音は米語を基準にした編集値（独立校閲待ち）。",
-      "review_status": "AI編集・独立辞書校閲待ち",
-      "groups": [
-        {
-          "pos": "他動詞",
-          "senses": [
-            {
-              "jp": "感覚・感情を感じる",
-              "pattern": "feel pain / fear / relief",
-              "tip": "身体感覚や感情を直接経験する。feel happinessのような抽象名詞も目的語にできる。",
-              "examples": [
-                {
-                  "en": "She felt a sharp pain in her knee.",
-                  "ja": "彼女は膝に鋭い痛みを感じた。"
-                },
-                {
-                  "en": "I felt relief when the test was over.",
-                  "ja": "試験が終わって私はほっとした。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜だと思う・感じる",
-              "pattern": "feel (that) S V",
-              "tip": "客観的な証明ではなく、直感・個人的な判断を述べる。",
-              "examples": [
-                {
-                  "en": "I feel that we should wait a little longer.",
-                  "ja": "私たちはもう少し待つべきだと思う。"
-                },
-                {
-                  "en": "She felt that something was wrong.",
-                  "ja": "彼女は何かがおかしいと感じた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "手で触れて確かめる",
-              "pattern": "feel the surface / feel for a switch",
-              "tip": "触覚で物の状態や所在を確かめる。feel forは「手探りで探す」の意味にもなる。",
-              "examples": [
-                {
-                  "en": "He felt the wall for a light switch.",
-                  "ja": "彼は照明のスイッチを探して壁を手で探った。"
-                },
-                {
-                  "en": "Feel the fabric before you buy it.",
-                  "ja": "買う前にその布地を触って確かめてください。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        },
-        {
-          "pos": "自動詞",
-          "senses": [
-            {
-              "jp": "〜の気分・状態である",
-              "pattern": "feel + 形容詞",
-              "tip": "形容詞を補語に取る連結動詞。feel wellは健康状態がよいことを表す。",
-              "examples": [
-                {
-                  "en": "I feel tired after the long walk.",
-                  "ja": "長く歩いたので疲れている。"
-                },
-                {
-                  "en": "She feels much better today.",
-                  "ja": "彼女は今日はずっと体調がよい。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜のような感触がする",
-              "pattern": "feel + 形容詞 / feel like + 名詞",
-              "tip": "主語は物でもよく、触れた人が受ける感触を表す。",
-              "examples": [
-                {
-                  "en": "This blanket feels soft.",
-                  "ja": "この毛布は手触りが柔らかい。"
-                },
-                {
-                  "en": "The surface feels like glass.",
-                  "ja": "その表面はガラスのような感触がする。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜したい気がする",
-              "pattern": "feel like + doing / 名詞",
-              "tip": "likeの後ろに動詞の原形ではなく動名詞を置く。",
-              "examples": [
-                {
-                  "en": "I feel like taking a short break.",
-                  "ja": "少し休憩したい気分だ。"
-                },
-                {
-                  "en": "Do you feel like some coffee?",
-                  "ja": "コーヒーでも飲みたい気分ですか。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜に同情する",
-              "pattern": "feel for + 人",
-              "tip": "他人の苦しみや困難に共感する。手探りで探すfeel forとは別義。",
-              "examples": [
-                {
-                  "en": "I really feel for families who lost their homes.",
-                  "ja": "家を失った家族のことを本当に気の毒に思う。"
-                },
-                {
-                  "en": "We all felt for her after the accident.",
-                  "ja": "事故の後、私たちは皆彼女に同情した。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "word": "find",
-      "ipa": "/faɪnd/",
-      "guide": "findは「探した結果見つける」と「調べたり経験したりして分かる」を分ける。find O CはOがCだと分かる構文、find it + 形容詞 + to doではitが形式目的語。 収録している品詞：他動詞（6語義）。",
-      "note": "主要構文：find + 物・人／find + 物 / find that S V／find (that) S V／find O + 形容詞 / 名詞／find it + 形容詞 + to do／find time / money / a way to do。発音は米語を基準にした編集値（独立校閲待ち）。",
-      "review_status": "AI編集・独立辞書校閲待ち",
-      "groups": [
-        {
-          "pos": "他動詞",
-          "senses": [
-            {
-              "jp": "探して見つける",
-              "pattern": "find + 物・人",
-              "tip": "探していた物や人を発見する。look forは探す行為そのものを表す。",
-              "examples": [
-                {
-                  "en": "I finally found my missing keys.",
-                  "ja": "私はようやくなくした鍵を見つけた。"
-                },
-                {
-                  "en": "The police found the child near the station.",
-                  "ja": "警察は駅の近くでその子を発見した。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "偶然発見する",
-              "pattern": "find + 物 / find that S V",
-              "tip": "意図的に探していなくても新しい物事に気付く場合に使える。",
-              "examples": [
-                {
-                  "en": "We found an old photograph in the drawer.",
-                  "ja": "私たちは引き出しの中で古い写真を見つけた。"
-                },
-                {
-                  "en": "She found that the door was unlocked.",
-                  "ja": "彼女はドアの鍵がかかっていないことに気付いた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜だと分かる",
-              "pattern": "find (that) S V",
-              "tip": "経験・調査・確認によって事実を知る。",
-              "examples": [
-                {
-                  "en": "The researchers found that the treatment had little effect.",
-                  "ja": "研究者たちはその治療の効果が小さいことを突き止めた。"
-                },
-                {
-                  "en": "I found that the instructions were incomplete.",
-                  "ja": "説明書に不備があることが分かった。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "OがCだと思う・分かる",
-              "pattern": "find O + 形容詞 / 名詞",
-              "tip": "目的語の性質・状態を評価するSVOC。",
-              "examples": [
-                {
-                  "en": "I found the book surprisingly useful.",
-                  "ja": "その本は驚くほど役立つと思った。"
-                },
-                {
-                  "en": "They found the room empty.",
-                  "ja": "彼らがその部屋を見たところ、誰もいなかった。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜することが…だと思う",
-              "pattern": "find it + 形容詞 + to do",
-              "tip": "itは形式目的語で、真の内容は後ろのto不定詞。",
-              "examples": [
-                {
-                  "en": "I find it difficult to concentrate in a noisy room.",
-                  "ja": "騒がしい部屋では集中するのが難しいと思う。"
-                },
-                {
-                  "en": "She found it easy to talk to her new classmates.",
-                  "ja": "彼女は新しいクラスメートと気軽に話せると感じた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "時間・手段などを何とか確保する",
-              "pattern": "find time / money / a way to do",
-              "tip": "もともと存在する物を探し当てるだけでなく、工夫して確保する。",
-              "examples": [
-                {
-                  "en": "We need to find time to discuss the proposal.",
-                  "ja": "その提案について話し合う時間を何とか作る必要がある。"
-                },
-                {
-                  "en": "They found a way to reduce waste.",
-                  "ja": "彼らは廃棄物を減らす方法を見つけた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "word": "follow",
-      "ipa": "/ˈfɑːloʊ/",
-      "guide": "followは物理的に後ろを行くことから、指示・規則に従う、話を理解する、時間的に後に続く、SNSで追うまで意味が広がる。follow Aは通常前置詞不要。 収録している品詞：他動詞（6語義）、自動詞（1語義）。",
-      "note": "主要構文：follow + 人・車・道／follow instructions / rules / advice／follow a discussion / explanation／A follows B / be followed by A／follow the news / a team / a person／follow someone on social media／it follows that S V / follow from N。発音は米語を基準にした編集値（独立校閲待ち）。",
-      "review_status": "AI編集・独立辞書校閲待ち",
-      "groups": [
-        {
-          "pos": "他動詞",
-          "senses": [
-            {
-              "jp": "〜の後について行く",
-              "pattern": "follow + 人・車・道",
-              "tip": "人や物の後ろを進む。follow meは「私の後について来て」。",
-              "examples": [
-                {
-                  "en": "The children followed their teacher into the museum.",
-                  "ja": "子どもたちは先生の後について博物館に入った。"
-                },
-                {
-                  "en": "Follow this road until you reach the bridge.",
-                  "ja": "橋に着くまでこの道を進んでください。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "指示・規則に従う",
-              "pattern": "follow instructions / rules / advice",
-              "tip": "言われた手順や決まりに沿って行動する。obeyより対象が幅広い。",
-              "examples": [
-                {
-                  "en": "Please follow the instructions carefully.",
-                  "ja": "指示に注意深く従ってください。"
-                },
-                {
-                  "en": "He followed his doctor's advice and rested.",
-                  "ja": "彼は医師の助言に従って休んだ。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "話・説明を理解する",
-              "pattern": "follow a discussion / explanation",
-              "tip": "話の筋道や議論の展開を追って理解する。",
-              "examples": [
-                {
-                  "en": "I couldn't follow the last part of the lecture.",
-                  "ja": "講義の最後の部分は理解できなかった。"
-                },
-                {
-                  "en": "Are you following what I'm saying?",
-                  "ja": "私の言っていることは分かりますか。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜の後に起こる",
-              "pattern": "A follows B / be followed by A",
-              "tip": "時間・順序の前後関係。B is followed by AならBの後にAが来る。",
-              "examples": [
-                {
-                  "en": "A short discussion followed the presentation.",
-                  "ja": "発表の後に短い討論が行われた。"
-                },
-                {
-                  "en": "The announcement was followed by a long silence.",
-                  "ja": "発表の後、長い沈黙が続いた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "動向・ニュースを追う",
-              "pattern": "follow the news / a team / a person",
-              "tip": "継続的に関心を持って情報を確認する。",
-              "examples": [
-                {
-                  "en": "She follows the latest developments in medical research.",
-                  "ja": "彼女は医学研究の最新動向を追っている。"
-                },
-                {
-                  "en": "I have followed that team since childhood.",
-                  "ja": "私は子どもの頃からそのチームを応援している。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "SNSでフォローする",
-              "pattern": "follow someone on social media",
-              "tip": "投稿や更新を継続的に見るためにアカウントを登録する。",
-              "examples": [
-                {
-                  "en": "I follow several science teachers online.",
-                  "ja": "私はネット上で数人の理科教師をフォローしている。"
-                },
-                {
-                  "en": "Thousands of people follow her on Instagram.",
-                  "ja": "何千人もの人がインスタグラムで彼女をフォローしている。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        },
-        {
-          "pos": "自動詞",
-          "senses": [
-            {
-              "jp": "結果として生じる・論理的に導かれる",
-              "pattern": "it follows that S V / follow from N",
-              "tip": "前提・証拠から結論が導かれる。必ずしも時間的な順序ではない。",
-              "examples": [
-                {
-                  "en": "It does not follow that higher prices mean better quality.",
-                  "ja": "値段が高ければ品質もよいということにはならない。"
-                },
-                {
-                  "en": "Several important consequences follow from this decision.",
-                  "ja": "この決定からいくつかの重要な結果が生じる。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "word": "lie",
-      "ipa": "/laɪ/",
-      "guide": "lieには語源の異なる2つの動詞がある。「横たわる・位置する」はlie–lay–lain、「うそをつく」はlie–lied–lied。さらに他動詞lay（置く・横たえる）–laid–laidと混同しない。 収録している品詞：自動詞（5語義）、名詞（2語義）。",
-      "note": "主要構文：lie on / in + 場所 (lie–lay–lain)／lie on / under / beside + 場所／lie + 形容詞 / 過去分詞／lie in + 名詞／lie to + 人 / lie about + 事柄 (lie–lied–lied)／tell a lie / a white lie／the lie of the land。発音は米語を基準にした編集値（独立校閲待ち）。",
-      "review_status": "AI編集・独立辞書校閲待ち",
-      "groups": [
-        {
-          "pos": "自動詞",
-          "senses": [
-            {
-              "jp": "横たわる・寝そべる",
-              "pattern": "lie on / in + 場所 (lie–lay–lain)",
-              "tip": "自分が横になる自動詞。物を横たえる他動詞layとは異なる。",
-              "examples": [
-                {
-                  "en": "He lay on the sofa and read a book.",
-                  "ja": "彼はソファに横になって本を読んだ。"
-                },
-                {
-                  "en": "The dog was lying in the shade.",
-                  "ja": "犬は日陰で横たわっていた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "物が置かれている・位置する",
-              "pattern": "lie on / under / beside + 場所",
-              "tip": "物や場所の位置を表す。動作としての「置く」ではない。",
-              "examples": [
-                {
-                  "en": "A letter lay on the kitchen table.",
-                  "ja": "台所のテーブルに手紙が置かれていた。"
-                },
-                {
-                  "en": "The village lies at the foot of the mountain.",
-                  "ja": "その村は山のふもとに位置している。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "〜の状態にある",
-              "pattern": "lie + 形容詞 / 過去分詞",
-              "tip": "物事が特定の状態のまま存在する。lie awake, lie hiddenなど。",
-              "examples": [
-                {
-                  "en": "The building lay empty for years.",
-                  "ja": "その建物は何年も空き家のままだった。"
-                },
-                {
-                  "en": "She lay awake thinking about the exam.",
-                  "ja": "彼女は試験のことを考えながら眠れずに横になっていた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "原因・問題などが〜にある",
-              "pattern": "lie in + 名詞",
-              "tip": "抽象的な原因や本質の所在を示す。",
-              "examples": [
-                {
-                  "en": "The main problem lies in the lack of information.",
-                  "ja": "主な問題は情報不足にある。"
-                },
-                {
-                  "en": "The value of the plan lies in its simplicity.",
-                  "ja": "その計画の価値は簡潔さにある。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "うそをつく",
-              "pattern": "lie to + 人 / lie about + 事柄 (lie–lied–lied)",
-              "tip": "横たわるlieとは過去形・過去分詞が異なる。",
-              "examples": [
-                {
-                  "en": "He lied to his parents about the test.",
-                  "ja": "彼は試験のことを両親にうそをついた。"
-                },
-                {
-                  "en": "She admitted that she had lied.",
-                  "ja": "彼女はうそをついたことを認めた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        },
-        {
-          "pos": "名詞",
-          "senses": [
-            {
-              "jp": "うそ・虚偽",
-              "pattern": "tell a lie / a white lie",
-              "tip": "意図的に事実と異なることを述べること。white lieは相手を傷つけないための小さなうそ。",
-              "examples": [
-                {
-                  "en": "It was a lie, and he knew it.",
-                  "ja": "それはうそで、彼自身も分かっていた。"
-                },
-                {
-                  "en": "She told a white lie to avoid hurting his feelings.",
-                  "ja": "彼の気持ちを傷つけないよう、彼女は優しいうそをついた。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            },
-            {
-              "jp": "位置・地形の様子",
-              "pattern": "the lie of the land",
-              "tip": "主に慣用表現。地形の様子、比喩的に状況の全体像を表す。",
-              "examples": [
-                {
-                  "en": "We studied the lie of the land before building the road.",
-                  "ja": "道路を建設する前に地形を調べた。"
-                },
-                {
-                  "en": "Let's get the lie of the land before making a decision.",
-                  "ja": "決定する前に状況の全体像を把握しよう。"
-                }
-              ],
-              "label": "",
-              "contrast": "",
-              "register": ""
-            }
-          ]
-        }
-      ]
-    },
     {
       "word": "pal",
       "ipa": "/pæl/",
@@ -14628,6 +14071,242 @@
                 {
                   "en": "She teaches negotiation skills to managers.",
                   "ja": "彼女は管理職に交渉術を教えている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "obstacle",
+      "ipa": "/ˈɑːbstəkəl/",
+      "guide": "名詞「物理的な障害物」は移動を妨げる具体的な物体。／名詞「達成を妨げる問題・壁」は目標の実現を妨げる抽象的な難題。。",
+      "note": "主要構文：an obstacle on a path／an obstacle to progress。発音は米語を基準にした編集値（独立校閲待ち）。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "物理的な障害物",
+              "pattern": "an obstacle on a path",
+              "tip": "移動を妨げる具体的な物体。",
+              "examples": [
+                {
+                  "en": "A fallen tree was an obstacle on the trail.",
+                  "ja": "倒木が小道の障害物になっていた。"
+                },
+                {
+                  "en": "The runner jumped over the last obstacle.",
+                  "ja": "走者は最後の障害物を跳び越えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "達成を妨げる問題・壁",
+              "pattern": "an obstacle to progress",
+              "tip": "目標の実現を妨げる抽象的な難題。",
+              "examples": [
+                {
+                  "en": "A lack of funding is a major obstacle to the project.",
+                  "ja": "資金不足はその事業の大きな障害だ。"
+                },
+                {
+                  "en": "They overcame several obstacles before opening the school.",
+                  "ja": "彼らは学校の開設前にいくつもの障害を乗り越えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "opportunity",
+      "ipa": "/ˌɑːpɚˈtuːnɪtiː/",
+      "guide": "名詞「〜する好機・機会」は何かを実現できる望ましい機会。／名詞「仕事・商売の好機」は就職・事業などにつながる有利な可能性。。",
+      "note": "主要構文：an opportunity to do／business / job opportunities。発音は米語を基準にした編集値（独立校閲待ち）。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "〜する好機・機会",
+              "pattern": "an opportunity to do",
+              "tip": "何かを実現できる望ましい機会。",
+              "examples": [
+                {
+                  "en": "She had an opportunity to study abroad.",
+                  "ja": "彼女には留学する機会があった。"
+                },
+                {
+                  "en": "I hope to have another opportunity to meet you.",
+                  "ja": "またお会いする機会があればと思います。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "仕事・商売の好機",
+              "pattern": "business / job opportunities",
+              "tip": "就職・事業などにつながる有利な可能性。",
+              "examples": [
+                {
+                  "en": "The new railway created job opportunities in the area.",
+                  "ja": "新しい鉄道がその地域に雇用機会を生み出した。"
+                },
+                {
+                  "en": "The company sees opportunities for growth overseas.",
+                  "ja": "会社は海外に成長の機会があると見ている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perspective",
+      "ipa": "/pɚˈspɛktɪv/",
+      "guide": "名詞「物事の見方・観点」は何を重要と考えるかに基づく考え方。／名詞「全体像を踏まえた判断・遠近感覚」は出来事の重要性を全体の中でとらえること。／名詞「遠近法・透視図法」は絵画などで奥行きを平面上に表す技法。。",
+      "note": "主要構文：from a different perspective／put A into perspective／linear perspective / draw in perspective。発音は米語を基準にした編集値（独立校閲待ち）。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "物事の見方・観点",
+              "pattern": "from a different perspective",
+              "tip": "何を重要と考えるかに基づく考え方。",
+              "examples": [
+                {
+                  "en": "Try looking at the problem from a different perspective.",
+                  "ja": "その問題を別の観点から考えてみてください。"
+                },
+                {
+                  "en": "The debate brought a new perspective to the issue.",
+                  "ja": "議論はその問題に新しい視点をもたらした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "全体像を踏まえた判断・遠近感覚",
+              "pattern": "put A into perspective",
+              "tip": "出来事の重要性を全体の中でとらえること。",
+              "examples": [
+                {
+                  "en": "The comparison puts the cost into perspective.",
+                  "ja": "その比較により費用の大きさを全体の中で理解できる。"
+                },
+                {
+                  "en": "After the crisis, he gained a clearer perspective on life.",
+                  "ja": "危機を経験した後、彼は人生をより広い視野から見るようになった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "遠近法・透視図法",
+              "pattern": "linear perspective / draw in perspective",
+              "tip": "絵画などで奥行きを平面上に表す技法。",
+              "examples": [
+                {
+                  "en": "The artist used perspective to make the room appear deep.",
+                  "ja": "画家は遠近法を使って部屋に奥行きを表現した。"
+                },
+                {
+                  "en": "Students practiced drawing buildings in perspective.",
+                  "ja": "生徒たちは建物を遠近法で描く練習をした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "responsibility",
+      "ipa": "/rɪˌspɑːnsəˈbɪlɪtiː/",
+      "guide": "名詞「責任・義務」は行為や役割について果たすべき責任。／名詞「過失・結果に対する責任」は事故・失敗などの責任の所在。／名詞「責任ある仕事・役職」は管理・判断などが求められる地位。。",
+      "note": "主要構文：take responsibility for A／accept responsibility for damage／a position of responsibility。発音は米語を基準にした編集値（独立校閲待ち）。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "責任・義務",
+              "pattern": "take responsibility for A",
+              "tip": "行為や役割について果たすべき責任。",
+              "examples": [
+                {
+                  "en": "Parents have a responsibility to protect their children.",
+                  "ja": "親には子どもを守る責任がある。"
+                },
+                {
+                  "en": "She took responsibility for organizing the event.",
+                  "ja": "彼女は行事の運営責任を引き受けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "過失・結果に対する責任",
+              "pattern": "accept responsibility for damage",
+              "tip": "事故・失敗などの責任の所在。",
+              "examples": [
+                {
+                  "en": "The company accepted responsibility for the accident.",
+                  "ja": "会社はその事故について責任を認めた。"
+                },
+                {
+                  "en": "The court considered who bore responsibility for the loss.",
+                  "ja": "裁判所は誰が損失の責任を負うか検討した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "責任ある仕事・役職",
+              "pattern": "a position of responsibility",
+              "tip": "管理・判断などが求められる地位。",
+              "examples": [
+                {
+                  "en": "He was promoted to a position of greater responsibility.",
+                  "ja": "彼はより大きな責任を伴う職に昇進した。"
+                },
+                {
+                  "en": "The role carries significant financial responsibilities.",
+                  "ja": "その役職には大きな財務上の責任が伴う。"
                 }
               ],
               "label": "",
