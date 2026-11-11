@@ -1,4 +1,4 @@
-const CACHE = 'lexia-v57-run-style-150';
+const CACHE = 'lexia-v58-run-style-150-enriched';
 // Cache the shell first. Editorial JSON packs are cached as they are requested;
 // one optional pack returning 404 must not block a Service Worker update.
 self.addEventListener('install', event => {
