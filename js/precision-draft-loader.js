@@ -796,6 +796,50 @@
         error:String(error?.message||error)
       });
     }
+
+    // New 200-headword run-format editorial batch. These headwords are
+    // distinct from the earlier run-format cohorts; no data is overwritten.
+    // Independently reviewed dictionary status is intentionally not implied.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-chat-additional-200-run-style.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('additional-200-pack HTTP '+response.status);
+      const pack=await response.json();
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.entries_count!==200||pack.entries?.length!==200||
+         pack.review_status!=='AI編集・独立辞書校閲待ち'||
+         new Set(pack.entries.map(e=>e.word)).size!==200)
+        throw Error('additional-200-pack metadata invalid');
+      const incoming=new Map();let senses=0,examples=0;
+      for(const e of pack.entries){
+        if(Object.hasOwn(CURATED,e.word)||!e.ipa||!e.guide||!e.note||
+           e.review_status!=='AI編集・独立辞書校閲待ち'||
+           !precisionValidate(e.word,e))
+          throw Error('additional-200-pack duplicate or invalid '+e.word);
+        for(const g of e.groups)for(const s of g.senses){
+          if(!g.pos||!s.jp||!s.pattern||!s.tip||
+             !Array.isArray(s.examples)||s.examples.length<2||
+             s.examples.some(x=>!x.en||!x.ja))
+            throw Error('additional-200-pack missing EJ fields '+e.word);
+          senses++;examples+=s.examples.length;
+        }
+        incoming.set(e.word,e);
+      }
+      if(senses!==607||examples!==1214||
+         senses!==pack.senses_count||examples!==pack.examples_count)
+        throw Error('additional-200-pack sense or example count mismatch');
+      for(const [word,e] of incoming)CURATED[word]=e;
+      precisionRecount();
+      window.LEXIA_CHAT_ADDITIONAL_200_STATUS=Object.freeze({
+        target:200,promoted:200,senses,examples,
+        presentation:'run型',review_status:'AI編集・独立辞書校閲待ち'
+      });
+    }catch(error){
+      console.error('Lexia additional 200 run-style promotion failed',error);
+      window.LEXIA_CHAT_ADDITIONAL_200_STATUS=Object.freeze({
+        target:200,promoted:0,review_status:'AI編集・独立辞書校閲待ち',
+        error:String(error?.message||error)
+      });
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
