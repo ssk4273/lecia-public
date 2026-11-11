@@ -4,8 +4,8 @@
   "batch": "2026-11-11-chat-150-run-style",
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 150,
-  "senses_count": 452,
-  "examples_count": 904,
+  "senses_count": 520,
+  "examples_count": 1040,
   "editorial_note": "既存の仮登録から用法2件ずつを抽出し、新規英日対訳300組・発音情報・語義選択案内を加えてrun型表示へ昇格した構造化原稿。主要語義の完全網羅と独立語義校閲は未完了。",
   "entries": [
     {
@@ -5799,6 +5799,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "挿話・小事件",
+              "pattern": "an incident in a novel",
+              "tip": "物語の中に描かれる一つの出来事。",
+              "examples": [
+                {
+                  "en": "The novel includes an incident from the author's childhood.",
+                  "ja": "その小説には作者の子ども時代の出来事が盛り込まれている。"
+                },
+                {
+                  "en": "A minor incident changes the course of the story.",
+                  "ja": "小さな出来事が物語の展開を変える。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "〜に付随する・伴う",
+              "pattern": "incident to ownership / duties",
+              "tip": "法律・専門文脈で本来の物事に付随すること。",
+              "examples": [
+                {
+                  "en": "Certain duties are incident to ownership of land.",
+                  "ja": "土地の所有には一定の義務が伴う。"
+                },
+                {
+                  "en": "The additional expenses were incident to the project.",
+                  "ja": "追加費用はその事業に付随するものだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -5844,6 +5885,42 @@
                 {
                   "en": "The tax is calculated based on annual income.",
                   "ja": "税金は年間所得に基づいて計算される。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "定期的な収入源",
+              "pattern": "a source of income / income stream",
+              "tip": "収入の出どころを説明する表現。",
+              "examples": [
+                {
+                  "en": "Rent is her main source of income.",
+                  "ja": "家賃収入が彼女の主な収入源だ。"
+                },
+                {
+                  "en": "The business needs a more stable income stream.",
+                  "ja": "その事業にはより安定した収入の流れが必要だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "可処分所得",
+              "pattern": "disposable income",
+              "tip": "税金などを差し引いた後に自由に使える所得。",
+              "examples": [
+                {
+                  "en": "Rising prices have reduced disposable income.",
+                  "ja": "物価上昇で可処分所得が減った。"
+                },
+                {
+                  "en": "Families with more disposable income often spend more on leisure.",
+                  "ja": "可処分所得の多い家庭は余暇に多く支出することが多い。"
                 }
               ],
               "label": "",
@@ -5899,6 +5976,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "債務・損失を負う",
+              "pattern": "incur debt / a loss",
+              "tip": "費用だけでなく債務・損害などを新たに負担する。",
+              "examples": [
+                {
+                  "en": "The company incurred a loss in its first year.",
+                  "ja": "その会社は初年度に損失を計上した。"
+                },
+                {
+                  "en": "Borrowers may incur additional debt if interest is unpaid.",
+                  "ja": "利息が未払いだと借り手は追加の債務を負うことがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -5931,6 +6026,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "ほんの少しの距離",
+              "pattern": "every inch / not an inch",
+              "tip": "物理的にごく小さい量・距離を表す。",
+              "examples": [
+                {
+                  "en": "The door would not move an inch.",
+                  "ja": "扉は少しも動かなかった。"
+                },
+                {
+                  "en": "We checked every inch of the wall for cracks.",
+                  "ja": "私たちは壁の隅々までひびを調べた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -5949,6 +6062,29 @@
                 {
                   "en": "The queue inched forward as the doors opened.",
                   "ja": "扉が開くと列は少しずつ前に進んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "少しずつ動かす",
+              "pattern": "inch A forward / closer",
+              "tip": "目的語の位置をゆっくり変える。",
+              "examples": [
+                {
+                  "en": "He inched the car forward into the parking space.",
+                  "ja": "彼は車を少しずつ前進させて駐車スペースに入れた。"
+                },
+                {
+                  "en": "She inched her chair closer to the desk.",
+                  "ja": "彼女は椅子を少しずつ机に近づけた。"
                 }
               ],
               "label": "",
@@ -6054,6 +6190,88 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "困った状況・窮地",
+              "pattern": "be in a jam / get out of a jam",
+              "tip": "行き詰まっている状況を表す口語。",
+              "examples": [
+                {
+                  "en": "We were in a jam when the train was canceled.",
+                  "ja": "電車が運休して私たちは困った状況に陥った。"
+                },
+                {
+                  "en": "Her neighbor helped her get out of a jam.",
+                  "ja": "近所の人が彼女の窮地を救った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "ぎゅうぎゅうに押し込む",
+              "pattern": "jam A into B",
+              "tip": "狭い空間に無理に詰める。",
+              "examples": [
+                {
+                  "en": "He jammed the books into a small bag.",
+                  "ja": "彼は本を小さなかばんにぎゅうぎゅうに詰め込んだ。"
+                },
+                {
+                  "en": "Too many passengers were jammed into the bus.",
+                  "ja": "あまりに多くの乗客がバスに詰め込まれていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "詰まって動かなくなる",
+              "pattern": "a door / printer jams",
+              "tip": "機械や可動部が詰まる。",
+              "examples": [
+                {
+                  "en": "The printer jammed halfway through the report.",
+                  "ja": "報告書を印刷している途中でプリンターが紙詰まりした。"
+                },
+                {
+                  "en": "The door jammed after the heavy rain.",
+                  "ja": "大雨の後、扉が引っかかって動かなくなった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "即興演奏をする",
+              "pattern": "jam with musicians",
+              "tip": "特に音楽家同士が即興で合奏する。",
+              "examples": [
+                {
+                  "en": "Local musicians jammed together after the concert.",
+                  "ja": "地元の音楽家たちはコンサート後に即興で演奏した。"
+                },
+                {
+                  "en": "He enjoys jamming with friends on weekends.",
+                  "ja": "彼は週末に友人と即興演奏するのを楽しんでいる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6111,6 +6329,29 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "金属が鳴る音",
+              "pattern": "a jangle of keys",
+              "tip": "硬い物が触れて立てる耳障りな音。",
+              "examples": [
+                {
+                  "en": "We heard the jangle of keys in the hallway.",
+                  "ja": "廊下で鍵がじゃらじゃら鳴る音が聞こえた。"
+                },
+                {
+                  "en": "A jangle of metal echoed through the room.",
+                  "ja": "金属のがちゃがちゃした音が部屋に響いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -6154,6 +6395,24 @@
                 {
                   "en": "The author is jealous of her independence.",
                   "ja": "その作家は自分の自立を何より大切にしている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "独占欲が強い・嫉妬深い",
+              "pattern": "jealous of A's attention",
+              "tip": "人間関係などで他者の関心を独占したい気持ち。",
+              "examples": [
+                {
+                  "en": "He became jealous when she spent time with her friends.",
+                  "ja": "彼女が友人と過ごすと、彼は嫉妬するようになった。"
+                },
+                {
+                  "en": "A jealous partner may distrust innocent friendships.",
+                  "ja": "嫉妬深い恋人は何でもない友情を疑うことがある。"
                 }
               ],
               "label": "",
@@ -6216,6 +6475,29 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "人をやじる・あざける",
+              "pattern": "jeer A off the stage",
+              "tip": "対象の人を直接目的語に取る用法。",
+              "examples": [
+                {
+                  "en": "The crowd jeered the speaker off the stage.",
+                  "ja": "群衆は演説者をやじって舞台から退かせた。"
+                },
+                {
+                  "en": "A few spectators jeered the visiting team.",
+                  "ja": "数人の観客が相手チームをやじった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -6259,6 +6541,47 @@
                 {
                   "en": "Peanut butter and jelly sandwiches are common in the United States.",
                   "ja": "ピーナッツバターとジャムのサンドイッチは米国では一般的だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "ゼリー状の物質",
+              "pattern": "a clear jelly / petroleum jelly",
+              "tip": "菓子以外のゼリー状の物を指す。",
+              "examples": [
+                {
+                  "en": "The scientist placed the sample in a clear jelly.",
+                  "ja": "科学者は試料を透明なゼリー状物質に入れた。"
+                },
+                {
+                  "en": "She used petroleum jelly to protect her skin.",
+                  "ja": "彼女は皮膚を保護するためワセリンを使った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "ゼリー状に固まる",
+              "pattern": "jelly / set like jelly",
+              "tip": "液体がゼリー状になる。",
+              "examples": [
+                {
+                  "en": "The mixture began to jelly as it cooled.",
+                  "ja": "混合物は冷えるにつれてゼリー状に固まり始めた。"
+                },
+                {
+                  "en": "The fruit mixture will jelly after several hours.",
+                  "ja": "果物の混合物は数時間後にゼリー状に固まる。"
                 }
               ],
               "label": "",
@@ -6316,6 +6639,52 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "勢いよく噴き出す",
+              "pattern": "water / steam jets out",
+              "tip": "液体や気体が細い勢いのある流れとして出る。",
+              "examples": [
+                {
+                  "en": "Steam jetted from the damaged pipe.",
+                  "ja": "損傷した管から蒸気が勢いよく噴き出した。"
+                },
+                {
+                  "en": "Water jetted through a crack in the wall.",
+                  "ja": "水が壁の割れ目から勢いよく噴き出した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "漆黒の",
+              "pattern": "jet black",
+              "tip": "色の非常に深い黒さを表す。",
+              "examples": [
+                {
+                  "en": "Her coat was jet black.",
+                  "ja": "彼女のコートは漆黒だった。"
+                },
+                {
+                  "en": "The bird had jet-black feathers.",
+                  "ja": "その鳥は真っ黒な羽を持っていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -6341,6 +6710,24 @@
                 {
                   "en": "The players joked that the old jersey was a jinx.",
                   "ja": "選手たちは古いユニフォームが不運の原因だと冗談を言った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "不吉な縁起・ジンクス",
+              "pattern": "break a jinx",
+              "tip": "不運が続くという言い伝えや思い込み。",
+              "examples": [
+                {
+                  "en": "The team finally broke its long-standing jinx.",
+                  "ja": "チームは長年の不吉なジンクスをついに破った。"
+                },
+                {
+                  "en": "He refuses to believe in the jinx.",
+                  "ja": "彼はそのジンクスを信じようとしない。"
                 }
               ],
               "label": "",
@@ -6421,6 +6808,29 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "ジャイブを踊る",
+              "pattern": "jive to the music",
+              "tip": "音楽に合わせて活発なダンスを踊る。",
+              "examples": [
+                {
+                  "en": "They jived to the lively music.",
+                  "ja": "彼らは軽快な音楽に合わせてジャイブを踊った。"
+                },
+                {
+                  "en": "The dancers jived until the band stopped.",
+                  "ja": "ダンサーたちはバンドの演奏が終わるまでジャイブを踊った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -6469,6 +6879,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "職務・職業",
+              "pattern": "a full-time job / job security",
+              "tip": "継続的な雇用や職業を表す。",
+              "examples": [
+                {
+                  "en": "She found a full-time job after graduation.",
+                  "ja": "彼女は卒業後に正社員の仕事を見つけた。"
+                },
+                {
+                  "en": "Job security matters to many families.",
+                  "ja": "雇用の安定は多くの家庭にとって重要だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "出来栄え・仕事の成果",
+              "pattern": "do a good job",
+              "tip": "仕事を終えた結果や成果を評価する。",
+              "examples": [
+                {
+                  "en": "You did a great job on the presentation.",
+                  "ja": "発表はとてもよくできていました。"
+                },
+                {
+                  "en": "The builders did a careful job repairing the roof.",
+                  "ja": "建設業者は屋根の修理を丁寧に行った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6501,6 +6947,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "審査員・審判",
+              "pattern": "a contest judge / judging panel",
+              "tip": "裁判以外の競技・選考で評価する人。",
+              "examples": [
+                {
+                  "en": "Three judges evaluated the performances.",
+                  "ja": "3人の審査員が演技を評価した。"
+                },
+                {
+                  "en": "The judge awarded first prize to the youngest entrant.",
+                  "ja": "審査員は最年少の参加者に1等賞を与えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -6519,6 +6983,42 @@
                 {
                   "en": "You cannot judge the quality from the cover alone.",
                   "ja": "表紙だけで品質を判断することはできない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "審査する・評価する",
+              "pattern": "judge a competition",
+              "tip": "基準に照らして評価・順位づけする。",
+              "examples": [
+                {
+                  "en": "She was invited to judge the writing contest.",
+                  "ja": "彼女は作文コンクールの審査に招かれた。"
+                },
+                {
+                  "en": "The panel judged each proposal on its merits.",
+                  "ja": "審査委員会は各提案をその内容に基づいて評価した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜から判断する",
+              "pattern": "judge A by B",
+              "tip": "判断材料をbyで示す。",
+              "examples": [
+                {
+                  "en": "Do not judge a person by appearances.",
+                  "ja": "外見で人を判断してはいけない。"
+                },
+                {
+                  "en": "We judged the quality by the results.",
+                  "ja": "私たちは結果によって品質を判断した。"
                 }
               ],
               "label": "",
@@ -6574,6 +7074,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "裁判官（高等裁判所など）",
+              "pattern": "a Supreme Court justice",
+              "tip": "特に最高裁などの裁判官を指す。",
+              "examples": [
+                {
+                  "en": "The justice wrote a separate opinion.",
+                  "ja": "その裁判官は別個の意見を書いた。"
+                },
+                {
+                  "en": "Several justices questioned the lawyer's argument.",
+                  "ja": "複数の最高裁判事が弁護士の主張に疑問を呈した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "正当な扱い・正当な評価",
+              "pattern": "do justice to A",
+              "tip": "人・物の価値を十分に表す、または公平に扱う。",
+              "examples": [
+                {
+                  "en": "The photograph does not do justice to the view.",
+                  "ja": "その写真では実際の景色の素晴らしさが伝わらない。"
+                },
+                {
+                  "en": "The report did not do justice to her achievements.",
+                  "ja": "その報告書は彼女の業績を十分に評価していなかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6624,6 +7160,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "行為の結果という思想",
+              "pattern": "the idea of karma",
+              "tip": "行為が未来に影響するという宗教・哲学上の概念。",
+              "examples": [
+                {
+                  "en": "The lecture introduced the Buddhist idea of karma.",
+                  "ja": "その講義は仏教の業の考え方を紹介した。"
+                },
+                {
+                  "en": "They discussed karma as a concept in religious philosophy.",
+                  "ja": "彼らは宗教哲学の概念として業について議論した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6669,6 +7223,24 @@
                 {
                   "en": "The students listened keenly to the guest speaker.",
                   "ja": "生徒たちは招待講演者の話を熱心に聞いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "強く・痛切に",
+              "pattern": "keenly felt / disappointed",
+              "tip": "感情・関心・不足などの強さを示す。",
+              "examples": [
+                {
+                  "en": "The loss was keenly felt throughout the town.",
+                  "ja": "その損失は町全体で痛切に感じられた。"
+                },
+                {
+                  "en": "She was keenly disappointed by the result.",
+                  "ja": "彼女はその結果にひどく失望した。"
                 }
               ],
               "label": "",
@@ -6774,6 +7346,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "輝かせる・生き生きさせる",
+              "pattern": "kindle a smile / light",
+              "tip": "感情・明かりなどを明るく生じさせる文語的な表現。",
+              "examples": [
+                {
+                  "en": "The good news kindled hope in the community.",
+                  "ja": "良い知らせは地域の人々に希望を灯した。"
+                },
+                {
+                  "en": "A smile kindled in her eyes as she listened.",
+                  "ja": "話を聞くうちに彼女の目に笑みが浮かんだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "燃え始める・灯る",
+              "pattern": "a flame / fire kindles",
+              "tip": "燃える状態が生じ始める。",
+              "examples": [
+                {
+                  "en": "The fire kindled slowly in the damp wood.",
+                  "ja": "湿った木の中で火はゆっくりと燃え始めた。"
+                },
+                {
+                  "en": "A small flame kindled beneath the dry leaves.",
+                  "ja": "乾いた葉の下で小さな炎が燃え始めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6829,6 +7442,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "同じ起源・性質の",
+              "pattern": "kindred ideas / groups",
+              "tip": "単なる親族でなく性質・考えが近いこと。",
+              "examples": [
+                {
+                  "en": "The writers discovered their kindred views.",
+                  "ja": "作家たちは自分たちの見解が似ていると気づいた。"
+                },
+                {
+                  "en": "The two groups pursued kindred goals.",
+                  "ja": "二つの団体は類似した目標を追っていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6879,6 +7510,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "分野・領域・世界",
+              "pattern": "the kingdom of science / art",
+              "tip": "活動・知識など独立した領域の比喩。",
+              "examples": [
+                {
+                  "en": "The novel opens the kingdom of imagination to readers.",
+                  "ja": "その小説は読者に想像の世界を開く。"
+                },
+                {
+                  "en": "In the kingdom of mathematics, proof is essential.",
+                  "ja": "数学の世界では証明が不可欠だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "神の国・天国",
+              "pattern": "the kingdom of heaven",
+              "tip": "キリスト教などの宗教用語。",
+              "examples": [
+                {
+                  "en": "The preacher spoke about the kingdom of heaven.",
+                  "ja": "説教者は天国について語った。"
+                },
+                {
+                  "en": "The phrase \"kingdom of God\" appears in the sermon.",
+                  "ja": "「神の国」という言葉がその説教に現れる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -6924,6 +7591,47 @@
                 {
                   "en": "The shared challenge knitted the neighbors together.",
                   "ja": "共通の困難を通じて近隣住民の結束が強まった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "眉をひそめる",
+              "pattern": "knit one's brows",
+              "tip": "額にしわを寄せる表現。",
+              "examples": [
+                {
+                  "en": "She knitted her brows while reading the letter.",
+                  "ja": "彼女は手紙を読みながら眉をひそめた。"
+                },
+                {
+                  "en": "He knitted his brow in concentration.",
+                  "ja": "彼は集中して眉間にしわを寄せた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "編み物をする",
+              "pattern": "knit in one's free time",
+              "tip": "目的語を明示せず編み物の動作を述べる。",
+              "examples": [
+                {
+                  "en": "My grandmother likes to knit in the evenings.",
+                  "ja": "祖母は夕方に編み物をするのが好きだ。"
+                },
+                {
+                  "en": "He learned to knit during the winter.",
+                  "ja": "彼は冬の間に編み物を覚えた。"
                 }
               ],
               "label": "",
@@ -6984,6 +7692,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "屈服する・従う",
+              "pattern": "knuckle under to A",
+              "tip": "圧力に負けて従う句動詞。",
+              "examples": [
+                {
+                  "en": "The company refused to knuckle under to threats.",
+                  "ja": "会社は脅迫に屈することを拒んだ。"
+                },
+                {
+                  "en": "He finally knuckled under to the pressure.",
+                  "ja": "彼は最終的に圧力に屈した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7016,6 +7742,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "靴ひも・衣服のひも",
+              "pattern": "a shoelace / a lace",
+              "tip": "靴などを結ぶための細長いひも。",
+              "examples": [
+                {
+                  "en": "The laces on my boots came loose.",
+                  "ja": "ブーツのひもがほどけた。"
+                },
+                {
+                  "en": "She tied the lace into a neat bow.",
+                  "ja": "彼女はひもをきれいなリボン結びにした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -7034,6 +7778,24 @@
                 {
                   "en": "She laced her boots before the hike.",
                   "ja": "彼女は登山前にブーツのひもを結んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜を混ぜ込む",
+              "pattern": "lace A with B",
+              "tip": "飲み物・文章などに少量の別の物を加える。",
+              "examples": [
+                {
+                  "en": "The speech was laced with humor.",
+                  "ja": "その演説にはユーモアが織り交ぜられていた。"
+                },
+                {
+                  "en": "Someone had laced the drink with alcohol.",
+                  "ja": "誰かがその飲み物にアルコールを混ぜていた。"
                 }
               ],
               "label": "",
@@ -7066,6 +7828,24 @@
                 {
                   "en": "The cabinet has a dark lacquer finish.",
                   "ja": "その戸棚には濃い色の漆塗りの仕上げが施されている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "漆器・ラッカー製品",
+              "pattern": "traditional lacquerware",
+              "tip": "漆や塗装による工芸品を指す。",
+              "examples": [
+                {
+                  "en": "The museum displayed traditional Japanese lacquerware.",
+                  "ja": "博物館は伝統的な日本の漆器を展示した。"
+                },
+                {
+                  "en": "Fine lacquerware requires skilled craftsmanship.",
+                  "ja": "優れた漆器には熟練した職人技が必要だ。"
                 }
               ],
               "label": "",
@@ -7149,6 +7929,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "すくい上げる・分ける",
+              "pattern": "ladle A out / into B",
+              "tip": "液体・料理をひしゃくで取る動作。",
+              "examples": [
+                {
+                  "en": "The cook ladled the broth out of the pot.",
+                  "ja": "料理人は鍋からスープをすくい出した。"
+                },
+                {
+                  "en": "She ladled some rice porridge into a bowl.",
+                  "ja": "彼女はおかゆをお椀によそった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7199,6 +7997,47 @@
                 {
                   "en": "The poem is a lament for lives lost in the war.",
                   "ja": "その詩は戦争で失われた命への哀歌だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "嘆き・悲嘆",
+              "pattern": "a lament for A",
+              "tip": "悲しみを表す言葉や行為。",
+              "examples": [
+                {
+                  "en": "His letter was a lament for a vanished way of life.",
+                  "ja": "彼の手紙は失われた生活様式への嘆きだった。"
+                },
+                {
+                  "en": "The song became a lament for the victims.",
+                  "ja": "その歌は犠牲者への哀悼の歌となった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "〜を嘆き悲しむ",
+              "pattern": "lament for / over A",
+              "tip": "嘆く対象を前置詞で示す。",
+              "examples": [
+                {
+                  "en": "The villagers lamented over the loss of the forest.",
+                  "ja": "村人たちは森が失われたことを嘆いた。"
+                },
+                {
+                  "en": "She lamented for friends she could no longer visit.",
+                  "ja": "彼女はもう会えない友人たちのことを悲しんだ。"
                 }
               ],
               "label": "",
@@ -7259,6 +8098,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "風刺的な作品",
+              "pattern": "a political lampoon",
+              "tip": "人・制度の欠点を笑いで批判する文章・作品。",
+              "examples": [
+                {
+                  "en": "The newspaper printed a sharp political lampoon.",
+                  "ja": "新聞は鋭い政治風刺文を載せた。"
+                },
+                {
+                  "en": "The novel is a lampoon of fashionable society.",
+                  "ja": "その小説は流行社会を風刺した作品だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7304,6 +8161,24 @@
                 {
                   "en": "The inn's landlord served breakfast himself.",
                   "ja": "宿屋の主人が自ら朝食を出した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "賃貸物件の貸主",
+              "pattern": "a residential landlord",
+              "tip": "家や土地を貸す側の人。",
+              "examples": [
+                {
+                  "en": "The landlord must maintain the building safely.",
+                  "ja": "貸主は建物を安全に維持する必要がある。"
+                },
+                {
+                  "en": "She contacted the landlord about the heating.",
+                  "ja": "彼女は暖房について大家に連絡した。"
                 }
               ],
               "label": "",
@@ -7359,6 +8234,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "水泳・ボウリングのレーン",
+              "pattern": "a swimming lane / bowling lane",
+              "tip": "競技のために区分された通路。",
+              "examples": [
+                {
+                  "en": "The swimmer moved into lane four.",
+                  "ja": "その水泳選手は第4レーンに入った。"
+                },
+                {
+                  "en": "We booked two lanes at the bowling alley.",
+                  "ja": "私たちはボウリング場で2レーンを予約した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "船舶・航空機の航路",
+              "pattern": "a shipping lane / air lane",
+              "tip": "船や航空機が移動する決められた経路。",
+              "examples": [
+                {
+                  "en": "The ship crossed a busy shipping lane.",
+                  "ja": "その船は交通量の多い航路を横切った。"
+                },
+                {
+                  "en": "The route passes through a major air lane.",
+                  "ja": "その経路は主要な航空路を通っている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7404,6 +8315,42 @@
                 {
                   "en": "The proposal languished in committee for months.",
                   "ja": "その提案は何か月も委員会で棚上げされた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "放置され停滞する",
+              "pattern": "languish in committee / obscurity",
+              "tip": "活動・計画が進展しない状態に長く置かれる。",
+              "examples": [
+                {
+                  "en": "The proposal languished in committee for years.",
+                  "ja": "その提案は何年も委員会で棚上げされていた。"
+                },
+                {
+                  "en": "Many promising books languish in obscurity.",
+                  "ja": "有望な本の多くが知られないまま埋もれている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜を恋しく思う・切望する",
+              "pattern": "languish for A",
+              "tip": "文語的に強い憧れを表す。",
+              "examples": [
+                {
+                  "en": "He languished for news from home.",
+                  "ja": "彼は故郷からの知らせを待ち焦がれていた。"
+                },
+                {
+                  "en": "The prisoners languished for freedom.",
+                  "ja": "囚人たちは自由を切望していた。"
                 }
               ],
               "label": "",
@@ -7459,6 +8406,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "月桂冠",
+              "pattern": "a laurel wreath / crown",
+              "tip": "勝者に授けられる月桂樹の葉の冠。",
+              "examples": [
+                {
+                  "en": "The champion wore a laurel wreath.",
+                  "ja": "優勝者は月桂冠を頭に載せた。"
+                },
+                {
+                  "en": "Ancient athletes received crowns of laurel.",
+                  "ja": "古代の競技者たちは月桂冠を授かった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "栄誉・功績",
+              "pattern": "win laurels / rest on one's laurels",
+              "tip": "功績・栄光を比喩的に表す。",
+              "examples": [
+                {
+                  "en": "The researcher won laurels for her discovery.",
+                  "ja": "その研究者は発見によって栄誉を得た。"
+                },
+                {
+                  "en": "He refused to rest on his laurels after the victory.",
+                  "ja": "彼は勝利後も過去の栄光に安住しなかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7504,6 +8487,60 @@
                 {
                   "en": "Newton formulated laws of motion.",
                   "ja": "ニュートンは運動の法則を定式化した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "法学・法律学",
+              "pattern": "study law / a law degree",
+              "tip": "学問・専門職としての法律。",
+              "examples": [
+                {
+                  "en": "She plans to study law at university.",
+                  "ja": "彼女は大学で法律学を学ぶ予定だ。"
+                },
+                {
+                  "en": "He earned a law degree before entering business.",
+                  "ja": "彼は実業界に入る前に法学の学位を取得した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "警察・法執行機関",
+              "pattern": "the law / on the wrong side of the law",
+              "tip": "口語で警察または法の執行を指す。",
+              "examples": [
+                {
+                  "en": "He has never had trouble with the law.",
+                  "ja": "彼は一度も警察沙汰になったことがない。"
+                },
+                {
+                  "en": "The suspect tried to stay one step ahead of the law.",
+                  "ja": "容疑者は警察の追及をかわそうとした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "規則・不文律",
+              "pattern": "an unwritten law / the laws of the game",
+              "tip": "社会・競技などで守るべき決まり。",
+              "examples": [
+                {
+                  "en": "The team follows an unwritten law of respect.",
+                  "ja": "そのチームは敬意を重んじる暗黙の決まりに従っている。"
+                },
+                {
+                  "en": "Players must obey the laws of the game.",
+                  "ja": "選手は競技規則に従わなければならない。"
                 }
               ],
               "label": "",
@@ -7559,6 +8596,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "緩い・締まりのない",
+              "pattern": "lax muscles / a lax attitude",
+              "tip": "物理的または精神的な緩みを表す。",
+              "examples": [
+                {
+                  "en": "The old elastic had become lax.",
+                  "ja": "古いゴムは緩んでしまっていた。"
+                },
+                {
+                  "en": "A lax attitude toward deadlines creates problems.",
+                  "ja": "締め切りに対する気の緩みは問題を生む。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7591,6 +8646,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "意見が傾く",
+              "pattern": "lean toward A",
+              "tip": "考え・選択がある方向に傾く。",
+              "examples": [
+                {
+                  "en": "I lean toward the first proposal.",
+                  "ja": "私は最初の提案の方がよいと思っている。"
+                },
+                {
+                  "en": "The committee is leaning toward a compromise.",
+                  "ja": "委員会は妥協案に傾きつつある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人に頼る",
+              "pattern": "lean on A for support",
+              "tip": "助言・助力を頼りにする。",
+              "examples": [
+                {
+                  "en": "She leaned on her friends during the difficult period.",
+                  "ja": "彼女は困難な時期に友人を頼った。"
+                },
+                {
+                  "en": "Small businesses sometimes lean on local networks for advice.",
+                  "ja": "小規模企業は助言を求めて地域のつながりを頼ることがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -7609,6 +8700,24 @@
                 {
                   "en": "Lean chicken breast is a source of protein.",
                   "ja": "脂肪の少ない鶏胸肉はタンパク質源だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "やせた・無駄がない",
+              "pattern": "a lean figure / lean organization",
+              "tip": "人が細身、または組織に無駄が少ない。",
+              "examples": [
+                {
+                  "en": "The runner had a lean, athletic build.",
+                  "ja": "その走者は引き締まった運動選手らしい体格だった。"
+                },
+                {
+                  "en": "The company adopted a lean management structure.",
+                  "ja": "その会社は無駄の少ない管理体制を採用した。"
                 }
               ],
               "label": "",
@@ -7764,6 +8873,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "伝説的な人物",
+              "pattern": "a sporting legend / a living legend",
+              "tip": "優れた功績によって広く知られ尊敬される人。",
+              "examples": [
+                {
+                  "en": "She is a legend in the world of tennis.",
+                  "ja": "彼女はテニス界の伝説的存在だ。"
+                },
+                {
+                  "en": "The musician became a living legend.",
+                  "ja": "その音楽家は生ける伝説となった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7809,6 +8936,24 @@
                 {
                   "en": "The second-hand car was a lemon and broke down repeatedly.",
                   "ja": "その中古車は欠陥品で、何度も故障した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "淡い黄色・レモン色",
+              "pattern": "lemon yellow / lemon-colored",
+              "tip": "果実の色を指す色彩表現。",
+              "examples": [
+                {
+                  "en": "The curtains were a pale lemon yellow.",
+                  "ja": "カーテンは淡いレモン色だった。"
+                },
+                {
+                  "en": "She chose a lemon-colored shirt.",
+                  "ja": "彼女はレモン色のシャツを選んだ。"
                 }
               ],
               "label": "",
@@ -7864,6 +9009,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "負債・債務",
+              "pattern": "assets and liabilities",
+              "tip": "会計上の返済・履行義務を表す。",
+              "examples": [
+                {
+                  "en": "The company listed its liabilities on the balance sheet.",
+                  "ja": "会社は貸借対照表に負債を計上した。"
+                },
+                {
+                  "en": "Its liabilities exceeded its available assets.",
+                  "ja": "その負債は利用可能な資産を上回った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜しがちな傾向",
+              "pattern": "liability to do / to A",
+              "tip": "何かが起こりやすいこと。一般的には形容詞liableがよく使われる。",
+              "examples": [
+                {
+                  "en": "His liability to headaches increases under stress.",
+                  "ja": "彼はストレスがかかると頭痛が起こりやすい。"
+                },
+                {
+                  "en": "The system's liability to failure concerns the engineers.",
+                  "ja": "そのシステムの故障しやすさを技術者たちは懸念している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -7891,6 +9072,24 @@
                 {
                   "en": "The editor faced a libel claim over the article.",
                   "ja": "編集者はその記事をめぐって文書による名誉毀損の訴えを受けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "中傷記事・名誉毀損の記述",
+              "pattern": "a libel against A",
+              "tip": "文書として発表された名誉毀損的な記述。",
+              "examples": [
+                {
+                  "en": "The publisher withdrew the article after the libel complaint.",
+                  "ja": "出版社は名誉毀損の苦情を受けて記事を取り下げた。"
+                },
+                {
+                  "en": "The statement was alleged to be a libel against the official.",
+                  "ja": "その発言はその役人への文書による名誉毀損だと主張された。"
                 }
               ],
               "label": "",
@@ -7964,6 +9163,47 @@
                 {
                   "en": "The home team licked their rivals in the final.",
                   "ja": "地元チームは決勝戦でライバルを打ち負かした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "炎・波がなめるように触れる",
+              "pattern": "flames lick A",
+              "tip": "炎や波が何かに触れる比喩。",
+              "examples": [
+                {
+                  "en": "Flames licked the walls of the building.",
+                  "ja": "炎が建物の壁をなめるように広がった。"
+                },
+                {
+                  "en": "Small waves licked the shore.",
+                  "ja": "小さな波が岸辺をなめるように打ち寄せた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "一なめ・少量",
+              "pattern": "give A a lick / a lick of paint",
+              "tip": "舌でなめる一回の動作や薄い塗装を表す。",
+              "examples": [
+                {
+                  "en": "The dog gave my hand a quick lick.",
+                  "ja": "犬は私の手をさっとなめた。"
+                },
+                {
+                  "en": "The fence needs a fresh lick of paint.",
+                  "ja": "その柵には塗装を少し塗り直す必要がある。"
                 }
               ],
               "label": "",
@@ -8051,6 +9291,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "傾斜・傾き",
+              "pattern": "a ship with a list",
+              "tip": "船などが片側に傾く状態。",
+              "examples": [
+                {
+                  "en": "The ship developed a list after taking on water.",
+                  "ja": "船は浸水して片側に傾き始めた。"
+                },
+                {
+                  "en": "A noticeable list made the vessel difficult to control.",
+                  "ja": "明らかな傾きのため船の操縦が難しくなった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -8069,6 +9327,47 @@
                 {
                   "en": "The boat began to list as water entered the hull.",
                   "ja": "船体に水が入ると船は傾き始めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "項目を列挙する",
+              "pattern": "list A / list A as B",
+              "tip": "一覧にして示す。",
+              "examples": [
+                {
+                  "en": "Please list the advantages and disadvantages.",
+                  "ja": "長所と短所を列挙してください。"
+                },
+                {
+                  "en": "The report lists five possible causes.",
+                  "ja": "報告書は五つの考えられる原因を挙げている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "名簿・目録に載せる",
+              "pattern": "be listed as / listed for sale",
+              "tip": "情報を登録・公表する。",
+              "examples": [
+                {
+                  "en": "The property is listed for sale at a high price.",
+                  "ja": "その物件は高値で売りに出されている。"
+                },
+                {
+                  "en": "She is listed as the project's director.",
+                  "ja": "彼女はその事業の責任者として記載されている。"
                 }
               ],
               "label": "",
