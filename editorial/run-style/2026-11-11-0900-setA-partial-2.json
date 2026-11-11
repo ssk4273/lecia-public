@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "kind": "lexia_run_style_editorial",
-  "batch": "2026-11-11-0900-setA-partial-2",
+  "batch": "2026-11-11-0900-setA-continuation-4",
   "review_status": "AI編集・独立辞書校閲待ち",
-  "entries_count": 2,
-  "senses_count": 14,
-  "examples_count": 28,
+  "entries_count": 4,
+  "senses_count": 25,
+  "examples_count": 50,
   "entries": [
     {
       "word": "retain",
@@ -288,6 +288,230 @@
                 {
                   "en": "The team showed remarkable resolve under pressure.",
                   "ja": "そのチームは重圧の中で並外れた意志の強さを示した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "restrict",
+      "ipa": "/rɪˈstrɪkt/",
+      "guide": "restrictは「許される範囲・量・行動を制限する」他動詞。restrict A to BはAをBに限定する構文で、restrict A from doingはAが～することを制限する構文。limitと重なるが、restrictは規則・制約による自由の縮小を強く示すことが多い。",
+      "note": "restrict access / movement / spending / imports。be restricted to ～は「～に限定される」。restricted areaは「立入制限区域」。restrict oneself to ～は自分の行動・選択を限定する。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を制限する",
+              "pattern": "restrict + access / movement / freedom",
+              "tip": "アクセス・移動・行動の自由に制約を設ける。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The hospital restricted access to the ward.",
+                  "ja": "病院はその病棟への立ち入りを制限した。"
+                },
+                {
+                  "en": "New rules restrict the use of mobile phones in class.",
+                  "ja": "新しい規則は授業中の携帯電話の使用を制限する。"
+                }
+              ]
+            },
+            {
+              "jp": "～を規制する",
+              "pattern": "restrict + imports / trade / advertising",
+              "tip": "法律・規則によって商業活動などに制限をかける。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The government restricted imports of the product.",
+                  "ja": "政府はその製品の輸入を規制した。"
+                },
+                {
+                  "en": "The city plans to restrict advertising near schools.",
+                  "ja": "市は学校付近の広告を規制する予定だ。"
+                }
+              ]
+            },
+            {
+              "jp": "～を～に限定する",
+              "pattern": "restrict A to B",
+              "tip": "対象・参加者・選択肢などを特定の範囲Bに限る。",
+              "contrast": "limit A to Bとほぼ同義。",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The offer is restricted to existing customers.",
+                  "ja": "その特典は既存の顧客に限定されている。"
+                },
+                {
+                  "en": "We restricted the survey to students aged sixteen and over.",
+                  "ja": "私たちは調査対象を16歳以上の生徒に限定した。"
+                }
+              ]
+            },
+            {
+              "jp": "～が…するのを制限する",
+              "pattern": "restrict A from doing",
+              "tip": "人が特定の行動を取ることを制約する。",
+              "contrast": "prevent A from doingは行動を阻止する意味がより強い。",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The injury restricted him from playing for several weeks.",
+                  "ja": "そのけがのため彼は数週間プレーを制限された。"
+                },
+                {
+                  "en": "The contract restricts employees from sharing confidential information.",
+                  "ja": "その契約は従業員が機密情報を共有することを制限している。"
+                }
+              ]
+            },
+            {
+              "jp": "～を抑える",
+              "pattern": "restrict + spending / growth / supply",
+              "tip": "支出・成長・供給などの量や増加を抑える。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The company restricted spending during the downturn.",
+                  "ja": "その会社は景気後退期に支出を抑えた。"
+                },
+                {
+                  "en": "A shortage of water may restrict crop growth.",
+                  "ja": "水不足は作物の成長を妨げる可能性がある。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "restore",
+      "ipa": "/rɪˈstɔːr/",
+      "guide": "restoreは失われた状態・機能・権利などを「元に戻す」他動詞。restore A to BはAを以前の状態Bに戻す構文。repairは故障部分を直すこと、restoreは本来の状態や機能を回復させることに重点がある。",
+      "note": "restore order / confidence / power / data / a building / someone's rights。restore a file from a backupはバックアップからファイルを復元すること。restoration（修復・復旧）との関係も押さえる。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を回復させる",
+              "pattern": "restore + confidence / health / trust",
+              "tip": "失われた信頼・健康・自信などを取り戻させる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The apology helped restore public trust.",
+                  "ja": "その謝罪は市民の信頼を回復する助けとなった。"
+                },
+                {
+                  "en": "Regular exercise helped restore her strength.",
+                  "ja": "定期的な運動は彼女の体力の回復に役立った。"
+                }
+              ]
+            },
+            {
+              "jp": "～を復旧させる",
+              "pattern": "restore + power / service / connection",
+              "tip": "停止した電力・通信・サービスなどを再び使えるようにする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Engineers restored power after the storm.",
+                  "ja": "技術者たちは嵐の後に電力を復旧させた。"
+                },
+                {
+                  "en": "The team restored the internet connection by noon.",
+                  "ja": "担当チームは正午までにインターネット接続を復旧させた。"
+                }
+              ]
+            },
+            {
+              "jp": "～を修復する・復元する",
+              "pattern": "restore + painting / building / furniture",
+              "tip": "古い建物・美術品などを本来の状態に近づける。",
+              "contrast": "renovateは設備・内装を新しくする改修にも用いる。",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Experts restored the damaged painting.",
+                  "ja": "専門家たちは損傷した絵画を修復した。"
+                },
+                {
+                  "en": "The town restored the historic station.",
+                  "ja": "町は歴史ある駅舎を修復した。"
+                }
+              ]
+            },
+            {
+              "jp": "～を元の状態に戻す",
+              "pattern": "restore A to B",
+              "tip": "秩序・場所・状況などを以前の状態に戻す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The agreement restored peace to the region.",
+                  "ja": "その合意は地域に平和を取り戻した。"
+                },
+                {
+                  "en": "The teacher restored order to the classroom.",
+                  "ja": "先生は教室に秩序を取り戻した。"
+                }
+              ]
+            },
+            {
+              "jp": "～を復元する",
+              "pattern": "restore + data / file / settings",
+              "tip": "失われたデータや設定をバックアップなどから取り戻す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "I restored the deleted file from a backup.",
+                  "ja": "私は削除したファイルをバックアップから復元した。"
+                },
+                {
+                  "en": "You can restore the phone to its factory settings.",
+                  "ja": "その携帯電話を工場出荷時の設定に戻せる。"
+                }
+              ]
+            },
+            {
+              "jp": "～を返還する・復権させる",
+              "pattern": "restore + rights / property / title",
+              "tip": "奪われた権利・財産・地位を元の持ち主や状態に戻す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The court restored her right to vote.",
+                  "ja": "裁判所は彼女の投票権を回復させた。"
+                },
+                {
+                  "en": "The museum agreed to restore the artifacts to their rightful owners.",
+                  "ja": "博物館は遺物を正当な所有者に返還することに同意した。"
                 }
               ]
             }
