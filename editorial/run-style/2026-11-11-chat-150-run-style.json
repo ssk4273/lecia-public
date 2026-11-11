@@ -4,8 +4,8 @@
   "batch": "2026-11-11-chat-150-run-style",
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 150,
-  "senses_count": 377,
-  "examples_count": 754,
+  "senses_count": 452,
+  "examples_count": 904,
   "editorial_note": "既存の仮登録から用法2件ずつを抽出し、新規英日対訳300組・発音情報・語義選択案内を加えてrun型表示へ昇格した構造化原稿。主要語義の完全網羅と独立語義校閲は未完了。",
   "entries": [
     {
@@ -2939,6 +2939,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "方程式を解いて未知数を求める",
+              "pattern": "solve for x / an unknown",
+              "tip": "数学で未知の値を求める。",
+              "examples": [
+                {
+                  "en": "We need to solve for x before drawing the graph.",
+                  "ja": "グラフを描く前にxの値を求める必要がある。"
+                },
+                {
+                  "en": "The students solved for the unknown variable.",
+                  "ja": "生徒たちは未知の変数の値を求めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -2966,6 +2984,60 @@
                 {
                   "en": "Could you speak a little more clearly?",
                   "ja": "もう少しはっきり話してもらえますか。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人に話しかける・話し合う",
+              "pattern": "speak to / with A",
+              "tip": "話す相手をtoまたはwithで示す。",
+              "examples": [
+                {
+                  "en": "May I speak to the manager, please?",
+                  "ja": "責任者とお話しできますか。"
+                },
+                {
+                  "en": "The teacher spoke with each student individually.",
+                  "ja": "先生は生徒一人ひとりと個別に話した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "演説する・講演する",
+              "pattern": "speak at an event / in public",
+              "tip": "多くの人の前でまとまった話をする。",
+              "examples": [
+                {
+                  "en": "The scientist spoke at an international conference.",
+                  "ja": "その科学者は国際会議で講演した。"
+                },
+                {
+                  "en": "She is nervous about speaking in public.",
+                  "ja": "彼女は人前で話すのが緊張する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "代表して意見を述べる",
+              "pattern": "speak for A / on behalf of A",
+              "tip": "個人・団体の立場を代弁する。",
+              "examples": [
+                {
+                  "en": "I cannot speak for everyone on the team.",
+                  "ja": "チーム全員を代表して意見を述べることはできない。"
+                },
+                {
+                  "en": "He spoke on behalf of the residents.",
+                  "ja": "彼は住民を代表して発言した。"
                 }
               ],
               "label": "",
@@ -3044,6 +3116,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "時間を〜して過ごす",
+              "pattern": "spend time doing",
+              "tip": "spend time to doではなく、後ろには動名詞を使う。",
+              "examples": [
+                {
+                  "en": "She spent an hour preparing the presentation.",
+                  "ja": "彼女は発表の準備に1時間費やした。"
+                },
+                {
+                  "en": "We spent the evening discussing the results.",
+                  "ja": "私たちは結果を話し合って夕方を過ごした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "一定の期間を過ごす",
+              "pattern": "spend a weekend / holiday in A",
+              "tip": "場所・状況で時を過ごす。",
+              "examples": [
+                {
+                  "en": "They spent the summer in Hokkaido.",
+                  "ja": "彼らは夏を北海道で過ごした。"
+                },
+                {
+                  "en": "He spent his childhood in a small town.",
+                  "ja": "彼は小さな町で子ども時代を過ごした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "お金を使う・散財する",
+              "pattern": "spend freely / carefully",
+              "tip": "目的語なしで金銭を使う行為を述べる。",
+              "examples": [
+                {
+                  "en": "Consumers are spending more cautiously this year.",
+                  "ja": "今年、消費者はより慎重にお金を使っている。"
+                },
+                {
+                  "en": "She tends to spend freely when she travels.",
+                  "ja": "彼女は旅行中に気前よくお金を使う傾向がある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -3076,6 +3207,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "出発する",
+              "pattern": "start from A / start for B",
+              "tip": "ある地点から移動を始める。",
+              "examples": [
+                {
+                  "en": "We started from the station at dawn.",
+                  "ja": "私たちは夜明けに駅から出発した。"
+                },
+                {
+                  "en": "The hikers started for the summit before six.",
+                  "ja": "登山者たちは6時前に山頂へ向けて出発した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "驚いてびくっと動く",
+              "pattern": "start at a noise",
+              "tip": "急な音・出来事に反射的に反応する。",
+              "examples": [
+                {
+                  "en": "The horse started at the sudden noise.",
+                  "ja": "馬は突然の物音に驚いてびくっとした。"
+                },
+                {
+                  "en": "She started when someone knocked on the window.",
+                  "ja": "誰かが窓をたたいたとき、彼女はびくっとした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -3094,6 +3261,47 @@
                 {
                   "en": "She started working at the museum last month.",
                   "ja": "彼女は先月その博物館で働き始めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "機械を始動させる",
+              "pattern": "start the engine / computer",
+              "tip": "機械・装置を動かし始める。",
+              "examples": [
+                {
+                  "en": "He started the engine before sunrise.",
+                  "ja": "彼は日の出前にエンジンをかけた。"
+                },
+                {
+                  "en": "Press this button to start the machine.",
+                  "ja": "機械を始動させるにはこのボタンを押してください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "開始・出発点",
+              "pattern": "at the start / make a start",
+              "tip": "始まりや最初の段階を指す。",
+              "examples": [
+                {
+                  "en": "He struggled at the start of the course.",
+                  "ja": "彼は講座の初めのころ苦労した。"
+                },
+                {
+                  "en": "We need to make a start on the report today.",
+                  "ja": "今日、その報告書に着手する必要がある。"
                 }
               ],
               "label": "",
@@ -3154,6 +3362,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "国家・国",
+              "pattern": "the state / state power",
+              "tip": "政府や国家という政治的組織を表す。",
+              "examples": [
+                {
+                  "en": "The state has a duty to protect public safety.",
+                  "ja": "国家には公共の安全を守る義務がある。"
+                },
+                {
+                  "en": "The constitution limits the power of the state.",
+                  "ja": "憲法は国家権力を制限する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "州",
+              "pattern": "the state of California / a state government",
+              "tip": "米国などの連邦国家の構成単位。",
+              "examples": [
+                {
+                  "en": "Each state has its own education policies.",
+                  "ja": "各州には独自の教育政策がある。"
+                },
+                {
+                  "en": "She moved to another state for work.",
+                  "ja": "彼女は仕事のため別の州へ引っ越した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "国営の・州立の",
+              "pattern": "a state school / state-owned company",
+              "tip": "公的機関に関係することを表す。",
+              "examples": [
+                {
+                  "en": "The museum receives funding from the state government.",
+                  "ja": "その博物館は州政府から資金提供を受けている。"
+                },
+                {
+                  "en": "A state-owned company manages the railway.",
+                  "ja": "国有企業が鉄道を運営している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -3199,6 +3466,70 @@
                 {
                   "en": "The road stayed closed throughout the weekend.",
                   "ja": "道路は週末中ずっと通行止めのままだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "離れずにいる・近寄らない",
+              "pattern": "stay away from / stay with",
+              "tip": "対象から距離を保つこと、またはそばにいること。",
+              "examples": [
+                {
+                  "en": "Stay away from the edge of the platform.",
+                  "ja": "ホームの端には近づかないでください。"
+                },
+                {
+                  "en": "The nurse stayed with the patient all night.",
+                  "ja": "看護師は一晩中患者に付き添った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "滞在・宿泊",
+              "pattern": "a short stay / during one's stay",
+              "tip": "特定の場所にとどまる期間。",
+              "examples": [
+                {
+                  "en": "We enjoyed our three-day stay in the city.",
+                  "ja": "私たちはその都市での3日間の滞在を楽しんだ。"
+                },
+                {
+                  "en": "Breakfast is included during your stay.",
+                  "ja": "滞在中の朝食は料金に含まれる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "執行・手続きを一時停止する",
+              "pattern": "stay a sentence / proceeding",
+              "tip": "法律分野で判決の執行などを延期・停止する。",
+              "examples": [
+                {
+                  "en": "The court stayed the execution of the order.",
+                  "ja": "裁判所は命令の執行を停止した。"
+                },
+                {
+                  "en": "A judge agreed to stay the proceedings temporarily.",
+                  "ja": "裁判官は手続きを一時的に停止することに同意した。"
                 }
               ],
               "label": "",
@@ -3259,6 +3590,83 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "〜するため立ち止まる",
+              "pattern": "stop to do",
+              "tip": "直前の動作をやめ、別の目的の行為をする。stop doingと区別。",
+              "examples": [
+                {
+                  "en": "We stopped to buy some water.",
+                  "ja": "私たちは水を買うため立ち寄った。"
+                },
+                {
+                  "en": "She stopped to answer the phone.",
+                  "ja": "彼女は電話に出るため手を止めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人が〜するのを止める",
+              "pattern": "stop A from doing",
+              "tip": "特定の行為が起こらないよう妨げる。",
+              "examples": [
+                {
+                  "en": "Nothing could stop her from pursuing her goal.",
+                  "ja": "彼女が目標を追うのを誰も止められなかった。"
+                },
+                {
+                  "en": "The fence stops animals from entering the field.",
+                  "ja": "柵は動物が畑に入るのを防ぐ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "停留所・停車駅",
+              "pattern": "a bus stop / the next stop",
+              "tip": "乗り物が停車する場所。",
+              "examples": [
+                {
+                  "en": "The nearest bus stop is across the street.",
+                  "ja": "最寄りのバス停は通りの向こう側にある。"
+                },
+                {
+                  "en": "Our stop is the next one.",
+                  "ja": "私たちが降りるのは次の停車駅だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "中止・停止",
+              "pattern": "come to a stop / bring A to a stop",
+              "tip": "動き・活動が終わること。",
+              "examples": [
+                {
+                  "en": "The train came to a sudden stop.",
+                  "ja": "電車は突然停止した。"
+                },
+                {
+                  "en": "The project came to a stop when funding ended.",
+                  "ja": "資金が尽きると計画は中断した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -3309,6 +3717,60 @@
                 {
                   "en": "The store opens at ten on weekdays.",
                   "ja": "その店は平日は10時に開店する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "蓄え・貯蔵",
+              "pattern": "a store of food / knowledge",
+              "tip": "将来使えるようためられた物や知識。",
+              "examples": [
+                {
+                  "en": "The village kept a store of food for winter.",
+                  "ja": "村は冬に備えて食料を蓄えていた。"
+                },
+                {
+                  "en": "She has a remarkable store of knowledge about birds.",
+                  "ja": "彼女には鳥について驚くほど豊富な知識がある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "倉庫・保管所",
+              "pattern": "a storage store / store room",
+              "tip": "物品を蓄えておく施設を表す。",
+              "examples": [
+                {
+                  "en": "The old building served as a store for grain.",
+                  "ja": "古い建物は穀物の貯蔵庫として使われた。"
+                },
+                {
+                  "en": "The supplies were moved to a secure store.",
+                  "ja": "物資は安全な保管所へ移された。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "将来待ち受けているもの",
+              "pattern": "in store for A",
+              "tip": "これから起こることを表す決まり文句。",
+              "examples": [
+                {
+                  "en": "No one knew what the future had in store for them.",
+                  "ja": "将来何が待っているか誰にも分からなかった。"
+                },
+                {
+                  "en": "The season has many surprises in store for fans.",
+                  "ja": "今季はファンに多くの驚きが待っている。"
                 }
               ],
               "label": "",
@@ -3366,6 +3828,65 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "勉強・学習",
+              "pattern": "a course of study / after study",
+              "tip": "学ぶ行為や学問に取り組むこと。",
+              "examples": [
+                {
+                  "en": "Regular study is essential for progress.",
+                  "ja": "上達には定期的な学習が欠かせない。"
+                },
+                {
+                  "en": "She continued her studies at graduate school.",
+                  "ja": "彼女は大学院で勉強を続けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "研究・調査",
+              "pattern": "a study of / a scientific study",
+              "tip": "特定のテーマについて行う詳しい調査。",
+              "examples": [
+                {
+                  "en": "A new study examined students' reading habits.",
+                  "ja": "新たな研究が生徒の読書習慣を調べた。"
+                },
+                {
+                  "en": "The study found a link between sleep and memory.",
+                  "ja": "その研究は睡眠と記憶の関連を見いだした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "書斎・勉強部屋",
+              "pattern": "in the study / a private study",
+              "tip": "自宅で読書・仕事をする部屋。",
+              "examples": [
+                {
+                  "en": "My grandfather keeps his books in the study.",
+                  "ja": "祖父は書斎に本を置いている。"
+                },
+                {
+                  "en": "She spent the morning working in her study.",
+                  "ja": "彼女は午前中、書斎で仕事をした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -3409,6 +3930,42 @@
                 {
                   "en": "The pattern suggests that the problem is widespread.",
                   "ja": "その傾向は問題が広範囲に及ぶことを示唆している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜するよう提案する",
+              "pattern": "suggest that S (should) V",
+              "tip": "提案をthat節で示す。動詞の形に注意。",
+              "examples": [
+                {
+                  "en": "I suggest that we leave before it gets dark.",
+                  "ja": "暗くなる前に出発することを提案します。"
+                },
+                {
+                  "en": "The teacher suggested that each student keep a journal.",
+                  "ja": "先生は生徒一人ひとりに日記をつけるよう提案した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "連想させる・思い起こさせる",
+              "pattern": "suggest A to B",
+              "tip": "一つの物事が別の印象・考えを呼び起こす。",
+              "examples": [
+                {
+                  "en": "The melody suggests the sound of falling rain.",
+                  "ja": "その旋律は降り注ぐ雨の音を思い起こさせる。"
+                },
+                {
+                  "en": "The scent suggested childhood summers to her.",
+                  "ja": "その香りは彼女に子どものころの夏を思い出させた。"
                 }
               ],
               "label": "",
@@ -3459,6 +4016,65 @@
                 {
                   "en": "The photographs support his account of the event.",
                   "ja": "写真は彼の出来事についての説明を裏づけている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "家族を養う",
+              "pattern": "support a family",
+              "tip": "生活に必要な費用を負担する。",
+              "examples": [
+                {
+                  "en": "He supports his family on a modest income.",
+                  "ja": "彼はささやかな収入で家族を養っている。"
+                },
+                {
+                  "en": "She worked two jobs to support her children.",
+                  "ja": "彼女は子どもたちを養うために二つの仕事をしていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "支援・援助",
+              "pattern": "financial / emotional support",
+              "tip": "精神的・経済的な助けを表す。",
+              "examples": [
+                {
+                  "en": "The project depends on community support.",
+                  "ja": "その事業は地域の支援に支えられている。"
+                },
+                {
+                  "en": "She received financial support from the university.",
+                  "ja": "彼女は大学から経済的支援を受けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "支柱・支え",
+              "pattern": "a wooden support / support beam",
+              "tip": "建造物などの重さを支える物。",
+              "examples": [
+                {
+                  "en": "The bridge needs additional supports.",
+                  "ja": "その橋には追加の支柱が必要だ。"
+                },
+                {
+                  "en": "Workers installed supports under the roof.",
+                  "ja": "作業員は屋根の下に支えを設置した。"
                 }
               ],
               "label": "",
@@ -3516,6 +4132,70 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "会話・話し合い",
+              "pattern": "have a talk with A",
+              "tip": "人と交わすまとまった会話。",
+              "examples": [
+                {
+                  "en": "Can we have a talk after class?",
+                  "ja": "授業の後で少し話せますか。"
+                },
+                {
+                  "en": "They had a long talk about their future.",
+                  "ja": "彼らは将来について長く話し合った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "講演・講話",
+              "pattern": "give a talk on A",
+              "tip": "聴衆に向けて行う話。",
+              "examples": [
+                {
+                  "en": "The scientist gave a talk on climate change.",
+                  "ja": "科学者は気候変動について講演した。"
+                },
+                {
+                  "en": "Her talk attracted a large audience.",
+                  "ja": "彼女の講演は多くの聴衆を集めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "説得して〜させる",
+              "pattern": "talk A into doing",
+              "tip": "言葉を使って相手を説得し行動させる。",
+              "examples": [
+                {
+                  "en": "My friends talked me into joining the club.",
+                  "ja": "友人たちは私を説得してそのクラブに入らせた。"
+                },
+                {
+                  "en": "She talked her parents into letting her travel alone.",
+                  "ja": "彼女は一人旅を許してもらうよう両親を説得した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -3559,6 +4239,42 @@
                 {
                   "en": "She taught the children how to plant vegetables.",
                   "ja": "彼女は子どもたちに野菜の植え方を教えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人に科目を教える",
+              "pattern": "teach A B / teach B to A",
+              "tip": "人と教える内容をともに目的語として表す。",
+              "examples": [
+                {
+                  "en": "He teaches his students French.",
+                  "ja": "彼は生徒たちにフランス語を教えている。"
+                },
+                {
+                  "en": "She taught mathematics to younger children.",
+                  "ja": "彼女は年下の子どもたちに数学を教えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人に教訓を与える",
+              "pattern": "teach A a lesson",
+              "tip": "失敗・経験によって大切なことを学ばせる。",
+              "examples": [
+                {
+                  "en": "That mistake taught me an important lesson.",
+                  "ja": "その失敗は私に大切な教訓を与えた。"
+                },
+                {
+                  "en": "The experience taught her to be more patient.",
+                  "ja": "その経験は彼女にもっと辛抱強くなることを教えた。"
                 }
               ],
               "label": "",
@@ -3609,6 +4325,60 @@
                 {
                   "en": "The doctor told him to get more rest.",
                   "ja": "医師は彼にもっと休むよう指示した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "事実・真実を話す",
+              "pattern": "tell the truth / a story",
+              "tip": "何を伝えるかを目的語で示す。",
+              "examples": [
+                {
+                  "en": "Please tell the truth about what happened.",
+                  "ja": "何が起こったのか本当のことを話してください。"
+                },
+                {
+                  "en": "My grandmother told us a story before bed.",
+                  "ja": "祖母は寝る前に私たちに物語を聞かせた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "見分ける・区別する",
+              "pattern": "tell A from B",
+              "tip": "二つのものの違いを判別する。",
+              "examples": [
+                {
+                  "en": "Can you tell the twins apart?",
+                  "ja": "その双子を見分けられますか。"
+                },
+                {
+                  "en": "It is hard to tell real leather from imitation leather.",
+                  "ja": "本革と人工皮革を見分けるのは難しい。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜だと伝える",
+              "pattern": "tell A that S V",
+              "tip": "情報の受け手と内容を示す。",
+              "examples": [
+                {
+                  "en": "She told me that the meeting was canceled.",
+                  "ja": "彼女は会議が中止になったと私に伝えた。"
+                },
+                {
+                  "en": "He told the students that the test would be short.",
+                  "ja": "彼は生徒たちに試験は短いと伝えた。"
                 }
               ],
               "label": "",
@@ -3669,6 +4439,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "能力・性能を試すもの",
+              "pattern": "put A to the test",
+              "tip": "人・物の能力を厳しく確かめる。",
+              "examples": [
+                {
+                  "en": "The long journey put our patience to the test.",
+                  "ja": "長い旅は私たちの忍耐力を試した。"
+                },
+                {
+                  "en": "The new design passed a demanding safety test.",
+                  "ja": "新しい設計は厳しい安全試験に合格した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "検査で〜という結果が出る",
+              "pattern": "test positive / negative for A",
+              "tip": "医学検査などの結果を表す。",
+              "examples": [
+                {
+                  "en": "She tested positive for the virus.",
+                  "ja": "彼女はウイルス検査で陽性だった。"
+                },
+                {
+                  "en": "The sample tested negative for contamination.",
+                  "ja": "試料は汚染検査で陰性だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -3701,6 +4512,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "〜を思いつく",
+              "pattern": "think of an idea",
+              "tip": "新しい考え・案が頭に浮かぶ。",
+              "examples": [
+                {
+                  "en": "She thought of a better way to solve the problem.",
+                  "ja": "彼女はその問題を解くもっと良い方法を思いついた。"
+                },
+                {
+                  "en": "I cannot think of his name right now.",
+                  "ja": "今は彼の名前が思い出せない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -3719,6 +4548,42 @@
                 {
                   "en": "I think the new approach is worth trying.",
                   "ja": "新しい方法は試してみる価値があると思う。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜という考えを持つ・評価する",
+              "pattern": "think A C",
+              "tip": "目的語について判断・評価を述べる。",
+              "examples": [
+                {
+                  "en": "I think it important to check the facts.",
+                  "ja": "事実を確認することが重要だと思う。"
+                },
+                {
+                  "en": "They thought the proposal unreasonable.",
+                  "ja": "彼らはその提案を不合理だと考えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "熟考する",
+              "pattern": "think A over",
+              "tip": "決定前によく考える。",
+              "examples": [
+                {
+                  "en": "Please think the offer over carefully.",
+                  "ja": "その申し出を慎重によく考えてください。"
+                },
+                {
+                  "en": "I need a day to think it over.",
+                  "ja": "よく考えるために1日必要だ。"
                 }
               ],
               "label": "",
@@ -3756,6 +4621,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "〜するよう訓練する",
+              "pattern": "train A to do",
+              "tip": "特定の能力や手順を習得させる。",
+              "examples": [
+                {
+                  "en": "The school trains students to write clear reports.",
+                  "ja": "その学校は生徒に明確な報告書を書く訓練をする。"
+                },
+                {
+                  "en": "They trained the dog to find missing people.",
+                  "ja": "彼らはその犬に行方不明者を捜す訓練をした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -3774,6 +4657,47 @@
                 {
                   "en": "He is training for next month's marathon.",
                   "ja": "彼は来月のマラソンに向けて練習している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "列車・電車",
+              "pattern": "take / catch a train",
+              "tip": "鉄道で運行する乗り物。",
+              "examples": [
+                {
+                  "en": "The last train leaves at midnight.",
+                  "ja": "終電は深夜0時に出発する。"
+                },
+                {
+                  "en": "We caught an express train to the airport.",
+                  "ja": "私たちは空港行きの急行電車に乗った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "連なり・列",
+              "pattern": "a train of thought / a long train",
+              "tip": "連続する人・物・考え。",
+              "examples": [
+                {
+                  "en": "I lost my train of thought during the speech.",
+                  "ja": "演説の途中で考えの流れが途切れた。"
+                },
+                {
+                  "en": "A long train of cars followed the parade.",
+                  "ja": "パレードの後ろに長い車列が続いた。"
                 }
               ],
               "label": "",
@@ -3811,6 +4735,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "意味を解釈して別の形にする",
+              "pattern": "translate A as B",
+              "tip": "語句などを特定の訳語で表す。",
+              "examples": [
+                {
+                  "en": "How would you translate this phrase into Japanese?",
+                  "ja": "この句を日本語でどう訳しますか。"
+                },
+                {
+                  "en": "The term is often translated as \"sustainability.\"",
+                  "ja": "その語はよく「持続可能性」と訳される。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -3829,6 +4771,24 @@
                 {
                   "en": "Good intentions do not always translate into good results.",
                   "ja": "善意が必ずしも良い結果につながるとは限らない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "別の状況でも通用する",
+              "pattern": "translate well / poorly",
+              "tip": "技能・成果などが別環境で同じように役立つかを示す。",
+              "examples": [
+                {
+                  "en": "Her laboratory skills translated well to fieldwork.",
+                  "ja": "彼女の実験室での技能は現地調査でも十分役立った。"
+                },
+                {
+                  "en": "The design does not translate well to smaller screens.",
+                  "ja": "その設計は小さな画面ではうまく機能しない。"
                 }
               ],
               "label": "",
@@ -3884,6 +4844,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "人から人へ広まる",
+              "pattern": "news / ideas travel",
+              "tip": "知らせ・考えが伝わって広がる。",
+              "examples": [
+                {
+                  "en": "News of the victory traveled quickly.",
+                  "ja": "勝利の知らせはすぐに広まった。"
+                },
+                {
+                  "en": "Ideas can travel across borders through books.",
+                  "ja": "思想は書物を通じて国境を越えて広まる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "旅行・移動",
+              "pattern": "air travel / travel expenses",
+              "tip": "旅行という行為・移動を表す名詞。",
+              "examples": [
+                {
+                  "en": "Air travel became more affordable over time.",
+                  "ja": "航空旅行は時代とともにより手頃になった。"
+                },
+                {
+                  "en": "The company pays reasonable travel expenses.",
+                  "ja": "会社は妥当な旅費を支給する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -3934,6 +4935,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "人におごる・ごちそうする",
+              "pattern": "treat A to B",
+              "tip": "相手に飲食物・体験を提供して喜ばせる。",
+              "examples": [
+                {
+                  "en": "She treated us to dinner after the game.",
+                  "ja": "彼女は試合後に私たちに夕食をごちそうした。"
+                },
+                {
+                  "en": "He treated his parents to a weekend trip.",
+                  "ja": "彼は両親に週末旅行をプレゼントした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "加工・処理する",
+              "pattern": "treat water / wood",
+              "tip": "化学的・物理的な方法で物を処理する。",
+              "examples": [
+                {
+                  "en": "The city treats drinking water before distribution.",
+                  "ja": "市は水道水を配水前に処理する。"
+                },
+                {
+                  "en": "The wood is treated to resist moisture.",
+                  "ja": "その木材は湿気に強くなるよう処理されている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ごちそう・楽しみ",
+              "pattern": "a special treat / as a treat",
+              "tip": "特別な楽しみや褒美を表す。",
+              "examples": [
+                {
+                  "en": "The cake was a special treat for the children.",
+                  "ja": "そのケーキは子どもたちにとって特別なごちそうだった。"
+                },
+                {
+                  "en": "We went to the cinema as a birthday treat.",
+                  "ja": "誕生日の特別な楽しみとして映画館へ行った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -3979,6 +5039,60 @@
                 {
                   "en": "I understand why he chose to leave early.",
                   "ja": "彼が早く帰ることを選んだ理由は分かる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜だと理解している",
+              "pattern": "understand that S V",
+              "tip": "事実・事情・知らせを認識している。",
+              "examples": [
+                {
+                  "en": "I understand that the deadline has changed.",
+                  "ja": "期限が変更されたと理解しています。"
+                },
+                {
+                  "en": "We understand that some residents are concerned.",
+                  "ja": "一部の住民が心配していることは承知している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人の気持ちを理解する",
+              "pattern": "understand A's feelings",
+              "tip": "事情に共感・配慮する。",
+              "examples": [
+                {
+                  "en": "She understands how difficult the decision is.",
+                  "ja": "彼女はその決断がどれほど難しいか理解している。"
+                },
+                {
+                  "en": "I can understand his disappointment.",
+                  "ja": "彼の落胆は理解できる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜と聞いている・承知している",
+              "pattern": "be understood to do",
+              "tip": "伝聞や一般的な理解を受動形で表す。",
+              "examples": [
+                {
+                  "en": "The company is understood to be considering a merger.",
+                  "ja": "その会社は合併を検討中だとみられている。"
+                },
+                {
+                  "en": "The documents are understood to be confidential.",
+                  "ja": "その書類は機密扱いだと理解されている。"
                 }
               ],
               "label": "",
@@ -4036,6 +5150,75 @@
               "register": ""
             }
           ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "使用・利用",
+              "pattern": "the use of A / in use",
+              "tip": "名詞は/juːs/、動詞は/juːz/と発音が異なる。",
+              "examples": [
+                {
+                  "en": "The use of smartphones is not permitted during the exam.",
+                  "ja": "試験中のスマートフォンの使用は許されない。"
+                },
+                {
+                  "en": "This machine is still in use.",
+                  "ja": "この機械は今も使われている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "〜することに慣れている",
+              "pattern": "be used to doing / noun",
+              "tip": "used to do（過去の習慣）とは異なりtoは前置詞。",
+              "examples": [
+                {
+                  "en": "She is used to getting up early.",
+                  "ja": "彼女は早起きすることに慣れている。"
+                },
+                {
+                  "en": "I am not used to this cold weather.",
+                  "ja": "私はこの寒い気候に慣れていない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "助動詞",
+          "senses": [
+            {
+              "jp": "以前はよく〜した",
+              "pattern": "used to do",
+              "tip": "過去の習慣・状態。現在とは異なることを暗示しやすい。",
+              "examples": [
+                {
+                  "en": "I used to play baseball every weekend.",
+                  "ja": "私は以前、毎週末野球をしていた。"
+                },
+                {
+                  "en": "There used to be a bookstore on this corner.",
+                  "ja": "以前はこの角に本屋があった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
         }
       ]
     },
@@ -4066,6 +5249,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "条件に応じて変化する",
+              "pattern": "vary with / according to A",
+              "tip": "特定の条件が変わるにつれて値などが変動する。",
+              "examples": [
+                {
+                  "en": "The price varies with demand.",
+                  "ja": "価格は需要によって変動する。"
+                },
+                {
+                  "en": "The level of difficulty varies according to the task.",
+                  "ja": "難易度は課題に応じて異なる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -4084,6 +5285,24 @@
                 {
                   "en": "We varied the exercises to keep the lessons engaging.",
                   "ja": "授業が面白くなるよう練習内容に変化をつけた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "多様性を持たせる",
+              "pattern": "vary between A and B",
+              "tip": "種類・やり方などに違いを設ける。",
+              "examples": [
+                {
+                  "en": "The teacher varied the lessons between discussion and practice.",
+                  "ja": "先生は授業に討論と演習を織り交ぜた。"
+                },
+                {
+                  "en": "We vary the menu to reflect seasonal ingredients.",
+                  "ja": "私たちは季節の食材に合わせてメニューに変化をつけている。"
                 }
               ],
               "label": "",
@@ -4139,6 +5358,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "〜するのが待ちきれない",
+              "pattern": "can't wait to do",
+              "tip": "楽しみ・期待が強いことを表す。",
+              "examples": [
+                {
+                  "en": "I can't wait to see the new museum.",
+                  "ja": "新しい博物館を見るのが待ちきれない。"
+                },
+                {
+                  "en": "The children couldn't wait to open their presents.",
+                  "ja": "子どもたちはプレゼントを開けるのが待ちきれなかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "待つこと・待ち時間",
+              "pattern": "a long wait / a wait for A",
+              "tip": "何かを待つ時間を指す。",
+              "examples": [
+                {
+                  "en": "There was a long wait at the clinic.",
+                  "ja": "診療所では待ち時間が長かった。"
+                },
+                {
+                  "en": "The wait for the results was stressful.",
+                  "ja": "結果を待つ時間は気が重かった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -4189,6 +5449,88 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "〜がするのを見守る",
+              "pattern": "watch A do / doing",
+              "tip": "原形は動作全体、ingは進行中の場面をとらえやすい。",
+              "examples": [
+                {
+                  "en": "We watched the children cross the bridge.",
+                  "ja": "私たちは子どもたちが橋を渡るのを見守った。"
+                },
+                {
+                  "en": "She watched the workers repairing the roof.",
+                  "ja": "彼女は作業員が屋根を修理している様子を見ていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "腕時計・時計",
+              "pattern": "a wristwatch / check one's watch",
+              "tip": "身につけて時刻を確認する時計。",
+              "examples": [
+                {
+                  "en": "He checked his watch before the train arrived.",
+                  "ja": "彼は列車が着く前に腕時計を確認した。"
+                },
+                {
+                  "en": "My watch stopped working yesterday.",
+                  "ja": "私の腕時計は昨日動かなくなった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "見張り・監視",
+              "pattern": "keep watch / be on watch",
+              "tip": "安全のために見張ること。",
+              "examples": [
+                {
+                  "en": "They kept watch throughout the night.",
+                  "ja": "彼らは夜通し見張りを続けた。"
+                },
+                {
+                  "en": "A guard was on watch near the entrance.",
+                  "ja": "警備員が入口付近で見張っていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "警戒する・注意する",
+              "pattern": "watch out for A",
+              "tip": "危険・問題の兆しに注意する。",
+              "examples": [
+                {
+                  "en": "Watch out for bicycles when you open the door.",
+                  "ja": "ドアを開けるときは自転車に注意してください。"
+                },
+                {
+                  "en": "We must watch out for misleading information.",
+                  "ja": "誤解を招く情報に注意しなければならない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -4216,6 +5558,60 @@
                 {
                   "en": "The team won the regional championship.",
                   "ja": "チームは地区選手権で優勝した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "訴訟・争いで勝つ",
+              "pattern": "win a case / battle",
+              "tip": "試合以外の競争・裁判などで勝利する。",
+              "examples": [
+                {
+                  "en": "The lawyer won the case on appeal.",
+                  "ja": "弁護士は控訴審で勝訴した。"
+                },
+                {
+                  "en": "The campaigners won an important legal battle.",
+                  "ja": "運動家たちは重要な法廷闘争に勝った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人の心・支持を勝ち取る",
+              "pattern": "win A over",
+              "tip": "説得や行動によって支持を得る。",
+              "examples": [
+                {
+                  "en": "Her honesty won the voters over.",
+                  "ja": "彼女の誠実さは有権者の支持を勝ち取った。"
+                },
+                {
+                  "en": "The teacher gradually won over the skeptical students.",
+                  "ja": "先生は懐疑的な生徒たちの信頼を徐々に得た。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "賞・報酬を獲得する",
+              "pattern": "win an award / prize",
+              "tip": "選考や競争で賞を得る。",
+              "examples": [
+                {
+                  "en": "The film won an international award.",
+                  "ja": "その映画は国際的な賞を受賞した。"
+                },
+                {
+                  "en": "She won a scholarship for her research.",
+                  "ja": "彼女は研究のための奨学金を獲得した。"
                 }
               ],
               "label": "",
@@ -4276,6 +5672,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "書き留める",
+              "pattern": "write A down",
+              "tip": "情報を忘れないよう記録する。",
+              "examples": [
+                {
+                  "en": "Please write down the address carefully.",
+                  "ja": "住所を注意深く書き留めてください。"
+                },
+                {
+                  "en": "She wrote down every question after the lecture.",
+                  "ja": "彼女は講義後にすべての質問を書き留めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "文章を書き上げる",
+              "pattern": "write up a report / results",
+              "tip": "メモや結果をまとまった文書にする。",
+              "examples": [
+                {
+                  "en": "He wrote up the interview notes that evening.",
+                  "ja": "彼はその晩、インタビューのメモを文章にまとめた。"
+                },
+                {
+                  "en": "The researchers wrote up their findings for publication.",
+                  "ja": "研究者たちは発表に向けて研究成果を文章にまとめた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -4294,6 +5726,24 @@
                 {
                   "en": "He writes to his grandparents every month.",
                   "ja": "彼は毎月祖父母に手紙を書く。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "文筆活動をする",
+              "pattern": "write for a newspaper / magazine",
+              "tip": "職業・活動として文章を執筆する。",
+              "examples": [
+                {
+                  "en": "She writes for a local newspaper.",
+                  "ja": "彼女は地元の新聞に記事を書いている。"
+                },
+                {
+                  "en": "He writes regularly about education.",
+                  "ja": "彼は教育について定期的に執筆している。"
                 }
               ],
               "label": "",
