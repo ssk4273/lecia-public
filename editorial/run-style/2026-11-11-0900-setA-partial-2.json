@@ -1,0 +1,299 @@
+{
+  "schema_version": 2,
+  "kind": "lexia_run_style_editorial",
+  "batch": "2026-11-11-0900-setA-partial-2",
+  "review_status": "AI編集・独立辞書校閲待ち",
+  "entries_count": 2,
+  "senses_count": 14,
+  "examples_count": 28,
+  "entries": [
+    {
+      "word": "retain",
+      "ipa": "/rɪˈteɪn/",
+      "guide": "retainは「持ち続ける・失わずに保つ」が核。情報を記憶する、人材を引き留める、専門家を正式に雇うなど、対象によって訳し分ける。他動詞なので目的語が必要。",
+      "note": "retain control / ownership / heat / information / staff。retain a lawyerは「弁護士を依頼する」で、単に連絡を取る意味ではない。keepより改まった語で、既にあるものを維持することを強調。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を保持する",
+              "pattern": "retain + possession / ownership / control",
+              "tip": "権利・支配・所有などを失わず持ち続ける。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The family retained ownership of the land.",
+                  "ja": "その一家はその土地の所有権を保持した。"
+                },
+                {
+                  "en": "The board will retain control of the project.",
+                  "ja": "理事会はその事業の管理権を引き続き持つ。"
+                }
+              ]
+            },
+            {
+              "jp": "～を保つ・維持する",
+              "pattern": "retain + shape / value / quality",
+              "tip": "性質・状態・価値が失われないようにする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The fabric retains its shape after washing.",
+                  "ja": "その生地は洗濯後も形が崩れない。"
+                },
+                {
+                  "en": "The building has retained much of its original character.",
+                  "ja": "その建物には当初の特徴がかなり残っている。"
+                }
+              ]
+            },
+            {
+              "jp": "～を記憶にとどめる",
+              "pattern": "retain + information / knowledge",
+              "tip": "学んだ情報を忘れずに覚えておく。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Students retain vocabulary better when they use it in context.",
+                  "ja": "生徒は語彙を文脈の中で使うと、よりよく記憶に定着させられる。"
+                },
+                {
+                  "en": "I can read the passage, but I struggle to retain the details.",
+                  "ja": "文章は読めるが、細部を覚えておくのが難しい。"
+                }
+              ]
+            },
+            {
+              "jp": "～を引き留める・雇用し続ける",
+              "pattern": "retain + staff / employees / customers",
+              "tip": "人材・顧客との関係を失わず維持する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The company raised wages to retain experienced workers.",
+                  "ja": "その会社は経験豊富な従業員を引き留めるために賃金を上げた。"
+                },
+                {
+                  "en": "Good service helps the store retain customers.",
+                  "ja": "良い接客はその店が顧客をつなぎ留めるのに役立つ。"
+                }
+              ]
+            },
+            {
+              "jp": "～を内部にとどめる",
+              "pattern": "retain + heat / moisture / water",
+              "tip": "熱・水分などが外へ逃げないようにする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Thick curtains help retain heat during winter.",
+                  "ja": "厚手のカーテンは冬に室内の熱を逃がさないのに役立つ。"
+                },
+                {
+                  "en": "This soil retains water for a long time.",
+                  "ja": "この土壌は長時間水分を保持する。"
+                }
+              ]
+            },
+            {
+              "jp": "～を正式に依頼する",
+              "pattern": "retain + a lawyer / consultant",
+              "tip": "報酬を支払う契約などによって専門家のサービスを確保する、法律・ビジネス寄りの用法。",
+              "contrast": "hireは一般的な雇用・依頼、retainは専門家との契約関係を強調する。",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The tenant retained a lawyer to review the contract.",
+                  "ja": "借主は契約書を確認してもらうため弁護士に依頼した。"
+                },
+                {
+                  "en": "The firm retained an independent adviser for the transaction.",
+                  "ja": "その会社はその取引について独立した助言者を正式に起用した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resolve",
+      "ipa": "/rɪˈzɑːlv/（米） /rɪˈzɒlv/（英）",
+      "guide": "resolveは問題を解決する他動詞、決意する動詞、決意・決断力を表す名詞を区別する。resolve to doは「～すると決心する」で、resolve a problemとは構文が違う。",
+      "note": "resolve a dispute / issue、resolve to do、resolve that節、resolve into。名詞resolveは不可算で「決意・決断力」。solutionは解決策そのもの、resolutionは解決・決議・決意を表す。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を解決する",
+              "pattern": "resolve + issue / problem / conflict",
+              "tip": "対立や困難を処理し、解決した状態にする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The two sides met to resolve the dispute.",
+                  "ja": "双方は紛争を解決するために会合を開いた。"
+                },
+                {
+                  "en": "The update resolved the problem with the search function.",
+                  "ja": "その更新で検索機能の問題が解決した。"
+                }
+              ]
+            },
+            {
+              "jp": "～を解消する・晴らす",
+              "pattern": "resolve + doubt / uncertainty / question",
+              "tip": "疑問・不確実性をなくして明確にする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The new evidence helped resolve doubts about the result.",
+                  "ja": "新たな証拠は結果に関する疑念を晴らすのに役立った。"
+                },
+                {
+                  "en": "Further tests are needed to resolve this uncertainty.",
+                  "ja": "この不確実性を解消するには追加の試験が必要だ。"
+                }
+              ]
+            },
+            {
+              "jp": "～と決議する",
+              "pattern": "resolve that + 主語 + 動詞",
+              "tip": "会議・組織などが正式に決定する、改まった用法。",
+              "contrast": "組織の決議ではresolve to doも使う。",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The committee resolved that the rules should be revised.",
+                  "ja": "委員会は規則を改定すべきだと決議した。"
+                },
+                {
+                  "en": "The members resolved to postpone the vote.",
+                  "ja": "会員たちは投票を延期することを決議した。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "～すると固く決心する",
+              "pattern": "resolve to + 動詞の原形",
+              "tip": "行動する強い意思を定める。",
+              "contrast": "decideより強い決意を示すことが多い。",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "She resolved to study English every day.",
+                  "ja": "彼女は毎日英語を勉強すると固く決心した。"
+                },
+                {
+                  "en": "After the failure, he resolved to try again.",
+                  "ja": "失敗の後、彼はもう一度挑戦すると決意した。"
+                }
+              ]
+            },
+            {
+              "jp": "～に分解される・変わる",
+              "pattern": "resolve into + 要素 / 状態",
+              "tip": "複雑なものが要素に分かれたり、別の形に落ち着いたりする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Under the microscope, the image resolved into separate dots.",
+                  "ja": "顕微鏡で見ると、その像は個々の点に分かれて見えた。"
+                },
+                {
+                  "en": "The discussion eventually resolved into two clear options.",
+                  "ja": "議論は最終的に二つの明確な選択肢にまとまった。"
+                }
+              ]
+            },
+            {
+              "jp": "～へと落ち着く",
+              "pattern": "resolve itself into + 結果",
+              "tip": "状況が次第に一つの結果・形にまとまる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The disagreement eventually resolved itself into a compromise.",
+                  "ja": "意見の対立は最終的に妥協という形に落ち着いた。"
+                },
+                {
+                  "en": "The complex debate resolved itself into a simple question.",
+                  "ja": "複雑な議論は結局、一つの単純な問いに集約された。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "固い決意",
+              "pattern": "show / strengthen / weaken one's resolve",
+              "tip": "行動をやり遂げようとする強い意志。通常不可算。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Her resolve to finish the course never weakened.",
+                  "ja": "その講座を修了するという彼女の決意は決して揺らがなかった。"
+                },
+                {
+                  "en": "The setback only strengthened their resolve.",
+                  "ja": "その挫折はかえって彼らの決意を強めた。"
+                }
+              ]
+            },
+            {
+              "jp": "決断力・意志の強さ",
+              "pattern": "test someone's resolve / lack resolve",
+              "tip": "困難の中でも意思を貫く力。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The long negotiations tested his resolve.",
+                  "ja": "長い交渉は彼の決断力を試した。"
+                },
+                {
+                  "en": "The team showed remarkable resolve under pressure.",
+                  "ja": "そのチームは重圧の中で並外れた意志の強さを示した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
