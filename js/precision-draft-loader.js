@@ -729,6 +729,27 @@
       console.error('Lexia chat 300 promotion failed',error);
       window.LEXIA_CHAT_300_STATUS=Object.freeze({promoted:0,provisional:true,error:String(error)});
     }
+    // Chat batch of 350 provisional editorial entries, pending independent review.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-chat-350-provisional.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('HTTP '+response.status);
+      const pack=await response.json();
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||pack.entries_count!==350||
+         pack.entries?.length!==350||new Set(pack.entries.map(e=>e.word)).size!==350)
+        throw Error('350-pack metadata invalid');
+      let senses=0,examples=0;
+      for(const e of pack.entries){
+        if(Object.hasOwn(CURATED,e.word)||!precisionValidate(e.word,e))throw Error('350-pack invalid or duplicate '+e.word);
+        for(const g of e.groups)for(const v of g.senses){if(!v.tip||!v.pattern)throw Error('350-pack missing fields');senses++;examples+=v.examples.length;}
+      }
+      if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('350-pack count mismatch');
+      for(const e of pack.entries)CURATED[e.word]=e;
+      precisionRecount();
+      window.LEXIA_CHAT_350_STATUS=Object.freeze({promoted:350,senses,examples,provisional:true});
+    }catch(error){
+      console.error('Lexia chat 350 promotion failed',error);
+      window.LEXIA_CHAT_350_STATUS=Object.freeze({promoted:0,provisional:true,error:String(error)});
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
