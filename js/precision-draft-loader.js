@@ -777,7 +777,7 @@
         for(const g of e.groups)for(const s of g.senses){
           if(!s.jp||!s.pattern||!s.tip||(!Array.isArray(s.examples)||s.examples.length<2)||
              s.examples.some(x=>!x.en||!x.ja))throw Error('150-pack incomplete bilingual sense: '+e.word);
-          senses++;examples+=2;
+          senses++;examples+=s.examples.length;
         }
         incoming.set(e.word,e);
       }
