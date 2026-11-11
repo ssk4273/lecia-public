@@ -623,6 +623,28 @@
       console.error('Lexia 09:00 promotion failed',error);
       window.LEXIA_NINTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
     }
+    // Chat batch: 90 structured entries promoted to the run-style renderer.
+    // These are PROVISIONAL editorial entries, not independently reviewed run-depth articles.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-chat-90-provisional.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('HTTP '+response.status);
+      const pack=await response.json();
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.entries_count!==90||pack.entries?.length!==90||
+         new Set(pack.entries.map(e=>e.word)).size!==90)throw Error('90-pack metadata invalid');
+      let senses=0,examples=0;
+      for(const e of pack.entries){
+        if(Object.hasOwn(CURATED,e.word)||!precisionValidate(e.word,e))throw Error('90-pack entry invalid or duplicate: '+e.word);
+        for(const g of e.groups)for(const sense of g.senses){senses++;examples+=sense.examples.length;}
+      }
+      if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('90-pack count mismatch');
+      for(const e of pack.entries)CURATED[e.word]=e;
+      precisionRecount();
+      window.LEXIA_CHAT_90_STATUS=Object.freeze({promoted:90,senses,examples,provisional:true});
+    }catch(error){
+      console.error('Lexia chat 90 provisional promotion failed',error);
+      window.LEXIA_CHAT_90_STATUS=Object.freeze({promoted:0,provisional:true,error:String(error)});
+    }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
     draftSenses = stillDraft.reduce((a,w)=>a+DRAFT[w].groups.reduce((n,g)=>n+g.senses.length,0),0);
