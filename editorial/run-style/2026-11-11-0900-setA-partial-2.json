@@ -3,9 +3,9 @@
   "kind": "lexia_run_style_editorial",
   "batch": "2026-11-11-0900-setA-continuation-4",
   "review_status": "AI編集・独立辞書校閲待ち",
-  "entries_count": 6,
-  "senses_count": 39,
-  "examples_count": 78,
+  "entries_count": 10,
+  "senses_count": 61,
+  "examples_count": 122,
   "entries": [
     {
       "word": "retain",
@@ -795,6 +795,464 @@
                 {
                   "en": "The situation requires an immediate response.",
                   "ja": "その状況には即座の対応が必要だ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "respond",
+      "ipa": "/rɪˈspɑːnd/（米）",
+      "guide": "respondは働きかけ・質問・状況に反応する自動詞。目的語を直接置かず、respond toで対象を示す。replyは言葉で返事する場合に焦点がある。",
+      "note": "respond to a question / criticism / treatment。respond with a smileは反応の仕方。respond that節は改まった発言報告。",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "～に返答する",
+              "pattern": "respond to + question / request",
+              "tip": "質問や依頼への返答。answerは目的語を直接取る。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The manager responded to my email this morning.",
+                  "ja": "担当者は今朝私のメールに返信した。"
+                },
+                {
+                  "en": "She responded to the question with a brief explanation.",
+                  "ja": "彼女はその質問に簡潔な説明で答えた。"
+                }
+              ]
+            },
+            {
+              "jp": "～に反応する",
+              "pattern": "respond to + criticism / news",
+              "tip": "出来事や批判を受けて行動・態度を示す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The company responded quickly to the criticism.",
+                  "ja": "会社はその批判に素早く対応した。"
+                },
+                {
+                  "en": "How did the audience respond to the announcement?",
+                  "ja": "聴衆はその発表にどう反応したか。"
+                }
+              ]
+            },
+            {
+              "jp": "～に効果を示す",
+              "pattern": "respond to + treatment / medication",
+              "tip": "治療などが効き、身体や症状が変化する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The patient responded well to the new treatment.",
+                  "ja": "患者は新しい治療によく反応した。"
+                },
+                {
+                  "en": "Some infections do not respond to this medicine.",
+                  "ja": "この薬が効かない感染症もある。"
+                }
+              ]
+            },
+            {
+              "jp": "～という反応を示す",
+              "pattern": "respond with + emotion / action",
+              "tip": "withの後に笑顔・怒り・沈黙など反応の内容を置く。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "He responded with a smile.",
+                  "ja": "彼は笑顔で応じた。"
+                },
+                {
+                  "en": "The crowd responded with loud applause.",
+                  "ja": "観衆は大きな拍手で応えた。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～と答える",
+              "pattern": "respond that + 節",
+              "tip": "発言内容をthat節で示す改まった用法。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The spokesperson responded that the report was inaccurate.",
+                  "ja": "広報担当者はその報告は不正確だと答えた。"
+                },
+                {
+                  "en": "She responded that she needed more time.",
+                  "ja": "彼女はもっと時間が必要だと答えた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "represent",
+      "ipa": "/ˌreprɪˈzent/",
+      "guide": "representは代理・代表、表現、象徴、相当するという異なる関係を表す。他動詞で、represent A as BはAをBとして描く。",
+      "note": "represent a client / country; represent an idea; represent 20 percent of; represent A as B。representativeは代表者・典型的な。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を代表する",
+              "pattern": "represent + country / group",
+              "tip": "集団を代表する立場で活動する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "She represented her country at the conference.",
+                  "ja": "彼女は会議で自国を代表した。"
+                },
+                {
+                  "en": "The union represents thousands of workers.",
+                  "ja": "その組合は何千人もの労働者を代表している。"
+                }
+              ]
+            },
+            {
+              "jp": "～の代理を務める",
+              "pattern": "represent + client / defendant",
+              "tip": "法的・業務上の代理人となる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "A local lawyer represented the tenant.",
+                  "ja": "地元の弁護士が借主の代理人を務めた。"
+                },
+                {
+                  "en": "The agency represents several young artists.",
+                  "ja": "その事務所は複数の若手芸術家の代理をしている。"
+                }
+              ]
+            },
+            {
+              "jp": "～を表す・示す",
+              "pattern": "represent + idea / value / figure",
+              "tip": "記号・図・言葉が何かを表現する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The blue line represents the average temperature.",
+                  "ja": "青い線は平均気温を表している。"
+                },
+                {
+                  "en": "These figures represent annual sales.",
+                  "ja": "これらの数字は年間売上高を示す。"
+                }
+              ]
+            },
+            {
+              "jp": "～を象徴する",
+              "pattern": "represent + hope / freedom",
+              "tip": "具体的な物事が抽象的な価値を象徴する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The monument represents hope for peace.",
+                  "ja": "その記念碑は平和への希望を象徴している。"
+                },
+                {
+                  "en": "For many people, the sea represents freedom.",
+                  "ja": "多くの人にとって海は自由を象徴する。"
+                }
+              ]
+            },
+            {
+              "jp": "～に相当する・～を占める",
+              "pattern": "represent + proportion / amount",
+              "tip": "割合や数量に換算した位置づけを示す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Online orders represent 40 percent of our sales.",
+                  "ja": "オンライン注文は売上の40パーセントを占める。"
+                },
+                {
+                  "en": "This fee represents a small part of the total cost.",
+                  "ja": "この手数料は総費用のごく一部に相当する。"
+                }
+              ]
+            },
+            {
+              "jp": "～を…として描く",
+              "pattern": "represent A as B",
+              "tip": "人や状況を特定の姿で示す。事実との一致は別問題。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The article represented the decision as a major victory.",
+                  "ja": "その記事は決定を大勝利として描いた。"
+                },
+                {
+                  "en": "The painting represents the king as a young man.",
+                  "ja": "その絵は王を若い男性として描いている。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "replace",
+      "ipa": "/rɪˈpleɪs/",
+      "guide": "replaceは古い物を新しい物に取り替えることと、ある人・物の代わりになることを表す。他動詞。replace A with BではAが旧、Bが新。",
+      "note": "replace the battery; replace A with B; replace someone as manager。exchange A for Bとは異なり、取り替える対象・代替物に焦点。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を交換する・取り替える",
+              "pattern": "replace + battery / part",
+              "tip": "古い部品などを新しいものにする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "You should replace the batteries once a year.",
+                  "ja": "電池は年に一度交換したほうがよい。"
+                },
+                {
+                  "en": "The mechanic replaced the damaged pipe.",
+                  "ja": "整備士は破損した管を取り替えた。"
+                }
+              ]
+            },
+            {
+              "jp": "AをBに置き換える",
+              "pattern": "replace A with B",
+              "tip": "withの後が新たに使う物。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We replaced the old chairs with new ones.",
+                  "ja": "私たちは古い椅子を新しい椅子に取り替えた。"
+                },
+                {
+                  "en": "The school replaced paper forms with an online system.",
+                  "ja": "学校は紙の申請書をオンライン方式に置き換えた。"
+                }
+              ]
+            },
+            {
+              "jp": "～に取って代わる",
+              "pattern": "replace + person / technology",
+              "tip": "ある人や技術の役割を引き継ぐ。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Digital cameras largely replaced film cameras.",
+                  "ja": "デジタルカメラはフィルムカメラに大きく取って代わった。"
+                },
+                {
+                  "en": "No machine can fully replace a skilled teacher.",
+                  "ja": "どんな機械も熟練した教師の代わりを完全には務められない。"
+                }
+              ]
+            },
+            {
+              "jp": "～の後任となる",
+              "pattern": "replace A as + role",
+              "tip": "役職でAの後任となる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Mika replaced Ken as team captain.",
+                  "ja": "ミカはケンに代わってチームの主将になった。"
+                },
+                {
+                  "en": "The board appointed someone to replace her as director.",
+                  "ja": "取締役会は彼女の後任の取締役を任命した。"
+                }
+              ]
+            },
+            {
+              "jp": "～を元の場所に戻す",
+              "pattern": "replace + object + on / in",
+              "tip": "取り出した物を元の位置に戻す、やや改まった用法。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Please replace the book on the shelf after reading it.",
+                  "ja": "読み終えたら本を棚に戻してください。"
+                },
+                {
+                  "en": "He replaced the lid on the jar.",
+                  "ja": "彼は瓶のふたを元に戻した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refer",
+      "ipa": "/rɪˈfɜːr/",
+      "guide": "referは言及・参照・指示・紹介を表す。refer toは「言及する／参照する／指す」、refer A to Bは「AをBへ紹介・照会する」。",
+      "note": "refer to a report; refer to A as B; refer a patient to a specialist。referは自動詞と他動詞で構文が異なる。",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "～に言及する",
+              "pattern": "refer to + person / event",
+              "tip": "会話・文章である話題を取り上げる。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The speaker referred to the recent survey.",
+                  "ja": "講演者は最近の調査に言及した。"
+                },
+                {
+                  "en": "She never referred to the incident again.",
+                  "ja": "彼女はその出来事に二度と言及しなかった。"
+                }
+              ]
+            },
+            {
+              "jp": "～を参照する",
+              "pattern": "refer to + document / notes",
+              "tip": "情報を確かめるため資料を見る。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Refer to the map on page ten.",
+                  "ja": "10ページの地図を参照してください。"
+                },
+                {
+                  "en": "You may refer to your notes during the test.",
+                  "ja": "試験中にノートを参照しても構いません。"
+                }
+              ]
+            },
+            {
+              "jp": "～を指す・意味する",
+              "pattern": "refer to + thing / person",
+              "tip": "語や表現が指し示す対象を説明する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The word 'they' refers to the students.",
+                  "ja": "theyという語はその生徒たちを指している。"
+                },
+                {
+                  "en": "In this report, 'staff' refers to full-time employees.",
+                  "ja": "この報告書でstaffは常勤職員を指す。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を…と呼ぶ",
+              "pattern": "refer to A as B",
+              "tip": "人・物に呼称や評価を与える。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "People often refer to the city as a cultural center.",
+                  "ja": "人々はその都市を文化の中心地と呼ぶことが多い。"
+                },
+                {
+                  "en": "The article refers to this method as a simple solution.",
+                  "ja": "その記事はこの方法を簡単な解決策と呼んでいる。"
+                }
+              ]
+            },
+            {
+              "jp": "～を…に紹介する・回す",
+              "pattern": "refer A to B",
+              "tip": "患者・相談者などを専門家や担当部署に送る。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The doctor referred her to a specialist.",
+                  "ja": "医師は彼女を専門医に紹介した。"
+                },
+                {
+                  "en": "The clerk referred my question to the manager.",
+                  "ja": "店員は私の質問を店長に回した。"
+                }
+              ]
+            },
+            {
+              "jp": "～を…に委ねる",
+              "pattern": "refer + issue + to + authority",
+              "tip": "判断や審査を権限のある組織に付託する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The dispute was referred to an independent panel.",
+                  "ja": "その紛争は独立した審査委員会に付託された。"
+                },
+                {
+                  "en": "The committee referred the matter to the board.",
+                  "ja": "委員会はその問題を理事会に付託した。"
                 }
               ]
             }
