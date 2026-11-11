@@ -1,0 +1,6484 @@
+{
+  "schema_version": 2,
+  "kind": "lexia_run_style_editorial",
+  "batch": "2026-11-11-chat-200c-provisional",
+  "review_status": "AI編集・独立辞書校閲待ち",
+  "entries_count": 200,
+  "senses_count": 257,
+  "examples_count": 257,
+  "entries": [
+    {
+      "word": "ugliness",
+      "ipa": "",
+      "guide": "「醜さ・見苦しさ」：外見に対する否定的評価／「醜悪さ・非道さ」：行為・状況の道徳的な醜さ",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "醜さ・見苦しさ",
+              "pattern": "the ugliness of a building",
+              "tip": "外見に対する否定的評価",
+              "examples": [
+                {
+                  "en": "Critics complained about the ugliness of the building.",
+                  "ja": "批評家たちはその建物の見苦しさを批判した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "醜悪さ・非道さ",
+              "pattern": "the ugliness of war",
+              "tip": "行為・状況の道徳的な醜さ",
+              "examples": [
+                {
+                  "en": "The novel portrays the ugliness of war.",
+                  "ja": "その小説は戦争の醜悪さを描いている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ultraviolet",
+      "ipa": "",
+      "guide": "「紫外線の」：可視光線より波長が短い光／「紫外線」：光の種類を指す名詞的用法",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "紫外線の",
+              "pattern": "ultraviolet light",
+              "tip": "可視光線より波長が短い光",
+              "examples": [
+                {
+                  "en": "Ultraviolet light can damage the skin.",
+                  "ja": "紫外線は皮膚に害を与えることがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "紫外線",
+              "pattern": "ultraviolet is invisible",
+              "tip": "光の種類を指す名詞的用法",
+              "examples": [
+                {
+                  "en": "Ultraviolet is invisible to the human eye.",
+                  "ja": "紫外線は人間の目には見えない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "umbilical",
+      "ipa": "",
+      "guide": "「へその・臍帯の」：へそや臍帯に関する医学用語／「密接につながった」：比喩的に切り離しにくい関係",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "へその・臍帯の",
+              "pattern": "the umbilical cord",
+              "tip": "へそや臍帯に関する医学用語",
+              "examples": [
+                {
+                  "en": "The doctor examined the umbilical cord.",
+                  "ja": "医師はへその緒を調べた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "密接につながった",
+              "pattern": "an umbilical connection",
+              "tip": "比喩的に切り離しにくい関係",
+              "examples": [
+                {
+                  "en": "The community has an umbilical link to the sea.",
+                  "ja": "その地域社会は海と切っても切れないつながりを持つ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "umpteen",
+      "ipa": "",
+      "guide": "口語で非常に多い不特定の数。用例は「umpteen times」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "数え切れないほど多くの",
+              "pattern": "umpteen times",
+              "tip": "口語で非常に多い不特定の数",
+              "examples": [
+                {
+                  "en": "I have told you umpteen times.",
+                  "ja": "私はあなたに何度も何度も言った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unabashed",
+      "ipa": "",
+      "guide": "恥ずかしさを見せず率直な様子。用例は「unabashed enthusiasm」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "悪びれない",
+              "pattern": "unabashed enthusiasm",
+              "tip": "恥ずかしさを見せず率直な様子",
+              "examples": [
+                {
+                  "en": "She showed unabashed enthusiasm for the project.",
+                  "ja": "彼女はその計画への熱意を隠さず示した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unaccompanied",
+      "ipa": "",
+      "guide": "「付き添いのない」：一緒に行動する人がいない／「伴奏のない」：音楽では伴奏のないこと",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "付き添いのない",
+              "pattern": "an unaccompanied child",
+              "tip": "一緒に行動する人がいない",
+              "examples": [
+                {
+                  "en": "Unaccompanied children must register at the desk.",
+                  "ja": "付き添いのない子どもは窓口で登録する必要がある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "伴奏のない",
+              "pattern": "unaccompanied singing",
+              "tip": "音楽では伴奏のないこと",
+              "examples": [
+                {
+                  "en": "The choir performed an unaccompanied song.",
+                  "ja": "合唱団は無伴奏の歌を披露した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unanimous",
+      "ipa": "",
+      "guide": "参加者の意見が一致した。用例は「a unanimous decision」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "全員一致の",
+              "pattern": "a unanimous decision",
+              "tip": "参加者の意見が一致した",
+              "examples": [
+                {
+                  "en": "The committee reached a unanimous decision.",
+                  "ja": "委員会は全会一致で決定した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unattached",
+      "ipa": "",
+      "guide": "「取り付けられていない」：物理的に固定されていない／「特定の相手と交際していない」：恋愛・所属で独立している",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "取り付けられていない",
+              "pattern": "unattached parts",
+              "tip": "物理的に固定されていない",
+              "examples": [
+                {
+                  "en": "Several parts were still unattached.",
+                  "ja": "いくつかの部品はまだ取り付けられていなかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "特定の相手と交際していない",
+              "pattern": "be unattached",
+              "tip": "恋愛・所属で独立している",
+              "examples": [
+                {
+                  "en": "He is currently unattached.",
+                  "ja": "彼は現在、特定の交際相手がいない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unawares",
+      "ipa": "",
+      "guide": "通常catch/take A unawaresなどで使う。用例は「catch A unawares」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "副詞",
+          "senses": [
+            {
+              "jp": "気づかないうちに",
+              "pattern": "catch A unawares",
+              "tip": "通常catch/take A unawaresなどで使う",
+              "examples": [
+                {
+                  "en": "The sudden question caught me unawares.",
+                  "ja": "突然の質問に不意を突かれた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbiased",
+      "ipa": "",
+      "guide": "先入観で判断しない。用例は「an unbiased opinion」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "偏りのない",
+              "pattern": "an unbiased opinion",
+              "tip": "先入観で判断しない",
+              "examples": [
+                {
+                  "en": "We need an unbiased assessment.",
+                  "ja": "私たちには偏りのない評価が必要だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbounded",
+      "ipa": "",
+      "guide": "量・強さの上限がない。用例は「unbounded enthusiasm」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "限界のない",
+              "pattern": "unbounded enthusiasm",
+              "tip": "量・強さの上限がない",
+              "examples": [
+                {
+                  "en": "The children showed unbounded enthusiasm.",
+                  "ja": "子どもたちは限りない熱意を示した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbroken",
+      "ipa": "",
+      "guide": "「壊れていない」：損傷していない／「途切れない」：連続していること",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "壊れていない",
+              "pattern": "an unbroken glass",
+              "tip": "損傷していない",
+              "examples": [
+                {
+                  "en": "The glass arrived unbroken.",
+                  "ja": "グラスは割れずに届いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "途切れない",
+              "pattern": "an unbroken line",
+              "tip": "連続していること",
+              "examples": [
+                {
+                  "en": "The mountains formed an unbroken line.",
+                  "ja": "山々は途切れなく連なっていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unceasing",
+      "ipa": "",
+      "guide": "長く止まらず続く。用例は「unceasing rain」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "絶え間ない",
+              "pattern": "unceasing rain",
+              "tip": "長く止まらず続く",
+              "examples": [
+                {
+                  "en": "Unceasing rain flooded the streets.",
+                  "ja": "絶え間ない雨で道路が冠水した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unclear",
+      "ipa": "",
+      "guide": "「明確でない」：意味や内容がはっきりしない／「不透明な・見通せない」：結果・状況が判然としない",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "明確でない",
+              "pattern": "unclear instructions",
+              "tip": "意味や内容がはっきりしない",
+              "examples": [
+                {
+                  "en": "The instructions were unclear.",
+                  "ja": "説明書の指示は不明確だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "不透明な・見通せない",
+              "pattern": "an unclear future",
+              "tip": "結果・状況が判然としない",
+              "examples": [
+                {
+                  "en": "The outcome is still unclear.",
+                  "ja": "結果はまだはっきりしていない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncompromising",
+      "ipa": "",
+      "guide": "原則を曲げようとしない。用例は「an uncompromising stance」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "妥協しない",
+              "pattern": "an uncompromising stance",
+              "tip": "原則を曲げようとしない",
+              "examples": [
+                {
+                  "en": "She took an uncompromising stance on safety.",
+                  "ja": "彼女は安全に関して妥協しない立場を取った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncontrollable",
+      "ipa": "",
+      "guide": "感情や事象を抑えられない。用例は「uncontrollable laughter」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "制御できない",
+              "pattern": "uncontrollable laughter",
+              "tip": "感情や事象を抑えられない",
+              "examples": [
+                {
+                  "en": "He burst into uncontrollable laughter.",
+                  "ja": "彼は抑えきれない笑いを爆発させた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncover",
+      "ipa": "",
+      "guide": "「覆いを取る」：覆っていたものを外す／「発見する・明らかにする」：隠されていた事実を明らかにする",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "覆いを取る",
+              "pattern": "uncover a dish",
+              "tip": "覆っていたものを外す",
+              "examples": [
+                {
+                  "en": "She uncovered the pot.",
+                  "ja": "彼女は鍋のふたを取った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "発見する・明らかにする",
+              "pattern": "uncover evidence",
+              "tip": "隠されていた事実を明らかにする",
+              "examples": [
+                {
+                  "en": "Investigators uncovered new evidence.",
+                  "ja": "調査員たちは新たな証拠を発見した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undeniably",
+      "ipa": "",
+      "guide": "反論しにくい事実を強調。用例は「undeniably important」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "副詞",
+          "senses": [
+            {
+              "jp": "否定しようもなく",
+              "pattern": "undeniably important",
+              "tip": "反論しにくい事実を強調",
+              "examples": [
+                {
+                  "en": "Education is undeniably important.",
+                  "ja": "教育が重要なのは疑いようがない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underage",
+      "ipa": "",
+      "guide": "行為ごとの法定年齢を基準とする。用例は「underage customers」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "法定年齢に達していない",
+              "pattern": "underage customers",
+              "tip": "行為ごとの法定年齢を基準とする",
+              "examples": [
+                {
+                  "en": "The store cannot sell alcohol to underage customers.",
+                  "ja": "その店は法定年齢未満の客に酒を売れない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underpass",
+      "ipa": "",
+      "guide": "道路や線路の下を通る通路。用例は「use an underpass」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "地下道・道路下の通路",
+              "pattern": "use an underpass",
+              "tip": "道路や線路の下を通る通路",
+              "examples": [
+                {
+                  "en": "The pedestrians used the underpass.",
+                  "ja": "歩行者たちは地下道を使った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underplay",
+      "ipa": "",
+      "guide": "「控えめに演じる」：感情表現を控える演技／「軽く扱う」：重大さを十分に示さない",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "控えめに演じる",
+              "pattern": "underplay a role",
+              "tip": "感情表現を控える演技",
+              "examples": [
+                {
+                  "en": "The actor underplayed the role effectively.",
+                  "ja": "その俳優は役を抑えた演技でうまく表現した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "軽く扱う",
+              "pattern": "underplay a risk",
+              "tip": "重大さを十分に示さない",
+              "examples": [
+                {
+                  "en": "The report underplayed the risks.",
+                  "ja": "その報告書は危険性を過小評価していた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "understandable",
+      "ipa": "",
+      "guide": "「理解できる」：内容を理解できる／「もっともな」：感情や反応に納得できる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "理解できる",
+              "pattern": "an understandable explanation",
+              "tip": "内容を理解できる",
+              "examples": [
+                {
+                  "en": "The explanation was understandable to beginners.",
+                  "ja": "その説明は初心者にも理解できた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "もっともな",
+              "pattern": "an understandable reaction",
+              "tip": "感情や反応に納得できる",
+              "examples": [
+                {
+                  "en": "Her frustration was understandable.",
+                  "ja": "彼女がいら立ったのももっともだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undertow",
+      "ipa": "",
+      "guide": "「引き波・底引きの流れ」：海岸近くの水面下の流れ／「潜在的な感情・傾向」：表面に見えない流れを比喩的に示す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "引き波・底引きの流れ",
+              "pattern": "a strong undertow",
+              "tip": "海岸近くの水面下の流れ",
+              "examples": [
+                {
+                  "en": "A strong undertow pulled him away from the shore.",
+                  "ja": "強い引き波が彼を岸から遠ざけた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "潜在的な感情・傾向",
+              "pattern": "an undertow of tension",
+              "tip": "表面に見えない流れを比喩的に示す",
+              "examples": [
+                {
+                  "en": "There was an undertow of tension in the room.",
+                  "ja": "部屋には底流として緊張感があった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underweight",
+      "ipa": "",
+      "guide": "「標準体重より軽い」：身体的に体重が基準より少ない／「運用上の比率が低い」：投資で基準より配分割合が低い",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "標準体重より軽い",
+              "pattern": "be underweight",
+              "tip": "身体的に体重が基準より少ない",
+              "examples": [
+                {
+                  "en": "The doctor said the child was underweight.",
+                  "ja": "医師はその子どもは低体重だと言った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "運用上の比率が低い",
+              "pattern": "underweight stocks",
+              "tip": "投資で基準より配分割合が低い",
+              "examples": [
+                {
+                  "en": "The fund is underweight in technology stocks.",
+                  "ja": "そのファンドは技術株の組入比率が低い。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unduly",
+      "ipa": "",
+      "guide": "適切な程度を超える。用例は「unduly expensive」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "副詞",
+          "senses": [
+            {
+              "jp": "過度に",
+              "pattern": "unduly expensive",
+              "tip": "適切な程度を超える",
+              "examples": [
+                {
+                  "en": "The service was unduly expensive.",
+                  "ja": "そのサービスは不当に高額だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unending",
+      "ipa": "",
+      "guide": "いつまでも続く。用例は「an unending task」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "終わりのない",
+              "pattern": "an unending task",
+              "tip": "いつまでも続く",
+              "examples": [
+                {
+                  "en": "The work seemed unending.",
+                  "ja": "その仕事は終わりがないように思えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unflinching",
+      "ipa": "",
+      "guide": "困難に直面しても揺らがない。用例は「unflinching courage」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "ひるまない",
+              "pattern": "unflinching courage",
+              "tip": "困難に直面しても揺らがない",
+              "examples": [
+                {
+                  "en": "She faced criticism with unflinching courage.",
+                  "ja": "彼女はひるまない勇気で批判に立ち向かった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfriendly",
+      "ipa": "",
+      "guide": "「友好的でない」：人の態度が冷たい／「不向きな・使いにくい」：利用者・環境にとって不便な意味",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "友好的でない",
+              "pattern": "an unfriendly response",
+              "tip": "人の態度が冷たい",
+              "examples": [
+                {
+                  "en": "His response sounded unfriendly.",
+                  "ja": "彼の返答はそっけなく聞こえた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "不向きな・使いにくい",
+              "pattern": "an unfriendly interface",
+              "tip": "利用者・環境にとって不便な意味",
+              "examples": [
+                {
+                  "en": "The software has an unfriendly interface.",
+                  "ja": "そのソフトは使いにくい画面設計だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unification",
+      "ipa": "",
+      "guide": "複数を一つにまとめること。用例は「national unification」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "統一",
+              "pattern": "national unification",
+              "tip": "複数を一つにまとめること",
+              "examples": [
+                {
+                  "en": "The agreement was a step toward unification.",
+                  "ja": "その協定は統一への一歩だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unmatched",
+      "ipa": "",
+      "guide": "「比類のない」：他と比べて並ぶものがない／「対応するものがない」：データや組合せで対応先がない",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "比類のない",
+              "pattern": "unmatched skill",
+              "tip": "他と比べて並ぶものがない",
+              "examples": [
+                {
+                  "en": "Her skill is unmatched in the team.",
+                  "ja": "彼女の技能はチームで比類がない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "対応するものがない",
+              "pattern": "unmatched records",
+              "tip": "データや組合せで対応先がない",
+              "examples": [
+                {
+                  "en": "The system found several unmatched records.",
+                  "ja": "システムは対応付けられない記録をいくつか見つけた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vacate",
+      "ipa": "",
+      "guide": "「立ち退く・明け渡す」：占有していた場所を離れる／「無効にする（法）」：裁判所が決定を法的に取り消す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "立ち退く・明け渡す",
+              "pattern": "vacate a room",
+              "tip": "占有していた場所を離れる",
+              "examples": [
+                {
+                  "en": "Guests must vacate the room by noon.",
+                  "ja": "客は正午までに部屋を空けなければならない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "無効にする（法）",
+              "pattern": "vacate a judgment",
+              "tip": "裁判所が決定を法的に取り消す",
+              "examples": [
+                {
+                  "en": "The court vacated the earlier judgment.",
+                  "ja": "裁判所は先の判決を取り消した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vaccine",
+      "ipa": "",
+      "guide": "感染症に対する免疫反応を誘導する製剤。用例は「receive a vaccine」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ワクチン",
+              "pattern": "receive a vaccine",
+              "tip": "感染症に対する免疫反応を誘導する製剤",
+              "examples": [
+                {
+                  "en": "The clinic offered a new vaccine.",
+                  "ja": "診療所は新しいワクチンを提供した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "valuation",
+      "ipa": "",
+      "guide": "「評価・査定」：価格・価値を見積もる作業／「評価額」：評価された結果の金額",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "評価・査定",
+              "pattern": "property valuation",
+              "tip": "価格・価値を見積もる作業",
+              "examples": [
+                {
+                  "en": "The bank ordered an independent property valuation.",
+                  "ja": "銀行は独立した不動産評価を依頼した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "評価額",
+              "pattern": "a company valuation",
+              "tip": "評価された結果の金額",
+              "examples": [
+                {
+                  "en": "The startup's valuation increased.",
+                  "ja": "新興企業の評価額は上昇した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "valuer",
+      "ipa": "",
+      "guide": "財産などの価値を評価する専門家。用例は「a professional valuer」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "評価者・鑑定人",
+              "pattern": "a professional valuer",
+              "tip": "財産などの価値を評価する専門家",
+              "examples": [
+                {
+                  "en": "A certified valuer assessed the property.",
+                  "ja": "資格を持つ評価者が不動産を査定した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vane",
+      "ipa": "",
+      "guide": "「風向計の羽根」：風向きを示す羽根／「装置の羽根」：機械内で流体の方向を変える羽根",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "風向計の羽根",
+              "pattern": "a weather vane",
+              "tip": "風向きを示す羽根",
+              "examples": [
+                {
+                  "en": "The vane pointed toward the west.",
+                  "ja": "風見の羽根は西を指していた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "装置の羽根",
+              "pattern": "a turbine vane",
+              "tip": "機械内で流体の方向を変える羽根",
+              "examples": [
+                {
+                  "en": "The engineer inspected the turbine vanes.",
+                  "ja": "技術者はタービンの羽根を点検した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vantage",
+      "ipa": "",
+      "guide": "見る位置や優位な立場。用例は「a vantage point」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "有利な位置・立場",
+              "pattern": "a vantage point",
+              "tip": "見る位置や優位な立場",
+              "examples": [
+                {
+                  "en": "From this vantage point, we can see the whole valley.",
+                  "ja": "この見晴らしのよい場所から谷全体が見える。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "variant",
+      "ipa": "",
+      "guide": "「変種・変異型」：元の形と一部が異なるもの／「異なった」：同じ基本形に異なる形がある",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "変種・変異型",
+              "pattern": "a new variant",
+              "tip": "元の形と一部が異なるもの",
+              "examples": [
+                {
+                  "en": "Scientists identified a new virus variant.",
+                  "ja": "科学者たちは新しいウイルス変異株を特定した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "異なった",
+              "pattern": "variant forms",
+              "tip": "同じ基本形に異なる形がある",
+              "examples": [
+                {
+                  "en": "The word has several variant spellings.",
+                  "ja": "その語には複数の異なる綴りがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "varied",
+      "ipa": "",
+      "guide": "種類に幅がある。用例は「a varied diet」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "多様な",
+              "pattern": "a varied diet",
+              "tip": "種類に幅がある",
+              "examples": [
+                {
+                  "en": "A varied diet provides different nutrients.",
+                  "ja": "多様な食事からさまざまな栄養素が得られる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vascular",
+      "ipa": "",
+      "guide": "「血管の」：血管に関する医学的用法／「維管束の（植物）」：植物体内で水・栄養を運ぶ組織に関する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "血管の",
+              "pattern": "vascular disease",
+              "tip": "血管に関する医学的用法",
+              "examples": [
+                {
+                  "en": "The doctor specializes in vascular disease.",
+                  "ja": "その医師は血管の病気を専門にしている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "維管束の（植物）",
+              "pattern": "vascular plants",
+              "tip": "植物体内で水・栄養を運ぶ組織に関する",
+              "examples": [
+                {
+                  "en": "Ferns are vascular plants.",
+                  "ja": "シダ類は維管束植物だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vegetarianism",
+      "ipa": "",
+      "guide": "肉食を控える食生活・思想。用例は「practice vegetarianism」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "菜食主義",
+              "pattern": "practice vegetarianism",
+              "tip": "肉食を控える食生活・思想",
+              "examples": [
+                {
+                  "en": "Her interest in animal welfare led her to vegetarianism.",
+                  "ja": "動物福祉への関心が彼女を菜食主義へ導いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vehement",
+      "ipa": "",
+      "guide": "感情や主張が強い。用例は「vehement opposition」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "激しい・強い",
+              "pattern": "vehement opposition",
+              "tip": "感情や主張が強い",
+              "examples": [
+                {
+                  "en": "The proposal met with vehement opposition.",
+                  "ja": "その提案は激しい反対に遭った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "veiled",
+      "ipa": "",
+      "guide": "「ベールで覆われた」：布などで覆い隠した／「遠回しな・隠された」：意図を直接表現せず暗示する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "ベールで覆われた",
+              "pattern": "a veiled face",
+              "tip": "布などで覆い隠した",
+              "examples": [
+                {
+                  "en": "Her face was veiled.",
+                  "ja": "彼女の顔はベールで覆われていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "遠回しな・隠された",
+              "pattern": "a veiled threat",
+              "tip": "意図を直接表現せず暗示する",
+              "examples": [
+                {
+                  "en": "He made a veiled threat.",
+                  "ja": "彼は遠回しに脅しをかけた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "velvet",
+      "ipa": "",
+      "guide": "表面に短い毛足を持つ布。用例は「a velvet curtain」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ビロード",
+              "pattern": "a velvet curtain",
+              "tip": "表面に短い毛足を持つ布",
+              "examples": [
+                {
+                  "en": "The stage had red velvet curtains.",
+                  "ja": "舞台には赤いビロードのカーテンがあった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "venal",
+      "ipa": "",
+      "guide": "金銭のために不正を行う性質。用例は「venal officials」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "金で動く・買収されやすい",
+              "pattern": "venal officials",
+              "tip": "金銭のために不正を行う性質",
+              "examples": [
+                {
+                  "en": "The report exposed several venal officials.",
+                  "ja": "報告書は買収されやすい役人を何人か暴いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "venerable",
+      "ipa": "",
+      "guide": "年齢や歴史に基づく敬意。用例は「a venerable institution」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "長く尊敬されている",
+              "pattern": "a venerable institution",
+              "tip": "年齢や歴史に基づく敬意",
+              "examples": [
+                {
+                  "en": "The university is a venerable institution.",
+                  "ja": "その大学は長い歴史を持つ由緒ある機関だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vengeful",
+      "ipa": "",
+      "guide": "害を受けたことへの仕返しを望む。用例は「a vengeful response」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "復讐心に燃えた",
+              "pattern": "a vengeful response",
+              "tip": "害を受けたことへの仕返しを望む",
+              "examples": [
+                {
+                  "en": "He sent a vengeful message.",
+                  "ja": "彼は復讐心に満ちたメッセージを送った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "veracity",
+      "ipa": "",
+      "guide": "発言・記述が真実であること。用例は「question the veracity of A」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "真実性・正確さ",
+              "pattern": "question the veracity of A",
+              "tip": "発言・記述が真実であること",
+              "examples": [
+                {
+                  "en": "The editor questioned the veracity of the story.",
+                  "ja": "編集者はその話の真実性を疑った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verbalise",
+      "ipa": "",
+      "guide": "英国綴りで米語はverbalize。用例は「verbalise one's feelings」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "言葉にする",
+              "pattern": "verbalise one's feelings",
+              "tip": "英国綴りで米語はverbalize",
+              "examples": [
+                {
+                  "en": "He found it hard to verbalise his feelings.",
+                  "ja": "彼は気持ちを言葉にするのが難しかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verbiage",
+      "ipa": "",
+      "guide": "必要以上の言葉。用例は「unnecessary verbiage」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "冗長な言葉遣い",
+              "pattern": "unnecessary verbiage",
+              "tip": "必要以上の言葉",
+              "examples": [
+                {
+                  "en": "The report contains too much verbiage.",
+                  "ja": "その報告書には無駄な言い回しが多すぎる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verdant",
+      "ipa": "",
+      "guide": "草木が豊かに茂っている。用例は「verdant hills」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "緑豊かな",
+              "pattern": "verdant hills",
+              "tip": "草木が豊かに茂っている",
+              "examples": [
+                {
+                  "en": "The valley was surrounded by verdant hills.",
+                  "ja": "その谷は緑豊かな丘に囲まれていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verge",
+      "ipa": "",
+      "guide": "「端・縁」：on the verge ofで今にも起こりそうな状態／「ほとんど〜である」：verge onで性質の境界に近づく",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "端・縁",
+              "pattern": "on the verge of A",
+              "tip": "on the verge ofで今にも起こりそうな状態",
+              "examples": [
+                {
+                  "en": "The company was on the verge of bankruptcy.",
+                  "ja": "会社は破産寸前だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "ほとんど〜である",
+              "pattern": "verge on A",
+              "tip": "verge onで性質の境界に近づく",
+              "examples": [
+                {
+                  "en": "His behavior verged on rudeness.",
+                  "ja": "彼の行動は無礼に近かった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verifiable",
+      "ipa": "",
+      "guide": "客観的な方法で確認できる。用例は「verifiable evidence」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "検証できる",
+              "pattern": "verifiable evidence",
+              "tip": "客観的な方法で確認できる",
+              "examples": [
+                {
+                  "en": "The claim needs verifiable evidence.",
+                  "ja": "その主張には検証可能な証拠が必要だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vernacular",
+      "ipa": "",
+      "guide": "「日常語・土地の言葉」：地域や集団で実際に使われる言語／「その土地の・民間の」：地域固有の様式にも使う",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "日常語・土地の言葉",
+              "pattern": "the local vernacular",
+              "tip": "地域や集団で実際に使われる言語",
+              "examples": [
+                {
+                  "en": "The writer uses the local vernacular.",
+                  "ja": "その作家は地元の日常語を使う。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "その土地の・民間の",
+              "pattern": "vernacular architecture",
+              "tip": "地域固有の様式にも使う",
+              "examples": [
+                {
+                  "en": "The house reflects vernacular architecture.",
+                  "ja": "その家はその土地の伝統的な建築様式を反映している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vertebrate",
+      "ipa": "",
+      "guide": "背骨を持つ動物。用例は「a marine vertebrate」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "脊椎動物",
+              "pattern": "a marine vertebrate",
+              "tip": "背骨を持つ動物",
+              "examples": [
+                {
+                  "en": "Fish are vertebrates.",
+                  "ja": "魚は脊椎動物だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vestigial",
+      "ipa": "",
+      "guide": "進化の過程で機能が縮小した構造。用例は「a vestigial organ」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "痕跡として残る",
+              "pattern": "a vestigial organ",
+              "tip": "進化の過程で機能が縮小した構造",
+              "examples": [
+                {
+                  "en": "The structure is a vestigial organ.",
+                  "ja": "その構造は痕跡器官である。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vibrant",
+      "ipa": "",
+      "guide": "「活気に満ちた」：活動やエネルギーが豊かな／「鮮やかな」：色が強く明るい",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "活気に満ちた",
+              "pattern": "a vibrant community",
+              "tip": "活動やエネルギーが豊かな",
+              "examples": [
+                {
+                  "en": "The city has a vibrant arts scene.",
+                  "ja": "その都市の芸術活動は活気にあふれている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "鮮やかな",
+              "pattern": "vibrant colors",
+              "tip": "色が強く明るい",
+              "examples": [
+                {
+                  "en": "The painting uses vibrant colors.",
+                  "ja": "その絵は鮮やかな色を使っている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "viewpoint",
+      "ipa": "",
+      "guide": "「視点・立場」：ある問題を見る立場／「展望地点」：景色を見る場所",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "視点・立場",
+              "pattern": "a different viewpoint",
+              "tip": "ある問題を見る立場",
+              "examples": [
+                {
+                  "en": "We should consider a different viewpoint.",
+                  "ja": "別の視点も考慮すべきだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "展望地点",
+              "pattern": "a scenic viewpoint",
+              "tip": "景色を見る場所",
+              "examples": [
+                {
+                  "en": "We stopped at a viewpoint overlooking the coast.",
+                  "ja": "私たちは海岸を見下ろせる展望地点に立ち寄った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vigorous",
+      "ipa": "",
+      "guide": "活動の強度が高い。用例は「vigorous exercise」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "精力的な",
+              "pattern": "vigorous exercise",
+              "tip": "活動の強度が高い",
+              "examples": [
+                {
+                  "en": "Vigorous exercise raises your heart rate.",
+                  "ja": "激しい運動は心拍数を上げる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vineyard",
+      "ipa": "",
+      "guide": "ワイン用などのブドウ栽培地。用例は「a hillside vineyard」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ブドウ畑",
+              "pattern": "a hillside vineyard",
+              "tip": "ワイン用などのブドウ栽培地",
+              "examples": [
+                {
+                  "en": "The family owns a vineyard in the hills.",
+                  "ja": "その家族は丘陵地にブドウ畑を所有している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "virtuoso",
+      "ipa": "",
+      "guide": "「名演奏家・達人」：高度な技能を持つ人／「名人芸の」：極めて優れた技量を示す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "名演奏家・達人",
+              "pattern": "a piano virtuoso",
+              "tip": "高度な技能を持つ人",
+              "examples": [
+                {
+                  "en": "The pianist is a virtuoso.",
+                  "ja": "そのピアニストは名演奏家だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "名人芸の",
+              "pattern": "a virtuoso performance",
+              "tip": "極めて優れた技量を示す",
+              "examples": [
+                {
+                  "en": "She gave a virtuoso performance.",
+                  "ja": "彼女は名人芸の演奏を披露した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waist",
+      "ipa": "",
+      "guide": "人体の胴の細い部分。用例は「a narrow waist」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "腰・胴のくびれ",
+              "pattern": "a narrow waist",
+              "tip": "人体の胴の細い部分",
+              "examples": [
+                {
+                  "en": "The belt fits around the waist.",
+                  "ja": "ベルトは腰回りに合う。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waistcoat",
+      "ipa": "",
+      "guide": "米語ではvestが一般的。用例は「wear a waistcoat」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ベスト・チョッキ（英）",
+              "pattern": "wear a waistcoat",
+              "tip": "米語ではvestが一般的",
+              "examples": [
+                {
+                  "en": "He wore a waistcoat under his jacket.",
+                  "ja": "彼は上着の下にベストを着ていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "walking",
+      "ipa": "",
+      "guide": "「歩くこと・徒歩」：動名詞として歩行という活動／「徒歩の」：歩いて移動する程度を示す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "歩くこと・徒歩",
+              "pattern": "go walking",
+              "tip": "動名詞として歩行という活動",
+              "examples": [
+                {
+                  "en": "Walking is part of her daily routine.",
+                  "ja": "歩くことは彼女の日課の一部だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "徒歩の",
+              "pattern": "walking distance",
+              "tip": "歩いて移動する程度を示す",
+              "examples": [
+                {
+                  "en": "The museum is within walking distance.",
+                  "ja": "博物館は徒歩圏内にある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wanderer",
+      "ipa": "",
+      "guide": "定住せずに旅する人。用例は「a lone wanderer」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "放浪者",
+              "pattern": "a lone wanderer",
+              "tip": "定住せずに旅する人",
+              "examples": [
+                {
+                  "en": "The wanderer traveled from town to town.",
+                  "ja": "放浪者は町から町へ旅した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "warehouse",
+      "ipa": "",
+      "guide": "「倉庫」：商品の保管施設／「倉庫に保管する」：在庫を倉庫で管理する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "倉庫",
+              "pattern": "a large warehouse",
+              "tip": "商品の保管施設",
+              "examples": [
+                {
+                  "en": "Goods are stored in a warehouse.",
+                  "ja": "商品は倉庫に保管されている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "倉庫に保管する",
+              "pattern": "warehouse goods",
+              "tip": "在庫を倉庫で管理する",
+              "examples": [
+                {
+                  "en": "The firm warehouses its products near the port.",
+                  "ja": "その企業は港の近くに製品を保管している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "warship",
+      "ipa": "",
+      "guide": "軍事用の船。用例は「a naval warship」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "軍艦",
+              "pattern": "a naval warship",
+              "tip": "軍事用の船",
+              "examples": [
+                {
+                  "en": "A warship entered the harbor.",
+                  "ja": "軍艦が港に入った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "washable",
+      "ipa": "",
+      "guide": "洗濯してもよい素材・製品。用例は「machine washable」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "洗える",
+              "pattern": "machine washable",
+              "tip": "洗濯してもよい素材・製品",
+              "examples": [
+                {
+                  "en": "The jacket is machine washable.",
+                  "ja": "その上着は洗濯機で洗える。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "watchman",
+      "ipa": "",
+      "guide": "夜間などに見張る人。用例は「a night watchman」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "警備員・見張り",
+              "pattern": "a night watchman",
+              "tip": "夜間などに見張る人",
+              "examples": [
+                {
+                  "en": "The watchman checked the gates.",
+                  "ja": "警備員は門を確認した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waterlogged",
+      "ipa": "",
+      "guide": "水分を過度に含んだ状態。用例は「waterlogged soil」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "水浸しの",
+              "pattern": "waterlogged soil",
+              "tip": "水分を過度に含んだ状態",
+              "examples": [
+                {
+                  "en": "The soil was waterlogged after the rain.",
+                  "ja": "雨の後、土壌は水浸しだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waterfall",
+      "ipa": "",
+      "guide": "川の水が高所から落ちる場所。用例は「a high waterfall」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "滝",
+              "pattern": "a high waterfall",
+              "tip": "川の水が高所から落ちる場所",
+              "examples": [
+                {
+                  "en": "We reached the waterfall after an hour.",
+                  "ja": "私たちは1時間後に滝に着いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waterworks",
+      "ipa": "",
+      "guide": "「水道施設」：給水・浄水などの施設／「涙（口語）」：くだけた言い方で涙を意味する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "水道施設",
+              "pattern": "municipal waterworks",
+              "tip": "給水・浄水などの施設",
+              "examples": [
+                {
+                  "en": "The city upgraded its waterworks.",
+                  "ja": "市は水道施設を更新した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "涙（口語）",
+              "pattern": "turn on the waterworks",
+              "tip": "くだけた言い方で涙を意味する",
+              "examples": [
+                {
+                  "en": "He turned on the waterworks during the movie.",
+                  "ja": "彼は映画の途中で泣き始めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wayward",
+      "ipa": "",
+      "guide": "意のままにならない様子。用例は「a wayward child」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "言うことを聞かない",
+              "pattern": "a wayward child",
+              "tip": "意のままにならない様子",
+              "examples": [
+                {
+                  "en": "The wayward child ignored the rules.",
+                  "ja": "その反抗的な子どもは規則を無視した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weapon",
+      "ipa": "",
+      "guide": "「武器」：攻撃・防御に使う道具／「攻撃手段」：比喩的に相手に打撃を与える手段",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "武器",
+              "pattern": "carry a weapon",
+              "tip": "攻撃・防御に使う道具",
+              "examples": [
+                {
+                  "en": "The guard carried no weapon.",
+                  "ja": "警備員は武器を携帯していなかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "攻撃手段",
+              "pattern": "a political weapon",
+              "tip": "比喩的に相手に打撃を与える手段",
+              "examples": [
+                {
+                  "en": "The issue became a political weapon.",
+                  "ja": "その問題は政治的な攻撃材料となった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weir",
+      "ipa": "",
+      "guide": "河川の流量や水位を調節する構造。用例は「a river weir」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "堰",
+              "pattern": "a river weir",
+              "tip": "河川の流量や水位を調節する構造",
+              "examples": [
+                {
+                  "en": "The water flowed over the weir.",
+                  "ja": "水は堰を越えて流れた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wed",
+      "ipa": "",
+      "guide": "「結婚する」：格式ばった表現で結婚する／「結びつける」：比喩的に二つの要素を融合させる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "結婚する",
+              "pattern": "wed a partner",
+              "tip": "格式ばった表現で結婚する",
+              "examples": [
+                {
+                  "en": "The couple wed in spring.",
+                  "ja": "その二人は春に結婚した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "結びつける",
+              "pattern": "wed tradition to innovation",
+              "tip": "比喩的に二つの要素を融合させる",
+              "examples": [
+                {
+                  "en": "The design weds tradition to innovation.",
+                  "ja": "その設計は伝統と革新を結びつけている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wednesday",
+      "ipa": "",
+      "guide": "曜日の名称で大文字で始める。用例は「on Wednesday」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "水曜日",
+              "pattern": "on Wednesday",
+              "tip": "曜日の名称で大文字で始める",
+              "examples": [
+                {
+                  "en": "The meeting is on Wednesday.",
+                  "ja": "会議は水曜日だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "ipa": "",
+      "guide": "7日間の期間。用例は「once a week」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "週",
+              "pattern": "once a week",
+              "tip": "7日間の期間",
+              "examples": [
+                {
+                  "en": "I exercise three times a week.",
+                  "ja": "私は週に3回運動する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weightless",
+      "ipa": "",
+      "guide": "見かけの重さがない状態。用例は「feel weightless」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "無重力のような",
+              "pattern": "feel weightless",
+              "tip": "見かけの重さがない状態",
+              "examples": [
+                {
+                  "en": "Astronauts feel weightless in orbit.",
+                  "ja": "宇宙飛行士は軌道上で無重力のように感じる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "west",
+      "ipa": "",
+      "guide": "「西」：方角を表す／「西へ」：進行方向を示す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "西",
+              "pattern": "to the west",
+              "tip": "方角を表す",
+              "examples": [
+                {
+                  "en": "The mountains lie to the west.",
+                  "ja": "山々は西の方にある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "副詞",
+          "senses": [
+            {
+              "jp": "西へ",
+              "pattern": "head west",
+              "tip": "進行方向を示す",
+              "examples": [
+                {
+                  "en": "We drove west toward the coast.",
+                  "ja": "私たちは海岸に向かって西へ走った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "westbound",
+      "ipa": "",
+      "guide": "西へ向かう。用例は「a westbound train」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "西行きの",
+              "pattern": "a westbound train",
+              "tip": "西へ向かう",
+              "examples": [
+                {
+                  "en": "The westbound train leaves at nine.",
+                  "ja": "西行きの列車は9時に出発する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wheat",
+      "ipa": "",
+      "guide": "穀物の名称。用例は「grow wheat」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "小麦",
+              "pattern": "grow wheat",
+              "tip": "穀物の名称",
+              "examples": [
+                {
+                  "en": "Farmers grow wheat in this region.",
+                  "ja": "この地域の農家は小麦を栽培している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whether",
+      "ipa": "",
+      "guide": "「〜かどうか」：二つの可能性のどちらかを表す／「〜であろうとなかろうと」：whether A or notで両方の場合を含める",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "接続詞",
+          "senses": [
+            {
+              "jp": "〜かどうか",
+              "pattern": "whether S V",
+              "tip": "二つの可能性のどちらかを表す",
+              "examples": [
+                {
+                  "en": "I don't know whether he will come.",
+                  "ja": "彼が来るかどうかはわからない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜であろうとなかろうと",
+              "pattern": "whether or not",
+              "tip": "whether A or notで両方の場合を含める",
+              "examples": [
+                {
+                  "en": "We will go whether it rains or not.",
+                  "ja": "雨が降ろうと降るまいと私たちは行く。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whichever",
+      "ipa": "",
+      "guide": "「どちらでも・どれでも」：複数の選択肢から自由に選ぶ／「どの〜でも」：名詞を直接修飾する使い方",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "代名詞",
+          "senses": [
+            {
+              "jp": "どちらでも・どれでも",
+              "pattern": "whichever you prefer",
+              "tip": "複数の選択肢から自由に選ぶ",
+              "examples": [
+                {
+                  "en": "Choose whichever you prefer.",
+                  "ja": "好きなほうを選んでください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "限定詞",
+          "senses": [
+            {
+              "jp": "どの〜でも",
+              "pattern": "whichever route",
+              "tip": "名詞を直接修飾する使い方",
+              "examples": [
+                {
+                  "en": "Whichever route you choose, allow enough time.",
+                  "ja": "どの道を選んでも十分な時間を取ってください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whimper",
+      "ipa": "",
+      "guide": "弱々しく泣く・鳴く。用例は「whimper quietly」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "しくしく泣く",
+              "pattern": "whimper quietly",
+              "tip": "弱々しく泣く・鳴く",
+              "examples": [
+                {
+                  "en": "The puppy whimpered softly.",
+                  "ja": "子犬は小さな声でくんくん鳴いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whirlpool",
+      "ipa": "",
+      "guide": "「渦」：水が回転している場所／「混乱の渦」：比喩的に激しい感情の混乱",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "渦",
+              "pattern": "a dangerous whirlpool",
+              "tip": "水が回転している場所",
+              "examples": [
+                {
+                  "en": "The boat avoided the whirlpool.",
+                  "ja": "船は渦を避けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "混乱の渦",
+              "pattern": "a whirlpool of emotions",
+              "tip": "比喩的に激しい感情の混乱",
+              "examples": [
+                {
+                  "en": "She was caught in a whirlpool of emotions.",
+                  "ja": "彼女は感情の渦に巻き込まれた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whisk",
+      "ipa": "",
+      "guide": "「泡立て器でかき混ぜる」：料理で素早くかき混ぜる／「さっと連れ去る」：素早く運ぶ・移動させる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "泡立て器でかき混ぜる",
+              "pattern": "whisk eggs",
+              "tip": "料理で素早くかき混ぜる",
+              "examples": [
+                {
+                  "en": "Whisk the eggs until they are light.",
+                  "ja": "卵がふんわりするまで泡立ててください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "さっと連れ去る",
+              "pattern": "whisk A away",
+              "tip": "素早く運ぶ・移動させる",
+              "examples": [
+                {
+                  "en": "The driver whisked the guests away.",
+                  "ja": "運転手は客たちをさっと連れていった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wholesale",
+      "ipa": "",
+      "guide": "「卸売り」：小売業者への大量販売／「大規模な・全面的な」：比喩的に広範囲にわたる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "卸売り",
+              "pattern": "buy at wholesale",
+              "tip": "小売業者への大量販売",
+              "examples": [
+                {
+                  "en": "The store buys goods at wholesale.",
+                  "ja": "その店は商品を卸値で仕入れる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "大規模な・全面的な",
+              "pattern": "wholesale changes",
+              "tip": "比喩的に広範囲にわたる",
+              "examples": [
+                {
+                  "en": "The company made wholesale changes to its system.",
+                  "ja": "会社はシステムを全面的に変更した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wildlife",
+      "ipa": "",
+      "guide": "野生で生きる動物などの総称。用例は「protect wildlife」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "野生生物",
+              "pattern": "protect wildlife",
+              "tip": "野生で生きる動物などの総称",
+              "examples": [
+                {
+                  "en": "The park protects local wildlife.",
+                  "ja": "その公園は地元の野生生物を保護している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "willow",
+      "ipa": "",
+      "guide": "木の名称。用例は「a willow tree」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ヤナギ",
+              "pattern": "a willow tree",
+              "tip": "木の名称",
+              "examples": [
+                {
+                  "en": "A willow grew beside the river.",
+                  "ja": "川のそばにヤナギが生えていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "witness",
+      "ipa": "",
+      "guide": "「目撃者・証人」：事件や出来事について証言できる人／「目撃する」：出来事を直接見る動詞",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "目撃者・証人",
+              "pattern": "an eyewitness",
+              "tip": "事件や出来事について証言できる人",
+              "examples": [
+                {
+                  "en": "The witness described the accident.",
+                  "ja": "目撃者は事故の様子を説明した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "目撃する",
+              "pattern": "witness an event",
+              "tip": "出来事を直接見る動詞",
+              "examples": [
+                {
+                  "en": "Several people witnessed the crash.",
+                  "ja": "何人かの人がその衝突を目撃した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yak",
+      "ipa": "",
+      "guide": "「ヤク」：高地に住むウシ科の家畜／「おしゃべりする（口語）」：くだけた会話で長々と話す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ヤク",
+              "pattern": "a Himalayan yak",
+              "tip": "高地に住むウシ科の家畜",
+              "examples": [
+                {
+                  "en": "Yaks carry supplies in mountain regions.",
+                  "ja": "ヤクは山岳地帯で物資を運ぶ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "おしゃべりする（口語）",
+              "pattern": "yak about A",
+              "tip": "くだけた会話で長々と話す",
+              "examples": [
+                {
+                  "en": "They yakked about the game for hours.",
+                  "ja": "彼らは何時間も試合についておしゃべりした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yearlong",
+      "ipa": "",
+      "guide": "一年を通して続く。用例は「a yearlong project」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "一年間続く",
+              "pattern": "a yearlong project",
+              "tip": "一年を通して続く",
+              "examples": [
+                {
+                  "en": "The team completed a yearlong study.",
+                  "ja": "チームは1年間にわたる研究を終えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yellowish",
+      "ipa": "",
+      "guide": "純粋な黄色ではなく黄色に近い。用例は「a yellowish color」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "黄色がかった",
+              "pattern": "a yellowish color",
+              "tip": "純粋な黄色ではなく黄色に近い",
+              "examples": [
+                {
+                  "en": "The liquid turned yellowish.",
+                  "ja": "その液体は黄色がかった色になった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yesteryear",
+      "ipa": "",
+      "guide": "懐かしさを込めた過去。用例は「the songs of yesteryear」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "昔・過ぎし日",
+              "pattern": "the songs of yesteryear",
+              "tip": "懐かしさを込めた過去",
+              "examples": [
+                {
+                  "en": "The concert featured songs of yesteryear.",
+                  "ja": "そのコンサートでは昔の歌が演奏された。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yogi",
+      "ipa": "",
+      "guide": "ヨガの修行者。用例は「a yoga practitioner」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ヨガ行者・ヨガを修行する人",
+              "pattern": "a yoga practitioner",
+              "tip": "ヨガの修行者",
+              "examples": [
+                {
+                  "en": "The yogi practiced breathing exercises.",
+                  "ja": "そのヨガ行者は呼吸法を実践した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "youngster",
+      "ipa": "",
+      "guide": "年齢が若い人をややくだけて表す。用例は「a talented youngster」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "若者・子ども",
+              "pattern": "a talented youngster",
+              "tip": "年齢が若い人をややくだけて表す",
+              "examples": [
+                {
+                  "en": "The coach praised the talented youngster.",
+                  "ja": "監督は才能ある若者を褒めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "youth",
+      "ipa": "",
+      "guide": "「若さ・青年期」：人生の若い時期／「若者」：若い人を指す可算名詞",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "若さ・青年期",
+              "pattern": "in one's youth",
+              "tip": "人生の若い時期",
+              "examples": [
+                {
+                  "en": "He traveled widely in his youth.",
+                  "ja": "彼は若いころ広く旅をした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "若者",
+              "pattern": "a local youth",
+              "tip": "若い人を指す可算名詞",
+              "examples": [
+                {
+                  "en": "A group of youths volunteered at the event.",
+                  "ja": "若者の一団がその行事でボランティアをした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zeal",
+      "ipa": "",
+      "guide": "活動に対する強い熱意。用例は「zeal for learning」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "熱意・熱心さ",
+              "pattern": "zeal for learning",
+              "tip": "活動に対する強い熱意",
+              "examples": [
+                {
+                  "en": "She approached the work with great zeal.",
+                  "ja": "彼女は非常に熱心に仕事に取り組んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zephyr",
+      "ipa": "",
+      "guide": "文学的な表現で柔らかい風。用例は「a gentle zephyr」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "そよ風",
+              "pattern": "a gentle zephyr",
+              "tip": "文学的な表現で柔らかい風",
+              "examples": [
+                {
+                  "en": "A gentle zephyr cooled the garden.",
+                  "ja": "そよ風が庭を涼しくした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zygote",
+      "ipa": "",
+      "guide": "二つの配偶子が融合してできる細胞。用例は「a fertilized zygote」。",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "接合子・受精卵",
+              "pattern": "a zygote develops after fertilization",
+              "tip": "二つの配偶子が融合した直後の細胞。",
+              "examples": [
+                {
+                  "en": "A zygote forms after fertilization.",
+                  "ja": "受精後に接合子が形成される。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abnegate",
+      "ipa": "",
+      "guide": "権利や責任を自ら捨てる格式ばった表現",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "放棄する",
+              "pattern": "abnegate a right",
+              "tip": "権利や責任を自ら捨てる格式ばった表現",
+              "examples": [
+                {
+                  "en": "He refused to abnegate his rights.",
+                  "ja": "彼は権利の放棄を拒んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abstemious",
+      "ipa": "",
+      "guide": "飲食などの欲求を控える",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "節制している",
+              "pattern": "an abstemious lifestyle",
+              "tip": "飲食などの欲求を控える",
+              "examples": [
+                {
+                  "en": "She follows an abstemious lifestyle.",
+                  "ja": "彼女は節制した生活を送っている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acceleration",
+      "ipa": "",
+      "guide": "速度が増すこと",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "加速",
+              "pattern": "rapid acceleration",
+              "tip": "速度が増すこと",
+              "examples": [
+                {
+                  "en": "The car's acceleration surprised us.",
+                  "ja": "その車の加速には驚いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accommodating",
+      "ipa": "",
+      "guide": "相手の要望に合わせようとする",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "融通が利く",
+              "pattern": "an accommodating manager",
+              "tip": "相手の要望に合わせようとする",
+              "examples": [
+                {
+                  "en": "The manager was accommodating about the change.",
+                  "ja": "管理者は変更に柔軟に対応した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acorn",
+      "ipa": "",
+      "guide": "オークなどの実",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ドングリ",
+              "pattern": "an acorn",
+              "tip": "オークなどの実",
+              "examples": [
+                {
+                  "en": "The squirrel buried an acorn.",
+                  "ja": "リスがドングリを埋めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acquaintance",
+      "ipa": "",
+      "guide": "「知人」：friendより浅い関係／「多少の知識」：acquaintance withで知識・面識",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "知人",
+              "pattern": "a casual acquaintance",
+              "tip": "friendより浅い関係",
+              "examples": [
+                {
+                  "en": "She is an acquaintance, not a close friend.",
+                  "ja": "彼女は知人だが親友ではない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "多少の知識",
+              "pattern": "acquaintance with A",
+              "tip": "acquaintance withで知識・面識",
+              "examples": [
+                {
+                  "en": "He has some acquaintance with French literature.",
+                  "ja": "彼にはフランス文学の知識が多少ある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acquiescent",
+      "ipa": "",
+      "guide": "抵抗せず受け入れる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "黙って従う",
+              "pattern": "an acquiescent attitude",
+              "tip": "抵抗せず受け入れる",
+              "examples": [
+                {
+                  "en": "The staff were surprisingly acquiescent.",
+                  "ja": "職員は意外にも黙って従った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acreage",
+      "ipa": "",
+      "guide": "エーカーを単位とする広さ",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "土地面積",
+              "pattern": "total acreage",
+              "tip": "エーカーを単位とする広さ",
+              "examples": [
+                {
+                  "en": "The farm's acreage has doubled.",
+                  "ja": "農場の土地面積は倍増した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acrobat",
+      "ipa": "",
+      "guide": "身体を使った曲芸の演者",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "曲芸師",
+              "pattern": "a circus acrobat",
+              "tip": "身体を使った曲芸の演者",
+              "examples": [
+                {
+                  "en": "An acrobat crossed the high wire.",
+                  "ja": "曲芸師が高い綱を渡った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acropolis",
+      "ipa": "",
+      "guide": "古代都市の高台の城塞・聖域",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "城塞のある丘",
+              "pattern": "an ancient acropolis",
+              "tip": "古代都市の高台の城塞・聖域",
+              "examples": [
+                {
+                  "en": "Tourists climbed to the ancient acropolis.",
+                  "ja": "観光客は古代の城塞丘に登った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "actionable",
+      "ipa": "",
+      "guide": "「実行できる」：具体的な行動に移せる／「訴訟の対象となる」：法律分野の用法",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "実行できる",
+              "pattern": "actionable advice",
+              "tip": "具体的な行動に移せる",
+              "examples": [
+                {
+                  "en": "The report offers actionable advice.",
+                  "ja": "報告書には実行可能な助言がある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "訴訟の対象となる",
+              "pattern": "an actionable claim",
+              "tip": "法律分野の用法",
+              "examples": [
+                {
+                  "en": "The lawyer said the claim was actionable.",
+                  "ja": "弁護士はその請求は訴訟の対象になると述べた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "administrator",
+      "ipa": "",
+      "guide": "運用・管理を担う人",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "管理者",
+              "pattern": "a system administrator",
+              "tip": "運用・管理を担う人",
+              "examples": [
+                {
+                  "en": "The administrator reset the password.",
+                  "ja": "管理者はパスワードを再設定した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admonishment",
+      "ipa": "",
+      "guide": "不適切な行動を改めるよう警告する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "戒め・注意",
+              "pattern": "a stern admonishment",
+              "tip": "不適切な行動を改めるよう警告する",
+              "examples": [
+                {
+                  "en": "The student received a stern admonishment.",
+                  "ja": "その生徒は厳しく注意された。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adoption",
+      "ipa": "",
+      "guide": "「導入・採用」：制度や手法を取り入れること／「養子縁組」：法律上の親子関係を作る",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "導入・採用",
+              "pattern": "adoption of a method",
+              "tip": "制度や手法を取り入れること",
+              "examples": [
+                {
+                  "en": "Adoption of the new method reduced costs.",
+                  "ja": "新方式の導入で費用が減った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "養子縁組",
+              "pattern": "consider adoption",
+              "tip": "法律上の親子関係を作る",
+              "examples": [
+                {
+                  "en": "The couple considered adoption.",
+                  "ja": "夫婦は養子縁組を検討した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adrift",
+      "ipa": "",
+      "guide": "「漂流して」：流れに任せて漂う／「方向性を失って」：比喩的に目標を失った",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "漂流して",
+              "pattern": "set adrift",
+              "tip": "流れに任せて漂う",
+              "examples": [
+                {
+                  "en": "The boat was left adrift.",
+                  "ja": "その船は漂流したままだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "方向性を失って",
+              "pattern": "feel adrift",
+              "tip": "比喩的に目標を失った",
+              "examples": [
+                {
+                  "en": "He felt adrift after graduation.",
+                  "ja": "卒業後、彼は進む方向を見失った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adulate",
+      "ipa": "",
+      "guide": "お世辞に近い大げさな称賛",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "過度に称賛する",
+              "pattern": "adulate a celebrity",
+              "tip": "お世辞に近い大げさな称賛",
+              "examples": [
+                {
+                  "en": "Fans adulated the young singer.",
+                  "ja": "ファンはその若い歌手を過度に持ち上げた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adult",
+      "ipa": "",
+      "guide": "成人の人",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "成人",
+              "pattern": "an adult",
+              "tip": "成人の人",
+              "examples": [
+                {
+                  "en": "Every child had an adult companion.",
+                  "ja": "どの子にも大人の付き添いがいた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advancement",
+      "ipa": "",
+      "guide": "「進歩・発展」：水準が高まること／「昇進」：職業上の地位が上がる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "進歩・発展",
+              "pattern": "technological advancement",
+              "tip": "水準が高まること",
+              "examples": [
+                {
+                  "en": "Technological advancement changed the industry.",
+                  "ja": "技術の進歩が業界を変えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "昇進",
+              "pattern": "career advancement",
+              "tip": "職業上の地位が上がる",
+              "examples": [
+                {
+                  "en": "The job offers chances for career advancement.",
+                  "ja": "その仕事には昇進の機会がある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "advent",
+      "ipa": "",
+      "guide": "新時代・技術などの始まり",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "出現・到来",
+              "pattern": "the advent of A",
+              "tip": "新時代・技術などの始まり",
+              "examples": [
+                {
+                  "en": "The advent of computers changed offices.",
+                  "ja": "コンピューターの登場が職場を変えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aerobic",
+      "ipa": "",
+      "guide": "運動・代謝で酸素を使う",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "有酸素の",
+              "pattern": "aerobic exercise",
+              "tip": "運動・代謝で酸素を使う",
+              "examples": [
+                {
+                  "en": "Swimming is aerobic exercise.",
+                  "ja": "水泳は有酸素運動だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backorder",
+      "ipa": "",
+      "guide": "在庫不足の注文を後日納品する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "入荷待ち注文",
+              "pattern": "on backorder",
+              "tip": "在庫不足の注文を後日納品する",
+              "examples": [
+                {
+                  "en": "The book is currently on backorder.",
+                  "ja": "その本は現在入荷待ちだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badmouth",
+      "ipa": "",
+      "guide": "くだけた会話での中傷",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "悪口を言う",
+              "pattern": "badmouth a colleague",
+              "tip": "くだけた会話での中傷",
+              "examples": [
+                {
+                  "en": "Don't badmouth your coworkers.",
+                  "ja": "同僚の悪口を言わないで。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bailiff",
+      "ipa": "",
+      "guide": "法廷の秩序維持などの職員",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "法廷執行官",
+              "pattern": "a court bailiff",
+              "tip": "法廷の秩序維持などの職員",
+              "examples": [
+                {
+                  "en": "The bailiff asked everyone to stand.",
+                  "ja": "法廷執行官は全員に起立を求めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baldness",
+      "ipa": "",
+      "guide": "頭髪が少なくなる状態",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "薄毛・脱毛",
+              "pattern": "baldness",
+              "tip": "頭髪が少なくなる状態",
+              "examples": [
+                {
+                  "en": "He became concerned about baldness.",
+                  "ja": "彼は薄毛を気にするようになった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ballistic",
+      "ipa": "",
+      "guide": "「弾道の」：発射体の飛行に関する／「激怒する（口語）」：go ballisticで激しく怒る",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "弾道の",
+              "pattern": "ballistic missile",
+              "tip": "発射体の飛行に関する",
+              "examples": [
+                {
+                  "en": "The test involved a ballistic missile.",
+                  "ja": "試験には弾道ミサイルが使われた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "激怒する（口語）",
+              "pattern": "go ballistic",
+              "tip": "go ballisticで激しく怒る",
+              "examples": [
+                {
+                  "en": "He went ballistic at the news.",
+                  "ja": "その知らせに彼は激怒した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "balmy",
+      "ipa": "",
+      "guide": "快適な気候を表す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "暖かく穏やかな",
+              "pattern": "a balmy evening",
+              "tip": "快適な気候を表す",
+              "examples": [
+                {
+                  "en": "We enjoyed the balmy evening air.",
+                  "ja": "暖かく穏やかな夕方の空気を楽しんだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "banal",
+      "ipa": "",
+      "guide": "独創性の欠如を批判する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "陳腐な",
+              "pattern": "a banal remark",
+              "tip": "独創性の欠如を批判する",
+              "examples": [
+                {
+                  "en": "His speech was full of banal phrases.",
+                  "ja": "彼の演説はありきたりな表現ばかりだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baritone",
+      "ipa": "",
+      "guide": "男声の中低音域の歌手",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "バリトン歌手",
+              "pattern": "a famous baritone",
+              "tip": "男声の中低音域の歌手",
+              "examples": [
+                {
+                  "en": "The baritone sang the leading role.",
+                  "ja": "バリトン歌手が主役を歌った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "basketball",
+      "ipa": "",
+      "guide": "球技の名称",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "バスケットボール",
+              "pattern": "play basketball",
+              "tip": "球技の名称",
+              "examples": [
+                {
+                  "en": "We played basketball after school.",
+                  "ja": "私たちは放課後バスケットボールをした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beeper",
+      "ipa": "",
+      "guide": "呼び出しを知らせる機器",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ポケットベル",
+              "pattern": "carry a beeper",
+              "tip": "呼び出しを知らせる機器",
+              "examples": [
+                {
+                  "en": "Doctors once carried beepers at work.",
+                  "ja": "医師はかつて仕事中にポケットベルを持っていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "ipa": "",
+      "guide": "学び始めた人",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "初心者",
+              "pattern": "a complete beginner",
+              "tip": "学び始めた人",
+              "examples": [
+                {
+                  "en": "This course suits beginners.",
+                  "ja": "この講座は初心者向けだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beguile",
+      "ipa": "",
+      "guide": "「魅了する」：楽しませ心を引きつける／「だます」：甘言で誤った行動へ誘う",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "魅了する",
+              "pattern": "beguile an audience",
+              "tip": "楽しませ心を引きつける",
+              "examples": [
+                {
+                  "en": "Her stories beguiled the audience.",
+                  "ja": "彼女の物語は聴衆を魅了した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "だます",
+              "pattern": "beguile A into doing",
+              "tip": "甘言で誤った行動へ誘う",
+              "examples": [
+                {
+                  "en": "He was beguiled into signing the contract.",
+                  "ja": "彼はだまされて契約に署名した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "behavior",
+      "ipa": "",
+      "guide": "米綴り、英綴りはbehaviour",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "行動・振る舞い",
+              "pattern": "human behavior",
+              "tip": "米綴り、英綴りはbehaviour",
+              "examples": [
+                {
+                  "en": "The study examines human behavior.",
+                  "ja": "その研究は人間の行動を調べる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "belligerence",
+      "ipa": "",
+      "guide": "争いを仕掛けるような敵対性",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "攻撃的な態度",
+              "pattern": "show belligerence",
+              "tip": "争いを仕掛けるような敵対性",
+              "examples": [
+                {
+                  "en": "His belligerence disrupted the discussion.",
+                  "ja": "彼の攻撃的な態度は議論を妨げた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "benefit",
+      "ipa": "",
+      "guide": "「利益・恩恵」：好ましい効果／「利益を得る」：benefit fromで利益の源を示す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "利益・恩恵",
+              "pattern": "a health benefit",
+              "tip": "好ましい効果",
+              "examples": [
+                {
+                  "en": "The policy brought benefits to families.",
+                  "ja": "その政策は家族に恩恵をもたらした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "利益を得る",
+              "pattern": "benefit from A",
+              "tip": "benefit fromで利益の源を示す",
+              "examples": [
+                {
+                  "en": "Students benefit from regular practice.",
+                  "ja": "生徒は定期的な練習から恩恵を受ける。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "betrayal",
+      "ipa": "",
+      "guide": "信頼や約束に背く行為",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "裏切り",
+              "pattern": "betrayal of trust",
+              "tip": "信頼や約束に背く行為",
+              "examples": [
+                {
+                  "en": "The lie felt like a betrayal of trust.",
+                  "ja": "そのうそは信頼への裏切りに感じられた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bewilderment",
+      "ipa": "",
+      "guide": "理解できず戸惑うこと",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "当惑",
+              "pattern": "in bewilderment",
+              "tip": "理解できず戸惑うこと",
+              "examples": [
+                {
+                  "en": "She stared at the instructions in bewilderment.",
+                  "ja": "彼女は当惑して説明書を見つめた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biannual",
+      "ipa": "",
+      "guide": "隔年との曖昧さを避けるならtwice a year",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "年2回の",
+              "pattern": "a biannual meeting",
+              "tip": "隔年との曖昧さを避けるならtwice a year",
+              "examples": [
+                {
+                  "en": "The club holds biannual meetings.",
+                  "ja": "クラブは年に2回会合を開く。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bilateral",
+      "ipa": "",
+      "guide": "二者の間で行われる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "二者間の",
+              "pattern": "bilateral talks",
+              "tip": "二者の間で行われる",
+              "examples": [
+                {
+                  "en": "The countries held bilateral talks.",
+                  "ja": "両国は二国間協議を行った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bipartisan",
+      "ipa": "",
+      "guide": "複数政党が協力する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "超党派の",
+              "pattern": "bipartisan support",
+              "tip": "複数政党が協力する",
+              "examples": [
+                {
+                  "en": "The bill received bipartisan support.",
+                  "ja": "その法案は超党派の支持を得た。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bizarre",
+      "ipa": "",
+      "guide": "通常から大きく外れた異様さ",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "奇妙な",
+              "pattern": "a bizarre incident",
+              "tip": "通常から大きく外れた異様さ",
+              "examples": [
+                {
+                  "en": "A bizarre incident delayed the event.",
+                  "ja": "奇妙な出来事で催しが遅れた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "calumny",
+      "ipa": "",
+      "guide": "悪意ある根拠のない非難",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "中傷",
+              "pattern": "spread calumny",
+              "tip": "悪意ある根拠のない非難",
+              "examples": [
+                {
+                  "en": "The journalist rejected the calumny.",
+                  "ja": "記者はその中傷を否定した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canard",
+      "ipa": "",
+      "guide": "意図的に広まる虚偽の話",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "デマ",
+              "pattern": "a false canard",
+              "tip": "意図的に広まる虚偽の話",
+              "examples": [
+                {
+                  "en": "The claim was exposed as a canard.",
+                  "ja": "その主張はデマだと判明した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cantilever",
+      "ipa": "",
+      "guide": "一端で支えた梁",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "片持ち梁",
+              "pattern": "a cantilever bridge",
+              "tip": "一端で支えた梁",
+              "examples": [
+                {
+                  "en": "The bridge uses a cantilever structure.",
+                  "ja": "その橋は片持ち梁構造を使う。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cauldron",
+      "ipa": "",
+      "guide": "大きな金属製の鍋",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "大釜",
+              "pattern": "a boiling cauldron",
+              "tip": "大きな金属製の鍋",
+              "examples": [
+                {
+                  "en": "The cook stirred the soup in a cauldron.",
+                  "ja": "料理人は大釜のスープをかき混ぜた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cauterize",
+      "ipa": "",
+      "guide": "医療で熱などを用いて組織を処置する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "焼灼する",
+              "pattern": "cauterize a vessel",
+              "tip": "医療で熱などを用いて組織を処置する",
+              "examples": [
+                {
+                  "en": "The surgeon cauterized the bleeding vessel.",
+                  "ja": "外科医は出血中の血管を焼灼した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carnation",
+      "ipa": "",
+      "guide": "花の名称",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "カーネーション",
+              "pattern": "red carnations",
+              "tip": "花の名称",
+              "examples": [
+                {
+                  "en": "She placed carnations in a vase.",
+                  "ja": "彼女は花瓶にカーネーションを生けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chafe",
+      "ipa": "",
+      "guide": "「こすって痛くする」：摩擦で皮膚を傷める／「いらだつ」：chafe atで制約などへの不満",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "こすって痛くする",
+              "pattern": "chafe the skin",
+              "tip": "摩擦で皮膚を傷める",
+              "examples": [
+                {
+                  "en": "The strap chafed his neck.",
+                  "ja": "ひもが首をこすって痛くした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "いらだつ",
+              "pattern": "chafe at restrictions",
+              "tip": "chafe atで制約などへの不満",
+              "examples": [
+                {
+                  "en": "Workers chafed at the rules.",
+                  "ja": "労働者は規則にいらだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "charity",
+      "ipa": "",
+      "guide": "「慈善事業・団体」：人を支援する活動や団体／「寛容」：人への寛大な心",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "慈善事業・団体",
+              "pattern": "donate to charity",
+              "tip": "人を支援する活動や団体",
+              "examples": [
+                {
+                  "en": "She donated money to a charity.",
+                  "ja": "彼女は慈善団体に寄付した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "寛容",
+              "pattern": "show charity",
+              "tip": "人への寛大な心",
+              "examples": [
+                {
+                  "en": "He treated his rivals with charity.",
+                  "ja": "彼は競争相手を寛容に扱った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chasm",
+      "ipa": "",
+      "guide": "「深い裂け目」：深い地形の割れ目／「大きな隔たり」：意見・立場の比喩",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "深い裂け目",
+              "pattern": "a narrow chasm",
+              "tip": "深い地形の割れ目",
+              "examples": [
+                {
+                  "en": "A bridge spans the chasm.",
+                  "ja": "その裂け目には橋が架かる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "大きな隔たり",
+              "pattern": "a chasm between A and B",
+              "tip": "意見・立場の比喩",
+              "examples": [
+                {
+                  "en": "There is a chasm between their views.",
+                  "ja": "彼らの意見には大きな隔たりがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chastise",
+      "ipa": "",
+      "guide": "強い叱責",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "厳しく叱る",
+              "pattern": "chastise a student",
+              "tip": "強い叱責",
+              "examples": [
+                {
+                  "en": "The coach chastised the team.",
+                  "ja": "監督はチームを厳しく叱った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chattel",
+      "ipa": "",
+      "guide": "不動産と対比される法律上の動産",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "動産",
+              "pattern": "personal chattels",
+              "tip": "不動産と対比される法律上の動産",
+              "examples": [
+                {
+                  "en": "The agreement listed the owner's chattels.",
+                  "ja": "契約書には所有者の動産が列挙された。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheer",
+      "ipa": "",
+      "guide": "「歓声を上げる」：喜びや応援の声を出す／「元気づける」：cheer upで気持ちを明るくする",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "歓声を上げる",
+              "pattern": "cheer loudly",
+              "tip": "喜びや応援の声を出す",
+              "examples": [
+                {
+                  "en": "The crowd cheered after the goal.",
+                  "ja": "得点後、観客は歓声を上げた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "元気づける",
+              "pattern": "cheer A up",
+              "tip": "cheer upで気持ちを明るくする",
+              "examples": [
+                {
+                  "en": "Her message cheered me up.",
+                  "ja": "彼女のメッセージは私を元気づけた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chemist",
+      "ipa": "",
+      "guide": "「化学者」：化学を専門とする人／「薬局・薬剤師（英）」：英国英語での用法",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "化学者",
+              "pattern": "a research chemist",
+              "tip": "化学を専門とする人",
+              "examples": [
+                {
+                  "en": "The chemist tested the sample.",
+                  "ja": "化学者は試料を検査した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "薬局・薬剤師（英）",
+              "pattern": "at the chemist's",
+              "tip": "英国英語での用法",
+              "examples": [
+                {
+                  "en": "She bought medicine at the chemist's.",
+                  "ja": "彼女は薬局で薬を買った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chew",
+      "ipa": "",
+      "guide": "歯で繰り返しかむ",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "かむ",
+              "pattern": "chew food",
+              "tip": "歯で繰り返しかむ",
+              "examples": [
+                {
+                  "en": "Chew your food slowly.",
+                  "ja": "食べ物をゆっくりかんで。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chide",
+      "ipa": "",
+      "guide": "比較的穏やかな叱責",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "たしなめる",
+              "pattern": "chide A for B",
+              "tip": "比較的穏やかな叱責",
+              "examples": [
+                {
+                  "en": "She chided him for his carelessness.",
+                  "ja": "彼女は不注意を彼にたしなめた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "child",
+      "ipa": "",
+      "guide": "複数形はchildren",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "子ども",
+              "pattern": "raise a child",
+              "tip": "複数形はchildren",
+              "examples": [
+                {
+                  "en": "They raised three children.",
+                  "ja": "彼らは3人の子を育てた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "declassify",
+      "ipa": "",
+      "guide": "機密情報を公開可能にする",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "機密指定を解除する",
+              "pattern": "declassify documents",
+              "tip": "機密情報を公開可能にする",
+              "examples": [
+                {
+                  "en": "The agency declassified the files.",
+                  "ja": "機関は文書の機密指定を解除した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "decorum",
+      "ipa": "",
+      "guide": "公の場にふさわしい振る舞い",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "礼儀・品位",
+              "pattern": "maintain decorum",
+              "tip": "公の場にふさわしい振る舞い",
+              "examples": [
+                {
+                  "en": "The chair asked everyone to maintain decorum.",
+                  "ja": "議長は全員に礼節を保つよう求めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deficient",
+      "ipa": "",
+      "guide": "deficient inで不足する対象",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "不足している",
+              "pattern": "deficient in A",
+              "tip": "deficient inで不足する対象",
+              "examples": [
+                {
+                  "en": "The diet is deficient in iron.",
+                  "ja": "その食事は鉄分が不足している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deforestation",
+      "ipa": "",
+      "guide": "森林が消失すること",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "森林破壊",
+              "pattern": "reduce deforestation",
+              "tip": "森林が消失すること",
+              "examples": [
+                {
+                  "en": "The plan aims to reduce deforestation.",
+                  "ja": "その計画は森林破壊の削減を目指す。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "degradation",
+      "ipa": "",
+      "guide": "品質・環境の悪化",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "劣化",
+              "pattern": "environmental degradation",
+              "tip": "品質・環境の悪化",
+              "examples": [
+                {
+                  "en": "Pollution caused environmental degradation.",
+                  "ja": "汚染は環境の劣化を引き起こした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dejected",
+      "ipa": "",
+      "guide": "失敗などで意気消沈した",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "落胆した",
+              "pattern": "look dejected",
+              "tip": "失敗などで意気消沈した",
+              "examples": [
+                {
+                  "en": "The players looked dejected after the loss.",
+                  "ja": "敗戦後、選手たちは落胆していた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "delineate",
+      "ipa": "",
+      "guide": "特徴・境界をはっきり示す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "明確に示す",
+              "pattern": "delineate duties",
+              "tip": "特徴・境界をはっきり示す",
+              "examples": [
+                {
+                  "en": "The contract delineates each party's duties.",
+                  "ja": "契約書は各当事者の義務を明示する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "delude",
+      "ipa": "",
+      "guide": "誤った信念を抱かせる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "思い込ませる",
+              "pattern": "delude oneself",
+              "tip": "誤った信念を抱かせる",
+              "examples": [
+                {
+                  "en": "Don't delude yourself into thinking it's easy.",
+                  "ja": "簡単だと思い込まないで。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "demoralize",
+      "ipa": "",
+      "guide": "意欲や希望を失わせる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "士気をくじく",
+              "pattern": "demoralize a team",
+              "tip": "意欲や希望を失わせる",
+              "examples": [
+                {
+                  "en": "Repeated losses demoralized the team.",
+                  "ja": "連敗はチームの士気をくじいた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "depot",
+      "ipa": "",
+      "guide": "車両・物資の保管場所",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "車庫・集積所",
+              "pattern": "a bus depot",
+              "tip": "車両・物資の保管場所",
+              "examples": [
+                {
+                  "en": "The buses returned to the depot.",
+                  "ja": "バスは車庫に戻った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detain",
+      "ipa": "",
+      "guide": "「拘束する」：立ち去ることを許さない／「引き留める」：人の時間を取る意味",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "拘束する",
+              "pattern": "detain a suspect",
+              "tip": "立ち去ることを許さない",
+              "examples": [
+                {
+                  "en": "Police detained the suspect for questioning.",
+                  "ja": "警察は聴取のため容疑者を拘束した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "引き留める",
+              "pattern": "detain a visitor",
+              "tip": "人の時間を取る意味",
+              "examples": [
+                {
+                  "en": "I won't detain you any longer.",
+                  "ja": "これ以上お引き留めしません。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deterrent",
+      "ipa": "",
+      "guide": "望ましくない行為を思いとどまらせる",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "抑止力",
+              "pattern": "act as a deterrent",
+              "tip": "望ましくない行為を思いとどまらせる",
+              "examples": [
+                {
+                  "en": "The penalty may act as a deterrent.",
+                  "ja": "その罰則は抑止力になる可能性がある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detour",
+      "ipa": "",
+      "guide": "通常の道から外れる経路",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "迂回路",
+              "pattern": "take a detour",
+              "tip": "通常の道から外れる経路",
+              "examples": [
+                {
+                  "en": "We took a detour around the roadworks.",
+                  "ja": "道路工事を迂回した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detriment",
+      "ipa": "",
+      "guide": "to the detriment ofで悪影響の対象",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "損害・不利益",
+              "pattern": "to the detriment of A",
+              "tip": "to the detriment ofで悪影響の対象",
+              "examples": [
+                {
+                  "en": "He worked to the detriment of his health.",
+                  "ja": "彼は健康を犠牲にして働いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devastate",
+      "ipa": "",
+      "guide": "深刻な被害",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "壊滅的被害を与える",
+              "pattern": "devastate a town",
+              "tip": "深刻な被害",
+              "examples": [
+                {
+                  "en": "The earthquake devastated the town.",
+                  "ja": "地震は町に壊滅的被害を与えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "device",
+      "ipa": "",
+      "guide": "「装置」：特定機能を持つ器具／「技法・工夫」：目的達成のための仕掛け",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "装置",
+              "pattern": "a useful device",
+              "tip": "特定機能を持つ器具",
+              "examples": [
+                {
+                  "en": "This device measures temperature.",
+                  "ja": "この装置は温度を測る。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "技法・工夫",
+              "pattern": "a literary device",
+              "tip": "目的達成のための仕掛け",
+              "examples": [
+                {
+                  "en": "The author uses a clever literary device.",
+                  "ja": "著者は巧みな文学的技法を使う。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devout",
+      "ipa": "",
+      "guide": "信仰に熱心な",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "敬虔な",
+              "pattern": "a devout believer",
+              "tip": "信仰に熱心な",
+              "examples": [
+                {
+                  "en": "He is a devout believer.",
+                  "ja": "彼は敬虔な信者だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diagnostic",
+      "ipa": "",
+      "guide": "原因・病気を特定するための",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "診断の",
+              "pattern": "a diagnostic test",
+              "tip": "原因・病気を特定するための",
+              "examples": [
+                {
+                  "en": "The doctor ordered a diagnostic test.",
+                  "ja": "医師は診断検査を指示した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dialogue",
+      "ipa": "",
+      "guide": "相互の話し合い",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "対話",
+              "pattern": "open a dialogue",
+              "tip": "相互の話し合い",
+              "examples": [
+                {
+                  "en": "The groups began a dialogue.",
+                  "ja": "各団体は対話を始めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dilemma",
+      "ipa": "",
+      "guide": "選択肢のいずれも難点を持つ状況",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "難しい選択",
+              "pattern": "face a dilemma",
+              "tip": "選択肢のいずれも難点を持つ状況",
+              "examples": [
+                {
+                  "en": "She faced a dilemma over the offer.",
+                  "ja": "彼女はその申し出をめぐり板挟みになった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dimension",
+      "ipa": "",
+      "guide": "「寸法」：長さ・幅・高さなど／「側面・観点」：比喩的な観点",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "寸法",
+              "pattern": "measure dimensions",
+              "tip": "長さ・幅・高さなど",
+              "examples": [
+                {
+                  "en": "Please check the dimensions of the room.",
+                  "ja": "部屋の寸法を確認して。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "側面・観点",
+              "pattern": "a new dimension",
+              "tip": "比喩的な観点",
+              "examples": [
+                {
+                  "en": "The discovery added a new dimension to the debate.",
+                  "ja": "その発見は議論に新たな側面を加えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disaster",
+      "ipa": "",
+      "guide": "深刻な被害をもたらす出来事",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "災害",
+              "pattern": "a natural disaster",
+              "tip": "深刻な被害をもたらす出来事",
+              "examples": [
+                {
+                  "en": "The flood was a major natural disaster.",
+                  "ja": "洪水は大規模な自然災害だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discriminate",
+      "ipa": "",
+      "guide": "動詞例文は要確認（名詞との混同を避ける）",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "差別する",
+              "pattern": "discriminate against A",
+              "tip": "discriminate against AでAを不当に差別する。",
+              "examples": [
+                {
+                  "en": "The employer discriminated against older workers.",
+                  "ja": "雇用主は高齢の労働者を差別した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "embarrassment",
+      "ipa": "",
+      "guide": "人前での気まずさ",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "恥ずかしさ",
+              "pattern": "feel embarrassment",
+              "tip": "人前での気まずさ",
+              "examples": [
+                {
+                  "en": "She felt embarrassment at the mistake.",
+                  "ja": "彼女はその失敗を恥ずかしく感じた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "embezzlement",
+      "ipa": "",
+      "guide": "預かった資金の不正流用",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "横領",
+              "pattern": "embezzlement of funds",
+              "tip": "預かった資金の不正流用",
+              "examples": [
+                {
+                  "en": "The accountant was charged with embezzlement.",
+                  "ja": "経理担当者は横領の罪で起訴された。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emerald",
+      "ipa": "",
+      "guide": "緑色の宝石",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "エメラルド",
+              "pattern": "an emerald ring",
+              "tip": "緑色の宝石",
+              "examples": [
+                {
+                  "en": "She wore an emerald ring.",
+                  "ja": "彼女はエメラルドの指輪をしていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "energetic",
+      "ipa": "",
+      "guide": "活動力が高い",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "精力的な",
+              "pattern": "an energetic leader",
+              "tip": "活動力が高い",
+              "examples": [
+                {
+                  "en": "She is an energetic leader.",
+                  "ja": "彼女は精力的な指導者だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "engulf",
+      "ipa": "",
+      "guide": "大量のものが覆い尽くす",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "包み込む",
+              "pattern": "engulf a building",
+              "tip": "大量のものが覆い尽くす",
+              "examples": [
+                {
+                  "en": "Flames engulfed the building.",
+                  "ja": "炎が建物を包み込んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enigmatic",
+      "ipa": "",
+      "guide": "意図や意味がわかりにくい",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "謎めいた",
+              "pattern": "an enigmatic smile",
+              "tip": "意図や意味がわかりにくい",
+              "examples": [
+                {
+                  "en": "She gave an enigmatic smile.",
+                  "ja": "彼女は謎めいた笑みを浮かべた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enquiry",
+      "ipa": "",
+      "guide": "英国綴りでinquiryも使う",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "問い合わせ",
+              "pattern": "make an enquiry",
+              "tip": "英国綴りでinquiryも使う",
+              "examples": [
+                {
+                  "en": "I made an enquiry about the course.",
+                  "ja": "その講座について問い合わせた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enterprising",
+      "ipa": "",
+      "guide": "自ら機会を作り行動する",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "進取の気性に富む",
+              "pattern": "an enterprising student",
+              "tip": "自ら機会を作り行動する",
+              "examples": [
+                {
+                  "en": "An enterprising student started the club.",
+                  "ja": "積極的な生徒がクラブを始めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "entrepreneur",
+      "ipa": "",
+      "guide": "新規事業を立ち上げる人",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "起業家",
+              "pattern": "a successful entrepreneur",
+              "tip": "新規事業を立ち上げる人",
+              "examples": [
+                {
+                  "en": "The entrepreneur founded a company.",
+                  "ja": "起業家は会社を設立した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ephemeral",
+      "ipa": "",
+      "guide": "長続きしない",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "つかの間の",
+              "pattern": "ephemeral beauty",
+              "tip": "長続きしない",
+              "examples": [
+                {
+                  "en": "The flowers have an ephemeral beauty.",
+                  "ja": "その花にはつかの間の美しさがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "equity",
+      "ipa": "",
+      "guide": "「公平性」：状況に応じた公正な扱い／「株主資本・持分」：会計では資産から負債を控除した持分",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "公平性",
+              "pattern": "equity in education",
+              "tip": "状況に応じた公正な扱い",
+              "examples": [
+                {
+                  "en": "The policy aims to improve equity in education.",
+                  "ja": "政策は教育の公平性を高めることを目指す。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "株主資本・持分",
+              "pattern": "shareholder equity",
+              "tip": "会計では資産から負債を控除した持分",
+              "examples": [
+                {
+                  "en": "The company's equity increased.",
+                  "ja": "会社の株主資本が増えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "erupt",
+      "ipa": "",
+      "guide": "「噴火する」：火山の噴出／「突然起こる」：争いなどの突発的発生",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "噴火する",
+              "pattern": "a volcano erupts",
+              "tip": "火山の噴出",
+              "examples": [
+                {
+                  "en": "The volcano erupted at dawn.",
+                  "ja": "火山は夜明けに噴火した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "突然起こる",
+              "pattern": "violence erupts",
+              "tip": "争いなどの突発的発生",
+              "examples": [
+                {
+                  "en": "Violence erupted after the match.",
+                  "ja": "試合後に暴力沙汰が起きた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ethics",
+      "ipa": "",
+      "guide": "道徳的原則を研究する分野",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "倫理学・倫理",
+              "pattern": "study ethics",
+              "tip": "道徳的原則を研究する分野",
+              "examples": [
+                {
+                  "en": "Students discussed ethics in class.",
+                  "ja": "生徒は授業で倫理を議論した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "evaluation",
+      "ipa": "",
+      "guide": "価値・効果を判断すること",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "評価",
+              "pattern": "an independent evaluation",
+              "tip": "価値・効果を判断すること",
+              "examples": [
+                {
+                  "en": "The school conducted an independent evaluation.",
+                  "ja": "学校は独立した評価を実施した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "evaporation",
+      "ipa": "",
+      "guide": "液体が気体に変わること",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "蒸発",
+              "pattern": "water evaporation",
+              "tip": "液体が気体に変わること",
+              "examples": [
+                {
+                  "en": "Heat speeds up the evaporation of water.",
+                  "ja": "熱は水の蒸発を速める。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exaggeration",
+      "ipa": "",
+      "guide": "事実を過大に表す",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "誇張",
+              "pattern": "an obvious exaggeration",
+              "tip": "事実を過大に表す",
+              "examples": [
+                {
+                  "en": "His description was an exaggeration.",
+                  "ja": "彼の描写は誇張だった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exoneration",
+      "ipa": "",
+      "guide": "責任や罪がないと認めること",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "潔白の証明・免責",
+              "pattern": "full exoneration",
+              "tip": "責任や罪がないと認めること",
+              "examples": [
+                {
+                  "en": "New evidence led to her exoneration.",
+                  "ja": "新証拠によって彼女の潔白が認められた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exponential",
+      "ipa": "",
+      "guide": "一定比率で成長する数学的形態",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "指数関数的な",
+              "pattern": "exponential growth",
+              "tip": "一定比率で成長する数学的形態",
+              "examples": [
+                {
+                  "en": "The model predicts exponential growth.",
+                  "ja": "モデルは指数関数的な成長を予測する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expiration",
+      "ipa": "",
+      "guide": "定められた期間が終わること",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "有効期限の満了",
+              "pattern": "before expiration",
+              "tip": "定められた期間が終わること",
+              "examples": [
+                {
+                  "en": "Renew your license before expiration.",
+                  "ja": "期限切れ前に免許を更新して。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expropriate",
+      "ipa": "",
+      "guide": "公的な目的で財産を取得する法律用語",
+      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "review_status": "AI編集・独立辞書校閲待ち",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "収用する",
+              "pattern": "expropriate land",
+              "tip": "公的な目的で財産を取得する法律用語",
+              "examples": [
+                {
+                  "en": "The government expropriated land for the road.",
+                  "ja": "政府は道路のため土地を収用した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
