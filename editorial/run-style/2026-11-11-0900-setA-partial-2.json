@@ -11,7 +11,7 @@
       "word": "retain",
       "ipa": "/rɪˈteɪn/",
       "guide": "retainは「持ち続ける・失わずに保つ」が核。情報を記憶する、人材を引き留める、専門家を正式に雇うなど、対象によって訳し分ける。他動詞なので目的語が必要。",
-      "note": "retain control / ownership / heat / information / staff。retain a lawyerは「弁護士を依頼する」で、単に連絡を取る意味ではない。keepより改まった語で、既にあるものを維持することを強調。",
+      "note": "retain control / ownership / heat / information / staff。retain a lawyerは「弁護士を依頼する」で、単に連絡を取る意味ではない。keepより改まった語で、既にあるものを維持することを強調。 retain one's titleは「称号・地位を保持する」。retain the right to doは「～する権利を保持する」。",
       "groups": [
         {
           "pos": "他動詞",
@@ -132,7 +132,7 @@
       "word": "resolve",
       "ipa": "/rɪˈzɑːlv/（米） /rɪˈzɒlv/（英）",
       "guide": "resolveは問題を解決する他動詞、決意する動詞、決意・決断力を表す名詞を区別する。resolve to doは「～すると決心する」で、resolve a problemとは構文が違う。",
-      "note": "resolve a dispute / issue、resolve to do、resolve that節、resolve into。名詞resolveは不可算で「決意・決断力」。solutionは解決策そのもの、resolutionは解決・決議・決意を表す。",
+      "note": "resolve a dispute / issue、resolve to do、resolve that節、resolve into。名詞resolveは不可算で「決意・決断力」。solutionは解決策そのもの、resolutionは解決・決議・決意を表す。 resolve itself intoは再帰代名詞を目的語とする他動詞用法で、resolve intoと区別する。",
       "groups": [
         {
           "pos": "他動詞",
@@ -177,7 +177,7 @@
               "jp": "～と決議する",
               "pattern": "resolve that + 主語 + 動詞",
               "tip": "会議・組織などが正式に決定する、改まった用法。",
-              "contrast": "組織の決議ではresolve to doも使う。",
+              "contrast": "resolve that節は正式な決議を表す。他動詞resolveの目的語にthat節が続く。resolve to doは決意・決議する自動詞用法。",
               "label": "",
               "register": "",
               "examples": [
@@ -188,6 +188,24 @@
                 {
                   "en": "The members resolved to postpone the vote.",
                   "ja": "会員たちは投票を延期することを決議した。"
+                }
+              ]
+            },
+            {
+              "jp": "（状況などが）～という形にまとまる",
+              "pattern": "resolve itself into + 結果",
+              "tip": "再帰代名詞itselfを目的語に取る他動詞用法。単純な自動詞resolve intoと区別する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The disagreement eventually resolved itself into a compromise.",
+                  "ja": "意見の対立は最終的に妥協という形に落ち着いた。"
+                },
+                {
+                  "en": "The complex debate resolved itself into a simple question.",
+                  "ja": "複雑な議論は結局、一つの単純な問いに集約された。"
                 }
               ]
             }
@@ -229,24 +247,6 @@
                 {
                   "en": "The discussion eventually resolved into two clear options.",
                   "ja": "議論は最終的に二つの明確な選択肢にまとまった。"
-                }
-              ]
-            },
-            {
-              "jp": "～へと落ち着く",
-              "pattern": "resolve itself into + 結果",
-              "tip": "状況が次第に一つの結果・形にまとまる。",
-              "contrast": "",
-              "label": "",
-              "register": "",
-              "examples": [
-                {
-                  "en": "The disagreement eventually resolved itself into a compromise.",
-                  "ja": "意見の対立は最終的に妥協という形に落ち着いた。"
-                },
-                {
-                  "en": "The complex debate resolved itself into a simple question.",
-                  "ja": "複雑な議論は結局、一つの単純な問いに集約された。"
                 }
               ]
             }
