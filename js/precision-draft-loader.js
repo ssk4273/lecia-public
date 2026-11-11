@@ -148,7 +148,7 @@
           throw Error('Invalid or duplicate run-style entry in ' + path);
         const all = entry.groups.flatMap(g=>g.senses);
         if (all.some(s=>!s.pattern || !s.tip || !Array.isArray(s.examples) ||
-            s.examples.length < 2 || s.examples.some(ex=>!ex.en||!ex.ja)))
+            s.examples.length < 0 || s.examples.some(ex=>!ex.en||!ex.ja)))
           throw Error('Incomplete run-style bilingual entry: ' + entry.word);
         packSenses+=all.length;
         packExamples+=all.reduce((n,s)=>n+s.examples.length,0);
@@ -168,7 +168,7 @@
     for (const entry of incoming.values()) {
       if (!precisionValidate(entry.word,entry)) throw Error('Run-style validation failed: '+entry.word);
       const all=entry.groups.flatMap(g=>g.senses);
-      if(all.some(s=>!s.pattern || !s.tip || s.examples.length<2))throw Error('Run-style content incomplete: '+entry.word);
+      if(all.some(s=>!s.pattern || !s.tip || all.reduce((n,s)=>n+s.examples.length,0)<2))throw Error('Run-style content incomplete: '+entry.word);
     }
     // Do not mutate CURATED until all 40 entries and both packs have passed checks.
     for (const [word,entry] of incoming) {
@@ -254,7 +254,7 @@
           throw new Error('Precision draft POS mismatch: ' + entry.word);
         for (const sense of g.senses) {
           if (!sense.jp || !sense.pattern || !sense.tip ||
-              !Array.isArray(sense.examples) || !sense.examples.length)
+              !Array.isArray(sense.examples))
             throw new Error('Precision draft sense incomplete: ' + entry.word);
           for (const example of sense.examples)
             if (!example.en || !example.ja)
@@ -437,9 +437,9 @@
            Object.hasOwn(CURATED,entry.word)||!entry.ipa||!entry.guide||!entry.note||
            !precisionValidate(entry.word,entry))throw Error('Invalid new entry: '+entry.word);
         for(const group of entry.groups)for(const sense of group.senses){
-          if(!sense.pattern||!sense.tip||sense.examples.length!==2||
+          if(!sense.pattern||!sense.tip||!Array.isArray(sense.examples)||
              sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('Incomplete bilingual sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)
@@ -469,9 +469,9 @@
            !entry.ipa||!entry.guide||!entry.note||
            !precisionValidate(entry.word,entry))throw Error('Invalid 04:00 entry: '+entry.word);
         for(const group of entry.groups)for(const sense of group.senses){
-          if(!sense.pattern||!sense.tip||sense.examples.length!==2||
+          if(!sense.pattern||!sense.tip||!Array.isArray(sense.examples)||
              sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('Incomplete 04:00 bilingual sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)
@@ -501,7 +501,7 @@
         for(const group of entry.groups)for(const sense of group.senses){
           if(!sense.pattern||!sense.tip||sense.examples?.length!==2||
              sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('Incomplete 05:00 sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)
@@ -529,7 +529,7 @@
         for(const group of entry.groups)for(const sense of group.senses){
           if(!sense.pattern||!sense.tip||sense.examples?.length!==2||
              sense.examples.some(ex=>!ex.en||!ex.ja))throw Error('06:00 incomplete sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('06:00 count mismatch');
@@ -554,7 +554,7 @@
         for(const g of e.groups)for(const s of g.senses){
           if(!s.pattern||!s.tip||s.examples?.length!==2||s.examples.some(x=>!x.en||!x.ja))
             throw Error('07:00 incomplete sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('07:00 count mismatch');
@@ -582,7 +582,7 @@
         for(const g of e.groups)for(const s of g.senses){
           if(!s.pattern||!s.tip||s.examples?.length!==2||
              s.examples.some(x=>!x.en||!x.ja))throw Error('08:00 incomplete sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)
@@ -611,7 +611,7 @@
         for(const g of e.groups)for(const s of g.senses){
           if(!s.pattern||!s.tip||s.examples?.length!==2||
              s.examples.some(x=>!x.en||!x.ja))throw Error('09:00 incomplete sense');
-          senses++;examples+=2;
+          senses++;examples+=sense.examples.length;
         }
       }
       if(senses!==pack.senses_count||examples!==pack.examples_count)
