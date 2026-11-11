@@ -4,8 +4,8 @@
   "batch": "2026-11-11-chat-150-run-style",
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 150,
-  "senses_count": 300,
-  "examples_count": 600,
+  "senses_count": 377,
+  "examples_count": 754,
   "editorial_note": "既存の仮登録から用法2件ずつを抽出し、新規英日対訳300組・発音情報・語義選択案内を加えてrun型表示へ昇格した構造化原稿。主要語義の完全網羅と独立語義校閲は未完了。",
   "entries": [
     {
@@ -48,6 +48,65 @@
                 {
                   "en": "She noticed that his hands were shaking.",
                   "ja": "彼女は彼の手が震えていることに気づいた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "通知・告知",
+              "pattern": "give notice of / a public notice",
+              "tip": "正式・公的な知らせや掲示。",
+              "examples": [
+                {
+                  "en": "The school posted a notice about the schedule change.",
+                  "ja": "学校は日程変更についての通知を掲示した。"
+                },
+                {
+                  "en": "Residents received notice of the road closure.",
+                  "ja": "住民は道路の通行止めについて通知を受けた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "事前の予告・通告",
+              "pattern": "at short notice / two weeks' notice",
+              "tip": "辞職・解約・変更などを前もって知らせること。",
+              "examples": [
+                {
+                  "en": "The landlord gave the tenants a month's notice.",
+                  "ja": "家主は借り手に1か月前の予告をした。"
+                },
+                {
+                  "en": "We can arrange a meeting at short notice.",
+                  "ja": "急な連絡でも会議を手配できる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "注目・注意",
+              "pattern": "take notice of / attract notice",
+              "tip": "対象に関心や注意を向けること。",
+              "examples": [
+                {
+                  "en": "Few people took notice of the warning.",
+                  "ja": "警告に注意を払った人はほとんどいなかった。"
+                },
+                {
+                  "en": "Her research soon attracted international notice.",
+                  "ja": "彼女の研究はまもなく国際的な注目を集めた。"
                 }
               ],
               "label": "",
@@ -103,6 +162,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "人のために入手してやる",
+              "pattern": "obtain A for B",
+              "tip": "手に入れた物の受益者をforで示す。",
+              "examples": [
+                {
+                  "en": "The lawyer obtained the documents for her client.",
+                  "ja": "弁護士は依頼人のために書類を入手した。"
+                },
+                {
+                  "en": "They obtained extra funding for the school.",
+                  "ja": "彼らは学校のために追加の資金を獲得した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "通用する・行われている",
+              "pattern": "obtain in / among",
+              "tip": "制度・習慣などが存在することを表す改まった用法。",
+              "examples": [
+                {
+                  "en": "Different rules obtain in some regions.",
+                  "ja": "地域によっては異なる規則が適用されている。"
+                },
+                {
+                  "en": "That custom no longer obtains among younger people.",
+                  "ja": "その習慣は若い人々の間ではもはや見られない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -148,6 +248,42 @@
                 {
                   "en": "It occurred to her that she had left her wallet at home.",
                   "ja": "彼女は財布を家に忘れたことをふと思い出した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "生息する・存在する",
+              "pattern": "occur in / throughout",
+              "tip": "種・鉱物・現象などが特定の場所に存在する。",
+              "examples": [
+                {
+                  "en": "This bird occurs naturally in coastal areas.",
+                  "ja": "この鳥は沿岸地域に自然に生息している。"
+                },
+                {
+                  "en": "The mineral occurs in several types of rock.",
+                  "ja": "その鉱物はいくつかの種類の岩石に見られる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "ふと気づく・思いつく",
+              "pattern": "it occurs to A that ...",
+              "tip": "人を主語にせずitが主語になる構文。",
+              "examples": [
+                {
+                  "en": "It occurred to me that we could take the earlier train.",
+                  "ja": "もっと早い電車に乗れるのではないかとふと思った。"
+                },
+                {
+                  "en": "It never occurred to him that the key might be missing.",
+                  "ja": "鍵がなくなっているかもしれないとは、彼には思いも寄らなかった。"
                 }
               ],
               "label": "",
@@ -203,6 +339,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "団体・組織を結成する",
+              "pattern": "organize a committee / group",
+              "tip": "既存の資料整理ではなく人を組織にまとめる意味。",
+              "examples": [
+                {
+                  "en": "The residents organized a neighborhood committee.",
+                  "ja": "住民たちは自治会を結成した。"
+                },
+                {
+                  "en": "Students organized a club to protect local wildlife.",
+                  "ja": "生徒たちは地域の野生生物を守るクラブを結成した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人々を組織化する",
+              "pattern": "organize workers / volunteers",
+              "tip": "活動のために人々をまとめる。",
+              "examples": [
+                {
+                  "en": "She organized volunteers for the cleanup.",
+                  "ja": "彼女は清掃活動のためにボランティアを組織した。"
+                },
+                {
+                  "en": "The union worked to organize factory employees.",
+                  "ja": "労働組合は工場の従業員を組織化しようとした。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "組織的に活動を始める",
+              "pattern": "organize to do",
+              "tip": "集団が目的のために団結する。",
+              "examples": [
+                {
+                  "en": "Local businesses organized to oppose the closure.",
+                  "ja": "地元企業は閉鎖に反対するため団結した。"
+                },
+                {
+                  "en": "Parents organized to improve school safety.",
+                  "ja": "保護者たちは学校の安全を改善するため組織的に動いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -248,6 +443,88 @@
                 {
                   "en": "They picked fresh apples in the orchard.",
                   "ja": "彼らは果樹園で新鮮なリンゴを摘んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "取り除く・つまみ取る",
+              "pattern": "pick A off / out of B",
+              "tip": "小さな物を指で取り出す。",
+              "examples": [
+                {
+                  "en": "She picked a thread off his coat.",
+                  "ja": "彼女は彼の上着から糸くずをつまみ取った。"
+                },
+                {
+                  "en": "He picked the seeds out of the fruit.",
+                  "ja": "彼は果物から種を取り除いた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "けんかをしかける",
+              "pattern": "pick a fight / quarrel with A",
+              "tip": "意図的に争いを始める。",
+              "examples": [
+                {
+                  "en": "Don't pick a fight with your classmates.",
+                  "ja": "同級生にけんかをふっかけてはいけない。"
+                },
+                {
+                  "en": "He seemed determined to pick a quarrel with the referee.",
+                  "ja": "彼は審判に言いがかりをつけるつもりのようだった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "少しずつつつく・食べる",
+              "pattern": "pick at food",
+              "tip": "食べ物を少量ずつつまむ。",
+              "examples": [
+                {
+                  "en": "He was nervous and only picked at his dinner.",
+                  "ja": "彼は緊張して夕食を少しつついただけだった。"
+                },
+                {
+                  "en": "The child picked at the vegetables on her plate.",
+                  "ja": "その子は皿の野菜を少しずつつついていた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "選択権・選りすぐり",
+              "pattern": "have one's pick of / the pick of",
+              "tip": "選択する権利、または最も優れたもの。",
+              "examples": [
+                {
+                  "en": "You can have your pick of the available rooms.",
+                  "ja": "空いている部屋から好きなものを選べます。"
+                },
+                {
+                  "en": "These paintings are the pick of the collection.",
+                  "ja": "これらの絵画は収蔵品の中でも選りすぐりのものだ。"
                 }
               ],
               "label": "",
@@ -303,6 +580,101 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "注文を出す",
+              "pattern": "place an order",
+              "tip": "注文や広告などを正式に出す。",
+              "examples": [
+                {
+                  "en": "We placed an order for new desks.",
+                  "ja": "私たちは新しい机を注文した。"
+                },
+                {
+                  "en": "The store placed another order with its supplier.",
+                  "ja": "店は仕入れ先に追加注文を出した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "場所・地点",
+              "pattern": "a quiet place / in this place",
+              "tip": "具体的な位置や空間を表す最も基本的な名詞用法。",
+              "examples": [
+                {
+                  "en": "We found a quiet place to study.",
+                  "ja": "私たちは勉強できる静かな場所を見つけた。"
+                },
+                {
+                  "en": "This is the place where the bridge once stood.",
+                  "ja": "ここはかつて橋が架かっていた場所だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "席・居場所",
+              "pattern": "take one's place / save a place",
+              "tip": "人が座る席や集団内の居場所。",
+              "examples": [
+                {
+                  "en": "Please take your place before the ceremony begins.",
+                  "ja": "式が始まる前に席についてください。"
+                },
+                {
+                  "en": "I saved a place for you near the front.",
+                  "ja": "前の方にあなたの席を取っておきました。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "地位・立場・順位",
+              "pattern": "first place / one's place in society",
+              "tip": "競争での順位や社会的な位置づけ。",
+              "examples": [
+                {
+                  "en": "Their team finished in second place.",
+                  "ja": "彼らのチームは2位で終えた。"
+                },
+                {
+                  "en": "Education helped her find her place in society.",
+                  "ja": "教育は彼女が社会の中で自分の居場所を見つける助けになった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "順番・役割",
+              "pattern": "in place of / take the place of",
+              "tip": "代わりとなる人・物を表す決まり文句。",
+              "examples": [
+                {
+                  "en": "A substitute teacher came in place of Mr. Lee.",
+                  "ja": "リー先生の代わりに代講の先生が来た。"
+                },
+                {
+                  "en": "Nothing can take the place of regular practice.",
+                  "ja": "日々の練習に代わるものはない。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -335,6 +707,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "人を備えさせる",
+              "pattern": "prepare A for B / to do",
+              "tip": "準備をする人・対象を目的語に取り、備える先を示す。",
+              "examples": [
+                {
+                  "en": "The course prepares students for university study.",
+                  "ja": "その講座は生徒が大学で学ぶ準備を整える。"
+                },
+                {
+                  "en": "The coach prepared the players to face a stronger team.",
+                  "ja": "監督は選手たちを強豪と対戦できるよう備えさせた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -353,6 +743,24 @@
                 {
                   "en": "The town is preparing for a severe storm.",
                   "ja": "その町は激しい嵐に備えている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜する準備をする",
+              "pattern": "prepare to do",
+              "tip": "将来行う行為に向けて整える。",
+              "examples": [
+                {
+                  "en": "The passengers prepared to board the train.",
+                  "ja": "乗客たちは列車に乗る準備をした。"
+                },
+                {
+                  "en": "We are preparing to open the new library.",
+                  "ja": "私たちは新しい図書館の開館に向けて準備している。"
                 }
               ],
               "label": "",
@@ -408,6 +816,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "被害を未然に防止する",
+              "pattern": "prevent A by doing",
+              "tip": "方法を示して予防・抑止する。",
+              "examples": [
+                {
+                  "en": "We can prevent infection by washing our hands.",
+                  "ja": "手を洗うことで感染を予防できる。"
+                },
+                {
+                  "en": "The warning system prevented serious damage.",
+                  "ja": "警報システムが深刻な被害を防いだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -458,6 +884,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "証拠・書類を提示する",
+              "pattern": "produce evidence / identification",
+              "tip": "要求に応じて実物・文書などを見せる。",
+              "examples": [
+                {
+                  "en": "The witness was asked to produce identification.",
+                  "ja": "証人は身分証明書を提示するよう求められた。"
+                },
+                {
+                  "en": "The company produced records of the inspections.",
+                  "ja": "会社は点検記録を提出した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "作品・番組を制作する",
+              "pattern": "produce a film / play",
+              "tip": "映画・舞台・番組を制作する。",
+              "examples": [
+                {
+                  "en": "She produced a documentary about the river.",
+                  "ja": "彼女はその川についてのドキュメンタリーを制作した。"
+                },
+                {
+                  "en": "The theater plans to produce a new musical.",
+                  "ja": "劇場は新しいミュージカルを制作する予定だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "農産物・青果物",
+              "pattern": "fresh produce / local produce",
+              "tip": "名詞は一般に不可算で、動詞とは発音のアクセント位置が異なる。",
+              "examples": [
+                {
+                  "en": "The market sells fresh local produce.",
+                  "ja": "その市場は新鮮な地元の農産物を販売している。"
+                },
+                {
+                  "en": "We buy most of our produce from nearby farms.",
+                  "ja": "私たちは青果物の大半を近隣の農場から買う。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -490,6 +975,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "人に〜を保証する",
+              "pattern": "promise A that S V",
+              "tip": "人に将来のことを保証・約束する。",
+              "examples": [
+                {
+                  "en": "I promise you that the information will remain private.",
+                  "ja": "情報が秘密に保たれることをお約束します。"
+                },
+                {
+                  "en": "He promised his parents that he would study harder.",
+                  "ja": "彼は両親にもっと勉強すると約束した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -508,6 +1011,47 @@
                 {
                   "en": "His early work promises well for his future career.",
                   "ja": "彼の初期の仕事ぶりを見ると将来が期待できる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "約束・誓約",
+              "pattern": "make / keep / break a promise",
+              "tip": "約束そのものを指す可算名詞。",
+              "examples": [
+                {
+                  "en": "She kept her promise to visit us.",
+                  "ja": "彼女は私たちを訪ねるという約束を守った。"
+                },
+                {
+                  "en": "Breaking a promise can damage trust.",
+                  "ja": "約束を破ると信頼を損なうことがある。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "将来性・見込み",
+              "pattern": "show promise / great promise",
+              "tip": "今後の成長・成功が期待できること。",
+              "examples": [
+                {
+                  "en": "The young musician shows great promise.",
+                  "ja": "その若い音楽家には大きな将来性がある。"
+                },
+                {
+                  "en": "The treatment showed promise in early trials.",
+                  "ja": "その治療法は初期試験で有望さを示した。"
                 }
               ],
               "label": "",
@@ -563,6 +1107,88 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "引き抜く・取り外す",
+              "pattern": "pull A out of B",
+              "tip": "中にある物を引いて外へ出す。",
+              "examples": [
+                {
+                  "en": "She pulled the letter out of the envelope.",
+                  "ja": "彼女は封筒から手紙を取り出した。"
+                },
+                {
+                  "en": "The dentist had to pull the damaged tooth.",
+                  "ja": "歯科医は傷んだ歯を抜かなければならなかった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "車を寄せる・停車させる",
+              "pattern": "pull over",
+              "tip": "車を道路脇へ移動させ停める。",
+              "examples": [
+                {
+                  "en": "The driver pulled over to check the tire.",
+                  "ja": "運転手はタイヤを確認するため路肩に停車した。"
+                },
+                {
+                  "en": "Please pull over when it is safe to do so.",
+                  "ja": "安全な場所で路肩に寄せてください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "困難を乗り切る・回復する",
+              "pattern": "pull through",
+              "tip": "病気・危機などを切り抜ける。",
+              "examples": [
+                {
+                  "en": "The doctors believe she will pull through.",
+                  "ja": "医師たちは彼女が持ち直すと考えている。"
+                },
+                {
+                  "en": "The company pulled through the financial crisis.",
+                  "ja": "その会社は財政危機を乗り切った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "引く力・引っ張ること",
+              "pattern": "a strong pull / the pull of gravity",
+              "tip": "物理的な力や引く動作を表す。",
+              "examples": [
+                {
+                  "en": "A strong pull opened the heavy door.",
+                  "ja": "強く引くと重い扉が開いた。"
+                },
+                {
+                  "en": "The moon's gravitational pull affects the tides.",
+                  "ja": "月の引力は潮の満ち引きに影響する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -608,6 +1234,65 @@
                 {
                   "en": "The manager pushed the project toward completion.",
                   "ja": "管理者は計画を完成に向けて前進させた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人に行動を強く促す",
+              "pattern": "push A to do",
+              "tip": "圧力をかけて人に決断・行動を促す。",
+              "examples": [
+                {
+                  "en": "The coach pushed the team to improve its defense.",
+                  "ja": "監督は守備を改善するようチームを強く促した。"
+                },
+                {
+                  "en": "Her friends pushed her to apply for the scholarship.",
+                  "ja": "友人たちは彼女に奨学金への応募を強く勧めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "ひと押し・押す動作",
+              "pattern": "give A a push",
+              "tip": "物を押す一回の動作。",
+              "examples": [
+                {
+                  "en": "Give the door a firm push.",
+                  "ja": "その扉をしっかり押してください。"
+                },
+                {
+                  "en": "The child needed a little push on the swing.",
+                  "ja": "その子はブランコを少し押してもらう必要があった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "努力・後押し",
+              "pattern": "a final push / a push for reform",
+              "tip": "目標達成のために集中する努力。",
+              "examples": [
+                {
+                  "en": "The team made a final push to finish the report.",
+                  "ja": "チームは報告書を仕上げるため最後の追い込みをした。"
+                },
+                {
+                  "en": "There is a growing push for better public transport.",
+                  "ja": "公共交通の改善を求める動きが強まっている。"
                 }
               ],
               "label": "",
@@ -663,6 +1348,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "利益・収益を得る",
+              "pattern": "realize a profit / gain",
+              "tip": "資産の売却や取引によって利益を現実に得る改まった用法。",
+              "examples": [
+                {
+                  "en": "The company realized a profit from the sale.",
+                  "ja": "会社は売却によって利益を得た。"
+                },
+                {
+                  "en": "Investors realized gains after the shares rose.",
+                  "ja": "株価の上昇後、投資家たちは利益を確定した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "十分に活用・発揮する",
+              "pattern": "realize one's potential",
+              "tip": "潜在的な可能性を実際の成果へとつなげる。",
+              "examples": [
+                {
+                  "en": "She worked hard to realize her full potential.",
+                  "ja": "彼女は自分の能力を十分に発揮できるよう努力した。"
+                },
+                {
+                  "en": "The program helps children realize their abilities.",
+                  "ja": "そのプログラムは子どもたちが能力を発揮する助けになる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -713,6 +1434,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "異物・移植臓器を拒絶する",
+              "pattern": "reject a transplant",
+              "tip": "免疫系が移植臓器などを異物として攻撃する。",
+              "examples": [
+                {
+                  "en": "The patient's body rejected the transplanted organ.",
+                  "ja": "患者の体は移植された臓器を拒絶した。"
+                },
+                {
+                  "en": "Doctors monitor whether the body rejects the new tissue.",
+                  "ja": "医師たちは体が新しい組織を拒絶しないか観察している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "不良品・不合格品",
+              "pattern": "a factory reject / rejects",
+              "tip": "基準に合わず取り除かれた製品など。",
+              "examples": [
+                {
+                  "en": "The factory sold its rejects at a discount.",
+                  "ja": "工場は不良品を割引価格で販売した。"
+                },
+                {
+                  "en": "That item was marked as a reject after inspection.",
+                  "ja": "その品は検査後に不合格品として分類された。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -758,6 +1520,60 @@
                 {
                   "en": "Please remember to bring your identification.",
                   "ja": "身分証明書を持参するのを忘れないでください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "以前〜したことを覚えている",
+              "pattern": "remember doing",
+              "tip": "過去に行った行為を記憶している。remember to doとは時間関係が異なる。",
+              "examples": [
+                {
+                  "en": "I remember meeting her at the conference.",
+                  "ja": "その会議で彼女に会ったことを覚えている。"
+                },
+                {
+                  "en": "He remembers playing in this park as a child.",
+                  "ja": "彼は子どものころこの公園で遊んだことを覚えている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人のことを覚えている",
+              "pattern": "remember A as B",
+              "tip": "過去の印象・姿とともに思い出す。",
+              "examples": [
+                {
+                  "en": "I remember him as a cheerful student.",
+                  "ja": "彼を明るい生徒だったと記憶している。"
+                },
+                {
+                  "en": "She remembered the town as a peaceful place.",
+                  "ja": "彼女はその町を穏やかな場所だったと記憶していた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "人によろしく伝える",
+              "pattern": "remember me to A",
+              "tip": "あいさつを第三者に伝えてもらう改まった言い方。",
+              "examples": [
+                {
+                  "en": "Please remember me to your parents.",
+                  "ja": "ご両親によろしくお伝えください。"
+                },
+                {
+                  "en": "Remember us to everyone at the office.",
+                  "ja": "職場の皆さんに私たちからよろしくお伝えください。"
                 }
               ],
               "label": "",
@@ -818,6 +1634,47 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "調査・研究活動",
+              "pattern": "do / carry out research",
+              "tip": "一般に不可算名詞。a researchという言い方を避ける。",
+              "examples": [
+                {
+                  "en": "The team carried out research into learning habits.",
+                  "ja": "チームは学習習慣に関する調査を行った。"
+                },
+                {
+                  "en": "More research is needed before we draw conclusions.",
+                  "ja": "結論を出す前にさらなる研究が必要だ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "詳しく調べる・研究する",
+              "pattern": "research into / on A",
+              "tip": "目的語を直接取らず、研究対象を前置詞で示す。",
+              "examples": [
+                {
+                  "en": "The students researched into the history of the building.",
+                  "ja": "生徒たちはその建物の歴史を詳しく調べた。"
+                },
+                {
+                  "en": "The scientist researches on renewable energy technologies.",
+                  "ja": "その科学者は再生可能エネルギー技術について研究している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -863,6 +1720,83 @@
                 {
                   "en": "The audience rose to applaud the performers.",
                   "ja": "観客は出演者に拍手するため立ち上がった。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "発生する・起源をもつ",
+              "pattern": "rise from / arise from",
+              "tip": "歴史的な由来などを述べる。通常の「生じる」にはariseがより一般的。",
+              "examples": [
+                {
+                  "en": "The river rises in the northern mountains.",
+                  "ja": "その川は北部の山々に源を発する。"
+                },
+                {
+                  "en": "The movement rose from dissatisfaction with the old system.",
+                  "ja": "その運動は旧制度への不満から生まれた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "課題に応える",
+              "pattern": "rise to the occasion / challenge",
+              "tip": "必要な場面で能力を発揮する。",
+              "examples": [
+                {
+                  "en": "The young captain rose to the occasion.",
+                  "ja": "若い主将はここぞという場面で力を発揮した。"
+                },
+                {
+                  "en": "She rose to the challenge of leading the team.",
+                  "ja": "彼女はチームを率いるという難題に見事に応えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "地位・役職が上がる",
+              "pattern": "rise through the ranks",
+              "tip": "組織や社会で高い地位へ進む。",
+              "examples": [
+                {
+                  "en": "He rose through the ranks to become director.",
+                  "ja": "彼は昇進を重ねて部長になった。"
+                },
+                {
+                  "en": "She rose to a senior position in the company.",
+                  "ja": "彼女は会社の上級職に昇進した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "増加・上昇",
+              "pattern": "a rise in prices / temperature",
+              "tip": "数量・水準などの上昇を表す名詞。",
+              "examples": [
+                {
+                  "en": "There has been a sharp rise in rent.",
+                  "ja": "家賃が急激に上昇した。"
+                },
+                {
+                  "en": "A rise in temperature can affect crop growth.",
+                  "ja": "気温の上昇は作物の成長に影響しうる。"
                 }
               ],
               "label": "",
@@ -918,6 +1852,60 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "データを保存する",
+              "pattern": "save a file / document",
+              "tip": "電子データを記録し、後から利用できるようにする。",
+              "examples": [
+                {
+                  "en": "Save your work before closing the program.",
+                  "ja": "プログラムを終了する前に作業内容を保存してください。"
+                },
+                {
+                  "en": "I saved the document in a separate folder.",
+                  "ja": "私はその文書を別のフォルダーに保存した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "お金をためる・貯金する",
+              "pattern": "save up for A",
+              "tip": "将来の目的に備えて金銭を蓄える。",
+              "examples": [
+                {
+                  "en": "They are saving up for a new apartment.",
+                  "ja": "彼らは新しいアパートのために貯金している。"
+                },
+                {
+                  "en": "She saves part of her salary every month.",
+                  "ja": "彼女は毎月給料の一部を貯金する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "得点を防ぐ",
+              "pattern": "save a shot / penalty",
+              "tip": "スポーツでシュートなどを止める。",
+              "examples": [
+                {
+                  "en": "The goalkeeper saved the penalty.",
+                  "ja": "ゴールキーパーはPKを止めた。"
+                },
+                {
+                  "en": "A brilliant save kept the team in the match.",
+                  "ja": "見事なセーブがチームを試合に踏みとどまらせた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -950,6 +1938,24 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "情報を詳しく調べる",
+              "pattern": "search records / databases",
+              "tip": "資料・データベースを対象に必要な情報を探す。",
+              "examples": [
+                {
+                  "en": "Researchers searched the records for possible errors.",
+                  "ja": "研究者たちは記録を調べて誤りの有無を確認した。"
+                },
+                {
+                  "en": "I searched the database for similar cases.",
+                  "ja": "私は類似の事例をデータベースで検索した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -968,6 +1974,29 @@
                 {
                   "en": "They searched for a reliable source of information.",
                   "ja": "彼らは信頼できる情報源を探した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "捜索・検索",
+              "pattern": "a search for / in search of",
+              "tip": "探す行為を表す名詞。",
+              "examples": [
+                {
+                  "en": "The police began a search for the missing child.",
+                  "ja": "警察は行方不明の子どもの捜索を始めた。"
+                },
+                {
+                  "en": "We went in search of a quieter place.",
+                  "ja": "私たちはもっと静かな場所を探しに出かけた。"
                 }
               ],
               "label": "",
@@ -1023,6 +2052,42 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "〜のように思われる",
+              "pattern": "it seems that S V",
+              "tip": "事実ではなく話者の判断・印象を述べる。",
+              "examples": [
+                {
+                  "en": "It seems that the bus has already left.",
+                  "ja": "バスはもう出発したようだ。"
+                },
+                {
+                  "en": "It seems that everyone agrees with the proposal.",
+                  "ja": "全員がその提案に賛成しているようだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜のようだ",
+              "pattern": "seem like / seem as if",
+              "tip": "名詞・状況の見かけの印象を表す。",
+              "examples": [
+                {
+                  "en": "It seems like a reasonable solution.",
+                  "ja": "それは妥当な解決策のように思える。"
+                },
+                {
+                  "en": "She seemed as if she had not slept at all.",
+                  "ja": "彼女はまったく寝ていないように見えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -1068,6 +2133,47 @@
                 {
                   "en": "Three students were selected for the final round.",
                   "ja": "3人の生徒が最終選考に選ばれた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "〜を選んで任命する",
+              "pattern": "select A as B",
+              "tip": "人を特定の役割・地位に選ぶ。",
+              "examples": [
+                {
+                  "en": "The board selected her as the new chairperson.",
+                  "ja": "理事会は彼女を新しい議長に選んだ。"
+                },
+                {
+                  "en": "We selected the poem as our opening reading.",
+                  "ja": "私たちはその詩を冒頭で読む作品として選んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "形容詞",
+          "senses": [
+            {
+              "jp": "選び抜かれた・厳選された",
+              "pattern": "a select group / few",
+              "tip": "選ばれた少数の人・物を表す。",
+              "examples": [
+                {
+                  "en": "Only a select group of students joined the workshop.",
+                  "ja": "選ばれた少数の生徒だけが講習会に参加した。"
+                },
+                {
+                  "en": "The restaurant uses select ingredients.",
+                  "ja": "そのレストランは厳選した食材を使う。"
                 }
               ],
               "label": "",
@@ -1123,6 +2229,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "ある状態に陥らせる",
+              "pattern": "send A into B / send A C",
+              "tip": "出来事が人・物に状態変化を引き起こす。",
+              "examples": [
+                {
+                  "en": "The news sent the market into panic.",
+                  "ja": "そのニュースで市場は混乱に陥った。"
+                },
+                {
+                  "en": "The sudden noise sent the dog running outside.",
+                  "ja": "突然の音で犬は外へ駆け出した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "発信・送り出す",
+              "pattern": "send out notices / signals",
+              "tip": "多数へ通知・信号などを送る。",
+              "examples": [
+                {
+                  "en": "The office sent out reminders to all applicants.",
+                  "ja": "事務局はすべての応募者に確認の知らせを送った。"
+                },
+                {
+                  "en": "The device sends out a warning signal.",
+                  "ja": "その装置は警告信号を発する。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "使いを出す・呼び寄せる",
+              "pattern": "send for a doctor",
+              "tip": "助けや必要な人・物を呼び寄せる。",
+              "examples": [
+                {
+                  "en": "They sent for a doctor immediately.",
+                  "ja": "彼らはすぐに医者を呼びにやった。"
+                },
+                {
+                  "en": "We sent for a technician when the machine stopped.",
+                  "ja": "機械が止まったとき、私たちは技術者を呼んだ。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -1155,6 +2320,60 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "社会や人に尽くす",
+              "pattern": "serve one's community / country",
+              "tip": "単に食事を出すのでなく役に立つ・奉仕する意味。",
+              "examples": [
+                {
+                  "en": "She has served her community for decades.",
+                  "ja": "彼女は何十年も地域社会に奉仕してきた。"
+                },
+                {
+                  "en": "Many volunteers serve people in need.",
+                  "ja": "多くのボランティアが困っている人々のために尽くす。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "任期・刑期を務める",
+              "pattern": "serve a term / sentence",
+              "tip": "一定期間の職務・刑罰を全うする。",
+              "examples": [
+                {
+                  "en": "The mayor served two terms in office.",
+                  "ja": "市長は2期務めた。"
+                },
+                {
+                  "en": "He served a short prison sentence.",
+                  "ja": "彼は短い刑期を務めた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "目的・役割を果たす",
+              "pattern": "serve a purpose / meet a need",
+              "tip": "物・行動が特定の役割に役立つ。",
+              "examples": [
+                {
+                  "en": "This rule serves an important purpose.",
+                  "ja": "この規則には重要な役割がある。"
+                },
+                {
+                  "en": "The new center serves the needs of local families.",
+                  "ja": "新しい施設は地域の家庭のニーズに応える。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         },
@@ -1173,6 +2392,24 @@
                 {
                   "en": "The old school building now serves as a library.",
                   "ja": "古い校舎は現在図書館として使われている。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "サーブする",
+              "pattern": "serve in tennis / volleyball",
+              "tip": "スポーツで球を最初に打ち出す。",
+              "examples": [
+                {
+                  "en": "She served first in the match.",
+                  "ja": "彼女が試合で最初にサーブした。"
+                },
+                {
+                  "en": "He serves with remarkable accuracy.",
+                  "ja": "彼は驚くほど正確にサーブする。"
                 }
               ],
               "label": "",
@@ -1223,6 +2460,70 @@
                 {
                   "en": "We shared the cost of the taxi.",
                   "ja": "私たちはタクシー代を分担した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "持ち分・分担分",
+              "pattern": "one's share of the work / cost",
+              "tip": "仕事・責任・費用などの割当部分。",
+              "examples": [
+                {
+                  "en": "Everyone should do their share of the work.",
+                  "ja": "全員が仕事の自分の分担を果たすべきだ。"
+                },
+                {
+                  "en": "She paid her share of the rent.",
+                  "ja": "彼女は家賃の自分の分を支払った。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "株式・株",
+              "pattern": "buy / sell shares in a company",
+              "tip": "会社の所有権の一部を表す。",
+              "examples": [
+                {
+                  "en": "He bought shares in a technology company.",
+                  "ja": "彼は技術系企業の株を買った。"
+                },
+                {
+                  "en": "The value of the company's shares fell.",
+                  "ja": "その会社の株価は下落した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "参加して分け前を得る",
+              "pattern": "share in A",
+              "tip": "経験・責任・利益などをともにする。",
+              "examples": [
+                {
+                  "en": "All members share in the benefits.",
+                  "ja": "すべての会員が利益を分かち合う。"
+                },
+                {
+                  "en": "She shared in the excitement of the victory.",
+                  "ja": "彼女も勝利の興奮を分かち合った。"
                 }
               ],
               "label": "",
@@ -1283,6 +2584,65 @@
               "label": "",
               "contrast": "",
               "register": ""
+            },
+            {
+              "jp": "ギアを切り替える",
+              "pattern": "shift gears",
+              "tip": "自動車などの変速を行う。",
+              "examples": [
+                {
+                  "en": "He shifted gears before climbing the hill.",
+                  "ja": "彼は坂を上る前にギアを切り替えた。"
+                },
+                {
+                  "en": "She shifted into a lower gear on the descent.",
+                  "ja": "彼女は下り坂で低いギアに変えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "交代勤務・勤務時間帯",
+              "pattern": "work the night shift / a shift worker",
+              "tip": "職場で担当する勤務時間帯。",
+              "examples": [
+                {
+                  "en": "He works the night shift at the hospital.",
+                  "ja": "彼は病院で夜勤をしている。"
+                },
+                {
+                  "en": "My shift ends at six this evening.",
+                  "ja": "私の勤務時間は今夜6時に終わる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "変化・転換",
+              "pattern": "a shift in opinion / policy",
+              "tip": "考え方・方針などが変わること。",
+              "examples": [
+                {
+                  "en": "There has been a major shift in public opinion.",
+                  "ja": "世論には大きな変化があった。"
+                },
+                {
+                  "en": "The company announced a shift toward online sales.",
+                  "ja": "会社はオンライン販売への転換を発表した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
             }
           ]
         }
@@ -1328,6 +2688,88 @@
                 {
                   "en": "The figures show that demand is increasing.",
                   "ja": "数字は需要が増えていることを示している。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "やり方を教える・案内する",
+              "pattern": "show A how to do",
+              "tip": "実演・説明によってやり方を伝える。",
+              "examples": [
+                {
+                  "en": "Can you show me how to use this device?",
+                  "ja": "この装置の使い方を教えてもらえますか。"
+                },
+                {
+                  "en": "She showed the children how to plant seeds.",
+                  "ja": "彼女は子どもたちに種の植え方を教えた。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "見せびらかす",
+              "pattern": "show off / show A off",
+              "tip": "能力・所有物を誇示する。",
+              "examples": [
+                {
+                  "en": "He enjoys showing off his new car.",
+                  "ja": "彼は新しい車を見せびらかすのが好きだ。"
+                },
+                {
+                  "en": "She showed off her skills at the festival.",
+                  "ja": "彼女は祭りで自分の技術を披露した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "番組・ショー",
+              "pattern": "a television show / stage show",
+              "tip": "放送・公演などの催し。",
+              "examples": [
+                {
+                  "en": "We watched a science show last night.",
+                  "ja": "昨夜、私たちは科学番組を見た。"
+                },
+                {
+                  "en": "The theater's new show opens on Friday.",
+                  "ja": "劇場の新しい公演は金曜日に始まる。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "現れる・姿を見せる",
+              "pattern": "show up",
+              "tip": "待ち合わせ・行事などに姿を現す句動詞。",
+              "examples": [
+                {
+                  "en": "Only ten people showed up for the meeting.",
+                  "ja": "会議に現れたのは10人だけだった。"
+                },
+                {
+                  "en": "He showed up half an hour late.",
+                  "ja": "彼は30分遅れて現れた。"
                 }
               ],
               "label": "",
@@ -1383,6 +2825,65 @@
                 {
                   "en": "A sudden drop in temperature is often a sign of a coming storm.",
                   "ja": "気温の急な低下は嵐が近づく兆候であることが多い。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "標識・看板",
+              "pattern": "a road sign / warning sign",
+              "tip": "情報や警告を視覚的に示す物。",
+              "examples": [
+                {
+                  "en": "A road sign warned us about falling rocks.",
+                  "ja": "道路標識が落石に注意するよう警告していた。"
+                },
+                {
+                  "en": "Look for the blue sign near the entrance.",
+                  "ja": "入口の近くにある青い看板を探してください。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            },
+            {
+              "jp": "合図・身ぶり",
+              "pattern": "give A a sign / sign language",
+              "tip": "言葉以外で意志や情報を伝える手段。",
+              "examples": [
+                {
+                  "en": "She gave me a sign to keep quiet.",
+                  "ja": "彼女は静かにするよう私に合図した。"
+                },
+                {
+                  "en": "The guide used signs to direct the group.",
+                  "ja": "案内人は身ぶりで一行を誘導した。"
+                }
+              ],
+              "label": "",
+              "contrast": "",
+              "register": ""
+            }
+          ]
+        },
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "申し込む・登録する",
+              "pattern": "sign up for A",
+              "tip": "講座・会員制度などに参加登録する。",
+              "examples": [
+                {
+                  "en": "I signed up for the weekend course.",
+                  "ja": "私は週末の講座に申し込んだ。"
+                },
+                {
+                  "en": "More than fifty people signed up for the event.",
+                  "ja": "50人以上がその催しに申し込んだ。"
                 }
               ],
               "label": "",
