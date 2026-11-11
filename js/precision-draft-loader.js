@@ -729,27 +729,13 @@
       console.error('Lexia chat 300 promotion failed',error);
       window.LEXIA_CHAT_300_STATUS=Object.freeze({promoted:0,provisional:true,error:String(error)});
     }
-    // Chat batch of 350 provisional editorial entries, pending independent review.
-    try {
-      const response=await fetch('./editorial/run-style/2026-11-11-chat-350-provisional.json',{cache:'no-cache'});
-      if(!response.ok)throw Error('HTTP '+response.status);
-      const pack=await response.json();
-      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||pack.entries_count!==350||
-         pack.entries?.length!==350||new Set(pack.entries.map(e=>e.word)).size!==350)
-        throw Error('350-pack metadata invalid');
-      let senses=0,examples=0;
-      for(const e of pack.entries){
-        if(Object.hasOwn(CURATED,e.word)||!precisionValidate(e.word,e))throw Error('350-pack invalid or duplicate '+e.word);
-        for(const g of e.groups)for(const v of g.senses){if(!v.tip||!v.pattern)throw Error('350-pack missing fields');senses++;examples+=v.examples.length;}
-      }
-      if(senses!==pack.senses_count||examples!==pack.examples_count)throw Error('350-pack count mismatch');
-      for(const e of pack.entries)CURATED[e.word]=e;
-      precisionRecount();
-      window.LEXIA_CHAT_350_STATUS=Object.freeze({promoted:350,senses,examples,provisional:true});
-    }catch(error){
-      console.error('Lexia chat 350 promotion failed',error);
-      window.LEXIA_CHAT_350_STATUS=Object.freeze({promoted:0,provisional:true,error:String(error)});
-    }
+    // The historical 350 pack overlaps already curated entries and therefore
+    // cannot be promoted atomically. Keep it as an editorial source only.
+    // Its separately reviewed 150-word subset is loaded below.
+    window.LEXIA_CHAT_350_STATUS=Object.freeze({
+      promoted:0,provisional:true,
+      reason:'350語の仮登録は重複を含むためrun型への一括昇格対象外'
+    });
     // Final 200 from existing editorial drafts; provisional, not independently reviewed.
     try {
       const response=await fetch('./editorial/run-style/2026-11-11-chat-200d-provisional.json',{cache:'no-cache'});
@@ -770,6 +756,45 @@
     }catch(error){
       console.error('Lexia chat 200d promotion failed',error);
       window.LEXIA_CHAT_200D_STATUS=Object.freeze({promoted:0,provisional:true,error:String(error)});
+    }
+    // Chat promotion of 150 distinct entries. Promote only after validating the
+    // complete pack; these have two independent EJ pairs per listed sense.
+    // Run-style is a presentation format, not a claim of lexicographic certification.
+    try {
+      const response=await fetch('./editorial/run-style/2026-11-11-chat-150-run-style.json',{cache:'no-cache'});
+      if(!response.ok)throw Error('150-pack HTTP '+response.status);
+      const pack=await response.json();
+      if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
+         pack.entries_count!==150||pack.entries?.length!==150||
+         pack.review_status!=='AI編集・独立辞書校閲待ち'||
+         new Set(pack.entries.map(e=>e.word)).size!==150)
+        throw Error('150-pack metadata/count mismatch');
+      const incoming=new Map();let senses=0,examples=0;
+      for(const e of pack.entries){
+        if(Object.hasOwn(CURATED,e.word)||!e.ipa||!e.guide||!e.note||
+           e.review_status!=='AI編集・独立辞書校閲待ち'||
+           !precisionValidate(e.word,e))throw Error('150-pack duplicate or invalid '+e.word);
+        for(const g of e.groups)for(const s of g.senses){
+          if(!s.jp||!s.pattern||!s.tip||s.examples?.length!==2||
+             s.examples.some(x=>!x.en||!x.ja))throw Error('150-pack incomplete bilingual sense: '+e.word);
+          senses++;examples+=2;
+        }
+        incoming.set(e.word,e);
+      }
+      if(senses!==300||examples!==600||senses!==pack.senses_count||examples!==pack.examples_count)
+        throw Error('150-pack sense/example count mismatch');
+      for(const [word,e] of incoming)CURATED[word]=e;
+      precisionRecount();
+      window.LEXIA_CHAT_150_STATUS=Object.freeze({
+        target:150,promoted:150,senses,examples,
+        presentation:'run型',review_status:'AI編集・独立辞書校閲待ち'
+      });
+    }catch(error){
+      console.error('Lexia 150 run-style promotion failed',error);
+      window.LEXIA_CHAT_150_STATUS=Object.freeze({
+        target:150,promoted:0,review_status:'AI編集・独立辞書校閲待ち',
+        error:String(error?.message||error)
+      });
     }
     const stillDraft=Object.keys(DRAFT).filter(w=>!Object.hasOwn(CURATED,w));
     draftWords = stillDraft.length;
