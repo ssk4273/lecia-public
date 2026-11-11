@@ -148,7 +148,7 @@
           throw Error('Invalid or duplicate run-style entry in ' + path);
         const all = entry.groups.flatMap(g=>g.senses);
         if (all.some(s=>!s.pattern || !s.tip || !Array.isArray(s.examples) ||
-            s.examples.length < 0 || s.examples.some(ex=>!ex.en||!ex.ja)))
+            s.examples.some(ex=>!ex.en||!ex.ja)))
           throw Error('Incomplete run-style bilingual entry: ' + entry.word);
         packSenses+=all.length;
         packExamples+=all.reduce((n,s)=>n+s.examples.length,0);
@@ -168,7 +168,7 @@
     for (const entry of incoming.values()) {
       if (!precisionValidate(entry.word,entry)) throw Error('Run-style validation failed: '+entry.word);
       const all=entry.groups.flatMap(g=>g.senses);
-      if(all.some(s=>!s.pattern || !s.tip || all.reduce((n,s)=>n+s.examples.length,0)<2))throw Error('Run-style content incomplete: '+entry.word);
+      if(all.some(s=>!s.pattern || !s.tip) || all.reduce((n,s)=>n+s.examples.length,0)<2)throw Error('Run-style content incomplete: '+entry.word);
     }
     // Do not mutate CURATED until all 40 entries and both packs have passed checks.
     for (const [word,entry] of incoming) {
