@@ -598,11 +598,11 @@
     try {
       const response=await fetch('./editorial/run-style/2026-11-11-0900-setA-partial-2.json',{cache:'no-cache'});
       if(!response.ok)throw Error('HTTP '+response.status);
-      const pack=await response.json(),expected=['retain','resolve','restrict','restore','result','require'];
+      const pack=await response.json(),expected=["retain","resolve","restrict","restore","result","require","respond","represent","replace","refer"];
       if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
-         pack.entries_count!==6||pack.entries?.length!==6||
+         pack.entries_count!==10||pack.entries?.length!==10||
          pack.review_status!=='AI編集・独立辞書校閲待ち'||
-         new Set(pack.entries.map(e=>e.word)).size!==6)throw Error('09:00 invalid metadata');
+         new Set(pack.entries.map(e=>e.word)).size!==10)throw Error('09:00 invalid metadata');
       let senses=0,examples=0;
       for(const e of pack.entries){
         if(!expected.includes(e.word)||Object.hasOwn(CURATED,e.word)||
@@ -618,7 +618,7 @@
         throw Error('09:00 count mismatch');
       for(const e of pack.entries)CURATED[e.word]=e;
       precisionRecount();
-      window.LEXIA_NINTH_COHORT_STATUS=Object.freeze({promoted:6,senses,examples,complete:false});
+      window.LEXIA_NINTH_COHORT_STATUS=Object.freeze({promoted:10,senses,examples,complete:false});
     }catch(error){
       console.error('Lexia 09:00 promotion failed',error);
       window.LEXIA_NINTH_COHORT_STATUS=Object.freeze({promoted:0,complete:false,error:String(error)});
