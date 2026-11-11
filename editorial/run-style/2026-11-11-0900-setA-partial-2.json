@@ -3,9 +3,9 @@
   "kind": "lexia_run_style_editorial",
   "batch": "2026-11-11-0900-setA-continuation-4",
   "review_status": "AI編集・独立辞書校閲待ち",
-  "entries_count": 4,
-  "senses_count": 25,
-  "examples_count": 50,
+  "entries_count": 6,
+  "senses_count": 39,
+  "examples_count": 78,
   "entries": [
     {
       "word": "retain",
@@ -512,6 +512,289 @@
                 {
                   "en": "The museum agreed to restore the artifacts to their rightful owners.",
                   "ja": "博物館は遺物を正当な所有者に返還することに同意した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "result",
+      "ipa": "/rɪˈzʌlt/",
+      "guide": "resultは「何かの結果として生じる」自動詞と「結果・成果」を表す名詞。result inは結果を、result fromは原因を後ろに置く。",
+      "note": "result in A（Aという結果になる）/ result from A（Aから生じる）を混同しない。as a result（その結果）、as a result of A（Aの結果）、the results of a test（検査結果）。名詞は可算が基本。",
+      "groups": [
+        {
+          "pos": "自動詞",
+          "senses": [
+            {
+              "jp": "結果として生じる",
+              "pattern": "result from + 原因",
+              "tip": "出来事・状況の原因を示す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The delay resulted from heavy traffic.",
+                  "ja": "遅延はひどい交通渋滞が原因だった。"
+                },
+                {
+                  "en": "Many errors result from a lack of practice.",
+                  "ja": "多くの間違いは練習不足から生じる。"
+                }
+              ]
+            },
+            {
+              "jp": "～という結果になる",
+              "pattern": "result in + 結果",
+              "tip": "原因・行動がもたらす結果を示す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The storm resulted in widespread flooding.",
+                  "ja": "嵐によって広い範囲で洪水が起きた。"
+                },
+                {
+                  "en": "Regular exercise can result in better sleep.",
+                  "ja": "定期的な運動は睡眠の改善につながることがある。"
+                }
+              ]
+            },
+            {
+              "jp": "（～から）生じる",
+              "pattern": "result from + action / event",
+              "tip": "result fromは原因側を明示する。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The injury resulted from a fall.",
+                  "ja": "そのけがは転倒によって生じた。"
+                },
+                {
+                  "en": "The change resulted from months of discussion.",
+                  "ja": "その変更は数か月にわたる議論の結果として生じた。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "名詞",
+          "senses": [
+            {
+              "jp": "結果・結末",
+              "pattern": "the result of + 出来事",
+              "tip": "ある出来事がもたらした結末。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "We are waiting for the result of the election.",
+                  "ja": "私たちは選挙の結果を待っている。"
+                },
+                {
+                  "en": "The final result surprised everyone.",
+                  "ja": "最終結果は皆を驚かせた。"
+                }
+              ]
+            },
+            {
+              "jp": "成果・実績",
+              "pattern": "achieve / produce results",
+              "tip": "努力・活動の成果を指す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The new method produced good results.",
+                  "ja": "新しい方法は良い成果を上げた。"
+                },
+                {
+                  "en": "It takes time to see results from training.",
+                  "ja": "練習の成果が現れるには時間がかかる。"
+                }
+              ]
+            },
+            {
+              "jp": "検査・試験の結果",
+              "pattern": "test / exam results",
+              "tip": "試験や測定の数値・判定。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "Her blood test results were normal.",
+                  "ja": "彼女の血液検査の結果は正常だった。"
+                },
+                {
+                  "en": "Students will receive their exam results tomorrow.",
+                  "ja": "生徒たちは明日、試験結果を受け取る。"
+                }
+              ]
+            },
+            {
+              "jp": "その結果",
+              "pattern": "as a result",
+              "tip": "前文を受け、帰結を述べる接続表現。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "It rained all day. As a result, the match was canceled.",
+                  "ja": "一日中雨が降った。その結果、試合は中止になった。"
+                },
+                {
+                  "en": "He missed the last train and, as a result, had to take a taxi.",
+                  "ja": "彼は終電を逃し、その結果タクシーに乗らなければならなかった。"
+                }
+              ]
+            },
+            {
+              "jp": "～の結果として",
+              "pattern": "as a result of + 名詞",
+              "tip": "原因を名詞句で表す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The road was closed as a result of the accident.",
+                  "ja": "事故の結果、その道路は通行止めになった。"
+                },
+                {
+                  "en": "Several homes were damaged as a result of the storm.",
+                  "ja": "嵐によって数軒の住宅が被害を受けた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "require",
+      "ipa": "/rɪˈkwaɪər/",
+      "guide": "requireは「必要とする・要求する」を表す他動詞。require A to doとrequire that節、require doingの構文を区別する。",
+      "note": "require + 名詞 / require A to do / require that S (should) do / require doing。require doingは「～される必要がある」で受け身の意味。needより改まった語で、規則・条件・必要性を示す。",
+      "groups": [
+        {
+          "pos": "他動詞",
+          "senses": [
+            {
+              "jp": "～を必要とする",
+              "pattern": "require + time / effort / skill",
+              "tip": "何かを達成するために不可欠である。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "This job requires patience.",
+                  "ja": "この仕事には忍耐力が必要だ。"
+                },
+                {
+                  "en": "The repair will require several hours.",
+                  "ja": "修理には数時間かかるだろう。"
+                }
+              ]
+            },
+            {
+              "jp": "～することを求める",
+              "pattern": "require + 人 + to do",
+              "tip": "規則や状況が人に行動を求める。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The school requires students to wear uniforms.",
+                  "ja": "その学校は生徒に制服の着用を義務づけている。"
+                },
+                {
+                  "en": "The law requires drivers to carry a license.",
+                  "ja": "法律は運転者に免許証の携帯を義務づけている。"
+                }
+              ]
+            },
+            {
+              "jp": "～するよう要求する",
+              "pattern": "require that + 主語 + (should) 動詞の原形",
+              "tip": "正式な規則・要請を表す。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The rules require that every applicant submit an ID.",
+                  "ja": "規則ではすべての申請者に身分証の提出を求めている。"
+                },
+                {
+                  "en": "The contract requires that payment be made in advance.",
+                  "ja": "契約では代金を前払いすることが求められている。"
+                }
+              ]
+            },
+            {
+              "jp": "～する必要がある",
+              "pattern": "require + doing",
+              "tip": "物を主語とし、動名詞が受け身の意味を持つ。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The roof requires repairing.",
+                  "ja": "屋根は修理する必要がある。"
+                },
+                {
+                  "en": "These documents require careful checking.",
+                  "ja": "これらの書類は慎重に確認する必要がある。"
+                }
+              ]
+            },
+            {
+              "jp": "～を要件とする",
+              "pattern": "require + qualification / approval",
+              "tip": "資格・承認などを条件として必要とする。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The position requires a university degree.",
+                  "ja": "その職には大学の学位が必要だ。"
+                },
+                {
+                  "en": "Entry to the building requires prior approval.",
+                  "ja": "その建物への立ち入りには事前の承認が必要だ。"
+                }
+              ]
+            },
+            {
+              "jp": "～を要求する",
+              "pattern": "require + evidence / explanation",
+              "tip": "証拠・説明などを必要なものとして求める。",
+              "contrast": "",
+              "label": "",
+              "register": "",
+              "examples": [
+                {
+                  "en": "The judge required further evidence.",
+                  "ja": "裁判官は追加の証拠を求めた。"
+                },
+                {
+                  "en": "The situation requires an immediate response.",
+                  "ja": "その状況には即座の対応が必要だ。"
                 }
               ]
             }
