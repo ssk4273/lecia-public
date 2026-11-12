@@ -5,7 +5,7 @@
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 200,
   "senses_count": 212,
-  "examples_count": 367,
+  "examples_count": 424,
   "entries": [
     {
       "word": "weld",
@@ -4904,9 +4904,9 @@
     },
     {
       "word": "virus",
-      "ipa": "",
+      "ipa": "/ˈvaɪrəs/",
       "guide": "「ウイルス」（a respiratory virus）／「コンピューターウイルス」（a computer virus）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4920,6 +4920,10 @@
                 {
                   "en": "The virus spread rapidly.",
                   "ja": "そのウイルスは急速に広がった。"
+                },
+                {
+                  "en": "A new virus infected several patients at the clinic.",
+                  "ja": "新しいウイルスがその診療所の複数の患者に感染した。"
                 }
               ],
               "label": "",
@@ -4934,6 +4938,10 @@
                 {
                   "en": "The software detected a computer virus.",
                   "ja": "ソフトウェアがコンピューターウイルスを検出した。"
+                },
+                {
+                  "en": "The infected attachment carried a computer virus.",
+                  "ja": "感染した添付ファイルにはコンピューターウイルスが含まれていた。"
                 }
               ],
               "label": "",
@@ -4946,9 +4954,9 @@
     },
     {
       "word": "viscosity",
-      "ipa": "",
+      "ipa": "/vɪˈskɑːsəti/",
       "guide": "「粘度」：measure viscosity",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4962,6 +4970,10 @@
                 {
                   "en": "The lab measured the liquid's viscosity.",
                   "ja": "研究室は液体の粘度を測定した。"
+                },
+                {
+                  "en": "The viscosity of oil decreases as it warms.",
+                  "ja": "油は温まるにつれて粘度が下がる。"
                 }
               ],
               "label": "",
@@ -4974,9 +4986,9 @@
     },
     {
       "word": "visualize",
-      "ipa": "",
+      "ipa": "/ˈvɪʒuəlaɪz/",
       "guide": "「視覚的に思い描く」（visualize success）／「図で可視化する」（visualize data）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4990,6 +5002,10 @@
                 {
                   "en": "The athlete visualized the final race.",
                   "ja": "選手は決勝レースを頭に思い描いた。"
+                },
+                {
+                  "en": "She closed her eyes and visualized the mountain trail.",
+                  "ja": "彼女は目を閉じて山道を心に思い描いた。"
                 }
               ],
               "label": "",
@@ -5004,6 +5020,10 @@
                 {
                   "en": "The software visualizes sales data.",
                   "ja": "そのソフトは売上データを可視化する。"
+                },
+                {
+                  "en": "The chart helps readers visualize changes over time.",
+                  "ja": "その図表は読者が時間による変化を視覚的に理解するのに役立つ。"
                 }
               ],
               "label": "",
@@ -5016,9 +5036,9 @@
     },
     {
       "word": "vitality",
-      "ipa": "",
+      "ipa": "/vaɪˈtæləti/",
       "guide": "「活力」：full of vitality",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5032,6 +5052,10 @@
                 {
                   "en": "The new coach brought vitality to the team.",
                   "ja": "新監督はチームに活気をもたらした。"
+                },
+                {
+                  "en": "The neighborhood regained its vitality after the market reopened.",
+                  "ja": "市場が再開するとその地域は活気を取り戻した。"
                 }
               ],
               "label": "",
@@ -5044,9 +5068,9 @@
     },
     {
       "word": "vitreous",
-      "ipa": "",
+      "ipa": "/ˈvɪtriəs/",
       "guide": "「ガラス質の」：a vitreous surface",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5060,6 +5084,10 @@
                 {
                   "en": "The tile has a vitreous surface.",
                   "ja": "そのタイルの表面はガラス質だ。"
+                },
+                {
+                  "en": "A vitreous coating protects the ceramic surface.",
+                  "ja": "ガラス質の被膜が陶器の表面を保護している。"
                 }
               ],
               "label": "",
@@ -5072,9 +5100,9 @@
     },
     {
       "word": "vitriolic",
-      "ipa": "",
+      "ipa": "/ˌvɪtriˈɑːlɪk/",
       "guide": "「辛辣な」：vitriolic criticism",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5088,6 +5116,10 @@
                 {
                   "en": "The proposal drew vitriolic criticism.",
                   "ja": "その提案は辛辣な批判を招いた。"
+                },
+                {
+                  "en": "The columnist's vitriolic attack shocked even his supporters.",
+                  "ja": "そのコラムニストの辛辣な攻撃は支持者たちさえ驚かせた。"
                 }
               ],
               "label": "",
@@ -5100,9 +5132,9 @@
     },
     {
       "word": "vividly",
-      "ipa": "",
+      "ipa": "/ˈvɪvɪdli/",
       "guide": "「鮮明に」：remember vividly",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5116,6 +5148,10 @@
                 {
                   "en": "I vividly remember that day.",
                   "ja": "私はその日を鮮明に覚えている。"
+                },
+                {
+                  "en": "The novel vividly describes life in the fishing village.",
+                  "ja": "その小説は漁村の暮らしを生き生きと描いている。"
                 }
               ],
               "label": "",
@@ -5128,9 +5164,9 @@
     },
     {
       "word": "vogue",
-      "ipa": "",
+      "ipa": "/voʊɡ/",
       "guide": "「流行」：come into vogue",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5144,6 +5180,10 @@
                 {
                   "en": "The style came into vogue in the 1990s.",
                   "ja": "その様式は1990年代に流行した。"
+                },
+                {
+                  "en": "Minimalist furniture is back in vogue among young buyers.",
+                  "ja": "若い購入者の間でミニマルな家具が再び流行している。"
                 }
               ],
               "label": "",
@@ -5156,9 +5196,9 @@
     },
     {
       "word": "voiceless",
-      "ipa": "",
+      "ipa": "/ˈvɔɪsləs/",
       "guide": "「声のない」（a voiceless cry）／「無声音の」（a voiceless consonant）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5172,6 +5212,10 @@
                 {
                   "en": "She opened her mouth in a voiceless cry.",
                   "ja": "彼女は声にならない叫びをあげた。"
+                },
+                {
+                  "en": "The character stood voiceless with fear.",
+                  "ja": "その登場人物は恐怖のあまり声も出せず立っていた。"
                 }
               ],
               "label": "",
@@ -5186,6 +5230,10 @@
                 {
                   "en": "The sound /p/ is a voiceless consonant.",
                   "ja": "/p/の音は無声音の子音だ。"
+                },
+                {
+                  "en": "English /s/ is voiceless, while /z/ is voiced.",
+                  "ja": "英語の/s/は無声音だが、/z/は有声音だ。"
                 }
               ],
               "label": "",
@@ -5198,9 +5246,9 @@
     },
     {
       "word": "volcanism",
-      "ipa": "",
+      "ipa": "/ˈvɑːlkəˌnɪzəm/",
       "guide": "「火山活動」：ancient volcanism",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5214,6 +5262,10 @@
                 {
                   "en": "The rocks reveal evidence of ancient volcanism.",
                   "ja": "その岩石は古い火山活動の証拠を示している。"
+                },
+                {
+                  "en": "Researchers linked the island's formation to underwater volcanism.",
+                  "ja": "研究者たちはその島の形成を海底火山活動と関連づけた。"
                 }
               ],
               "label": "",
@@ -5226,9 +5278,9 @@
     },
     {
       "word": "wailful",
-      "ipa": "",
+      "ipa": "/ˈweɪlfəl/",
       "guide": "「悲しげな」：a wailful cry",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5242,6 +5294,10 @@
                 {
                   "en": "A wailful cry came from the hallway.",
                   "ja": "廊下から悲しげな泣き声が聞こえた。"
+                },
+                {
+                  "en": "The singer's wailful voice echoed through the hall.",
+                  "ja": "歌手の悲しげな声がホールに響いた。"
                 }
               ],
               "label": "",
@@ -5254,9 +5310,9 @@
     },
     {
       "word": "warlike",
-      "ipa": "",
+      "ipa": "/ˈwɔːrˌlaɪk/",
       "guide": "「好戦的な」：a warlike attitude",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5270,6 +5326,10 @@
                 {
                   "en": "His speech sounded warlike.",
                   "ja": "彼の演説は好戦的に聞こえた。"
+                },
+                {
+                  "en": "The neighboring countries feared the leader's increasingly warlike language.",
+                  "ja": "近隣諸国はその指導者のますます好戦的な発言を恐れた。"
                 }
               ],
               "label": "",
@@ -5282,9 +5342,9 @@
     },
     {
       "word": "watercolour",
-      "ipa": "",
+      "ipa": "/ˈwɔːtərˌkʌlər/",
       "guide": "「水彩画」：paint in watercolour",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5298,6 +5358,10 @@
                 {
                   "en": "She painted the landscape in watercolour.",
                   "ja": "彼女は風景を水彩で描いた。"
+                },
+                {
+                  "en": "He chose watercolour to capture the soft morning light.",
+                  "ja": "彼は柔らかな朝の光を描くために水彩画を選んだ。"
                 }
               ],
               "label": "",
@@ -5310,9 +5374,9 @@
     },
     {
       "word": "wearisome",
-      "ipa": "",
+      "ipa": "/ˈwɪriːsəm/",
       "guide": "「うんざりするような」：a wearisome task",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5326,6 +5390,10 @@
                 {
                   "en": "The paperwork was wearisome.",
                   "ja": "書類仕事はうんざりするものだった。"
+                },
+                {
+                  "en": "The repeated delays made the journey wearisome.",
+                  "ja": "遅れが何度も重なり、旅はうんざりするものになった。"
                 }
               ],
               "label": "",
@@ -5338,9 +5406,9 @@
     },
     {
       "word": "westerner",
-      "ipa": "",
+      "ipa": "/ˈwɛstərnər/",
       "guide": "「西部の住民」：a westerner",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5354,6 +5422,10 @@
                 {
                   "en": "The westerner had never visited the capital.",
                   "ja": "その西部の住民は首都を訪れたことがなかった。"
+                },
+                {
+                  "en": "As a westerner, she was unfamiliar with the eastern region's traditions.",
+                  "ja": "西部出身の彼女は東部地域の伝統になじみがなかった。"
                 }
               ],
               "label": "",
@@ -5366,9 +5438,9 @@
     },
     {
       "word": "wheelwright",
-      "ipa": "",
+      "ipa": "/ˈwiːlˌraɪt/",
       "guide": "「車輪職人」：a village wheelwright",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5382,6 +5454,10 @@
                 {
                   "en": "The wheelwright repaired the wooden wheel.",
                   "ja": "車輪職人は木製の車輪を修理した。"
+                },
+                {
+                  "en": "The wheelwright shaped the wooden spokes by hand.",
+                  "ja": "車輪職人は木製のスポークを手作業で形作った。"
                 }
               ],
               "label": "",
@@ -5394,9 +5470,9 @@
     },
     {
       "word": "wherever",
-      "ipa": "",
+      "ipa": "/wɛrˈɛvər/",
       "guide": "「どこで〜しても」（wherever you go）／「いったいどこで」（wherever did A go）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5410,6 +5486,10 @@
                 {
                   "en": "Wherever you go, take your passport.",
                   "ja": "どこへ行くときもパスポートを持って行きなさい。"
+                },
+                {
+                  "en": "Wherever the road leads, we will stay together.",
+                  "ja": "道がどこへ続いていようと私たちは一緒にいる。"
                 }
               ],
               "label": "",
@@ -5429,6 +5509,10 @@
                 {
                   "en": "Wherever did you find that book?",
                   "ja": "いったいどこでその本を見つけたの。"
+                },
+                {
+                  "en": "Wherever have you been all this time?",
+                  "ja": "いったいこれまでずっとどこにいたの。"
                 }
               ],
               "label": "",
@@ -5441,9 +5525,9 @@
     },
     {
       "word": "wholly",
-      "ipa": "",
+      "ipa": "/ˈhoʊli/",
       "guide": "「完全に」：wholly responsible",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5457,6 +5541,10 @@
                 {
                   "en": "The company was wholly responsible.",
                   "ja": "会社が全面的に責任を負っていた。"
+                },
+                {
+                  "en": "The two reports reached wholly different conclusions.",
+                  "ja": "二つの報告書はまったく異なる結論に達した。"
                 }
               ],
               "label": "",
@@ -5469,9 +5557,9 @@
     },
     {
       "word": "windcheater",
-      "ipa": "",
+      "ipa": "/ˈwɪndˌtʃiːtər/",
       "guide": "「防風上着（英）」：wear a windcheater",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5485,6 +5573,10 @@
                 {
                   "en": "He wore a windcheater on the hike.",
                   "ja": "彼はハイキングで防風上着を着ていた。"
+                },
+                {
+                  "en": "Pack a light windcheater in case the weather changes.",
+                  "ja": "天気が変わる場合に備えて薄手の防風上着を持っていきなさい。"
                 }
               ],
               "label": "",
@@ -5497,9 +5589,9 @@
     },
     {
       "word": "windstorm",
-      "ipa": "",
+      "ipa": "/ˈwɪndˌstɔːrm/",
       "guide": "「暴風」：a severe windstorm",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5513,6 +5605,10 @@
                 {
                   "en": "The windstorm damaged several roofs.",
                   "ja": "暴風は複数の屋根を傷めた。"
+                },
+                {
+                  "en": "The windstorm knocked down trees along the main road.",
+                  "ja": "暴風で幹線道路沿いの木々が倒れた。"
                 }
               ],
               "label": "",
@@ -5525,9 +5621,9 @@
     },
     {
       "word": "windy",
-      "ipa": "",
+      "ipa": "/ˈwɪndi/",
       "guide": "「風が強い」：a windy day",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5541,6 +5637,10 @@
                 {
                   "en": "It was too windy to sail.",
                   "ja": "風が強すぎて出航できなかった。"
+                },
+                {
+                  "en": "Hold on to your hat; it's windy on the bridge.",
+                  "ja": "帽子を押さえて、橋の上は風が強いよ。"
                 }
               ],
               "label": "",
@@ -5553,9 +5653,9 @@
     },
     {
       "word": "winter",
-      "ipa": "",
+      "ipa": "/ˈwɪntər/",
       "guide": "「冬」：during winter",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5569,6 +5669,10 @@
                 {
                   "en": "The lake freezes in winter.",
                   "ja": "その湖は冬に凍る。"
+                },
+                {
+                  "en": "We often see frost on the fields during winter.",
+                  "ja": "冬には畑に霜が降りるのをよく見かける。"
                 }
               ],
               "label": "",
@@ -5581,9 +5685,9 @@
     },
     {
       "word": "wintertime",
-      "ipa": "",
+      "ipa": "/ˈwɪntərˌtaɪm/",
       "guide": "「冬季」：in the wintertime",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5597,6 +5701,10 @@
                 {
                   "en": "The days are short in the wintertime.",
                   "ja": "冬季は日が短い。"
+                },
+                {
+                  "en": "Tourists come to the village for skiing in the wintertime.",
+                  "ja": "冬季にはスキーをしに観光客がその村を訪れる。"
                 }
               ],
               "label": "",
@@ -5609,9 +5717,9 @@
     },
     {
       "word": "wishful",
-      "ipa": "",
+      "ipa": "/ˈwɪʃfəl/",
       "guide": "「希望的観測の」：wishful thinking",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5625,6 +5733,10 @@
                 {
                   "en": "That is just wishful thinking.",
                   "ja": "それは単なる希望的観測だ。"
+                },
+                {
+                  "en": "Expecting the repairs to finish overnight is wishful thinking.",
+                  "ja": "修理が一晩で終わると期待するのは希望的観測だ。"
                 }
               ],
               "label": "",
@@ -5637,9 +5749,9 @@
     },
     {
       "word": "wistfulness",
-      "ipa": "",
+      "ipa": "/ˈwɪstfəlnəs/",
       "guide": "「物悲しい懐かしさ」：a feeling of wistfulness",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5653,6 +5765,10 @@
                 {
                   "en": "The old song filled her with wistfulness.",
                   "ja": "古い歌は彼女に物悲しい懐かしさを感じさせた。"
+                },
+                {
+                  "en": "A touch of wistfulness entered his voice as he spoke of home.",
+                  "ja": "故郷のことを話す彼の声には少し物悲しい懐かしさがにじんだ。"
                 }
               ],
               "label": "",
@@ -5665,9 +5781,9 @@
     },
     {
       "word": "withering",
-      "ipa": "",
+      "ipa": "/ˈwɪðərɪŋ/",
       "guide": "「痛烈な」：withering criticism",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5681,6 +5797,10 @@
                 {
                   "en": "The report drew withering criticism.",
                   "ja": "その報告書は痛烈な批判を浴びた。"
+                },
+                {
+                  "en": "The judge delivered a withering rebuke to the witness.",
+                  "ja": "裁判官は証人を痛烈に叱責した。"
                 }
               ],
               "label": "",
@@ -5693,9 +5813,9 @@
     },
     {
       "word": "wonder",
-      "ipa": "",
+      "ipa": "/ˈwʌndər/",
       "guide": "「不思議に思う」（wonder why S V）／「驚異・驚き」（a natural wonder）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5709,6 +5829,10 @@
                 {
                   "en": "I wonder why he left early.",
                   "ja": "なぜ彼が早く帰ったのか不思議だ。"
+                },
+                {
+                  "en": "I wonder whether the museum is open on Mondays.",
+                  "ja": "その博物館は月曜日に開いているのだろうか。"
                 }
               ],
               "label": "",
@@ -5728,6 +5852,10 @@
                 {
                   "en": "The waterfall is a natural wonder.",
                   "ja": "その滝は自然の驚異だ。"
+                },
+                {
+                  "en": "The northern lights filled the visitors with wonder.",
+                  "ja": "オーロラは訪問者たちを驚嘆させた。"
                 }
               ],
               "label": "",
@@ -5740,9 +5868,9 @@
     },
     {
       "word": "wonderment",
-      "ipa": "",
+      "ipa": "/ˈwʌndərmənt/",
       "guide": "「驚嘆」：stare in wonderment",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5756,6 +5884,10 @@
                 {
                   "en": "The children stared in wonderment.",
                   "ja": "子どもたちは驚嘆して見つめた。"
+                },
+                {
+                  "en": "She looked up at the stars in silent wonderment.",
+                  "ja": "彼女は声もなく驚嘆しながら星を見上げた。"
                 }
               ],
               "label": "",
@@ -5768,9 +5900,9 @@
     },
     {
       "word": "workmanship",
-      "ipa": "",
+      "ipa": "/ˈwɝːkmənˌʃɪp/",
       "guide": "「仕上がり・職人技」：fine workmanship",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5784,6 +5916,10 @@
                 {
                   "en": "The furniture shows excellent workmanship.",
                   "ja": "その家具には優れた職人技が見られる。"
+                },
+                {
+                  "en": "Buyers praised the careful workmanship of the wooden cabinet.",
+                  "ja": "購入者たちは木製の戸棚の丁寧な仕上げを称賛した。"
                 }
               ],
               "label": "",
@@ -5796,9 +5932,9 @@
     },
     {
       "word": "woof",
-      "ipa": "",
+      "ipa": "/wʊf/",
       "guide": "「横糸」（the warp and woof）／「犬の鳴き声」（a loud woof）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5812,6 +5948,10 @@
                 {
                   "en": "The cloth's woof is tightly woven.",
                   "ja": "その布の横糸は密に織られている。"
+                },
+                {
+                  "en": "The weaver passed the woof threads across the warp.",
+                  "ja": "織工は横糸を縦糸の間に通した。"
                 }
               ],
               "label": "",
@@ -5826,6 +5966,10 @@
                 {
                   "en": "The dog let out a loud woof.",
                   "ja": "犬は大きくワンと鳴いた。"
+                },
+                {
+                  "en": "A sharp woof came from the dog behind the gate.",
+                  "ja": "門の向こうの犬から鋭いワンという鳴き声がした。"
                 }
               ],
               "label": "",
@@ -5838,9 +5982,9 @@
     },
     {
       "word": "wordage",
-      "ipa": "",
+      "ipa": "/ˈwɝːdɪdʒ/",
       "guide": "「語数・言葉の量」：reduce wordage",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5854,6 +5998,10 @@
                 {
                   "en": "The editor asked him to reduce the wordage.",
                   "ja": "編集者は彼に文章の語数を減らすよう求めた。"
+                },
+                {
+                  "en": "The assignment has a strict limit on total wordage.",
+                  "ja": "その課題には総語数について厳しい制限がある。"
                 }
               ],
               "label": "",
@@ -5866,9 +6014,9 @@
     },
     {
       "word": "wordless",
-      "ipa": "",
+      "ipa": "/ˈwɝːdləs/",
       "guide": "「言葉のない」：a wordless exchange",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5882,6 +6030,10 @@
                 {
                   "en": "They shared a wordless glance.",
                   "ja": "彼らは無言で視線を交わした。"
+                },
+                {
+                  "en": "They reached a wordless understanding after years of working together.",
+                  "ja": "長年共に働くうちに彼らは言葉なしでも通じ合うようになった。"
                 }
               ],
               "label": "",
@@ -5894,9 +6046,9 @@
     },
     {
       "word": "working",
-      "ipa": "",
+      "ipa": "/ˈwɝːkɪŋ/",
       "guide": "「稼働している」（a working engine）／「仕組み・動作」（the workings of a system）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5910,6 +6062,10 @@
                 {
                   "en": "The museum has a working steam engine.",
                   "ja": "博物館には動く蒸気機関がある。"
+                },
+                {
+                  "en": "The engineer demonstrated a working model of the device.",
+                  "ja": "技術者はその装置の動く模型を実演した。"
                 }
               ],
               "label": "",
@@ -5929,6 +6085,10 @@
                 {
                   "en": "She explained the workings of the machine.",
                   "ja": "彼女は機械の仕組みを説明した。"
+                },
+                {
+                  "en": "Understanding the inner workings of the engine takes practice.",
+                  "ja": "エンジン内部の仕組みを理解するには練習が必要だ。"
                 }
               ],
               "label": "",
@@ -5941,9 +6101,9 @@
     },
     {
       "word": "woodenware",
-      "ipa": "",
+      "ipa": "/ˈwʊdənˌwɛr/",
       "guide": "「木製の器具類」：traditional woodenware",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5957,6 +6117,10 @@
                 {
                   "en": "The shop sells traditional woodenware.",
                   "ja": "その店は伝統的な木製器具を売っている。"
+                },
+                {
+                  "en": "The craft fair displayed bowls and other woodenware.",
+                  "ja": "工芸市では椀などの木製器具が展示された。"
                 }
               ],
               "label": "",
@@ -5969,9 +6133,9 @@
     },
     {
       "word": "woodworking",
-      "ipa": "",
+      "ipa": "/ˈwʊdˌwɝːkɪŋ/",
       "guide": "「木工」：learn woodworking",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -5985,6 +6149,10 @@
                 {
                   "en": "He learned woodworking from his grandfather.",
                   "ja": "彼は祖父から木工を学んだ。"
+                },
+                {
+                  "en": "The school offers a woodworking class for beginners.",
+                  "ja": "その学校には初心者向けの木工講座がある。"
                 }
               ],
               "label": "",
@@ -5997,9 +6165,9 @@
     },
     {
       "word": "yachtswoman",
-      "ipa": "",
+      "ipa": "/ˈjɑːtsˌwʊmən/",
       "guide": "「女性のヨット乗り」：an experienced yachtswoman",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6013,6 +6181,10 @@
                 {
                   "en": "The yachtswoman sailed across the bay.",
                   "ja": "女性のヨット乗りは湾を横断した。"
+                },
+                {
+                  "en": "The experienced yachtswoman guided the crew through rough seas.",
+                  "ja": "経験豊富な女性ヨット乗りは荒れた海で乗組員を導いた。"
                 }
               ],
               "label": "",
@@ -6025,9 +6197,9 @@
     },
     {
       "word": "yarrow",
-      "ipa": "",
+      "ipa": "/ˈjæroʊ/",
       "guide": "「ノコギリソウ」：wild yarrow",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6041,6 +6213,10 @@
                 {
                   "en": "Yarrow grows beside the path.",
                   "ja": "小道のそばにノコギリソウが生えている。"
+                },
+                {
+                  "en": "The gardener planted yarrow to attract pollinating insects.",
+                  "ja": "庭師は花粉を運ぶ昆虫を呼び寄せるためノコギリソウを植えた。"
                 }
               ],
               "label": "",
@@ -6053,9 +6229,9 @@
     },
     {
       "word": "yaws",
-      "ipa": "",
+      "ipa": "/jɔːz/",
       "guide": "「いちご腫」：a case of yaws",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6069,6 +6245,10 @@
                 {
                   "en": "The clinic reported several cases of yaws.",
                   "ja": "その診療所はいちご腫の症例を数件報告した。"
+                },
+                {
+                  "en": "Yaws is an infectious disease that can cause skin lesions.",
+                  "ja": "いちご腫は皮膚の病変を引き起こすことがある感染症だ。"
                 }
               ],
               "label": "",
@@ -6081,9 +6261,9 @@
     },
     {
       "word": "yeasty",
-      "ipa": "",
+      "ipa": "/ˈjiːsti/",
       "guide": "「酵母の香りがする」：a yeasty smell",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6097,6 +6277,10 @@
                 {
                   "en": "The dough had a yeasty smell.",
                   "ja": "その生地には酵母の香りがあった。"
+                },
+                {
+                  "en": "Freshly baked bread filled the kitchen with a yeasty aroma.",
+                  "ja": "焼きたてのパンから酵母の香りが台所に広がった。"
                 }
               ],
               "label": "",
@@ -6109,9 +6293,9 @@
     },
     {
       "word": "yep",
-      "ipa": "",
+      "ipa": "/jɛp/",
       "guide": "「うん（口語）」：yep, that's right",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6125,6 +6309,10 @@
                 {
                   "en": "Yep, that's right.",
                   "ja": "うん、そのとおりだよ。"
+                },
+                {
+                  "en": "Yep, I'll be there at six.",
+                  "ja": "うん、6時にそこへ行くよ。"
                 }
               ],
               "label": "",
@@ -6137,9 +6325,9 @@
     },
     {
       "word": "yiddish",
-      "ipa": "",
+      "ipa": "/ˈjɪdɪʃ/",
       "guide": "「イディッシュ語」：speak Yiddish",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6153,6 +6341,10 @@
                 {
                   "en": "His grandparents spoke Yiddish.",
                   "ja": "彼の祖父母はイディッシュ語を話した。"
+                },
+                {
+                  "en": "The researcher collected Yiddish songs from immigrant families.",
+                  "ja": "研究者は移民の家庭からイディッシュ語の歌を集めた。"
                 }
               ],
               "label": "",
@@ -6165,9 +6357,9 @@
     },
     {
       "word": "yip",
-      "ipa": "",
+      "ipa": "/jɪp/",
       "guide": "「キャンキャン鳴く」：a dog yips",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6181,6 +6373,10 @@
                 {
                   "en": "The small dog yipped at the gate.",
                   "ja": "小型犬は門の前でキャンキャン鳴いた。"
+                },
+                {
+                  "en": "The puppy began to yip when it heard footsteps.",
+                  "ja": "子犬は足音を聞くとキャンキャン鳴き始めた。"
                 }
               ],
               "label": "",
@@ -6193,9 +6389,9 @@
     },
     {
       "word": "yore",
-      "ipa": "",
+      "ipa": "/jɔːr/",
       "guide": "「昔」：days of yore",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6209,6 +6405,10 @@
                 {
                   "en": "The tale describes the days of yore.",
                   "ja": "その物語は遠い昔の日々を描いている。"
+                },
+                {
+                  "en": "The inn displays farming tools from the days of yore.",
+                  "ja": "その宿は昔の農具を展示している。"
                 }
               ],
               "label": "",
@@ -6221,9 +6421,9 @@
     },
     {
       "word": "yowl",
-      "ipa": "",
+      "ipa": "/jaʊl/",
       "guide": "「長く甲高く鳴く」：a cat yowls",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6237,6 +6437,10 @@
                 {
                   "en": "The cat yowled outside the window.",
                   "ja": "猫は窓の外で長く鳴いた。"
+                },
+                {
+                  "en": "The stray cat began to yowl loudly at midnight.",
+                  "ja": "野良猫は真夜中に大きな声で長く鳴き始めた。"
                 }
               ],
               "label": "",
@@ -6249,9 +6453,9 @@
     },
     {
       "word": "zealousness",
-      "ipa": "",
+      "ipa": "/ˈzɛləsnəs/",
       "guide": "「熱心さ」：great zealousness",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6265,6 +6469,10 @@
                 {
                   "en": "His zealousness impressed the committee.",
                   "ja": "彼の熱意は委員会に強い印象を与えた。"
+                },
+                {
+                  "en": "Her zealousness in helping new students earned everyone's respect.",
+                  "ja": "新入生を助ける彼女の熱心さは皆の尊敬を集めた。"
                 }
               ],
               "label": "",
@@ -6277,9 +6485,9 @@
     },
     {
       "word": "zed",
-      "ipa": "",
+      "ipa": "/zɛd/",
       "guide": "「アルファベットのZ（英）」：pronounce Z as zed",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6293,6 +6501,10 @@
                 {
                   "en": "In Britain, the letter Z is called zed.",
                   "ja": "英国では文字Zを「ゼッド」と呼ぶ。"
+                },
+                {
+                  "en": "The teacher explained that zed is the British name for the letter Z.",
+                  "ja": "先生はzedが文字Zのイギリス英語での呼び名だと説明した。"
                 }
               ],
               "label": "",
@@ -6305,9 +6517,9 @@
     },
     {
       "word": "zinnia",
-      "ipa": "",
+      "ipa": "/ˈzɪniə/",
       "guide": "「ヒャクニチソウ」：bright zinnias",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6321,6 +6533,10 @@
                 {
                   "en": "The garden was full of colorful zinnias.",
                   "ja": "庭には色鮮やかなヒャクニチソウが咲いていた。"
+                },
+                {
+                  "en": "A row of yellow zinnias brightened the path.",
+                  "ja": "黄色いヒャクニチソウの列が小道を明るく彩った。"
                 }
               ],
               "label": "",
@@ -6333,9 +6549,9 @@
     },
     {
       "word": "zither",
-      "ipa": "",
+      "ipa": "/ˈzɪðər/",
       "guide": "「ツィター」：play the zither",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6349,6 +6565,10 @@
                 {
                   "en": "She learned to play the zither.",
                   "ja": "彼女はツィターの演奏を習った。"
+                },
+                {
+                  "en": "The zither produced a delicate, ringing sound.",
+                  "ja": "ツィターは繊細で澄んだ響きを奏でた。"
                 }
               ],
               "label": "",
@@ -6361,9 +6581,9 @@
     },
     {
       "word": "zodiacal",
-      "ipa": "",
+      "ipa": "/zoʊˈdaɪəkəl/",
       "guide": "「黄道帯の」：zodiacal signs",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6377,6 +6597,10 @@
                 {
                   "en": "The chart shows the zodiacal signs.",
                   "ja": "その図は黄道十二宮を示している。"
+                },
+                {
+                  "en": "The manuscript contains drawings of the zodiacal constellations.",
+                  "ja": "その写本には黄道帯の星座の絵が載っている。"
                 }
               ],
               "label": "",
@@ -6389,9 +6613,9 @@
     },
     {
       "word": "zucchini",
-      "ipa": "",
+      "ipa": "/zuːˈkiːni/",
       "guide": "「ズッキーニ」：grilled zucchini",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義網羅・発音・用例の独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -6405,6 +6629,10 @@
                 {
                   "en": "We served grilled zucchini with dinner.",
                   "ja": "私たちは夕食に焼いたズッキーニを出した。"
+                },
+                {
+                  "en": "We roasted zucchini with olive oil and herbs.",
+                  "ja": "私たちはズッキーニをオリーブ油と香草で焼いた。"
                 }
               ],
               "label": "",
@@ -6416,5 +6644,5 @@
       ]
     }
   ],
-  "editorial_note": "既存200dパックの先頭150語にIPA・収録語義別の英日対訳例文2組以上を整備。残り50語は一次原稿。全語義網羅・独立校閲は未了。"
+  "editorial_note": "200語の全212収録語義に最低2組の英日対訳例文（合計424組）。全200語にIPA・短訳・品詞・構文・語法注記を収録。ただし辞書としての全語義網羅性や独立校閲は未実施。"
 }
