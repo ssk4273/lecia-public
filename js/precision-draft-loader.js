@@ -843,7 +843,7 @@
 
     // 2026-11-12: present fifty EXISTING manuscript articles through run-style UI.
     // 41 new dictionary headwords, 9 upgraded articles. Editorial QA is pending.
-    // This format-only release is NOT a claim that all dictionary senses are covered.
+    // Expanded recorded senses and examples; exhaustive lexicographic review still pending.
     try {
       const response=await fetch('./editorial/run-style/2026-11-12-existing-50-run-presentation.json',{cache:'no-cache'});
       if(!response.ok)throw Error('existing-50 HTTP '+response.status);
@@ -851,7 +851,7 @@
       if(pack.schema_version!==2||pack.kind!=='lexia_run_style_editorial'||
          pack.entries_count!==50||pack.entries?.length!==50||
          pack.new_entries_count!==41||pack.updated_entries_count!==9||
-         pack.senses_count!==66||pack.examples_count!==132||
+         pack.senses_count!==235||pack.examples_count!==484||
          new Set(pack.entries.map(e=>e.word)).size!==50)
         throw Error('existing-50 metadata invalid');
       const revised=new Set(['aberration','abhor','ability','abundant','accent','accompany','account','admire','agriculture']);
@@ -875,7 +875,7 @@
         }
         incoming.set(e.word,e);
       }
-      if(newWords!==41||updatedWords!==9||senses!==66||examples!==132)
+      if(newWords!==41||updatedWords!==9||senses!==235||examples!==484)
         throw Error('existing-50 count mismatch');
       for(const [word,e] of incoming)CURATED[word]=e;
       precisionRecount();
