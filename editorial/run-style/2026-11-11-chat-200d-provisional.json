@@ -10,8 +10,8 @@
     {
       "word": "weld",
       "ipa": "/wɛld/",
-      "guide": "「溶接する」（他動詞）と「結束させる」（他動詞）を、構文と文脈で使い分ける。収録済み語義を構文と例文から確認する。",
-      "note": "収録語義ごとに異なる英日対訳例文を2組以上掲載。未収録語義・発音・語法は独立校閲待ち。",
+      "guide": "金属などを熱や圧力で接合する他動詞。比喩的には人々を強固に結束させる。名詞では「溶接部・溶接箇所」も表す（本稿未収録）。",
+      "note": "weld A to B / weld A and B together（接合）とweld a group together（結束）の違いに注意。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -20,7 +20,7 @@
             {
               "jp": "溶接する",
               "pattern": "weld two pieces of metal",
-              "tip": "「weld two pieces of metal」での用法。",
+              "tip": "金属部品などを熱や圧力で一体に接合する。weld A to B、weld A and B together。",
               "examples": [
                 {
                   "en": "He welded the two pieces together.",
@@ -38,7 +38,7 @@
             {
               "jp": "結束させる",
               "pattern": "weld a team together",
-              "tip": "「weld a team together」での用法。",
+              "tip": "人・組織を強く結びつける比喩的用法。weld a team together。",
               "examples": [
                 {
                   "en": "The experience welded the team together.",
@@ -92,8 +92,8 @@
     {
       "word": "abbey",
       "ipa": "/ˈæbi/",
-      "guide": "修道士・修道女が暮らす大規模な修道院。収録済み語義を構文と例文から確認する。",
-      "note": "収録語義ごとに異なる英日対訳例文を2組以上掲載。未収録語義・発音・語法は独立校閲待ち。",
+      "guide": "修道院長（abbot）または女子修道院長（abbess）が統率する修道院・修道院共同体、またはその建物。教会堂を含む施設を指すこともある。",
+      "note": "abbeyとmonasteryは重なるが、abbeyは通常、修道院長が率いる修道院を指す。大きさだけで決まる語ではない。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -102,7 +102,7 @@
             {
               "jp": "大修道院",
               "pattern": "a medieval abbey",
-              "tip": "修道士・修道女が暮らす大規模な修道院",
+              "tip": "単に『大きい修道院』という意味ではない。修道院長が率いる共同体・建物を表す。",
               "examples": [
                 {
                   "en": "We visited a medieval abbey in the countryside.",
@@ -156,8 +156,8 @@
     {
       "word": "acme",
       "ipa": "/ˈækmi/",
-      "guide": "成功・技能などが最高に達した点。収録済み語義を構文と例文から確認する。",
-      "note": "収録語義ごとに異なる英日対訳例文を2組以上掲載。未収録語義・発音・語法は独立校閲待ち。",
+      "guide": "技能・業績・発展などが到達する最高点。比喩的・やや改まった表現。",
+      "note": "the acme of perfection / the acme of one's career。peakより文語的・格式ばった響きがある。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -166,7 +166,7 @@
             {
               "jp": "頂点・絶頂",
               "pattern": "the acme of A",
-              "tip": "成功・技能などが最高に達した点",
+              "tip": "the acme of ...で『〜の頂点・極致』。peakより改まった語感がある。",
               "examples": [
                 {
                   "en": "The award marked the acme of his career.",
@@ -188,8 +188,8 @@
     {
       "word": "acrylic",
       "ipa": "/əˈkrɪlɪk/",
-      "guide": "絵の具を指すときは複数形acrylicsも多い。収録済み語義を構文と例文から確認する。",
-      "note": "収録語義ごとに異なる英日対訳例文を2組以上掲載。未収録語義・発音・語法は独立校閲待ち。",
+      "guide": "アクリル樹脂・アクリル繊維・アクリル絵の具に関係する語。名詞・形容詞の用法があり、この原稿では絵の具の名詞義のみ収録。",
+      "note": "acrylic paint（アクリル絵の具）、acrylic fiber（アクリル繊維）、acrylic sheet（アクリル板）。paint in acrylicsでは複数形が自然。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -198,7 +198,7 @@
             {
               "jp": "アクリル絵の具",
               "pattern": "paint in acrylics",
-              "tip": "絵の具を指すときは複数形acrylicsも多い",
+              "tip": "絵の具としての名詞用法。paint in acrylics / use acrylic paint。樹脂・繊維の意味は別義として今後増補。",
               "examples": [
                 {
                   "en": "She painted the landscape in acrylics.",
@@ -220,8 +220,8 @@
     {
       "word": "addressee",
       "ipa": "/ˌædrɛˈsiː/",
-      "guide": "手紙・荷物などの宛先に指定された人。収録済み語義を構文と例文から確認する。",
-      "note": "収録語義ごとに異なる英日対訳例文を2組以上掲載。未収録語義・発音・語法は独立校閲待ち。",
+      "guide": "手紙・小包・メールなどの宛名として指定された人。差出人senderと対になる。",
+      "note": "addresseeは宛名の人、recipientは実際に受け取る人にも使う。転居・誤配時には一致しないことがある。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -230,7 +230,7 @@
             {
               "jp": "受取人・宛名の人",
               "pattern": "the addressee on an envelope",
-              "tip": "手紙・荷物などの宛先に指定された人",
+              "tip": "宛名として指定された人。実際の受領者recipientと必ずしも同一ではない。",
               "examples": [
                 {
                   "en": "The letter was returned because the addressee had moved.",
