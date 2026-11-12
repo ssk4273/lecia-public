@@ -5,7 +5,7 @@
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 200,
   "senses_count": 212,
-  "examples_count": 313,
+  "examples_count": 367,
   "entries": [
     {
       "word": "weld",
@@ -3227,9 +3227,9 @@
     },
     {
       "word": "weeknight",
-      "ipa": "",
+      "ipa": "/ˈwiːknaɪt/",
       "guide": "土日ではない日の夜",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3243,6 +3243,10 @@
                 {
                   "en": "I usually stay home on weeknights.",
                   "ja": "私はたいてい平日の夜は家にいる。"
+                },
+                {
+                  "en": "The library stays open until nine on weeknights.",
+                  "ja": "その図書館は平日の夜は9時まで開いている。"
                 }
               ],
               "label": "",
@@ -3255,9 +3259,9 @@
     },
     {
       "word": "ultramodern",
-      "ipa": "",
+      "ipa": "/ˌʌltrəˈmɑːdərn/",
       "guide": "「超現代的な」：ultramodern architecture",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3271,6 +3275,10 @@
                 {
                   "en": "The gallery has an ultramodern design.",
                   "ja": "その美術館は非常に現代的な設計だ。"
+                },
+                {
+                  "en": "An ultramodern laboratory was built beside the old school.",
+                  "ja": "古い学校の隣に超現代的な研究所が建設された。"
                 }
               ],
               "label": "",
@@ -3283,9 +3291,9 @@
     },
     {
       "word": "unalienable",
-      "ipa": "",
+      "ipa": "/ʌnˈeɪliənəbəl/",
       "guide": "「奪うことのできない」：unalienable rights",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3299,6 +3307,10 @@
                 {
                   "en": "The document refers to unalienable rights.",
                   "ja": "その文書は奪うことのできない権利に言及している。"
+                },
+                {
+                  "en": "The philosopher argued that freedom is an unalienable human right.",
+                  "ja": "その哲学者は自由は奪うことのできない人権だと論じた。"
                 }
               ],
               "label": "",
@@ -3311,9 +3323,9 @@
     },
     {
       "word": "unarmed",
-      "ipa": "",
+      "ipa": "/ʌnˈɑːrmd/",
       "guide": "「武器を持たない」：an unarmed civilian",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3327,6 +3339,10 @@
                 {
                   "en": "The officers approached an unarmed civilian.",
                   "ja": "警官たちは武器を持たない市民に近づいた。"
+                },
+                {
+                  "en": "The guards confirmed that the visitor was unarmed.",
+                  "ja": "警備員たちは訪問者が武器を持っていないことを確認した。"
                 }
               ],
               "label": "",
@@ -3339,9 +3355,9 @@
     },
     {
       "word": "unbearably",
-      "ipa": "",
+      "ipa": "/ʌnˈbɛrəbli/",
       "guide": "「耐えられないほど」：unbearably hot",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3355,6 +3371,10 @@
                 {
                   "en": "The room was unbearably hot.",
                   "ja": "部屋は耐えられないほど暑かった。"
+                },
+                {
+                  "en": "The train became unbearably crowded during the morning rush.",
+                  "ja": "朝のラッシュ時に列車は耐えがたいほど混雑した。"
                 }
               ],
               "label": "",
@@ -3367,9 +3387,9 @@
     },
     {
       "word": "unbeknown",
-      "ipa": "",
+      "ipa": "/ˌʌnbɪˈnoʊn/",
       "guide": "「知られないで」：unbeknown to A",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3383,6 +3403,10 @@
                 {
                   "en": "Unbeknown to her, the plan had changed.",
                   "ja": "彼女の知らないうちに計画は変わっていた。"
+                },
+                {
+                  "en": "Unbeknown to the students, their teacher had prepared a surprise.",
+                  "ja": "生徒たちの知らないうちに先生はサプライズを用意していた。"
                 }
               ],
               "label": "",
@@ -3395,9 +3419,9 @@
     },
     {
       "word": "unblushing",
-      "ipa": "",
+      "ipa": "/ʌnˈblʌʃɪŋ/",
       "guide": "「恥じることのない」：an unblushing lie",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3411,6 +3435,10 @@
                 {
                   "en": "He told an unblushing lie.",
                   "ja": "彼は平然とうそをついた。"
+                },
+                {
+                  "en": "She responded to the criticism with unblushing confidence.",
+                  "ja": "彼女は批判に対して恥じる様子もない自信で応じた。"
                 }
               ],
               "label": "",
@@ -3423,9 +3451,9 @@
     },
     {
       "word": "uncharitably",
-      "ipa": "",
+      "ipa": "/ʌnˈtʃærɪtəbli/",
       "guide": "「意地悪く・不寛容に」：judge uncharitably",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3439,6 +3467,10 @@
                 {
                   "en": "They judged his mistake uncharitably.",
                   "ja": "彼らは彼の失敗を不寛容に評価した。"
+                },
+                {
+                  "en": "It would be unfair to interpret his silence so uncharitably.",
+                  "ja": "彼の沈黙をそんなに意地悪く解釈するのは不公平だ。"
                 }
               ],
               "label": "",
@@ -3451,9 +3483,9 @@
     },
     {
       "word": "uncivilized",
-      "ipa": "",
+      "ipa": "/ʌnˈsɪvəlaɪzd/",
       "guide": "「非文明的な・野蛮な」：uncivilized behavior",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3467,6 +3499,10 @@
                 {
                   "en": "The crowd condemned the uncivilized behavior.",
                   "ja": "群衆はその野蛮な行為を非難した。"
+                },
+                {
+                  "en": "The speaker described the destruction of the library as uncivilized.",
+                  "ja": "話者は図書館の破壊を野蛮な行為だと述べた。"
                 }
               ],
               "label": "",
@@ -3479,9 +3515,9 @@
     },
     {
       "word": "unclothe",
-      "ipa": "",
+      "ipa": "/ʌnˈkloʊð/",
       "guide": "「衣服を脱がせる」：unclothe a patient",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3495,6 +3531,10 @@
                 {
                   "en": "The nurse helped unclothe the patient.",
                   "ja": "看護師は患者が服を脱ぐのを手伝った。"
+                },
+                {
+                  "en": "The medical staff asked the patient to unclothe for the examination.",
+                  "ja": "医療スタッフは診察のため患者に服を脱ぐよう求めた。"
                 }
               ],
               "label": "",
@@ -3507,9 +3547,9 @@
     },
     {
       "word": "uncoloured",
-      "ipa": "",
+      "ipa": "/ʌnˈkʌlərd/",
       "guide": "「色を付けていない」：uncoloured paper",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3523,6 +3563,10 @@
                 {
                   "en": "The drawing used uncoloured paper.",
                   "ja": "その絵には色の付いていない紙が使われた。"
+                },
+                {
+                  "en": "The illustrator left the background uncoloured.",
+                  "ja": "イラストレーターは背景に色を塗らずに残した。"
                 }
               ],
               "label": "",
@@ -3535,9 +3579,9 @@
     },
     {
       "word": "unconscionably",
-      "ipa": "",
+      "ipa": "/ʌnˈkɑːnʃənəbli/",
       "guide": "「法外に・不当に」：unconscionably high",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3551,6 +3595,10 @@
                 {
                   "en": "The prices were unconscionably high.",
                   "ja": "その価格は不当に高かった。"
+                },
+                {
+                  "en": "The contract imposed unconscionably harsh penalties on tenants.",
+                  "ja": "その契約は借主に対して不当に厳しい違約金を課していた。"
                 }
               ],
               "label": "",
@@ -3563,9 +3611,9 @@
     },
     {
       "word": "uncork",
-      "ipa": "",
+      "ipa": "/ʌnˈkɔːrk/",
       "guide": "「栓を抜く」：uncork a bottle",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3579,6 +3627,10 @@
                 {
                   "en": "She uncorked the bottle carefully.",
                   "ja": "彼女は瓶の栓を慎重に抜いた。"
+                },
+                {
+                  "en": "The waiter uncorked a bottle of sparkling water at the table.",
+                  "ja": "給仕はテーブルで炭酸水の瓶の栓を抜いた。"
                 }
               ],
               "label": "",
@@ -3591,9 +3643,9 @@
     },
     {
       "word": "uncut",
-      "ipa": "",
+      "ipa": "/ʌnˈkʌt/",
       "guide": "「切っていない」（uncut grass）／「編集で削除されていない」（an uncut edition）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3607,6 +3659,10 @@
                 {
                   "en": "The garden was full of uncut grass.",
                   "ja": "庭には刈られていない草が生い茂っていた。"
+                },
+                {
+                  "en": "The uncut fabric was still laid out on the worktable.",
+                  "ja": "裁断されていない布はまだ作業台に広げられていた。"
                 }
               ],
               "label": "",
@@ -3621,6 +3677,10 @@
                 {
                   "en": "The director released an uncut version.",
                   "ja": "監督は無削除版を公開した。"
+                },
+                {
+                  "en": "The festival screened the uncut documentary in its original form.",
+                  "ja": "映画祭では編集で削られていない元のドキュメンタリーが上映された。"
                 }
               ],
               "label": "",
@@ -3633,9 +3693,9 @@
     },
     {
       "word": "undeclared",
-      "ipa": "",
+      "ipa": "/ˌʌndɪˈklɛrd/",
       "guide": "「申告していない」：undeclared income",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3649,6 +3709,10 @@
                 {
                   "en": "The audit found undeclared income.",
                   "ja": "監査で未申告所得が見つかった。"
+                },
+                {
+                  "en": "Customs officers discovered several undeclared items in the luggage.",
+                  "ja": "税関職員は荷物の中に申告されていない品物をいくつか発見した。"
                 }
               ],
               "label": "",
@@ -3661,9 +3725,9 @@
     },
     {
       "word": "undercarriage",
-      "ipa": "",
+      "ipa": "/ˈʌndərˌkærɪdʒ/",
       "guide": "「車体・機体の下部」：an aircraft undercarriage",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3677,6 +3741,10 @@
                 {
                   "en": "The pilot inspected the aircraft's undercarriage.",
                   "ja": "操縦士は航空機の脚部を点検した。"
+                },
+                {
+                  "en": "Road salt had damaged the car's undercarriage.",
+                  "ja": "道路の凍結防止剤が車体の下部を傷めていた。"
                 }
               ],
               "label": "",
@@ -3689,9 +3757,9 @@
     },
     {
       "word": "undergird",
-      "ipa": "",
+      "ipa": "/ˌʌndərˈɡɝːd/",
       "guide": "「基盤を支える」：undergird an argument",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3705,6 +3773,10 @@
                 {
                   "en": "Strong evidence undergirds the argument.",
                   "ja": "強い証拠がその主張の基盤を支えている。"
+                },
+                {
+                  "en": "Mutual trust undergirds a successful partnership.",
+                  "ja": "相互の信頼は成功する協力関係を支える基盤だ。"
                 }
               ],
               "label": "",
@@ -3717,9 +3789,9 @@
     },
     {
       "word": "undernourish",
-      "ipa": "",
+      "ipa": "/ˌʌndərˈnɝːɪʃ/",
       "guide": "「栄養不足にする」：be undernourished",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3733,6 +3805,10 @@
                 {
                   "en": "Many children were undernourished.",
                   "ja": "多くの子どもが栄養不足だった。"
+                },
+                {
+                  "en": "A lack of nutritious food can undernourish growing children.",
+                  "ja": "栄養価の高い食べ物の不足は成長期の子どもを栄養不足にすることがある。"
                 }
               ],
               "label": "",
@@ -3745,9 +3821,9 @@
     },
     {
       "word": "undersized",
-      "ipa": "",
+      "ipa": "/ˌʌndərˈsaɪzd/",
       "guide": "「標準より小さい」：an undersized room",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3761,6 +3837,10 @@
                 {
                   "en": "The apartment had an undersized kitchen.",
                   "ja": "そのアパートには小さすぎる台所があった。"
+                },
+                {
+                  "en": "The puppy was unusually undersized for its age.",
+                  "ja": "その子犬は月齢の割に異常に小さかった。"
                 }
               ],
               "label": "",
@@ -3773,9 +3853,9 @@
     },
     {
       "word": "undertaker",
-      "ipa": "",
+      "ipa": "/ˈʌndərˌteɪkər/",
       "guide": "「葬儀業者」：a local undertaker",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3789,6 +3869,10 @@
                 {
                   "en": "The family contacted a local undertaker.",
                   "ja": "一家は地元の葬儀業者に連絡した。"
+                },
+                {
+                  "en": "An undertaker explained the available funeral arrangements.",
+                  "ja": "葬儀業者が利用できる葬儀の手配について説明した。"
                 }
               ],
               "label": "",
@@ -3801,9 +3885,9 @@
     },
     {
       "word": "underwriter",
-      "ipa": "",
+      "ipa": "/ˈʌndərˌraɪtər/",
       "guide": "「保険引受人」（an insurance underwriter）／「引受業者（証券）」（a securities underwriter）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3817,6 +3901,10 @@
                 {
                   "en": "The underwriter assessed the risk.",
                   "ja": "保険引受人はリスクを評価した。"
+                },
+                {
+                  "en": "The insurance underwriter reviewed the applicant's medical disclosures.",
+                  "ja": "保険引受担当者は申込者の健康状態に関する申告を確認した。"
                 }
               ],
               "label": "",
@@ -3831,6 +3919,10 @@
                 {
                   "en": "The bank acted as an underwriter for the bond issue.",
                   "ja": "銀行は債券発行の引受業者を務めた。"
+                },
+                {
+                  "en": "Several underwriters agreed to purchase the new shares.",
+                  "ja": "複数の引受業者が新株を買い取ることに合意した。"
                 }
               ],
               "label": "",
@@ -3843,9 +3935,9 @@
     },
     {
       "word": "undies",
-      "ipa": "",
+      "ipa": "/ˈʌndiz/",
       "guide": "「下着（口語）」：pack one's undies",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3859,6 +3951,10 @@
                 {
                   "en": "He packed clean undies for the trip.",
                   "ja": "彼は旅行のために清潔な下着を詰めた。"
+                },
+                {
+                  "en": "She packed extra socks and undies for the weekend trip.",
+                  "ja": "彼女は週末の旅行に備えて靴下と下着を余分に詰めた。"
                 }
               ],
               "label": "",
@@ -3871,9 +3967,9 @@
     },
     {
       "word": "undisciplined",
-      "ipa": "",
+      "ipa": "/ʌnˈdɪsəplɪnd/",
       "guide": "「規律のない」：an undisciplined team",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3887,6 +3983,10 @@
                 {
                   "en": "The players were undisciplined in defense.",
                   "ja": "選手たちは守備で規律を欠いていた。"
+                },
+                {
+                  "en": "Their undisciplined approach caused repeated delays.",
+                  "ja": "彼らの規律を欠くやり方は度重なる遅延を引き起こした。"
                 }
               ],
               "label": "",
@@ -3899,9 +3999,9 @@
     },
     {
       "word": "undisturbed",
-      "ipa": "",
+      "ipa": "/ˌʌndɪˈstɝːbd/",
       "guide": "「邪魔されない」：work undisturbed",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3915,6 +4015,10 @@
                 {
                   "en": "She wanted to work undisturbed.",
                   "ja": "彼女は邪魔されずに働きたかった。"
+                },
+                {
+                  "en": "The ancient burial site remained undisturbed for centuries.",
+                  "ja": "古代の埋葬地は何世紀もの間、手つかずのまま残っていた。"
                 }
               ],
               "label": "",
@@ -3927,9 +4031,9 @@
     },
     {
       "word": "unfasten",
-      "ipa": "",
+      "ipa": "/ʌnˈfæsən/",
       "guide": "「留め具を外す」：unfasten a belt",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3943,6 +4047,10 @@
                 {
                   "en": "Please unfasten your seat belt.",
                   "ja": "シートベルトを外してください。"
+                },
+                {
+                  "en": "He unfastened the buckle on his backpack.",
+                  "ja": "彼はリュックのバックルを外した。"
                 }
               ],
               "label": "",
@@ -3955,9 +4063,9 @@
     },
     {
       "word": "unforgivable",
-      "ipa": "",
+      "ipa": "/ˌʌnfərˈɡɪvəbəl/",
       "guide": "「許しがたい」：an unforgivable mistake",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3971,6 +4079,10 @@
                 {
                   "en": "He called the act unforgivable.",
                   "ja": "彼はその行為は許しがたいと言った。"
+                },
+                {
+                  "en": "Forgetting the safety checks would be an unforgivable error.",
+                  "ja": "安全確認を忘れることは許しがたい過失になる。"
                 }
               ],
               "label": "",
@@ -3983,9 +4095,9 @@
     },
     {
       "word": "ungracious",
-      "ipa": "",
+      "ipa": "/ʌnˈɡreɪʃəs/",
       "guide": "「無礼な・礼儀のない」：an ungracious reply",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3999,6 +4111,10 @@
                 {
                   "en": "His reply sounded ungracious.",
                   "ja": "彼の返事は失礼に聞こえた。"
+                },
+                {
+                  "en": "It was ungracious of him to dismiss her kind offer.",
+                  "ja": "彼女の親切な申し出を退けるとは彼は無礼だった。"
                 }
               ],
               "label": "",
@@ -4011,9 +4127,9 @@
     },
     {
       "word": "unhappy",
-      "ipa": "",
+      "ipa": "/ʌnˈhæpi/",
       "guide": "「不幸せな・悲しい」（feel unhappy）／「不満な」（unhappy with A）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4027,6 +4143,10 @@
                 {
                   "en": "She felt unhappy about the decision.",
                   "ja": "彼女はその決定を悲しく思った。"
+                },
+                {
+                  "en": "He became unhappy after moving far away from his friends.",
+                  "ja": "彼は友人たちから遠く離れた場所へ引っ越してから悲しく感じるようになった。"
                 }
               ],
               "label": "",
@@ -4041,6 +4161,10 @@
                 {
                   "en": "The customers were unhappy with the service.",
                   "ja": "客はサービスに不満だった。"
+                },
+                {
+                  "en": "Residents were unhappy with the proposed rent increase.",
+                  "ja": "住民たちは提案された家賃の値上げに不満だった。"
                 }
               ],
               "label": "",
@@ -4053,9 +4177,9 @@
     },
     {
       "word": "unheard",
-      "ipa": "",
+      "ipa": "/ʌnˈhɝːd/",
       "guide": "「聞かれていない」：go unheard",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4069,6 +4193,10 @@
                 {
                   "en": "Her warnings went unheard.",
                   "ja": "彼女の警告は聞き入れられなかった。"
+                },
+                {
+                  "en": "The residents feared their concerns would remain unheard.",
+                  "ja": "住民たちは自分たちの懸念が聞き入れられないままになることを恐れた。"
                 }
               ],
               "label": "",
@@ -4081,9 +4209,9 @@
     },
     {
       "word": "unicorn",
-      "ipa": "",
+      "ipa": "/ˈjuːnɪkɔːrn/",
       "guide": "「一角獣」：a mythical unicorn",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4097,6 +4225,10 @@
                 {
                   "en": "The story features a white unicorn.",
                   "ja": "その物語には白い一角獣が登場する。"
+                },
+                {
+                  "en": "A silver unicorn was painted on the shield.",
+                  "ja": "盾には銀色の一角獣が描かれていた。"
                 }
               ],
               "label": "",
@@ -4109,9 +4241,9 @@
     },
     {
       "word": "uninhabitable",
-      "ipa": "",
+      "ipa": "/ˌʌnɪnˈhæbɪtəbəl/",
       "guide": "「居住に適さない」：an uninhabitable building",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4125,6 +4257,10 @@
                 {
                   "en": "The flood left many houses uninhabitable.",
                   "ja": "洪水で多くの家が住めない状態になった。"
+                },
+                {
+                  "en": "The damaged building was declared uninhabitable after the earthquake.",
+                  "ja": "その損傷した建物は地震後、居住不能と宣告された。"
                 }
               ],
               "label": "",
@@ -4137,9 +4273,9 @@
     },
     {
       "word": "unisex",
-      "ipa": "",
+      "ipa": "/ˈjuːnɪˌsɛks/",
       "guide": "「男女共用の」：a unisex bathroom",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4153,6 +4289,10 @@
                 {
                   "en": "The building has a unisex bathroom.",
                   "ja": "その建物には男女共用トイレがある。"
+                },
+                {
+                  "en": "The shop sells a range of unisex jackets.",
+                  "ja": "その店では男女共用のジャケットを各種販売している。"
                 }
               ],
               "label": "",
@@ -4165,9 +4305,9 @@
     },
     {
       "word": "unkempt",
-      "ipa": "",
+      "ipa": "/ʌnˈkɛmpt/",
       "guide": "「身だしなみが乱れた」：unkempt hair",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4181,6 +4321,10 @@
                 {
                   "en": "His hair looked unkempt.",
                   "ja": "彼の髪はぼさぼさだった。"
+                },
+                {
+                  "en": "The abandoned garden had an unkempt appearance.",
+                  "ja": "放置された庭は荒れ放題に見えた。"
                 }
               ],
               "label": "",
@@ -4193,9 +4337,9 @@
     },
     {
       "word": "unnerve",
-      "ipa": "",
+      "ipa": "/ʌnˈɝːv/",
       "guide": "「動揺させる」：unnerve a player",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4209,6 +4353,10 @@
                 {
                   "en": "The sudden noise unnerved the player.",
                   "ja": "突然の物音で選手は動揺した。"
+                },
+                {
+                  "en": "The long silence began to unnerve the interview candidate.",
+                  "ja": "長い沈黙が面接の受験者を不安にさせ始めた。"
                 }
               ],
               "label": "",
@@ -4221,9 +4369,9 @@
     },
     {
       "word": "unobserved",
-      "ipa": "",
+      "ipa": "/ˌʌnəbˈzɝːvd/",
       "guide": "「人目に触れない」：pass unobserved",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4237,6 +4385,10 @@
                 {
                   "en": "He left the room unobserved.",
                   "ja": "彼は誰にも気づかれず部屋を出た。"
+                },
+                {
+                  "en": "The bird slipped into the bushes unobserved.",
+                  "ja": "その鳥は誰にも気づかれず茂みに入っていった。"
                 }
               ],
               "label": "",
@@ -4249,9 +4401,9 @@
     },
     {
       "word": "vacuole",
-      "ipa": "",
+      "ipa": "/ˈvækjuoʊl/",
       "guide": "「液胞」：a plant vacuole",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4265,6 +4417,10 @@
                 {
                   "en": "The diagram shows a large central vacuole.",
                   "ja": "図には大きな中央液胞が示されている。"
+                },
+                {
+                  "en": "Water stored in the vacuole helps maintain pressure inside a plant cell.",
+                  "ja": "液胞に蓄えられた水は植物細胞内の圧力を保つのに役立つ。"
                 }
               ],
               "label": "",
@@ -4277,9 +4433,9 @@
     },
     {
       "word": "valedictory",
-      "ipa": "",
+      "ipa": "/ˌvælɪˈdɪktəri/",
       "guide": "「別れの挨拶の」：a valedictory address",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4293,6 +4449,10 @@
                 {
                   "en": "She delivered a valedictory address.",
                   "ja": "彼女は卒業生代表の送別演説を行った。"
+                },
+                {
+                  "en": "Her valedictory remarks thanked the teachers and classmates.",
+                  "ja": "彼女の別れの挨拶では先生と同級生への感謝が述べられた。"
                 }
               ],
               "label": "",
@@ -4305,9 +4465,9 @@
     },
     {
       "word": "valise",
-      "ipa": "",
+      "ipa": "/vəˈliːs/",
       "guide": "「小旅行かばん」：a leather valise",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4321,6 +4481,10 @@
                 {
                   "en": "He packed his clothes in a valise.",
                   "ja": "彼は衣類を旅行かばんに詰めた。"
+                },
+                {
+                  "en": "The traveler placed a small valise under the seat.",
+                  "ja": "旅行者は小さな旅行かばんを座席の下に置いた。"
                 }
               ],
               "label": "",
@@ -4333,9 +4497,9 @@
     },
     {
       "word": "vandalise",
-      "ipa": "",
+      "ipa": "/ˈvændəlaɪz/",
       "guide": "「故意に壊す」：vandalise property",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4349,6 +4513,10 @@
                 {
                   "en": "Someone vandalised the station wall.",
                   "ja": "誰かが駅の壁を故意に壊した。"
+                },
+                {
+                  "en": "The town installed cameras after vandals repeatedly vandalised the park.",
+                  "ja": "公園が何度も故意に壊されたため、町はカメラを設置した。"
                 }
               ],
               "label": "",
@@ -4361,9 +4529,9 @@
     },
     {
       "word": "vassalage",
-      "ipa": "",
+      "ipa": "/ˈvæsəlɪdʒ/",
       "guide": "「家臣としての身分」：feudal vassalage",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4377,6 +4545,10 @@
                 {
                   "en": "The study examined feudal vassalage.",
                   "ja": "その研究は封建的な家臣関係を調べた。"
+                },
+                {
+                  "en": "The treaty formally ended the region's status of vassalage.",
+                  "ja": "その条約により、その地域の従属的な家臣身分は正式に終わった。"
                 }
               ],
               "label": "",
@@ -4389,9 +4561,9 @@
     },
     {
       "word": "vatic",
-      "ipa": "",
+      "ipa": "/ˈvætɪk/",
       "guide": "「予言的な」：a vatic statement",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4405,6 +4577,10 @@
                 {
                   "en": "The poet made a vatic prediction.",
                   "ja": "その詩人は予言めいた予測をした。"
+                },
+                {
+                  "en": "The poet's vatic tone made the warning sound like a prophecy.",
+                  "ja": "その詩人の予言めいた口調は警告を予言のように響かせた。"
                 }
               ],
               "label": "",
@@ -4417,9 +4593,9 @@
     },
     {
       "word": "venous",
-      "ipa": "",
+      "ipa": "/ˈviːnəs/",
       "guide": "「静脈の」：venous blood",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4433,6 +4609,10 @@
                 {
                   "en": "The test examined venous blood.",
                   "ja": "検査では静脈血を調べた。"
+                },
+                {
+                  "en": "The clinician took a venous sample for the blood test.",
+                  "ja": "臨床医は血液検査のため静脈血の検体を採取した。"
                 }
               ],
               "label": "",
@@ -4445,9 +4625,9 @@
     },
     {
       "word": "ventral",
-      "ipa": "",
+      "ipa": "/ˈvɛntrəl/",
       "guide": "「腹側の」：the ventral surface",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4461,6 +4641,10 @@
                 {
                   "en": "The nerve runs along the ventral surface.",
                   "ja": "その神経は腹側の表面に沿って走っている。"
+                },
+                {
+                  "en": "In this species, the ventral side is lighter than the back.",
+                  "ja": "この種では腹側は背中より色が薄い。"
                 }
               ],
               "label": "",
@@ -4473,9 +4657,9 @@
     },
     {
       "word": "vermilion",
-      "ipa": "",
+      "ipa": "/vərˈmɪljən/",
       "guide": "「朱色」：bright vermilion",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4489,6 +4673,10 @@
                 {
                   "en": "The gate was painted vermilion.",
                   "ja": "門は朱色に塗られていた。"
+                },
+                {
+                  "en": "The shrine's vermilion pillars stood out against the green trees.",
+                  "ja": "神社の朱色の柱は緑の木々の中でひときわ目立っていた。"
                 }
               ],
               "label": "",
@@ -4501,9 +4689,9 @@
     },
     {
       "word": "verso",
-      "ipa": "",
+      "ipa": "/ˈvɝːsoʊ/",
       "guide": "「本の左ページ・裏面」：the verso page",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4517,6 +4705,10 @@
                 {
                   "en": "The illustration appears on the verso.",
                   "ja": "挿絵は左ページに載っている。"
+                },
+                {
+                  "en": "The editor placed the notes on the verso of the manuscript leaf.",
+                  "ja": "編集者は原稿用紙の裏面に注記を書いた。"
                 }
               ],
               "label": "",
@@ -4529,9 +4721,9 @@
     },
     {
       "word": "vertiginous",
-      "ipa": "",
+      "ipa": "/vɝːˈtɪdʒɪnəs/",
       "guide": "「目がくらむほど高い」：a vertiginous height",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4545,6 +4737,10 @@
                 {
                   "en": "They looked down from a vertiginous height.",
                   "ja": "彼らは目がくらむほどの高さから下を見た。"
+                },
+                {
+                  "en": "The stairs rose at a vertiginous angle along the cliff.",
+                  "ja": "階段は崖に沿って目がくらむほど急な角度で上っていた。"
                 }
               ],
               "label": "",
@@ -4557,9 +4753,9 @@
     },
     {
       "word": "vesture",
-      "ipa": "",
+      "ipa": "/ˈvɛstʃər/",
       "guide": "「衣服・装い」：ceremonial vesture",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4573,6 +4769,10 @@
                 {
                   "en": "The priest wore ceremonial vesture.",
                   "ja": "司祭は儀式用の衣服を着ていた。"
+                },
+                {
+                  "en": "The painting depicts a figure in richly embroidered vesture.",
+                  "ja": "その絵には豪華な刺繍の施された衣服をまとった人物が描かれている。"
                 }
               ],
               "label": "",
@@ -4585,9 +4785,9 @@
     },
     {
       "word": "video",
-      "ipa": "",
+      "ipa": "/ˈvɪdioʊ/",
       "guide": "「動画・映像」（watch a video）／「映像の」（video equipment）",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4601,6 +4801,10 @@
                 {
                   "en": "We watched a short video.",
                   "ja": "私たちは短い動画を見た。"
+                },
+                {
+                  "en": "The instructor uploaded a video explaining the new procedure.",
+                  "ja": "講師は新しい手順を説明する動画をアップロードした。"
                 }
               ],
               "label": "",
@@ -4620,6 +4824,10 @@
                 {
                   "en": "The school bought new video equipment.",
                   "ja": "学校は新しい映像機器を購入した。"
+                },
+                {
+                  "en": "The station installed new video recording equipment.",
+                  "ja": "駅は新しい映像録画装置を設置した。"
                 }
               ],
               "label": "",
@@ -4632,9 +4840,9 @@
     },
     {
       "word": "vindictive",
-      "ipa": "",
+      "ipa": "/vɪnˈdɪktɪv/",
       "guide": "「執念深く仕返しをする」：a vindictive response",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4648,6 +4856,10 @@
                 {
                   "en": "His vindictive remarks upset the staff.",
                   "ja": "彼の報復的な発言は職員を動揺させた。"
+                },
+                {
+                  "en": "She refused to make a vindictive complaint against her former colleague.",
+                  "ja": "彼女は元同僚に対する報復的な苦情を申し立てることを拒んだ。"
                 }
               ],
               "label": "",
@@ -4660,9 +4872,9 @@
     },
     {
       "word": "virology",
-      "ipa": "",
+      "ipa": "/vɪˈrɑːlədʒi/",
       "guide": "「ウイルス学」：study virology",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済み語義ごとに英日対訳例文2組以上。語義の網羅性・発音・用法は独立辞書校閲待ち。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -4676,6 +4888,10 @@
                 {
                   "en": "She studies virology at university.",
                   "ja": "彼女は大学でウイルス学を学んでいる。"
+                },
+                {
+                  "en": "Advances in virology have improved our understanding of viral infections.",
+                  "ja": "ウイルス学の進歩によりウイルス感染症への理解が深まった。"
                 }
               ],
               "label": "",
@@ -6200,5 +6416,5 @@
       ]
     }
   ],
-  "editorial_note": "冒頭100語でIPAと各収録語義につき2組以上の英日対訳例文を整備。残り100語は一次原稿。全語義網羅・独立辞書校閲は未了。"
+  "editorial_note": "既存200dパックの先頭150語にIPA・収録語義別の英日対訳例文2組以上を整備。残り50語は一次原稿。全語義網羅・独立校閲は未了。"
 }
