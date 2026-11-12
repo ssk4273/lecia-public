@@ -5,7 +5,7 @@
   "review_status": "AI編集・独立辞書校閲待ち",
   "entries_count": 200,
   "senses_count": 212,
-  "examples_count": 273,
+  "examples_count": 313,
   "entries": [
     {
       "word": "weld",
@@ -1947,9 +1947,9 @@
     },
     {
       "word": "optimistically",
-      "ipa": "",
+      "ipa": "/ˌɑːptɪˈmɪstɪkəli/",
       "guide": "良い結果を期待する態度で",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1963,6 +1963,10 @@
                 {
                   "en": "She spoke optimistically about the team's future.",
                   "ja": "彼女はチームの将来について楽観的に語った。"
+                },
+                {
+                  "en": "Investors reacted optimistically to the encouraging figures.",
+                  "ja": "投資家たちは明るい数字に楽観的に反応した。"
                 }
               ],
               "label": "",
@@ -1975,9 +1979,9 @@
     },
     {
       "word": "packer",
-      "ipa": "",
+      "ipa": "/ˈpækər/",
       "guide": "商品や荷物を詰める仕事をする人",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -1991,6 +1995,10 @@
                 {
                   "en": "He works as a packer at the warehouse.",
                   "ja": "彼は倉庫で梱包作業員として働いている。"
+                },
+                {
+                  "en": "A skilled packer can protect fragile items during shipping.",
+                  "ja": "熟練の梱包作業員は輸送中に壊れやすい品物を保護できる。"
                 }
               ],
               "label": "",
@@ -2003,9 +2011,9 @@
     },
     {
       "word": "panelist",
-      "ipa": "",
+      "ipa": "/ˈpænəlɪst/",
       "guide": "パネル討論に参加する人",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2019,6 +2027,10 @@
                 {
                   "en": "Each panelist answered a question from the audience.",
                   "ja": "各登壇者は聴衆からの質問に答えた。"
+                },
+                {
+                  "en": "One panelist raised a concern about the proposed schedule.",
+                  "ja": "登壇者の一人が提案された日程について懸念を示した。"
                 }
               ],
               "label": "",
@@ -2031,9 +2043,9 @@
     },
     {
       "word": "passbook",
-      "ipa": "",
+      "ipa": "/ˈpæsˌbʊk/",
       "guide": "銀行口座の取引を記録する小冊子",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2047,6 +2059,10 @@
                 {
                   "en": "She updated her passbook at the bank.",
                   "ja": "彼女は銀行で預金通帳に記帳した。"
+                },
+                {
+                  "en": "My grandmother still keeps a paper passbook for her savings account.",
+                  "ja": "祖母は今でも普通預金口座の紙の通帳を使っている。"
                 }
               ],
               "label": "",
@@ -2059,9 +2075,9 @@
     },
     {
       "word": "ragbag",
-      "ipa": "",
+      "ipa": "/ˈræɡˌbæɡ/",
       "guide": "比喩でまとまりのない寄せ集めを指す",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2075,6 +2091,10 @@
                 {
                   "en": "The plan was a ragbag of unrelated ideas.",
                   "ja": "その計画は無関係な考えの寄せ集めだった。"
+                },
+                {
+                  "en": "The article was a ragbag of anecdotes with no clear argument.",
+                  "ja": "その記事は明確な主張のない逸話の寄せ集めだった。"
                 }
               ],
               "label": "",
@@ -2087,9 +2107,9 @@
     },
     {
       "word": "railcar",
-      "ipa": "",
+      "ipa": "/ˈreɪlˌkɑːr/",
       "guide": "鉄道の1両の車両",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2103,6 +2123,10 @@
                 {
                   "en": "The damaged railcar was taken out of service.",
                   "ja": "損傷した鉄道車両は運行から外された。"
+                },
+                {
+                  "en": "Passengers boarded the last railcar at the platform.",
+                  "ja": "乗客たちはホームで最後尾の鉄道車両に乗り込んだ。"
                 }
               ],
               "label": "",
@@ -2115,9 +2139,9 @@
     },
     {
       "word": "rattan",
-      "ipa": "",
+      "ipa": "/rəˈtæn/",
       "guide": "家具やかごに使うつる性植物の茎",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2131,6 +2155,10 @@
                 {
                   "en": "The room had several pieces of rattan furniture.",
                   "ja": "その部屋には籐家具がいくつかあった。"
+                },
+                {
+                  "en": "The lightweight chair was woven from natural rattan.",
+                  "ja": "その軽量な椅子は天然の籐で編まれていた。"
                 }
               ],
               "label": "",
@@ -2143,9 +2171,9 @@
     },
     {
       "word": "recency",
-      "ipa": "",
+      "ipa": "/ˈriːsənsi/",
       "guide": "情報や出来事が現在に近いこと",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2159,6 +2187,10 @@
                 {
                   "en": "We checked the recency of the information.",
                   "ja": "私たちはその情報がどれほど新しいか確認した。"
+                },
+                {
+                  "en": "Search results may be sorted by recency rather than relevance.",
+                  "ja": "検索結果は関連性ではなく新しさの順に並べ替えられることがある。"
                 }
               ],
               "label": "",
@@ -2171,9 +2203,9 @@
     },
     {
       "word": "reborn",
-      "ipa": "",
+      "ipa": "/riːˈbɔːrn/",
       "guide": "新しい活力や姿を得た状態",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2187,6 +2219,10 @@
                 {
                   "en": "After the long break, she felt reborn.",
                   "ja": "長い休暇の後、彼女は生まれ変わったように感じた。"
+                },
+                {
+                  "en": "The old factory was reborn as a community arts center.",
+                  "ja": "古い工場は地域の芸術センターとして生まれ変わった。"
                 }
               ],
               "label": "",
@@ -2199,9 +2235,9 @@
     },
     {
       "word": "sailcloth",
-      "ipa": "",
+      "ipa": "/ˈseɪlˌklɔːθ/",
       "guide": "帆などに使う丈夫な布",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2215,6 +2251,10 @@
                 {
                   "en": "The bag was made from thick sailcloth.",
                   "ja": "そのバッグは厚手の帆布で作られていた。"
+                },
+                {
+                  "en": "The tailor chose durable sailcloth for the outdoor cover.",
+                  "ja": "仕立て屋は屋外用カバーに丈夫な帆布を選んだ。"
                 }
               ],
               "label": "",
@@ -2227,9 +2267,9 @@
     },
     {
       "word": "salivate",
-      "ipa": "",
+      "ipa": "/ˈsælɪveɪt/",
       "guide": "食べ物を見たり想像したりして唾液が出る",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2243,6 +2283,10 @@
                 {
                   "en": "The smell of fresh bread made him salivate.",
                   "ja": "焼きたてのパンの匂いで彼は唾液が出た。"
+                },
+                {
+                  "en": "Just thinking about the spicy noodles made me salivate.",
+                  "ja": "辛い麺料理のことを考えただけで唾液が出た。"
                 }
               ],
               "label": "",
@@ -2255,9 +2299,9 @@
     },
     {
       "word": "sandcastle",
-      "ipa": "",
+      "ipa": "/ˈsændˌkæsəl/",
       "guide": "砂を固めて城の形にしたもの",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2271,6 +2315,10 @@
                 {
                   "en": "The children built a sandcastle on the beach.",
                   "ja": "子どもたちは浜辺で砂の城を作った。"
+                },
+                {
+                  "en": "The rising tide slowly washed away their sandcastle.",
+                  "ja": "満ちてくる潮が彼らの砂の城を少しずつ洗い流した。"
                 }
               ],
               "label": "",
@@ -2283,9 +2331,9 @@
     },
     {
       "word": "sanely",
-      "ipa": "",
+      "ipa": "/ˈseɪnli/",
       "guide": "落ち着いた理性的な方法で",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2299,6 +2347,10 @@
                 {
                   "en": "It was difficult to think sanely under such pressure.",
                   "ja": "そのような重圧の下では冷静に考えるのが難しかった。"
+                },
+                {
+                  "en": "We need to discuss the disagreement sanely instead of shouting.",
+                  "ja": "怒鳴り合うのではなく、その意見の相違を冷静に話し合う必要がある。"
                 }
               ],
               "label": "",
@@ -2311,9 +2363,9 @@
     },
     {
       "word": "sanctum",
-      "ipa": "",
+      "ipa": "/ˈsæŋktəm/",
       "guide": "他人が立ち入らない大切な空間",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2327,6 +2379,10 @@
                 {
                   "en": "His study was his private sanctum.",
                   "ja": "彼の書斎は誰にも邪魔されない私的な聖域だった。"
+                },
+                {
+                  "en": "Only a few trusted visitors were admitted to her sanctum.",
+                  "ja": "信頼された少数の来客だけが彼女の私室に入ることを許された。"
                 }
               ],
               "label": "",
@@ -2339,9 +2395,9 @@
     },
     {
       "word": "tableware",
-      "ipa": "",
+      "ipa": "/ˈteɪbəlˌwɛr/",
       "guide": "食卓で使う皿やカップなど",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2355,6 +2411,10 @@
                 {
                   "en": "The restaurant uses simple white tableware.",
                   "ja": "そのレストランではシンプルな白い食器を使っている。"
+                },
+                {
+                  "en": "The hotel replaced its chipped tableware before the event.",
+                  "ja": "ホテルは催しの前に欠けた食器類を交換した。"
                 }
               ],
               "label": "",
@@ -2367,9 +2427,9 @@
     },
     {
       "word": "tabular",
-      "ipa": "",
+      "ipa": "/ˈtæbjələr/",
       "guide": "行と列を使った表の形をした",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2383,6 +2443,10 @@
                 {
                   "en": "The report presents the results in tabular form.",
                   "ja": "報告書は結果を表形式で示している。"
+                },
+                {
+                  "en": "The researcher converted the responses into tabular data.",
+                  "ja": "研究者は回答を表形式のデータに変換した。"
                 }
               ],
               "label": "",
@@ -2395,9 +2459,9 @@
     },
     {
       "word": "taco",
-      "ipa": "",
+      "ipa": "/ˈtɑːkoʊ/",
       "guide": "具材をトルティーヤで包んだ料理",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2411,6 +2475,10 @@
                 {
                   "en": "I ordered a fish taco for lunch.",
                   "ja": "私は昼食に魚のタコスを注文した。"
+                },
+                {
+                  "en": "She filled the taco with grilled vegetables and beans.",
+                  "ja": "彼女はタコスに焼いた野菜と豆を詰めた。"
                 }
               ],
               "label": "",
@@ -2423,9 +2491,9 @@
     },
     {
       "word": "tangerine",
-      "ipa": "",
+      "ipa": "/ˌtændʒəˈriːn/",
       "guide": "小型で皮をむきやすい柑橘類",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2439,6 +2507,10 @@
                 {
                   "en": "She peeled a tangerine and shared it with her brother.",
                   "ja": "彼女はタンジェリンの皮をむいて弟と分けた。"
+                },
+                {
+                  "en": "The child placed a fresh tangerine in his lunch bag.",
+                  "ja": "その子は昼食袋に新鮮なタンジェリンを入れた。"
                 }
               ],
               "label": "",
@@ -2451,9 +2523,9 @@
     },
     {
       "word": "tassel",
-      "ipa": "",
+      "ipa": "/ˈtæsəl/",
       "guide": "糸などを束ねて作る房飾り",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2467,6 +2539,10 @@
                 {
                   "en": "A red tassel hung from the curtain.",
                   "ja": "カーテンから赤い飾り房が下がっていた。"
+                },
+                {
+                  "en": "The tassel on her graduation cap swung as she walked.",
+                  "ja": "彼女が歩くと卒業帽の房が揺れた。"
                 }
               ],
               "label": "",
@@ -2479,9 +2555,9 @@
     },
     {
       "word": "tearful",
-      "ipa": "",
+      "ipa": "/ˈtɪrfəl/",
       "guide": "悲しみや感動で涙が出る様子",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2495,6 +2571,10 @@
                 {
                   "en": "They said a tearful goodbye at the station.",
                   "ja": "彼らは駅で涙ながらに別れを告げた。"
+                },
+                {
+                  "en": "The actor gave a tearful speech after receiving the award.",
+                  "ja": "その俳優は受賞後、涙ぐみながらスピーチをした。"
                 }
               ],
               "label": "",
@@ -2507,9 +2587,9 @@
     },
     {
       "word": "teem",
-      "ipa": "",
+      "ipa": "/tiːm/",
       "guide": "teem with AでAが大量に存在すること",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2523,6 +2603,10 @@
                 {
                   "en": "The pond was teeming with small fish.",
                   "ja": "池には小魚がたくさんいた。"
+                },
+                {
+                  "en": "The coral reef teems with colorful marine creatures.",
+                  "ja": "そのサンゴ礁には色鮮やかな海の生き物が数多く生息している。"
                 }
               ],
               "label": "",
@@ -2535,9 +2619,9 @@
     },
     {
       "word": "unadorned",
-      "ipa": "",
+      "ipa": "/ˌʌnəˈdɔːrnd/",
       "guide": "装飾などが加えられていない",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2551,6 +2635,10 @@
                 {
                   "en": "The room was small and unadorned.",
                   "ja": "その部屋は小さく飾り気がなかった。"
+                },
+                {
+                  "en": "The author prefers unadorned language that readers can understand immediately.",
+                  "ja": "その作家は読者にすぐ伝わる飾り気のない言葉を好む。"
                 }
               ],
               "label": "",
@@ -2563,9 +2651,9 @@
     },
     {
       "word": "unchain",
-      "ipa": "",
+      "ipa": "/ʌnˈtʃeɪn/",
       "guide": "鎖などによる拘束を取り除く",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2579,6 +2667,10 @@
                 {
                   "en": "He unchained the dog and let it run.",
                   "ja": "彼は犬の鎖を外して走らせた。"
+                },
+                {
+                  "en": "The caretaker unchained the bicycle from the railing.",
+                  "ja": "管理人は手すりにつないであった自転車の鎖を外した。"
                 }
               ],
               "label": "",
@@ -2591,9 +2683,9 @@
     },
     {
       "word": "unconditioned",
-      "ipa": "",
+      "ipa": "/ˌʌnkənˈdɪʃənd/",
       "guide": "心理学では学習によらず生じる反応を指す",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2607,6 +2699,10 @@
                 {
                   "en": "The experiment measured an unconditioned response.",
                   "ja": "その実験では無条件反応が測定された。"
+                },
+                {
+                  "en": "Salivation in response to food is a classic example of an unconditioned response.",
+                  "ja": "食べ物に反応して唾液が出ることは無条件反応の典型例だ。"
                 }
               ],
               "label": "",
@@ -2619,9 +2715,9 @@
     },
     {
       "word": "unexplored",
-      "ipa": "",
+      "ipa": "/ˌʌnɪkˈsplɔːrd/",
       "guide": "まだ調査や探検が行われていない",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2635,6 +2731,10 @@
                 {
                   "en": "The team entered a previously unexplored cave.",
                   "ja": "一行はそれまで未探検だった洞窟に入った。"
+                },
+                {
+                  "en": "The research team identified several unexplored questions.",
+                  "ja": "研究チームはいくつかの未検討の問題を見つけた。"
                 }
               ],
               "label": "",
@@ -2647,9 +2747,9 @@
     },
     {
       "word": "unfeigned",
-      "ipa": "",
+      "ipa": "/ˌʌnˈfeɪnd/",
       "guide": "感情などが演技や見せかけではない",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2663,6 +2763,10 @@
                 {
                   "en": "She expressed unfeigned gratitude for their help.",
                   "ja": "彼女は彼らの助けに心から感謝を示した。"
+                },
+                {
+                  "en": "His unfeigned surprise was clear to everyone in the room.",
+                  "ja": "彼が本当に驚いていることは部屋にいた誰の目にも明らかだった。"
                 }
               ],
               "label": "",
@@ -2675,9 +2779,9 @@
     },
     {
       "word": "ungainly",
-      "ipa": "",
+      "ipa": "/ʌnˈɡeɪnli/",
       "guide": "動作や姿が不器用で見栄えしない",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2691,6 +2795,10 @@
                 {
                   "en": "The puppy made an ungainly attempt to jump.",
                   "ja": "子犬はぎこちなくジャンプを試みた。"
+                },
+                {
+                  "en": "The large robot moved with an ungainly, uneven gait.",
+                  "ja": "その大きなロボットは不格好でぎこちない足取りで動いた。"
                 }
               ],
               "label": "",
@@ -2703,9 +2811,9 @@
     },
     {
       "word": "uninterrupted",
-      "ipa": "",
+      "ipa": "/ˌʌnˌɪntəˈrʌptɪd/",
       "guide": "途中に中断がない",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2719,6 +2827,10 @@
                 {
                   "en": "She finally enjoyed eight hours of uninterrupted sleep.",
                   "ja": "彼女はついに8時間続けて眠れた。"
+                },
+                {
+                  "en": "The lecturer spoke for an uninterrupted hour.",
+                  "ja": "講師は一時間途切れることなく話し続けた。"
                 }
               ],
               "label": "",
@@ -2731,9 +2843,9 @@
     },
     {
       "word": "universally",
-      "ipa": "",
+      "ipa": "/ˌjuːnɪˈvɝːsəli/",
       "guide": "例外なくまたは広範囲に当てはまる様子",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2747,6 +2859,10 @@
                 {
                   "en": "The idea is not universally accepted.",
                   "ja": "その考えはすべての人に受け入れられているわけではない。"
+                },
+                {
+                  "en": "The new policy was not universally welcomed by staff.",
+                  "ja": "新しい方針が職員全員に歓迎されたわけではない。"
                 }
               ],
               "label": "",
@@ -2759,9 +2875,9 @@
     },
     {
       "word": "valance",
-      "ipa": "",
+      "ipa": "/ˈvæləns/",
       "guide": "窓などの上部を飾る短い布",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2775,6 +2891,10 @@
                 {
                   "en": "A blue valance hung above the window.",
                   "ja": "窓の上には青い飾り布が掛かっていた。"
+                },
+                {
+                  "en": "She chose a plain valance to match the bedroom curtains.",
+                  "ja": "彼女は寝室のカーテンに合わせて無地の飾り垂れ布を選んだ。"
                 }
               ],
               "label": "",
@@ -2787,9 +2907,9 @@
     },
     {
       "word": "valorous",
-      "ipa": "",
+      "ipa": "/ˈvælərəs/",
       "guide": "文語的に強い勇気を示す",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2803,6 +2923,10 @@
                 {
                   "en": "The firefighter was praised for a valorous rescue.",
                   "ja": "消防士は勇敢な救助活動をたたえられた。"
+                },
+                {
+                  "en": "The officer received an award for valorous service.",
+                  "ja": "その隊員は勇敢な任務遂行に対して表彰された。"
                 }
               ],
               "label": "",
@@ -2815,9 +2939,9 @@
     },
     {
       "word": "veritable",
-      "ipa": "",
+      "ipa": "/ˈvɛrɪtəbəl/",
       "guide": "名詞の前で強調し「まさに〜というべき」と表す",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2831,6 +2955,10 @@
                 {
                   "en": "The library is a veritable treasure trove of old maps.",
                   "ja": "その図書館はまさに古地図の宝庫だ。"
+                },
+                {
+                  "en": "After the heavy rain, the garden became a veritable jungle.",
+                  "ja": "大雨の後、庭はまさにジャングルのようになった。"
                 }
               ],
               "label": "",
@@ -2843,9 +2971,9 @@
     },
     {
       "word": "vicar",
-      "ipa": "",
+      "ipa": "/ˈvɪkər/",
       "guide": "特に英国国教会などで使われる聖職者の呼称",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2859,6 +2987,10 @@
                 {
                   "en": "The local vicar visited the family.",
                   "ja": "地元の教区牧師がその一家を訪ねた。"
+                },
+                {
+                  "en": "The vicar led the service at the village church.",
+                  "ja": "教区牧師は村の教会で礼拝を執り行った。"
                 }
               ],
               "label": "",
@@ -2871,9 +3003,9 @@
     },
     {
       "word": "village",
-      "ipa": "",
+      "ipa": "/ˈvɪlɪdʒ/",
       "guide": "町より小規模な集落",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2887,6 +3019,10 @@
                 {
                   "en": "They grew up in a small mountain village.",
                   "ja": "彼らは山あいの小さな村で育った。"
+                },
+                {
+                  "en": "A narrow road connects the village to the neighboring town.",
+                  "ja": "細い道がその村と隣町を結んでいる。"
                 }
               ],
               "label": "",
@@ -2899,9 +3035,9 @@
     },
     {
       "word": "violent",
-      "ipa": "",
+      "ipa": "/ˈvaɪələnt/",
       "guide": "人の暴力だけでなく天候などの激しさも表す",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2915,6 +3051,10 @@
                 {
                   "en": "A violent storm damaged several houses.",
                   "ja": "激しい嵐で数軒の家が被害を受けた。"
+                },
+                {
+                  "en": "The city launched a campaign to reduce violent crime.",
+                  "ja": "市は暴力犯罪を減らすための運動を始めた。"
                 }
               ],
               "label": "",
@@ -2927,9 +3067,9 @@
     },
     {
       "word": "violist",
-      "ipa": "",
+      "ipa": "/ˈviːoʊlɪst/",
       "guide": "弦楽器のビオラを演奏する人",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2943,6 +3083,10 @@
                 {
                   "en": "The violist performed with the string quartet.",
                   "ja": "そのビオラ奏者は弦楽四重奏団と演奏した。"
+                },
+                {
+                  "en": "The violist played a warm melody in the second movement.",
+                  "ja": "ビオラ奏者は第2楽章で温かみのある旋律を奏でた。"
                 }
               ],
               "label": "",
@@ -2955,9 +3099,9 @@
     },
     {
       "word": "washroom",
-      "ipa": "",
+      "ipa": "/ˈwɑːʃˌruːm/",
       "guide": "特に北米ではトイレを遠回しに指す",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2971,6 +3115,10 @@
                 {
                   "en": "Excuse me, where is the washroom?",
                   "ja": "すみません、トイレはどこですか。"
+                },
+                {
+                  "en": "There is an accessible washroom on the ground floor.",
+                  "ja": "一階にはバリアフリーのトイレがある。"
                 }
               ],
               "label": "",
@@ -2983,9 +3131,9 @@
     },
     {
       "word": "wasteful",
-      "ipa": "",
+      "ipa": "/ˈweɪstfəl/",
       "guide": "資源やお金を不必要に使う",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -2999,6 +3147,10 @@
                 {
                   "en": "The report criticized wasteful government spending.",
                   "ja": "報告書は政府の無駄な支出を批判した。"
+                },
+                {
+                  "en": "Leaving all the lights on is wasteful when no one is home.",
+                  "ja": "誰も家にいないのに照明をすべてつけておくのは無駄だ。"
                 }
               ],
               "label": "",
@@ -3011,9 +3163,9 @@
     },
     {
       "word": "watermill",
-      "ipa": "",
+      "ipa": "/ˈwɔːtərˌmɪl/",
       "guide": "水の力で製粉などを行う設備や建物",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3027,6 +3179,10 @@
                 {
                   "en": "The old watermill stood beside the river.",
                   "ja": "古い水車小屋は川のそばに建っていた。"
+                },
+                {
+                  "en": "The restored watermill uses the river's current to turn its wheel.",
+                  "ja": "復元された水車小屋は川の流れで水車を回している。"
                 }
               ],
               "label": "",
@@ -3039,9 +3195,9 @@
     },
     {
       "word": "weatherworn",
-      "ipa": "",
+      "ipa": "/ˈwɛðərˌwɔːrn/",
       "guide": "屋外の風雨で傷んだり日焼けしたりした",
-      "note": "既存原稿からrun型表示に移行した暫定版。発音・語義の網羅性・用例の独立校閲は未実施。",
+      "note": "収録済みの語義に異なる英日対訳例文を2組以上記載。全語義の網羅と独立辞書校閲は未実施。",
       "review_status": "AI編集・独立辞書校閲待ち",
       "groups": [
         {
@@ -3055,6 +3211,10 @@
                 {
                   "en": "His weatherworn face showed years of outdoor work.",
                   "ja": "彼の風雨にさらされた顔には長年の屋外作業が表れていた。"
+                },
+                {
+                  "en": "The weatherworn wooden sign was barely readable.",
+                  "ja": "風雨にさらされた木の看板はほとんど読めなかった。"
                 }
               ],
               "label": "",
@@ -6040,5 +6200,5 @@
       ]
     }
   ],
-  "editorial_note": "冒頭60語についてIPA・語義別の独立した第2英日対訳例文を追加。その他140語は従来の一次原稿で、語義・例文補完が必要。全語義の網羅と独立辞書校閲は未了。"
+  "editorial_note": "冒頭100語でIPAと各収録語義につき2組以上の英日対訳例文を整備。残り100語は一次原稿。全語義網羅・独立辞書校閲は未了。"
 }
